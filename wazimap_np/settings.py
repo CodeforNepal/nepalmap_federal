@@ -21,22 +21,31 @@ WAZIMAP['profile_builder'] = 'wazimap_np.profiles.get_census_profile'
 WAZIMAP['levels'] = {
     'country': {
         'plural': 'countries',
+        'children': ['province']
+    },
+    'province': {  # 7 provinces
+        'plural': 'provinces',
         'children': ['district']
     },
-    'district': {
+    'district': {  # 77 districts
         'plural': 'districts',
-        'children': ['vdc']
+        'children': ['local']
     },
-    'vdc': {
-        'plural': 'vdcs',
+    # 6 Metropolitan Cities (Mahanagarpalika)
+    # 11 Sub-Metropolitan Cities (Upa-Mahanagarpalika)
+    # 276 Municipalities (Nagarpalika)
+    # 460 Rural Municipalities (Gaunpalika)
+    'local': {  # 753 local bodies
+        'plural': 'locals',
         'children': []
     }
 }
-WAZIMAP['comparative_levels'] = ['country', 'district', 'vdc']
+WAZIMAP['comparative_levels'] = ['country', 'province', 'district', 'local']
 WAZIMAP['geometry_data'] = {
     'country': 'geo/country.topojson',
+    'province': 'geo/province.topojson',
     'district': 'geo/district.topojson',
-    'vdc': 'geo/vdc.topojson'
+    'local': 'geo/local.topojson'
 }
 
 WAZIMAP['ga_tracking_id'] = os.environ.get('GA_TRACKING_ID')
