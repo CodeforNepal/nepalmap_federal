@@ -67,864 +67,864 @@ ALTER TABLE ONLY wazimap_geography ALTER COLUMN id SET DEFAULT nextval('wazimap_
 
 COPY wazimap_geography (name, geo_code, year, parent_level, long_name, geo_level, parent_code) FROM stdin WITH DELIMITER ',';
 Nepal,NP,2016,\N,Nepal,country,\N
-Province No. 1,pro-1,2016,country,Province No. 1,province,NP
-Province No. 2,pro-2,2016,country,Province No. 2,province,NP
-Province No. 3,pro-3,2016,country,Province No. 3,province,NP
-Province No. 4,pro-4,2016,country,Province No. 4,province,NP
-Province No. 5,pro-5,2016,country,Province No. 5,province,NP
-Province No. 6,pro-6,2016,country,Province No. 6,province,NP
-Province No. 7,pro-7,2016,country,Province No. 7,province,NP
-Achham,dis-01,2016,province,Achham,district,pro-7
-Arghakhanchi,dis-02,2016,province,Arghakhanchi,district,pro-5
-Baglung,dis-03,2016,province,Baglung,district,pro-4
-Baitadi,dis-04,2016,province,Baitadi,district,pro-7
-Bajhang,dis-05,2016,province,Bajhang,district,pro-7
-Bajura,dis-06,2016,province,Bajura,district,pro-7
-Banke,dis-07,2016,province,Banke,district,pro-5
-Bara,dis-08,2016,province,Bara,district,pro-2
-Bardiya,dis-09,2016,province,Bardiya,district,pro-5
-Bhaktapur,dis-10,2016,province,Bhaktapur,district,pro-3
-Bhojpur,dis-11,2016,province,Bhojpur,district,pro-1
-Chitwan,dis-12,2016,province,Chitwan,district,pro-3
-Dadeldhura,dis-13,2016,province,Dadeldhura,district,pro-7
-Dailekh,dis-14,2016,province,Dailekh,district,pro-6
-Dang,dis-15,2016,province,Dang,district,pro-5
-Darchula,dis-16,2016,province,Darchula,district,pro-7
-Dhading,dis-17,2016,province,Dhading,district,pro-3
-Dhankuta,dis-18,2016,province,Dhankuta,district,pro-1
-Dhanusa,dis-19,2016,province,Dhanusa,district,pro-2
-Dolakha,dis-20,2016,province,Dolakha,district,pro-3
-Dolpa,dis-21,2016,province,Dolpa,district,pro-6
-Doti,dis-22,2016,province,Doti,district,pro-7
-Gorkha,dis-23,2016,province,Gorkha,district,pro-4
-Gulmi,dis-24,2016,province,Gulmi,district,pro-5
-Humla,dis-25,2016,province,Humla,district,pro-6
-Ilam,dis-26,2016,province,Ilam,district,pro-1
-Jajarkot,dis-27,2016,province,Jajarkot,district,pro-6
-Jhapa,dis-28,2016,province,Jhapa,district,pro-1
-Jumla,dis-29,2016,province,Jumla,district,pro-6
-Kailali,dis-30,2016,province,Kailali,district,pro-7
-Kalikot,dis-31,2016,province,Kalikot,district,pro-6
-Kanchanpur,dis-32,2016,province,Kanchanpur,district,pro-7
-Kapilbastu,dis-33,2016,province,Kapilbastu,district,pro-5
-Kaski,dis-34,2016,province,Kaski,district,pro-4
-Kathmandu,dis-35,2016,province,Kathmandu,district,pro-3
-Kavrepalanchowk,dis-36,2016,province,Kavrepalanchowk,district,pro-3
-Khotang,dis-37,2016,province,Khotang,district,pro-1
-Lalitpur,dis-38,2016,province,Lalitpur,district,pro-3
-Lamjung,dis-39,2016,province,Lamjung,district,pro-4
-Mahottari,dis-40,2016,province,Mahottari,district,pro-2
-Makwanpur,dis-41,2016,province,Makwanpur,district,pro-3
-Manang,dis-42,2016,province,Manang,district,pro-4
-Morang,dis-43,2016,province,Morang,district,pro-1
-Mugu,dis-44,2016,province,Mugu,district,pro-6
-Mustang,dis-45,2016,province,Mustang,district,pro-4
-Myagdi,dis-46,2016,province,Myagdi,district,pro-4
-Nawalparasi East,dis-47,2016,province,Nawalparasi East,district,pro-4
-Nuwakot,dis-48,2016,province,Nuwakot,district,pro-3
-Okhaldhunga,dis-49,2016,province,Okhaldhunga,district,pro-1
-Palpa,dis-50,2016,province,Palpa,district,pro-5
-Panchthar,dis-51,2016,province,Panchthar,district,pro-1
-Parbat,dis-52,2016,province,Parbat,district,pro-4
-Parsa,dis-53,2016,province,Parsa,district,pro-2
-Pyuthan,dis-54,2016,province,Pyuthan,district,pro-5
-Ramechhap,dis-55,2016,province,Ramechhap,district,pro-3
-Rasuwa,dis-56,2016,province,Rasuwa,district,pro-3
-Rautahat,dis-57,2016,province,Rautahat,district,pro-2
-Rolpa,dis-58,2016,province,Rolpa,district,pro-5
-Rukum East,dis-59,2016,province,Rukum East,district,pro-5
-Rupandehi,dis-60,2016,province,Rupandehi,district,pro-5
-Salyan,dis-61,2016,province,Salyan,district,pro-6
-Sankhuwasabha,dis-62,2016,province,Sankhuwasabha,district,pro-1
-Saptari,dis-63,2016,province,Saptari,district,pro-2
-Sarlahi,dis-64,2016,province,Sarlahi,district,pro-2
-Sindhuli,dis-65,2016,province,Sindhuli,district,pro-3
-Sindhupalchowk,dis-66,2016,province,Sindhupalchowk,district,pro-3
-Siraha,dis-67,2016,province,Siraha,district,pro-2
-Solukhumbu,dis-68,2016,province,Solukhumbu,district,pro-1
-Sunsari,dis-69,2016,province,Sunsari,district,pro-1
-Surkhet,dis-70,2016,province,Surkhet,district,pro-6
-Syangja,dis-71,2016,province,Syangja,district,pro-4
-Tanahu,dis-72,2016,province,Tanahu,district,pro-4
-Taplejung,dis-73,2016,province,Taplejung,district,pro-1
-Terhathum,dis-74,2016,province,Terhathum,district,pro-1
-Udayapur,dis-75,2016,province,Udayapur,district,pro-1
-Nawalparasi West,dis-76,2016,province,Nawalparasi West,district,pro-5
-Rukum West,dis-77,2016,province,Rukum West,district,pro-6
-Aamchowk,loc-10001,2016,district,Aamchowk,local,dis-11
-Arun,loc-10002,2016,district,Arun,local,dis-11
-Bhojpur,loc-10003,2016,district,Bhojpur,local,dis-11
-Hatuwagadhi,loc-10004,2016,district,Hatuwagadhi,local,dis-11
-Pauwadungma,loc-10005,2016,district,Pauwadungma,local,dis-11
-Ramprasad Rai,loc-10006,2016,district,Ramprasad Rai,local,dis-11
-Salpasilichho,loc-10007,2016,district,Salpasilichho,local,dis-11
-Shadananda,loc-10008,2016,district,Shadananda,local,dis-11
-Tyamkemaiyung,loc-10009,2016,district,Tyamkemaiyung,local,dis-11
-Aathrai Tribeni,loc-1001,2016,district,Aathrai Tribeni,local,dis-73
-Maiwakhola,loc-1002,2016,district,Maiwakhola,local,dis-73
-Meringden,loc-1003,2016,district,Meringden,local,dis-73
-Mikwakhola,loc-1004,2016,district,Mikwakhola,local,dis-73
-Phaktanglung,loc-1005,2016,district,Phaktanglung,local,dis-73
-Phungling,loc-1006,2016,district,Phungling,local,dis-73
-Sidingba,loc-1007,2016,district,Sidingba,local,dis-73
-Sirijangha,loc-1008,2016,district,Sirijangha,local,dis-73
-Yangwarak,loc-1009,2016,district,Yangwarak,local,dis-73
-Dudhkaushika,loc-11001,2016,district,Dudhkaushika,local,dis-68
-Dudhkoshi,loc-11002,2016,district,Dudhkoshi,local,dis-68
-Khumbupasanglahmu,loc-11003,2016,district,Khumbupasanglahmu,local,dis-68
-Likhupike,loc-11004,2016,district,Likhupike,local,dis-68
-Mahakulung,loc-11005,2016,district,Mahakulung,local,dis-68
-Nechasalyan,loc-11006,2016,district,Nechasalyan,local,dis-68
-Solududhakunda,loc-11007,2016,district,Solududhakunda,local,dis-68
-Sotang,loc-11008,2016,district,Sotang,local,dis-68
-Champadevi,loc-12001,2016,district,Champadevi,local,dis-49
-Chisankhugadhi,loc-12002,2016,district,Chisankhugadhi,local,dis-49
-Khijidemba,loc-12003,2016,district,Khijidemba,local,dis-49
-Likhu,loc-12004,2016,district,Likhu,local,dis-49
-Manebhanjyang,loc-12005,2016,district,Manebhanjyang,local,dis-49
-Molung,loc-12006,2016,district,Molung,local,dis-49
-Siddhicharan,loc-12007,2016,district,Siddhicharan,local,dis-49
-Sunkoshi,loc-12008,2016,district,Sunkoshi,local,dis-49
-Ainselukhark,loc-13001,2016,district,Ainselukhark,local,dis-37
-Barahapokhari,loc-13002,2016,district,Barahapokhari,local,dis-37
-Diprung,loc-13003,2016,district,Diprung,local,dis-37
-Halesi Tuwachung,loc-13004,2016,district,Halesi Tuwachung,local,dis-37
-Jantedhunga,loc-13005,2016,district,Jantedhunga,local,dis-37
-Kepilasagadhi,loc-13006,2016,district,Kepilasagadhi,local,dis-37
-Khotehang,loc-13007,2016,district,Khotehang,local,dis-37
-Lamidanda,loc-13008,2016,district,Lamidanda,local,dis-37
-Rupakot Majhuwagadhi,loc-13009,2016,district,Rupakot Majhuwagadhi,local,dis-37
-Sakela,loc-13010,2016,district,Sakela,local,dis-37
-Belaka,loc-14001,2016,district,Belaka,local,dis-75
-Chaudandigadhi,loc-14002,2016,district,Chaudandigadhi,local,dis-75
-Katari,loc-14003,2016,district,Katari,local,dis-75
-Rautamai,loc-14004,2016,district,Rautamai,local,dis-75
-Sunkoshi,loc-14005,2016,district,Sunkoshi,local,dis-75
-Tapli,loc-14006,2016,district,Tapli,local,dis-75
-Triyuga,loc-14007,2016,district,Triyuga,local,dis-75
-Udayapurgadhi,loc-14008,2016,district,Udayapurgadhi,local,dis-75
-Koshi Tappu Wildlife Reserve,loc-14099,2016,district,Koshi Tappu Wildlife Reserve,local,dis-75
-Agnisair Krishna Savaran,loc-15001,2016,district,Agnisair Krishna Savaran,local,dis-63
-Balan Bihul,loc-15002,2016,district,Balan Bihul,local,dis-63
-Belhi Chapena,loc-15003,2016,district,Belhi Chapena,local,dis-63
-Bishnupur,loc-15004,2016,district,Bishnupur,local,dis-63
-Bode Barsain,loc-15005,2016,district,Bode Barsain,local,dis-63
-Chhinnamasta,loc-15006,2016,district,Chhinnamasta,local,dis-63
-Dakneshwori,loc-15007,2016,district,Dakneshwori,local,dis-63
-Hanumannagar Kankalini,loc-15008,2016,district,Hanumannagar Kankalini,local,dis-63
-Kanchanrup,loc-15009,2016,district,Kanchanrup,local,dis-63
-Khadak,loc-15010,2016,district,Khadak,local,dis-63
-Mahadeva,loc-15011,2016,district,Mahadeva,local,dis-63
-Rajbiraj,loc-15012,2016,district,Rajbiraj,local,dis-63
-Rupani,loc-15013,2016,district,Rupani,local,dis-63
-Saptakoshi,loc-15014,2016,district,Saptakoshi,local,dis-63
-Shambhunath,loc-15015,2016,district,Shambhunath,local,dis-63
-Surunga,loc-15016,2016,district,Surunga,local,dis-63
-Tilathi Koiladi,loc-15017,2016,district,Tilathi Koiladi,local,dis-63
-Tirahut,loc-15018,2016,district,Tirahut,local,dis-63
-Koshi Tappu Wildlife Reserve,loc-15099,2016,district,Koshi Tappu Wildlife Reserve,local,dis-63
-Arnama,loc-16001,2016,district,Arnama,local,dis-67
-Aurahi,loc-16002,2016,district,Aurahi,local,dis-67
-Bariyarpatti,loc-16003,2016,district,Bariyarpatti,local,dis-67
-Bhagawanpur,loc-16004,2016,district,Bhagawanpur,local,dis-67
-Bishnupur,loc-16005,2016,district,Bishnupur,local,dis-67
-Dhangadhimai,loc-16006,2016,district,Dhangadhimai,local,dis-67
-Golbazar,loc-16007,2016,district,Golbazar,local,dis-67
-Kalyanpur,loc-16008,2016,district,Kalyanpur,local,dis-67
-Karjanha,loc-16009,2016,district,Karjanha,local,dis-67
-Lahan,loc-16010,2016,district,Lahan,local,dis-67
-Laxmipur Patari,loc-16011,2016,district,Laxmipur Patari,local,dis-67
-Mirchaiya,loc-16012,2016,district,Mirchaiya,local,dis-67
-Naraha,loc-16013,2016,district,Naraha,local,dis-67
-Nawarajpur,loc-16014,2016,district,Nawarajpur,local,dis-67
-Sakhuwanankarkatti,loc-16015,2016,district,Sakhuwanankarkatti,local,dis-67
-Siraha,loc-16016,2016,district,Siraha,local,dis-67
-Sukhipur,loc-16017,2016,district,Sukhipur,local,dis-67
-Aaurahi,loc-17001,2016,district,Aaurahi,local,dis-19
-Bateshwor,loc-17002,2016,district,Bateshwor,local,dis-19
-Bideha,loc-17003,2016,district,Bideha,local,dis-19
-Chhireshwornath,loc-17004,2016,district,Chhireshwornath,local,dis-19
-Dhanauji,loc-17005,2016,district,Dhanauji,local,dis-19
-Dhanusadham,loc-17006,2016,district,Dhanusadham,local,dis-19
-Ganeshman Charnath,loc-17007,2016,district,Ganeshman Charnath,local,dis-19
-Hansapur,loc-17008,2016,district,Hansapur,local,dis-19
-Janaknandani,loc-17009,2016,district,Janaknandani,local,dis-19
-Janakpur,loc-17010,2016,district,Janakpur,local,dis-19
-Kamala,loc-17011,2016,district,Kamala,local,dis-19
-Lakshminiya,loc-17012,2016,district,Lakshminiya,local,dis-19
-Mithila,loc-17013,2016,district,Mithila,local,dis-19
-Mithila Bihari,loc-17014,2016,district,Mithila Bihari,local,dis-19
-Mukhiyapatti Musarmiya,loc-17015,2016,district,Mukhiyapatti Musarmiya,local,dis-19
-Nagarain,loc-17016,2016,district,Nagarain,local,dis-19
-Sabaila,loc-17017,2016,district,Sabaila,local,dis-19
-Sahidnagar,loc-17018,2016,district,Sahidnagar,local,dis-19
-Aurahi,loc-18001,2016,district,Aurahi,local,dis-40
-Balwa,loc-18002,2016,district,Balwa,local,dis-40
-Bardibas,loc-18003,2016,district,Bardibas,local,dis-40
-Bhangaha,loc-18004,2016,district,Bhangaha,local,dis-40
-Ekdanra,loc-18005,2016,district,Ekdanra,local,dis-40
-Gaushala,loc-18006,2016,district,Gaushala,local,dis-40
-Jaleswor,loc-18007,2016,district,Jaleswor,local,dis-40
-Loharpatti,loc-18008,2016,district,Loharpatti,local,dis-40
-Mahottari,loc-18009,2016,district,Mahottari,local,dis-40
-Manra Siswa,loc-18010,2016,district,Manra Siswa,local,dis-40
-Matihani,loc-18011,2016,district,Matihani,local,dis-40
-Pipra,loc-18012,2016,district,Pipra,local,dis-40
-Ramgopalpur,loc-18013,2016,district,Ramgopalpur,local,dis-40
-Samsi,loc-18014,2016,district,Samsi,local,dis-40
-Sonama,loc-18015,2016,district,Sonama,local,dis-40
-Bagmati,loc-19001,2016,district,Bagmati,local,dis-64
-Balara,loc-19002,2016,district,Balara,local,dis-64
-Barahathawa,loc-19003,2016,district,Barahathawa,local,dis-64
-Basbariya,loc-19004,2016,district,Basbariya,local,dis-64
-Bishnu,loc-19005,2016,district,Bishnu,local,dis-64
-Bramhapuri,loc-19006,2016,district,Bramhapuri,local,dis-64
-Chakraghatta,loc-19007,2016,district,Chakraghatta,local,dis-64
-Chandranagar,loc-19008,2016,district,Chandranagar,local,dis-64
-Dhankaul,loc-19009,2016,district,Dhankaul,local,dis-64
-Godaita,loc-19010,2016,district,Godaita,local,dis-64
-Haripur,loc-19011,2016,district,Haripur,local,dis-64
-Haripurwa,loc-19012,2016,district,Haripurwa,local,dis-64
-Hariwan,loc-19013,2016,district,Hariwan,local,dis-64
-Ishworpur,loc-19014,2016,district,Ishworpur,local,dis-64
-Kabilasi,loc-19015,2016,district,Kabilasi,local,dis-64
-Kaudena,loc-19016,2016,district,Kaudena,local,dis-64
-Lalbandi,loc-19017,2016,district,Lalbandi,local,dis-64
-Malangawa,loc-19018,2016,district,Malangawa,local,dis-64
-Parsa,loc-19019,2016,district,Parsa,local,dis-64
-Ramnagar,loc-19020,2016,district,Ramnagar,local,dis-64
-Dudhouli,loc-20001,2016,district,Dudhouli,local,dis-65
-Ghanglekh,loc-20002,2016,district,Ghanglekh,local,dis-65
-Golanjor,loc-20003,2016,district,Golanjor,local,dis-65
-Hariharpurgadhi,loc-20004,2016,district,Hariharpurgadhi,local,dis-65
-Kamalamai,loc-20005,2016,district,Kamalamai,local,dis-65
-Marin,loc-20006,2016,district,Marin,local,dis-65
-Phikkal,loc-20007,2016,district,Phikkal,local,dis-65
-Sunkoshi,loc-20008,2016,district,Sunkoshi,local,dis-65
-Tinpatan,loc-20009,2016,district,Tinpatan,local,dis-65
-Falelung,loc-2001,2016,district,Falelung,local,dis-51
-Falgunanda,loc-2002,2016,district,Falgunanda,local,dis-51
-Hilihang,loc-2003,2016,district,Hilihang,local,dis-51
-Kummayak,loc-2004,2016,district,Kummayak,local,dis-51
-Miklajung,loc-2005,2016,district,Miklajung,local,dis-51
-Phidim,loc-2006,2016,district,Phidim,local,dis-51
-Tumbewa,loc-2007,2016,district,Tumbewa,local,dis-51
-Yangwarak,loc-2008,2016,district,Yangwarak,local,dis-51
-Doramba,loc-21001,2016,district,Doramba,local,dis-55
-Gokulganga,loc-21002,2016,district,Gokulganga,local,dis-55
-Khadadevi,loc-21003,2016,district,Khadadevi,local,dis-55
-Likhu,loc-21004,2016,district,Likhu,local,dis-55
-Manthali,loc-21005,2016,district,Manthali,local,dis-55
-Ramechhap,loc-21006,2016,district,Ramechhap,local,dis-55
-Sunapati,loc-21007,2016,district,Sunapati,local,dis-55
-Umakunda,loc-21008,2016,district,Umakunda,local,dis-55
-Baiteshwor,loc-22001,2016,district,Baiteshwor,local,dis-20
-Bhimeshwor,loc-22002,2016,district,Bhimeshwor,local,dis-20
-Bigu,loc-22003,2016,district,Bigu,local,dis-20
-Gaurishankar,loc-22004,2016,district,Gaurishankar,local,dis-20
-Jiri,loc-22005,2016,district,Jiri,local,dis-20
-Kalinchok,loc-22006,2016,district,Kalinchok,local,dis-20
-Melung,loc-22007,2016,district,Melung,local,dis-20
-Sailung,loc-22008,2016,district,Sailung,local,dis-20
-Tamakoshi,loc-22009,2016,district,Tamakoshi,local,dis-20
-Balefi,loc-23001,2016,district,Balefi,local,dis-66
-Barhabise,loc-23002,2016,district,Barhabise,local,dis-66
-Bhotekoshi,loc-23003,2016,district,Bhotekoshi,local,dis-66
-Chautara Sangachokgadhi,loc-23004,2016,district,Chautara Sangachokgadhi,local,dis-66
-Helambu,loc-23005,2016,district,Helambu,local,dis-66
-Indrawati,loc-23006,2016,district,Indrawati,local,dis-66
-Jugal,loc-23007,2016,district,Jugal,local,dis-66
-Lisangkhu Pakhar,loc-23008,2016,district,Lisangkhu Pakhar,local,dis-66
-Melamchi,loc-23009,2016,district,Melamchi,local,dis-66
-Panchpokhari Thangpal,loc-23010,2016,district,Panchpokhari Thangpal,local,dis-66
-Sunkoshi,loc-23011,2016,district,Sunkoshi,local,dis-66
-Tripurasundari,loc-23012,2016,district,Tripurasundari,local,dis-66
-Banepa,loc-24001,2016,district,Banepa,local,dis-36
-Bethanchowk,loc-24002,2016,district,Bethanchowk,local,dis-36
-Bhumlu,loc-24003,2016,district,Bhumlu,local,dis-36
-Chaurideurali,loc-24004,2016,district,Chaurideurali,local,dis-36
-Dhulikhel,loc-24005,2016,district,Dhulikhel,local,dis-36
-Khanikhola,loc-24006,2016,district,Khanikhola,local,dis-36
-Mahabharat,loc-24007,2016,district,Mahabharat,local,dis-36
-Mandandeupur,loc-24008,2016,district,Mandandeupur,local,dis-36
-Namobuddha,loc-24009,2016,district,Namobuddha,local,dis-36
-Panauti,loc-24010,2016,district,Panauti,local,dis-36
-Panchkhal,loc-24011,2016,district,Panchkhal,local,dis-36
-Roshi,loc-24012,2016,district,Roshi,local,dis-36
-Temal,loc-24013,2016,district,Temal,local,dis-36
-Bagmati,loc-25001,2016,district,Bagmati,local,dis-38
-Godawari,loc-25002,2016,district,Godawari,local,dis-38
-Konjyosom,loc-25003,2016,district,Konjyosom,local,dis-38
-Lalitpur,loc-25004,2016,district,Lalitpur,local,dis-38
-Mahalaxmi,loc-25005,2016,district,Mahalaxmi,local,dis-38
-Mahankal,loc-25006,2016,district,Mahankal,local,dis-38
-Bhaktapur,loc-26001,2016,district,Bhaktapur,local,dis-10
-Changunarayan,loc-26002,2016,district,Changunarayan,local,dis-10
-Madhyapur Thimi,loc-26003,2016,district,Madhyapur Thimi,local,dis-10
-Suryabinayak,loc-26004,2016,district,Suryabinayak,local,dis-10
-Budhanilakantha,loc-27001,2016,district,Budhanilakantha,local,dis-35
-Chandragiri,loc-27002,2016,district,Chandragiri,local,dis-35
-Dakshinkali,loc-27003,2016,district,Dakshinkali,local,dis-35
-Gokarneshwor,loc-27004,2016,district,Gokarneshwor,local,dis-35
-Kageshwori Manahora,loc-27005,2016,district,Kageshwori Manahora,local,dis-35
-Kathmandu,loc-27006,2016,district,Kathmandu,local,dis-35
-Kirtipur,loc-27007,2016,district,Kirtipur,local,dis-35
-Nagarjun,loc-27008,2016,district,Nagarjun,local,dis-35
-Shankharapur,loc-27009,2016,district,Shankharapur,local,dis-35
-Tarakeshwor,loc-27010,2016,district,Tarakeshwor,local,dis-35
-Tokha,loc-27011,2016,district,Tokha,local,dis-35
-Belkotgadhi,loc-28001,2016,district,Belkotgadhi,local,dis-48
-Bidur,loc-28002,2016,district,Bidur,local,dis-48
-Dupcheshwar,loc-28003,2016,district,Dupcheshwar,local,dis-48
-Kakani,loc-28004,2016,district,Kakani,local,dis-48
-Kispang,loc-28005,2016,district,Kispang,local,dis-48
-Likhu,loc-28006,2016,district,Likhu,local,dis-48
-Meghang,loc-28007,2016,district,Meghang,local,dis-48
-Panchakanya,loc-28008,2016,district,Panchakanya,local,dis-48
-Shivapuri,loc-28009,2016,district,Shivapuri,local,dis-48
-Suryagadhi,loc-28010,2016,district,Suryagadhi,local,dis-48
-Tadi,loc-28011,2016,district,Tadi,local,dis-48
-Tarkeshwar,loc-28012,2016,district,Tarkeshwar,local,dis-48
-Shivapuri Watershed And Wildlife Reserve,loc-28088,2016,district,Shivapuri Watershed And Wildlife Reserve,local,dis-48
-Langtang National Park,loc-28099,2016,district,Langtang National Park,local,dis-48
-Gosaikunda,loc-29001,2016,district,Gosaikunda,local,dis-56
-Kalika,loc-29002,2016,district,Kalika,local,dis-56
-Naukunda,loc-29003,2016,district,Naukunda,local,dis-56
-Parbati Kunda,loc-29004,2016,district,Parbati Kunda,local,dis-56
-Uttargaya,loc-29005,2016,district,Uttargaya,local,dis-56
-Benighat Rorang,loc-30001,2016,district,Benighat Rorang,local,dis-17
-Dhunibesi,loc-30002,2016,district,Dhunibesi,local,dis-17
-Gajuri,loc-30003,2016,district,Gajuri,local,dis-17
-Galchi,loc-30004,2016,district,Galchi,local,dis-17
-Gangajamuna,loc-30005,2016,district,Gangajamuna,local,dis-17
-Jwalamukhi,loc-30006,2016,district,Jwalamukhi,local,dis-17
-Khaniyabash,loc-30007,2016,district,Khaniyabash,local,dis-17
-Netrawati,loc-30008,2016,district,Netrawati,local,dis-17
-Nilakantha,loc-30009,2016,district,Nilakantha,local,dis-17
-Chulachuli,loc-3001,2016,district,Chulachuli,local,dis-26
-Rubi Valley,loc-30010,2016,district,Rubi Valley,local,dis-17
-Siddhalek,loc-30011,2016,district,Siddhalek,local,dis-17
-Thakre,loc-30012,2016,district,Thakre,local,dis-17
-Tripura Sundari,loc-30013,2016,district,Tripura Sundari,local,dis-17
-Deumai,loc-3002,2016,district,Deumai,local,dis-26
-Fakphokthum,loc-3003,2016,district,Fakphokthum,local,dis-26
-Illam,loc-3004,2016,district,Illam,local,dis-26
-Mai,loc-3005,2016,district,Mai,local,dis-26
-Maijogmai,loc-3006,2016,district,Maijogmai,local,dis-26
-Mangsebung,loc-3007,2016,district,Mangsebung,local,dis-26
-Rong,loc-3008,2016,district,Rong,local,dis-26
-Sandakpur,loc-3009,2016,district,Sandakpur,local,dis-26
-Suryodaya,loc-3010,2016,district,Suryodaya,local,dis-26
-Bagmati,loc-31001,2016,district,Bagmati,local,dis-41
-Bakaiya,loc-31002,2016,district,Bakaiya,local,dis-41
-Bhimphedi,loc-31003,2016,district,Bhimphedi,local,dis-41
-Hetauda,loc-31004,2016,district,Hetauda,local,dis-41
-Indrasarowar,loc-31005,2016,district,Indrasarowar,local,dis-41
-Kailash,loc-31006,2016,district,Kailash,local,dis-41
-Makawanpurgadhi,loc-31007,2016,district,Makawanpurgadhi,local,dis-41
-Manahari,loc-31008,2016,district,Manahari,local,dis-41
-Raksirang,loc-31009,2016,district,Raksirang,local,dis-41
-Thaha,loc-31010,2016,district,Thaha,local,dis-41
-Parsa Wildlife Reserve,loc-31088,2016,district,Parsa Wildlife Reserve,local,dis-41
-Chitawan National Park,loc-31099,2016,district,Chitawan National Park,local,dis-41
-Baudhimai,loc-32001,2016,district,Baudhimai,local,dis-57
-Brindaban,loc-32002,2016,district,Brindaban,local,dis-57
-Chandrapur,loc-32003,2016,district,Chandrapur,local,dis-57
-Dewahhi Gonahi,loc-32004,2016,district,Dewahhi Gonahi,local,dis-57
-Durga Bhagwati,loc-32005,2016,district,Durga Bhagwati,local,dis-57
-Gadhimai,loc-32006,2016,district,Gadhimai,local,dis-57
-Garuda,loc-32007,2016,district,Garuda,local,dis-57
-Gaur,loc-32008,2016,district,Gaur,local,dis-57
-Gujara,loc-32009,2016,district,Gujara,local,dis-57
-Ishanath,loc-32010,2016,district,Ishanath,local,dis-57
-Katahariya,loc-32011,2016,district,Katahariya,local,dis-57
-Madhav Narayan,loc-32012,2016,district,Madhav Narayan,local,dis-57
-Maulapur,loc-32013,2016,district,Maulapur,local,dis-57
-Paroha,loc-32014,2016,district,Paroha,local,dis-57
-Phatuwa Bijayapur,loc-32015,2016,district,Phatuwa Bijayapur,local,dis-57
-Rajdevi,loc-32016,2016,district,Rajdevi,local,dis-57
-Rajpur,loc-32017,2016,district,Rajpur,local,dis-57
-Yemunamai,loc-32018,2016,district,Yemunamai,local,dis-57
-Adarshkotwal,loc-33001,2016,district,Adarshkotwal,local,dis-08
-Baragadhi,loc-33002,2016,district,Baragadhi,local,dis-08
-Bishrampur,loc-33003,2016,district,Bishrampur,local,dis-08
-Devtal,loc-33004,2016,district,Devtal,local,dis-08
-Jitpur Simara,loc-33005,2016,district,Jitpur Simara,local,dis-08
-Kalaiya,loc-33006,2016,district,Kalaiya,local,dis-08
-Karaiyamai,loc-33007,2016,district,Karaiyamai,local,dis-08
-Kolhabi,loc-33008,2016,district,Kolhabi,local,dis-08
-Mahagadhimai,loc-33009,2016,district,Mahagadhimai,local,dis-08
-Nijgadh,loc-33010,2016,district,Nijgadh,local,dis-08
-Pacharauta,loc-33011,2016,district,Pacharauta,local,dis-08
-Parwanipur,loc-33012,2016,district,Parwanipur,local,dis-08
-Pheta,loc-33013,2016,district,Pheta,local,dis-08
-Prasauni,loc-33014,2016,district,Prasauni,local,dis-08
-Simraungadh,loc-33015,2016,district,Simraungadh,local,dis-08
-Suwarna,loc-33016,2016,district,Suwarna,local,dis-08
-Parsa Wildlife Reserve,loc-33099,2016,district,Parsa Wildlife Reserve,local,dis-08
-Bahudaramai,loc-34001,2016,district,Bahudaramai,local,dis-53
-Bindabasini,loc-34002,2016,district,Bindabasini,local,dis-53
-Birgunj,loc-34003,2016,district,Birgunj,local,dis-53
-Chhipaharmai,loc-34004,2016,district,Chhipaharmai,local,dis-53
-Dhobini,loc-34005,2016,district,Dhobini,local,dis-53
-Jagarnathpur,loc-34006,2016,district,Jagarnathpur,local,dis-53
-Jirabhawani,loc-34007,2016,district,Jirabhawani,local,dis-53
-Kalikamai,loc-34008,2016,district,Kalikamai,local,dis-53
-Pakahamainpur,loc-34009,2016,district,Pakahamainpur,local,dis-53
-Parsagadhi,loc-34010,2016,district,Parsagadhi,local,dis-53
-Paterwasugauli,loc-34011,2016,district,Paterwasugauli,local,dis-53
-Pokhariya,loc-34012,2016,district,Pokhariya,local,dis-53
-Sakhuwaprasauni,loc-34013,2016,district,Sakhuwaprasauni,local,dis-53
-Thori,loc-34014,2016,district,Thori,local,dis-53
-Chitwan National Park,loc-34099,2016,district,Chitwan National Park,local,dis-53
-Bharatpur,loc-35001,2016,district,Bharatpur,local,dis-12
-Ichchhyakamana,loc-35002,2016,district,Ichchhyakamana,local,dis-12
-Kalika,loc-35003,2016,district,Kalika,local,dis-12
-Khairahani,loc-35004,2016,district,Khairahani,local,dis-12
-Madi,loc-35005,2016,district,Madi,local,dis-12
-Rapti,loc-35006,2016,district,Rapti,local,dis-12
-Ratnanagar,loc-35007,2016,district,Ratnanagar,local,dis-12
-Chitawan National Park,loc-35099,2016,district,Chitawan National Park,local,dis-12
-Aarughat,loc-36001,2016,district,Aarughat,local,dis-23
-Ajirkot,loc-36002,2016,district,Ajirkot,local,dis-23
-Bhimsen,loc-36003,2016,district,Bhimsen,local,dis-23
-Chum Nubri,loc-36004,2016,district,Chum Nubri,local,dis-23
-Dharche,loc-36005,2016,district,Dharche,local,dis-23
-Gandaki,loc-36006,2016,district,Gandaki,local,dis-23
-Gorkha,loc-36007,2016,district,Gorkha,local,dis-23
-Palungtar,loc-36008,2016,district,Palungtar,local,dis-23
-Sahid Lakhan,loc-36009,2016,district,Sahid Lakhan,local,dis-23
-Siranchok,loc-36010,2016,district,Siranchok,local,dis-23
-Sulikot,loc-36011,2016,district,Sulikot,local,dis-23
-Besishahar,loc-37001,2016,district,Besishahar,local,dis-39
-Dordi,loc-37002,2016,district,Dordi,local,dis-39
-Dudhpokhari,loc-37003,2016,district,Dudhpokhari,local,dis-39
-Kwholasothar,loc-37004,2016,district,Kwholasothar,local,dis-39
-Madhyanepal,loc-37005,2016,district,Madhyanepal,local,dis-39
-Marsyangdi,loc-37006,2016,district,Marsyangdi,local,dis-39
-Rainas,loc-37007,2016,district,Rainas,local,dis-39
-Sundarbazar,loc-37008,2016,district,Sundarbazar,local,dis-39
-Anbukhaireni,loc-38001,2016,district,Anbukhaireni,local,dis-72
-Bandipur,loc-38002,2016,district,Bandipur,local,dis-72
-Bhanu,loc-38003,2016,district,Bhanu,local,dis-72
-Bhimad,loc-38004,2016,district,Bhimad,local,dis-72
-Byas,loc-38005,2016,district,Byas,local,dis-72
-Devghat,loc-38006,2016,district,Devghat,local,dis-72
-Ghiring,loc-38007,2016,district,Ghiring,local,dis-72
-Myagde,loc-38008,2016,district,Myagde,local,dis-72
-Rhishing,loc-38009,2016,district,Rhishing,local,dis-72
-Shuklagandaki,loc-38010,2016,district,Shuklagandaki,local,dis-72
-Aandhikhola,loc-39001,2016,district,Aandhikhola,local,dis-71
-Arjunchaupari,loc-39002,2016,district,Arjunchaupari,local,dis-71
-Bhirkot,loc-39003,2016,district,Bhirkot,local,dis-71
-Biruwa,loc-39004,2016,district,Biruwa,local,dis-71
-Chapakot,loc-39005,2016,district,Chapakot,local,dis-71
-Galyang,loc-39006,2016,district,Galyang,local,dis-71
-Harinas,loc-39007,2016,district,Harinas,local,dis-71
-Kaligandagi,loc-39008,2016,district,Kaligandagi,local,dis-71
-Phedikhola,loc-39009,2016,district,Phedikhola,local,dis-71
-Putalibazar,loc-39010,2016,district,Putalibazar,local,dis-71
-Waling,loc-39011,2016,district,Waling,local,dis-71
-Annapurna,loc-40001,2016,district,Annapurna,local,dis-34
-Machhapuchchhre,loc-40002,2016,district,Machhapuchchhre,local,dis-34
-Madi,loc-40003,2016,district,Madi,local,dis-34
-Pokhara Lekhnath,loc-40004,2016,district,Pokhara Lekhnath,local,dis-34
-Rupa,loc-40005,2016,district,Rupa,local,dis-34
-Arjundhara,loc-4001,2016,district,Arjundhara,local,dis-28
-Barhadashi,loc-4002,2016,district,Barhadashi,local,dis-28
-Bhadrapur,loc-4003,2016,district,Bhadrapur,local,dis-28
-Birtamod,loc-4004,2016,district,Birtamod,local,dis-28
-Buddhashanti,loc-4005,2016,district,Buddhashanti,local,dis-28
-Damak,loc-4006,2016,district,Damak,local,dis-28
-Gauradhaha,loc-4007,2016,district,Gauradhaha,local,dis-28
-Gauriganj,loc-4008,2016,district,Gauriganj,local,dis-28
-Haldibari,loc-4009,2016,district,Haldibari,local,dis-28
-Jhapa,loc-4010,2016,district,Jhapa,local,dis-28
-Kachankawal,loc-4011,2016,district,Kachankawal,local,dis-28
-Kamal,loc-4012,2016,district,Kamal,local,dis-28
-Kankai,loc-4013,2016,district,Kankai,local,dis-28
-Mechinagar,loc-4014,2016,district,Mechinagar,local,dis-28
-Shivasataxi,loc-4015,2016,district,Shivasataxi,local,dis-28
-Chame,loc-41001,2016,district,Chame,local,dis-42
-Narphu,loc-41002,2016,district,Narphu,local,dis-42
-Nashong,loc-41003,2016,district,Nashong,local,dis-42
-Neshyang,loc-41004,2016,district,Neshyang,local,dis-42
-Barhagaun Muktikhsetra,loc-42001,2016,district,Barhagaun Muktikhsetra,local,dis-45
-Dalome,loc-42002,2016,district,Dalome,local,dis-45
-Gharapjhong,loc-42003,2016,district,Gharapjhong,local,dis-45
-Lomanthang,loc-42004,2016,district,Lomanthang,local,dis-45
-Thasang,loc-42005,2016,district,Thasang,local,dis-45
-Annapurna,loc-43001,2016,district,Annapurna,local,dis-46
-Beni,loc-43002,2016,district,Beni,local,dis-46
-Dhaulagiri,loc-43003,2016,district,Dhaulagiri,local,dis-46
-Malika,loc-43004,2016,district,Malika,local,dis-46
-Mangala,loc-43005,2016,district,Mangala,local,dis-46
-Raghuganga,loc-43006,2016,district,Raghuganga,local,dis-46
-Dhorpatan Hunting Reserve,loc-43099,2016,district,Dhorpatan Hunting Reserve,local,dis-46
-Bihadi,loc-44001,2016,district,Bihadi,local,dis-52
-Jaljala,loc-44002,2016,district,Jaljala,local,dis-52
-Kushma,loc-44003,2016,district,Kushma,local,dis-52
-Mahashila,loc-44004,2016,district,Mahashila,local,dis-52
-Modi,loc-44005,2016,district,Modi,local,dis-52
-Painyu,loc-44006,2016,district,Painyu,local,dis-52
-Phalebas,loc-44007,2016,district,Phalebas,local,dis-52
-Badigad,loc-45001,2016,district,Badigad,local,dis-03
-Baglung,loc-45002,2016,district,Baglung,local,dis-03
-Bareng,loc-45003,2016,district,Bareng,local,dis-03
-Dhorpatan,loc-45004,2016,district,Dhorpatan,local,dis-03
-Galkot,loc-45005,2016,district,Galkot,local,dis-03
-Jaimuni,loc-45006,2016,district,Jaimuni,local,dis-03
-Kanthekhola,loc-45007,2016,district,Kanthekhola,local,dis-03
-Nisikhola,loc-45008,2016,district,Nisikhola,local,dis-03
-Taman Khola,loc-45009,2016,district,Taman Khola,local,dis-03
-Tara Khola,loc-45010,2016,district,Tara Khola,local,dis-03
-Dhorpatan Hunting Reserve,loc-45099,2016,district,Dhorpatan Hunting Reserve,local,dis-03
-Chandrakot,loc-46001,2016,district,Chandrakot,local,dis-24
-Chatrakot,loc-46002,2016,district,Chatrakot,local,dis-24
-Dhurkot,loc-46003,2016,district,Dhurkot,local,dis-24
-Gulmidarbar,loc-46004,2016,district,Gulmidarbar,local,dis-24
-Isma,loc-46005,2016,district,Isma,local,dis-24
-Kaligandaki,loc-46006,2016,district,Kaligandaki,local,dis-24
-Madane,loc-46007,2016,district,Madane,local,dis-24
-Malika,loc-46008,2016,district,Malika,local,dis-24
-Musikot,loc-46009,2016,district,Musikot,local,dis-24
-Resunga,loc-46010,2016,district,Resunga,local,dis-24
-Ruru,loc-46011,2016,district,Ruru,local,dis-24
-Satyawati,loc-46012,2016,district,Satyawati,local,dis-24
-Bagnaskali,loc-47001,2016,district,Bagnaskali,local,dis-50
-Mathagadhi,loc-47002,2016,district,Mathagadhi,local,dis-50
-Nisdi,loc-47003,2016,district,Nisdi,local,dis-50
-Purbakhola,loc-47004,2016,district,Purbakhola,local,dis-50
-Rainadevi Chhahara,loc-47005,2016,district,Rainadevi Chhahara,local,dis-50
-Rambha,loc-47006,2016,district,Rambha,local,dis-50
-Rampur,loc-47007,2016,district,Rampur,local,dis-50
-Ribdikot,loc-47008,2016,district,Ribdikot,local,dis-50
-Tansen,loc-47009,2016,district,Tansen,local,dis-50
-Tinau,loc-47010,2016,district,Tinau,local,dis-50
-Bardaghat,loc-48001,2016,district,Bardaghat,local,dis-76
-Palhi Nandan,loc-48002,2016,district,Palhi Nandan,local,dis-76
-Pratappur,loc-48003,2016,district,Pratappur,local,dis-76
-Ramgram,loc-48004,2016,district,Ramgram,local,dis-76
-Sarawal,loc-48005,2016,district,Sarawal,local,dis-76
-Sunwal,loc-48006,2016,district,Sunwal,local,dis-76
-Susta,loc-48007,2016,district,Susta,local,dis-76
-Butwal,loc-49001,2016,district,Butwal,local,dis-60
-Devdaha,loc-49002,2016,district,Devdaha,local,dis-60
-Gaidahawa,loc-49003,2016,district,Gaidahawa,local,dis-60
-Kanchan,loc-49004,2016,district,Kanchan,local,dis-60
-Kotahimai,loc-49005,2016,district,Kotahimai,local,dis-60
-Lumbini Sanskritik,loc-49006,2016,district,Lumbini Sanskritik,local,dis-60
-Marchawari,loc-49007,2016,district,Marchawari,local,dis-60
-Mayadevi,loc-49008,2016,district,Mayadevi,local,dis-60
-Omsatiya,loc-49009,2016,district,Omsatiya,local,dis-60
-Rohini,loc-49010,2016,district,Rohini,local,dis-60
-Sainamaina,loc-49011,2016,district,Sainamaina,local,dis-60
-Sammarimai,loc-49012,2016,district,Sammarimai,local,dis-60
-Siddharthanagar,loc-49013,2016,district,Siddharthanagar,local,dis-60
-Siyari,loc-49014,2016,district,Siyari,local,dis-60
-Sudhdhodhan,loc-49015,2016,district,Sudhdhodhan,local,dis-60
-Tillotama,loc-49016,2016,district,Tillotama,local,dis-60
-Lumbini Sanskritik Development Area,loc-49099,2016,district,Lumbini Sanskritik Development Area,local,dis-60
-Banganga,loc-50001,2016,district,Banganga,local,dis-33
-Bijayanagar,loc-50002,2016,district,Bijayanagar,local,dis-33
-Buddhabhumi,loc-50003,2016,district,Buddhabhumi,local,dis-33
-Kapilbastu,loc-50004,2016,district,Kapilbastu,local,dis-33
-Krishnanagar,loc-50005,2016,district,Krishnanagar,local,dis-33
-Maharajgunj,loc-50006,2016,district,Maharajgunj,local,dis-33
-Mayadevi,loc-50007,2016,district,Mayadevi,local,dis-33
-Shivaraj,loc-50008,2016,district,Shivaraj,local,dis-33
-Suddhodhan,loc-50009,2016,district,Suddhodhan,local,dis-33
-Belbari,loc-5001,2016,district,Belbari,local,dis-43
-Yashodhara,loc-50010,2016,district,Yashodhara,local,dis-33
-Biratnagar,loc-5002,2016,district,Biratnagar,local,dis-43
-Budhiganga,loc-5003,2016,district,Budhiganga,local,dis-43
-Dhanpalthan,loc-5004,2016,district,Dhanpalthan,local,dis-43
-Gramthan,loc-5005,2016,district,Gramthan,local,dis-43
-Jahada,loc-5006,2016,district,Jahada,local,dis-43
-Kanepokhari,loc-5007,2016,district,Kanepokhari,local,dis-43
-Katahari,loc-5008,2016,district,Katahari,local,dis-43
-Kerabari,loc-5009,2016,district,Kerabari,local,dis-43
-Letang,loc-5010,2016,district,Letang,local,dis-43
-Miklajung,loc-5011,2016,district,Miklajung,local,dis-43
-Patahrishanishchare,loc-5012,2016,district,Patahrishanishchare,local,dis-43
-Rangeli,loc-5013,2016,district,Rangeli,local,dis-43
-Ratuwamai,loc-5014,2016,district,Ratuwamai,local,dis-43
-Sundarharaicha,loc-5015,2016,district,Sundarharaicha,local,dis-43
-Sunwarshi,loc-5016,2016,district,Sunwarshi,local,dis-43
-Uralabari,loc-5017,2016,district,Uralabari,local,dis-43
-Bhumekasthan,loc-51001,2016,district,Bhumekasthan,local,dis-02
-Chhatradev,loc-51002,2016,district,Chhatradev,local,dis-02
-Malarani,loc-51003,2016,district,Malarani,local,dis-02
-Panini,loc-51004,2016,district,Panini,local,dis-02
-Sandhikharka,loc-51005,2016,district,Sandhikharka,local,dis-02
-Sitganga,loc-51006,2016,district,Sitganga,local,dis-02
-Ayirabati,loc-52001,2016,district,Ayirabati,local,dis-54
-Gaumukhi,loc-52002,2016,district,Gaumukhi,local,dis-54
-Jhimruk,loc-52003,2016,district,Jhimruk,local,dis-54
-Mallarani,loc-52004,2016,district,Mallarani,local,dis-54
-Mandavi,loc-52005,2016,district,Mandavi,local,dis-54
-Naubahini,loc-52006,2016,district,Naubahini,local,dis-54
-Pyuthan,loc-52007,2016,district,Pyuthan,local,dis-54
-Sarumarani,loc-52008,2016,district,Sarumarani,local,dis-54
-Sworgadwary,loc-52009,2016,district,Sworgadwary,local,dis-54
-Duikholi,loc-53001,2016,district,Duikholi,local,dis-58
-Lungri,loc-53002,2016,district,Lungri,local,dis-58
-Madi,loc-53003,2016,district,Madi,local,dis-58
-Rolpa,loc-53004,2016,district,Rolpa,local,dis-58
-Runtigadi,loc-53005,2016,district,Runtigadi,local,dis-58
-Sukidaha,loc-53006,2016,district,Sukidaha,local,dis-58
-Sunchhahari,loc-53007,2016,district,Sunchhahari,local,dis-58
-Suwarnabati,loc-53008,2016,district,Suwarnabati,local,dis-58
-Thawang,loc-53009,2016,district,Thawang,local,dis-58
-Tribeni,loc-53010,2016,district,Tribeni,local,dis-58
-Aathbiskot,loc-54001,2016,district,Aathbiskot,local,dis-77
-Banfikot,loc-54002,2016,district,Banfikot,local,dis-77
-Chaurjahari,loc-54003,2016,district,Chaurjahari,local,dis-77
-Musikot,loc-54004,2016,district,Musikot,local,dis-77
-Sani Bheri,loc-54005,2016,district,Sani Bheri,local,dis-77
-Tribeni,loc-54006,2016,district,Tribeni,local,dis-77
-Bagchaur,loc-55001,2016,district,Bagchaur,local,dis-61
-Bangad Kupinde,loc-55002,2016,district,Bangad Kupinde,local,dis-61
-Chhatreshwori,loc-55003,2016,district,Chhatreshwori,local,dis-61
-Darma,loc-55004,2016,district,Darma,local,dis-61
-Dhorchaur,loc-55005,2016,district,Dhorchaur,local,dis-61
-Kalimati,loc-55006,2016,district,Kalimati,local,dis-61
-Kapurkot,loc-55007,2016,district,Kapurkot,local,dis-61
-Kumakhmalika,loc-55008,2016,district,Kumakhmalika,local,dis-61
-Sharada,loc-55009,2016,district,Sharada,local,dis-61
-Tribeni,loc-55010,2016,district,Tribeni,local,dis-61
-Babai,loc-56001,2016,district,Babai,local,dis-15
-Banglachuli,loc-56002,2016,district,Banglachuli,local,dis-15
-Dangisharan,loc-56003,2016,district,Dangisharan,local,dis-15
-Gadhawa,loc-56004,2016,district,Gadhawa,local,dis-15
-Ghorahi,loc-56005,2016,district,Ghorahi,local,dis-15
-Lamahi,loc-56006,2016,district,Lamahi,local,dis-15
-Rajpur,loc-56007,2016,district,Rajpur,local,dis-15
-Rapti,loc-56008,2016,district,Rapti,local,dis-15
-Shantinagar,loc-56009,2016,district,Shantinagar,local,dis-15
-Tulsipur,loc-56010,2016,district,Tulsipur,local,dis-15
-Baijanath,loc-57001,2016,district,Baijanath,local,dis-07
-Duduwa,loc-57002,2016,district,Duduwa,local,dis-07
-Janki,loc-57003,2016,district,Janki,local,dis-07
-Khajura,loc-57004,2016,district,Khajura,local,dis-07
-Kohalpur,loc-57005,2016,district,Kohalpur,local,dis-07
-Narainapur,loc-57006,2016,district,Narainapur,local,dis-07
-Nepalgunj,loc-57007,2016,district,Nepalgunj,local,dis-07
-Rapti Sonari,loc-57008,2016,district,Rapti Sonari,local,dis-07
-Badhaiyatal,loc-58001,2016,district,Badhaiyatal,local,dis-09
-Bansagadhi,loc-58002,2016,district,Bansagadhi,local,dis-09
-Barbardiya,loc-58003,2016,district,Barbardiya,local,dis-09
-Geruwa,loc-58004,2016,district,Geruwa,local,dis-09
-Gulariya,loc-58005,2016,district,Gulariya,local,dis-09
-Madhuwan,loc-58006,2016,district,Madhuwan,local,dis-09
-Rajapur,loc-58007,2016,district,Rajapur,local,dis-09
-Thakurbaba,loc-58008,2016,district,Thakurbaba,local,dis-09
-Bardiya National Park,loc-58099,2016,district,Bardiya National Park,local,dis-09
-Barahtal,loc-59001,2016,district,Barahtal,local,dis-70
-Bheriganga,loc-59002,2016,district,Bheriganga,local,dis-70
-Birendranagar,loc-59003,2016,district,Birendranagar,local,dis-70
-Chaukune,loc-59004,2016,district,Chaukune,local,dis-70
-Chingad,loc-59005,2016,district,Chingad,local,dis-70
-Gurbhakot,loc-59006,2016,district,Gurbhakot,local,dis-70
-Lekbeshi,loc-59007,2016,district,Lekbeshi,local,dis-70
-Panchpuri,loc-59008,2016,district,Panchpuri,local,dis-70
-Simta,loc-59009,2016,district,Simta,local,dis-70
-Aathabis,loc-60001,2016,district,Aathabis,local,dis-14
-Bhagawatimai,loc-60002,2016,district,Bhagawatimai,local,dis-14
-Bhairabi,loc-60003,2016,district,Bhairabi,local,dis-14
-Chamunda Bindrasaini,loc-60004,2016,district,Chamunda Bindrasaini,local,dis-14
-Dullu,loc-60005,2016,district,Dullu,local,dis-14
-Dungeshwor,loc-60006,2016,district,Dungeshwor,local,dis-14
-Gurans,loc-60007,2016,district,Gurans,local,dis-14
-Mahabu,loc-60008,2016,district,Mahabu,local,dis-14
-Narayan,loc-60009,2016,district,Narayan,local,dis-14
-Barah,loc-6001,2016,district,Barah,local,dis-69
-Naumule,loc-60010,2016,district,Naumule,local,dis-14
-Thantikandh,loc-60011,2016,district,Thantikandh,local,dis-14
-Barju,loc-6002,2016,district,Barju,local,dis-69
-Bhokraha,loc-6003,2016,district,Bhokraha,local,dis-69
-Dewanganj,loc-6004,2016,district,Dewanganj,local,dis-69
-Dharan,loc-6005,2016,district,Dharan,local,dis-69
-Duhabi,loc-6006,2016,district,Duhabi,local,dis-69
-Gadhi,loc-6007,2016,district,Gadhi,local,dis-69
-Harinagara,loc-6008,2016,district,Harinagara,local,dis-69
-Inaruwa,loc-6009,2016,district,Inaruwa,local,dis-69
-Itahari,loc-6010,2016,district,Itahari,local,dis-69
-Koshi,loc-6011,2016,district,Koshi,local,dis-69
-Ramdhuni,loc-6012,2016,district,Ramdhuni,local,dis-69
-Koshi Tappu Wildlife Reserve,loc-6099,2016,district,Koshi Tappu Wildlife Reserve,local,dis-69
-Barekot,loc-61001,2016,district,Barekot,local,dis-27
-Bheri,loc-61002,2016,district,Bheri,local,dis-27
-Chhedagad,loc-61003,2016,district,Chhedagad,local,dis-27
-Junichande,loc-61004,2016,district,Junichande,local,dis-27
-Kuse,loc-61005,2016,district,Kuse,local,dis-27
-Shiwalaya,loc-61006,2016,district,Shiwalaya,local,dis-27
-Tribeni Nalagad,loc-61007,2016,district,Tribeni Nalagad,local,dis-27
-Chharka Tangsong,loc-62001,2016,district,Chharka Tangsong,local,dis-21
-Dolpo Buddha,loc-62002,2016,district,Dolpo Buddha,local,dis-21
-Jagadulla,loc-62003,2016,district,Jagadulla,local,dis-21
-Kaike,loc-62004,2016,district,Kaike,local,dis-21
-Mudkechula,loc-62005,2016,district,Mudkechula,local,dis-21
-Shey Phoksundo,loc-62006,2016,district,Shey Phoksundo,local,dis-21
-Thuli Bheri,loc-62007,2016,district,Thuli Bheri,local,dis-21
-Tripurasundari,loc-62008,2016,district,Tripurasundari,local,dis-21
-Chandannath,loc-63001,2016,district,Chandannath,local,dis-29
-Guthichaur,loc-63002,2016,district,Guthichaur,local,dis-29
-Hima,loc-63003,2016,district,Hima,local,dis-29
-Kanakasundari,loc-63004,2016,district,Kanakasundari,local,dis-29
-Patrasi,loc-63005,2016,district,Patrasi,local,dis-29
-Sinja,loc-63006,2016,district,Sinja,local,dis-29
-Tatopani,loc-63007,2016,district,Tatopani,local,dis-29
-Tila,loc-63008,2016,district,Tila,local,dis-29
-Kalika,loc-64001,2016,district,Kalika,local,dis-31
-Khandachakra,loc-64002,2016,district,Khandachakra,local,dis-31
-Mahawai,loc-64003,2016,district,Mahawai,local,dis-31
-Naraharinath,loc-64004,2016,district,Naraharinath,local,dis-31
-Pachaljharana,loc-64005,2016,district,Pachaljharana,local,dis-31
-Palata,loc-64006,2016,district,Palata,local,dis-31
-Raskot,loc-64007,2016,district,Raskot,local,dis-31
-Sanni Tribeni,loc-64008,2016,district,Sanni Tribeni,local,dis-31
-Tilagufa,loc-64009,2016,district,Tilagufa,local,dis-31
-Chhayanath Rara,loc-65001,2016,district,Chhayanath Rara,local,dis-44
-Khatyad,loc-65002,2016,district,Khatyad,local,dis-44
-Mugum Karmarong,loc-65003,2016,district,Mugum Karmarong,local,dis-44
-Soru,loc-65004,2016,district,Soru,local,dis-44
-Adanchuli,loc-66001,2016,district,Adanchuli,local,dis-25
-Chankheli,loc-66002,2016,district,Chankheli,local,dis-25
-Kharpunath,loc-66003,2016,district,Kharpunath,local,dis-25
-Namkha,loc-66004,2016,district,Namkha,local,dis-25
-Sarkegad,loc-66005,2016,district,Sarkegad,local,dis-25
-Simkot,loc-66006,2016,district,Simkot,local,dis-25
-Tanjakot,loc-66007,2016,district,Tanjakot,local,dis-25
-Badimalika,loc-67001,2016,district,Badimalika,local,dis-06
-Budhiganga,loc-67002,2016,district,Budhiganga,local,dis-06
-Budhinanda,loc-67003,2016,district,Budhinanda,local,dis-06
-Chhededaha,loc-67004,2016,district,Chhededaha,local,dis-06
-Gaumul,loc-67005,2016,district,Gaumul,local,dis-06
-Himali,loc-67006,2016,district,Himali,local,dis-06
-Pandav Gupha,loc-67007,2016,district,Pandav Gupha,local,dis-06
-Swami Kartik,loc-67008,2016,district,Swami Kartik,local,dis-06
-Tribeni,loc-67009,2016,district,Tribeni,local,dis-06
-Khaptad National Park,loc-67099,2016,district,Khaptad National Park,local,dis-06
-Bithadchir,loc-68001,2016,district,Bithadchir,local,dis-05
-Bungal,loc-68002,2016,district,Bungal,local,dis-05
-Chabispathivera,loc-68003,2016,district,Chabispathivera,local,dis-05
-Durgathali,loc-68004,2016,district,Durgathali,local,dis-05
-Jayaprithivi,loc-68005,2016,district,Jayaprithivi,local,dis-05
-Kanda,loc-68006,2016,district,Kanda,local,dis-05
-Kedarseu,loc-68007,2016,district,Kedarseu,local,dis-05
-Khaptadchhanna,loc-68008,2016,district,Khaptadchhanna,local,dis-05
-Masta,loc-68009,2016,district,Masta,local,dis-05
-Surma,loc-68010,2016,district,Surma,local,dis-05
-Talkot,loc-68011,2016,district,Talkot,local,dis-05
-Thalara,loc-68012,2016,district,Thalara,local,dis-05
-Khaptad National Park,loc-68099,2016,district,Khaptad National Park,local,dis-05
-Bannigadhi Jayagadh,loc-69001,2016,district,Bannigadhi Jayagadh,local,dis-01
-Chaurpati,loc-69002,2016,district,Chaurpati,local,dis-01
-Dhakari,loc-69003,2016,district,Dhakari,local,dis-01
-Kamalbazar,loc-69004,2016,district,Kamalbazar,local,dis-01
-Mangalsen,loc-69005,2016,district,Mangalsen,local,dis-01
-Mellekh,loc-69006,2016,district,Mellekh,local,dis-01
-Panchadewal Binayak,loc-69007,2016,district,Panchadewal Binayak,local,dis-01
-Ramaroshan,loc-69008,2016,district,Ramaroshan,local,dis-01
-Sanphebagar,loc-69009,2016,district,Sanphebagar,local,dis-01
-Turmakhad,loc-69010,2016,district,Turmakhad,local,dis-01
-Khaptad National Park,loc-69099,2016,district,Khaptad National Park,local,dis-01
-Adharsha,loc-70001,2016,district,Adharsha,local,dis-22
-Badikedar,loc-70002,2016,district,Badikedar,local,dis-22
-Bogtan,loc-70003,2016,district,Bogtan,local,dis-22
-Dipayal Silgadi,loc-70004,2016,district,Dipayal Silgadi,local,dis-22
-Jorayal,loc-70005,2016,district,Jorayal,local,dis-22
-K I Singh,loc-70006,2016,district,K I Singh,local,dis-22
-Purbichauki,loc-70007,2016,district,Purbichauki,local,dis-22
-Sayal,loc-70008,2016,district,Sayal,local,dis-22
-Shikhar,loc-70009,2016,district,Shikhar,local,dis-22
-Chaubise,loc-7001,2016,district,Chaubise,local,dis-18
-Chhathar Jorpati,loc-7002,2016,district,Chhathar Jorpati,local,dis-18
-Dhankuta,loc-7003,2016,district,Dhankuta,local,dis-18
-Khalsa Chhintang Shahidbhumi,loc-7004,2016,district,Khalsa Chhintang Shahidbhumi,local,dis-18
-Mahalaxmi,loc-7005,2016,district,Mahalaxmi,local,dis-18
-Pakhribas,loc-7006,2016,district,Pakhribas,local,dis-18
-Sangurigadhi,loc-7007,2016,district,Sangurigadhi,local,dis-18
-Khaptad National Park,loc-70099,2016,district,Khaptad National Park,local,dis-22
-Bardagoriya,loc-71001,2016,district,Bardagoriya,local,dis-30
-Bhajani,loc-71002,2016,district,Bhajani,local,dis-30
-Chure,loc-71003,2016,district,Chure,local,dis-30
-Dhangadhi,loc-71004,2016,district,Dhangadhi,local,dis-30
-Gauriganga,loc-71005,2016,district,Gauriganga,local,dis-30
-Ghodaghodi,loc-71006,2016,district,Ghodaghodi,local,dis-30
-Godawari,loc-71007,2016,district,Godawari,local,dis-30
-Janaki,loc-71008,2016,district,Janaki,local,dis-30
-Joshipur,loc-71009,2016,district,Joshipur,local,dis-30
-Kailari,loc-71010,2016,district,Kailari,local,dis-30
-Lamkichuha,loc-71011,2016,district,Lamkichuha,local,dis-30
-Mohanyal,loc-71012,2016,district,Mohanyal,local,dis-30
-Tikapur,loc-71013,2016,district,Tikapur,local,dis-30
-Bedkot,loc-72001,2016,district,Bedkot,local,dis-32
-Belauri,loc-72002,2016,district,Belauri,local,dis-32
-Beldandi,loc-72003,2016,district,Beldandi,local,dis-32
-Bhimdatta,loc-72004,2016,district,Bhimdatta,local,dis-32
-Krishnapur,loc-72005,2016,district,Krishnapur,local,dis-32
-Laljhadi,loc-72006,2016,district,Laljhadi,local,dis-32
-Mahakali,loc-72007,2016,district,Mahakali,local,dis-32
-Punarbas,loc-72008,2016,district,Punarbas,local,dis-32
-Shuklaphanta,loc-72009,2016,district,Shuklaphanta,local,dis-32
-Shuklaphanta National Park,loc-72099,2016,district,Shuklaphanta National Park,local,dis-32
-Ajaymeru,loc-73001,2016,district,Ajaymeru,local,dis-13
-Alital,loc-73002,2016,district,Alital,local,dis-13
-Amargadhi,loc-73003,2016,district,Amargadhi,local,dis-13
-Bhageshwar,loc-73004,2016,district,Bhageshwar,local,dis-13
-Ganayapdhura,loc-73005,2016,district,Ganayapdhura,local,dis-13
-Nawadurga,loc-73006,2016,district,Nawadurga,local,dis-13
-Parashuram,loc-73007,2016,district,Parashuram,local,dis-13
-Dasharathchanda,loc-74001,2016,district,Dasharathchanda,local,dis-04
-Dilasaini,loc-74002,2016,district,Dilasaini,local,dis-04
-Dogadakedar,loc-74003,2016,district,Dogadakedar,local,dis-04
-Melauli,loc-74004,2016,district,Melauli,local,dis-04
-Pancheshwar,loc-74005,2016,district,Pancheshwar,local,dis-04
-Patan,loc-74006,2016,district,Patan,local,dis-04
-Purchaudi,loc-74007,2016,district,Purchaudi,local,dis-04
-Shivanath,loc-74008,2016,district,Shivanath,local,dis-04
-Sigas,loc-74009,2016,district,Sigas,local,dis-04
-Surnaya,loc-74010,2016,district,Surnaya,local,dis-04
-Apihimal,loc-75001,2016,district,Apihimal,local,dis-16
-Byas,loc-75002,2016,district,Byas,local,dis-16
-Dunhu,loc-75003,2016,district,Dunhu,local,dis-16
-Lekam,loc-75004,2016,district,Lekam,local,dis-16
-Mahakali,loc-75005,2016,district,Mahakali,local,dis-16
-Malikaarjun,loc-75006,2016,district,Malikaarjun,local,dis-16
-Marma,loc-75007,2016,district,Marma,local,dis-16
-Naugad,loc-75008,2016,district,Naugad,local,dis-16
-Shailyashikhar,loc-75009,2016,district,Shailyashikhar,local,dis-16
-Binayee Tribeni,loc-76001,2016,district,Binayee Tribeni,local,dis-47
-Bulingtar,loc-76002,2016,district,Bulingtar,local,dis-47
-Bungdikali,loc-76003,2016,district,Bungdikali,local,dis-47
-Devchuli,loc-76004,2016,district,Devchuli,local,dis-47
-Gaidakot,loc-76005,2016,district,Gaidakot,local,dis-47
-Hupsekot,loc-76006,2016,district,Hupsekot,local,dis-47
-Kawasoti,loc-76007,2016,district,Kawasoti,local,dis-47
-Madhyabindu,loc-76008,2016,district,Madhyabindu,local,dis-47
-Chitawan National Park,loc-76099,2016,district,Chitawan National Park,local,dis-47
-Bhume,loc-77001,2016,district,Bhume,local,dis-59
-Putha Uttarganga,loc-77002,2016,district,Putha Uttarganga,local,dis-59
-Sisne,loc-77003,2016,district,Sisne,local,dis-59
-Dhorpatan Hunting Reserve,loc-77099,2016,district,Dhorpatan Hunting Reserve,local,dis-59
-Aathrai,loc-8001,2016,district,Aathrai,local,dis-74
-Chhathar,loc-8002,2016,district,Chhathar,local,dis-74
-Laligurans,loc-8003,2016,district,Laligurans,local,dis-74
-Menchayam,loc-8004,2016,district,Menchayam,local,dis-74
-Myanglung,loc-8005,2016,district,Myanglung,local,dis-74
-Phedap,loc-8006,2016,district,Phedap,local,dis-74
-Bhotkhola,loc-9001,2016,district,Bhotkhola,local,dis-62
-Chainpur,loc-9002,2016,district,Chainpur,local,dis-62
-Chichila,loc-9003,2016,district,Chichila,local,dis-62
-Dharmadevi,loc-9004,2016,district,Dharmadevi,local,dis-62
-Khandbari,loc-9005,2016,district,Khandbari,local,dis-62
-Madi,loc-9006,2016,district,Madi,local,dis-62
-Makalu,loc-9007,2016,district,Makalu,local,dis-62
-Panchakhapan,loc-9008,2016,district,Panchakhapan,local,dis-62
-Sabhapokhari,loc-9009,2016,district,Sabhapokhari,local,dis-62
-Silichong,loc-9010,2016,district,Silichong,local,dis-62
+Province No. 1,1,2016,country,Province No. 1,province,NP
+Province No. 2,2,2016,country,Province No. 2,province,NP
+Province No. 3,3,2016,country,Province No. 3,province,NP
+Province No. 4,4,2016,country,Province No. 4,province,NP
+Province No. 5,5,2016,country,Province No. 5,province,NP
+Province No. 6,6,2016,country,Province No. 6,province,NP
+Province No. 7,7,2016,country,Province No. 7,province,NP
+Achham,01,2016,province,Achham,district,7
+Arghakhanchi,02,2016,province,Arghakhanchi,district,5
+Baglung,03,2016,province,Baglung,district,4
+Baitadi,04,2016,province,Baitadi,district,7
+Bajhang,05,2016,province,Bajhang,district,7
+Bajura,06,2016,province,Bajura,district,7
+Banke,07,2016,province,Banke,district,5
+Bara,08,2016,province,Bara,district,2
+Bardiya,09,2016,province,Bardiya,district,5
+Bhaktapur,10,2016,province,Bhaktapur,district,3
+Bhojpur,11,2016,province,Bhojpur,district,1
+Chitwan,12,2016,province,Chitwan,district,3
+Dadeldhura,13,2016,province,Dadeldhura,district,7
+Dailekh,14,2016,province,Dailekh,district,6
+Dang,15,2016,province,Dang,district,5
+Darchula,16,2016,province,Darchula,district,7
+Dhading,17,2016,province,Dhading,district,3
+Dhankuta,18,2016,province,Dhankuta,district,1
+Dhanusa,19,2016,province,Dhanusa,district,2
+Dolakha,20,2016,province,Dolakha,district,3
+Dolpa,21,2016,province,Dolpa,district,6
+Doti,22,2016,province,Doti,district,7
+Gorkha,23,2016,province,Gorkha,district,4
+Gulmi,24,2016,province,Gulmi,district,5
+Humla,25,2016,province,Humla,district,6
+Ilam,26,2016,province,Ilam,district,1
+Jajarkot,27,2016,province,Jajarkot,district,6
+Jhapa,28,2016,province,Jhapa,district,1
+Jumla,29,2016,province,Jumla,district,6
+Kailali,30,2016,province,Kailali,district,7
+Kalikot,31,2016,province,Kalikot,district,6
+Kanchanpur,32,2016,province,Kanchanpur,district,7
+Kapilbastu,33,2016,province,Kapilbastu,district,5
+Kaski,34,2016,province,Kaski,district,4
+Kathmandu,35,2016,province,Kathmandu,district,3
+Kavrepalanchowk,36,2016,province,Kavrepalanchowk,district,3
+Khotang,37,2016,province,Khotang,district,1
+Lalitpur,38,2016,province,Lalitpur,district,3
+Lamjung,39,2016,province,Lamjung,district,4
+Mahottari,40,2016,province,Mahottari,district,2
+Makwanpur,41,2016,province,Makwanpur,district,3
+Manang,42,2016,province,Manang,district,4
+Morang,43,2016,province,Morang,district,1
+Mugu,44,2016,province,Mugu,district,6
+Mustang,45,2016,province,Mustang,district,4
+Myagdi,46,2016,province,Myagdi,district,4
+Nawalparasi East,47,2016,province,Nawalparasi East,district,4
+Nuwakot,48,2016,province,Nuwakot,district,3
+Okhaldhunga,49,2016,province,Okhaldhunga,district,1
+Palpa,50,2016,province,Palpa,district,5
+Panchthar,51,2016,province,Panchthar,district,1
+Parbat,52,2016,province,Parbat,district,4
+Parsa,53,2016,province,Parsa,district,2
+Pyuthan,54,2016,province,Pyuthan,district,5
+Ramechhap,55,2016,province,Ramechhap,district,3
+Rasuwa,56,2016,province,Rasuwa,district,3
+Rautahat,57,2016,province,Rautahat,district,2
+Rolpa,58,2016,province,Rolpa,district,5
+Rukum East,59,2016,province,Rukum East,district,5
+Rupandehi,60,2016,province,Rupandehi,district,5
+Salyan,61,2016,province,Salyan,district,6
+Sankhuwasabha,62,2016,province,Sankhuwasabha,district,1
+Saptari,63,2016,province,Saptari,district,2
+Sarlahi,64,2016,province,Sarlahi,district,2
+Sindhuli,65,2016,province,Sindhuli,district,3
+Sindhupalchowk,66,2016,province,Sindhupalchowk,district,3
+Siraha,67,2016,province,Siraha,district,2
+Solukhumbu,68,2016,province,Solukhumbu,district,1
+Sunsari,69,2016,province,Sunsari,district,1
+Surkhet,70,2016,province,Surkhet,district,6
+Syangja,71,2016,province,Syangja,district,4
+Tanahu,72,2016,province,Tanahu,district,4
+Taplejung,73,2016,province,Taplejung,district,1
+Terhathum,74,2016,province,Terhathum,district,1
+Udayapur,75,2016,province,Udayapur,district,1
+Nawalparasi West,76,2016,province,Nawalparasi West,district,5
+Rukum West,77,2016,province,Rukum West,district,6
+Aamchowk,10001,2016,district,Aamchowk,local,11
+Arun,10002,2016,district,Arun,local,11
+Bhojpur,10003,2016,district,Bhojpur,local,11
+Hatuwagadhi,10004,2016,district,Hatuwagadhi,local,11
+Pauwadungma,10005,2016,district,Pauwadungma,local,11
+Ramprasad Rai,10006,2016,district,Ramprasad Rai,local,11
+Salpasilichho,10007,2016,district,Salpasilichho,local,11
+Shadananda,10008,2016,district,Shadananda,local,11
+Tyamkemaiyung,10009,2016,district,Tyamkemaiyung,local,11
+Aathrai Tribeni,1001,2016,district,Aathrai Tribeni,local,73
+Maiwakhola,1002,2016,district,Maiwakhola,local,73
+Meringden,1003,2016,district,Meringden,local,73
+Mikwakhola,1004,2016,district,Mikwakhola,local,73
+Phaktanglung,1005,2016,district,Phaktanglung,local,73
+Phungling,1006,2016,district,Phungling,local,73
+Sidingba,1007,2016,district,Sidingba,local,73
+Sirijangha,1008,2016,district,Sirijangha,local,73
+Yangwarak,1009,2016,district,Yangwarak,local,73
+Dudhkaushika,11001,2016,district,Dudhkaushika,local,68
+Dudhkoshi,11002,2016,district,Dudhkoshi,local,68
+Khumbupasanglahmu,11003,2016,district,Khumbupasanglahmu,local,68
+Likhupike,11004,2016,district,Likhupike,local,68
+Mahakulung,11005,2016,district,Mahakulung,local,68
+Nechasalyan,11006,2016,district,Nechasalyan,local,68
+Solududhakunda,11007,2016,district,Solududhakunda,local,68
+Sotang,11008,2016,district,Sotang,local,68
+Champadevi,12001,2016,district,Champadevi,local,49
+Chisankhugadhi,12002,2016,district,Chisankhugadhi,local,49
+Khijidemba,12003,2016,district,Khijidemba,local,49
+Likhu,12004,2016,district,Likhu,local,49
+Manebhanjyang,12005,2016,district,Manebhanjyang,local,49
+Molung,12006,2016,district,Molung,local,49
+Siddhicharan,12007,2016,district,Siddhicharan,local,49
+Sunkoshi,12008,2016,district,Sunkoshi,local,49
+Ainselukhark,13001,2016,district,Ainselukhark,local,37
+Barahapokhari,13002,2016,district,Barahapokhari,local,37
+Diprung,13003,2016,district,Diprung,local,37
+Halesi Tuwachung,13004,2016,district,Halesi Tuwachung,local,37
+Jantedhunga,13005,2016,district,Jantedhunga,local,37
+Kepilasagadhi,13006,2016,district,Kepilasagadhi,local,37
+Khotehang,13007,2016,district,Khotehang,local,37
+Lamidanda,13008,2016,district,Lamidanda,local,37
+Rupakot Majhuwagadhi,13009,2016,district,Rupakot Majhuwagadhi,local,37
+Sakela,13010,2016,district,Sakela,local,37
+Belaka,14001,2016,district,Belaka,local,75
+Chaudandigadhi,14002,2016,district,Chaudandigadhi,local,75
+Katari,14003,2016,district,Katari,local,75
+Rautamai,14004,2016,district,Rautamai,local,75
+Sunkoshi,14005,2016,district,Sunkoshi,local,75
+Tapli,14006,2016,district,Tapli,local,75
+Triyuga,14007,2016,district,Triyuga,local,75
+Udayapurgadhi,14008,2016,district,Udayapurgadhi,local,75
+Koshi Tappu Wildlife Reserve,14099,2016,district,Koshi Tappu Wildlife Reserve,local,75
+Agnisair Krishna Savaran,15001,2016,district,Agnisair Krishna Savaran,local,63
+Balan Bihul,15002,2016,district,Balan Bihul,local,63
+Belhi Chapena,15003,2016,district,Belhi Chapena,local,63
+Bishnupur,15004,2016,district,Bishnupur,local,63
+Bode Barsain,15005,2016,district,Bode Barsain,local,63
+Chhinnamasta,15006,2016,district,Chhinnamasta,local,63
+Dakneshwori,15007,2016,district,Dakneshwori,local,63
+Hanumannagar Kankalini,15008,2016,district,Hanumannagar Kankalini,local,63
+Kanchanrup,15009,2016,district,Kanchanrup,local,63
+Khadak,15010,2016,district,Khadak,local,63
+Mahadeva,15011,2016,district,Mahadeva,local,63
+Rajbiraj,15012,2016,district,Rajbiraj,local,63
+Rupani,15013,2016,district,Rupani,local,63
+Saptakoshi,15014,2016,district,Saptakoshi,local,63
+Shambhunath,15015,2016,district,Shambhunath,local,63
+Surunga,15016,2016,district,Surunga,local,63
+Tilathi Koiladi,15017,2016,district,Tilathi Koiladi,local,63
+Tirahut,15018,2016,district,Tirahut,local,63
+Koshi Tappu Wildlife Reserve,15099,2016,district,Koshi Tappu Wildlife Reserve,local,63
+Arnama,16001,2016,district,Arnama,local,67
+Aurahi,16002,2016,district,Aurahi,local,67
+Bariyarpatti,16003,2016,district,Bariyarpatti,local,67
+Bhagawanpur,16004,2016,district,Bhagawanpur,local,67
+Bishnupur,16005,2016,district,Bishnupur,local,67
+Dhangadhimai,16006,2016,district,Dhangadhimai,local,67
+Golbazar,16007,2016,district,Golbazar,local,67
+Kalyanpur,16008,2016,district,Kalyanpur,local,67
+Karjanha,16009,2016,district,Karjanha,local,67
+Lahan,16010,2016,district,Lahan,local,67
+Laxmipur Patari,16011,2016,district,Laxmipur Patari,local,67
+Mirchaiya,16012,2016,district,Mirchaiya,local,67
+Naraha,16013,2016,district,Naraha,local,67
+Nawarajpur,16014,2016,district,Nawarajpur,local,67
+Sakhuwanankarkatti,16015,2016,district,Sakhuwanankarkatti,local,67
+Siraha,16016,2016,district,Siraha,local,67
+Sukhipur,16017,2016,district,Sukhipur,local,67
+Aaurahi,17001,2016,district,Aaurahi,local,19
+Bateshwor,17002,2016,district,Bateshwor,local,19
+Bideha,17003,2016,district,Bideha,local,19
+Chhireshwornath,17004,2016,district,Chhireshwornath,local,19
+Dhanauji,17005,2016,district,Dhanauji,local,19
+Dhanusadham,17006,2016,district,Dhanusadham,local,19
+Ganeshman Charnath,17007,2016,district,Ganeshman Charnath,local,19
+Hansapur,17008,2016,district,Hansapur,local,19
+Janaknandani,17009,2016,district,Janaknandani,local,19
+Janakpur,17010,2016,district,Janakpur,local,19
+Kamala,17011,2016,district,Kamala,local,19
+Lakshminiya,17012,2016,district,Lakshminiya,local,19
+Mithila,17013,2016,district,Mithila,local,19
+Mithila Bihari,17014,2016,district,Mithila Bihari,local,19
+Mukhiyapatti Musarmiya,17015,2016,district,Mukhiyapatti Musarmiya,local,19
+Nagarain,17016,2016,district,Nagarain,local,19
+Sabaila,17017,2016,district,Sabaila,local,19
+Sahidnagar,17018,2016,district,Sahidnagar,local,19
+Aurahi,18001,2016,district,Aurahi,local,40
+Balwa,18002,2016,district,Balwa,local,40
+Bardibas,18003,2016,district,Bardibas,local,40
+Bhangaha,18004,2016,district,Bhangaha,local,40
+Ekdanra,18005,2016,district,Ekdanra,local,40
+Gaushala,18006,2016,district,Gaushala,local,40
+Jaleswor,18007,2016,district,Jaleswor,local,40
+Loharpatti,18008,2016,district,Loharpatti,local,40
+Mahottari,18009,2016,district,Mahottari,local,40
+Manra Siswa,18010,2016,district,Manra Siswa,local,40
+Matihani,18011,2016,district,Matihani,local,40
+Pipra,18012,2016,district,Pipra,local,40
+Ramgopalpur,18013,2016,district,Ramgopalpur,local,40
+Samsi,18014,2016,district,Samsi,local,40
+Sonama,18015,2016,district,Sonama,local,40
+Bagmati,19001,2016,district,Bagmati,local,64
+Balara,19002,2016,district,Balara,local,64
+Barahathawa,19003,2016,district,Barahathawa,local,64
+Basbariya,19004,2016,district,Basbariya,local,64
+Bishnu,19005,2016,district,Bishnu,local,64
+Bramhapuri,19006,2016,district,Bramhapuri,local,64
+Chakraghatta,19007,2016,district,Chakraghatta,local,64
+Chandranagar,19008,2016,district,Chandranagar,local,64
+Dhankaul,19009,2016,district,Dhankaul,local,64
+Godaita,19010,2016,district,Godaita,local,64
+Haripur,19011,2016,district,Haripur,local,64
+Haripurwa,19012,2016,district,Haripurwa,local,64
+Hariwan,19013,2016,district,Hariwan,local,64
+Ishworpur,19014,2016,district,Ishworpur,local,64
+Kabilasi,19015,2016,district,Kabilasi,local,64
+Kaudena,19016,2016,district,Kaudena,local,64
+Lalbandi,19017,2016,district,Lalbandi,local,64
+Malangawa,19018,2016,district,Malangawa,local,64
+Parsa,19019,2016,district,Parsa,local,64
+Ramnagar,19020,2016,district,Ramnagar,local,64
+Dudhouli,20001,2016,district,Dudhouli,local,65
+Ghanglekh,20002,2016,district,Ghanglekh,local,65
+Golanjor,20003,2016,district,Golanjor,local,65
+Hariharpurgadhi,20004,2016,district,Hariharpurgadhi,local,65
+Kamalamai,20005,2016,district,Kamalamai,local,65
+Marin,20006,2016,district,Marin,local,65
+Phikkal,20007,2016,district,Phikkal,local,65
+Sunkoshi,20008,2016,district,Sunkoshi,local,65
+Tinpatan,20009,2016,district,Tinpatan,local,65
+Falelung,2001,2016,district,Falelung,local,51
+Falgunanda,2002,2016,district,Falgunanda,local,51
+Hilihang,2003,2016,district,Hilihang,local,51
+Kummayak,2004,2016,district,Kummayak,local,51
+Miklajung,2005,2016,district,Miklajung,local,51
+Phidim,2006,2016,district,Phidim,local,51
+Tumbewa,2007,2016,district,Tumbewa,local,51
+Yangwarak,2008,2016,district,Yangwarak,local,51
+Doramba,21001,2016,district,Doramba,local,55
+Gokulganga,21002,2016,district,Gokulganga,local,55
+Khadadevi,21003,2016,district,Khadadevi,local,55
+Likhu,21004,2016,district,Likhu,local,55
+Manthali,21005,2016,district,Manthali,local,55
+Ramechhap,21006,2016,district,Ramechhap,local,55
+Sunapati,21007,2016,district,Sunapati,local,55
+Umakunda,21008,2016,district,Umakunda,local,55
+Baiteshwor,22001,2016,district,Baiteshwor,local,20
+Bhimeshwor,22002,2016,district,Bhimeshwor,local,20
+Bigu,22003,2016,district,Bigu,local,20
+Gaurishankar,22004,2016,district,Gaurishankar,local,20
+Jiri,22005,2016,district,Jiri,local,20
+Kalinchok,22006,2016,district,Kalinchok,local,20
+Melung,22007,2016,district,Melung,local,20
+Sailung,22008,2016,district,Sailung,local,20
+Tamakoshi,22009,2016,district,Tamakoshi,local,20
+Balefi,23001,2016,district,Balefi,local,66
+Barhabise,23002,2016,district,Barhabise,local,66
+Bhotekoshi,23003,2016,district,Bhotekoshi,local,66
+Chautara Sangachokgadhi,23004,2016,district,Chautara Sangachokgadhi,local,66
+Helambu,23005,2016,district,Helambu,local,66
+Indrawati,23006,2016,district,Indrawati,local,66
+Jugal,23007,2016,district,Jugal,local,66
+Lisangkhu Pakhar,23008,2016,district,Lisangkhu Pakhar,local,66
+Melamchi,23009,2016,district,Melamchi,local,66
+Panchpokhari Thangpal,23010,2016,district,Panchpokhari Thangpal,local,66
+Sunkoshi,23011,2016,district,Sunkoshi,local,66
+Tripurasundari,23012,2016,district,Tripurasundari,local,66
+Banepa,24001,2016,district,Banepa,local,36
+Bethanchowk,24002,2016,district,Bethanchowk,local,36
+Bhumlu,24003,2016,district,Bhumlu,local,36
+Chaurideurali,24004,2016,district,Chaurideurali,local,36
+Dhulikhel,24005,2016,district,Dhulikhel,local,36
+Khanikhola,24006,2016,district,Khanikhola,local,36
+Mahabharat,24007,2016,district,Mahabharat,local,36
+Mandandeupur,24008,2016,district,Mandandeupur,local,36
+Namobuddha,24009,2016,district,Namobuddha,local,36
+Panauti,24010,2016,district,Panauti,local,36
+Panchkhal,24011,2016,district,Panchkhal,local,36
+Roshi,24012,2016,district,Roshi,local,36
+Temal,24013,2016,district,Temal,local,36
+Bagmati,25001,2016,district,Bagmati,local,38
+Godawari,25002,2016,district,Godawari,local,38
+Konjyosom,25003,2016,district,Konjyosom,local,38
+Lalitpur,25004,2016,district,Lalitpur,local,38
+Mahalaxmi,25005,2016,district,Mahalaxmi,local,38
+Mahankal,25006,2016,district,Mahankal,local,38
+Bhaktapur,26001,2016,district,Bhaktapur,local,10
+Changunarayan,26002,2016,district,Changunarayan,local,10
+Madhyapur Thimi,26003,2016,district,Madhyapur Thimi,local,10
+Suryabinayak,26004,2016,district,Suryabinayak,local,10
+Budhanilakantha,27001,2016,district,Budhanilakantha,local,35
+Chandragiri,27002,2016,district,Chandragiri,local,35
+Dakshinkali,27003,2016,district,Dakshinkali,local,35
+Gokarneshwor,27004,2016,district,Gokarneshwor,local,35
+Kageshwori Manahora,27005,2016,district,Kageshwori Manahora,local,35
+Kathmandu,27006,2016,district,Kathmandu,local,35
+Kirtipur,27007,2016,district,Kirtipur,local,35
+Nagarjun,27008,2016,district,Nagarjun,local,35
+Shankharapur,27009,2016,district,Shankharapur,local,35
+Tarakeshwor,27010,2016,district,Tarakeshwor,local,35
+Tokha,27011,2016,district,Tokha,local,35
+Belkotgadhi,28001,2016,district,Belkotgadhi,local,48
+Bidur,28002,2016,district,Bidur,local,48
+Dupcheshwar,28003,2016,district,Dupcheshwar,local,48
+Kakani,28004,2016,district,Kakani,local,48
+Kispang,28005,2016,district,Kispang,local,48
+Likhu,28006,2016,district,Likhu,local,48
+Meghang,28007,2016,district,Meghang,local,48
+Panchakanya,28008,2016,district,Panchakanya,local,48
+Shivapuri,28009,2016,district,Shivapuri,local,48
+Suryagadhi,28010,2016,district,Suryagadhi,local,48
+Tadi,28011,2016,district,Tadi,local,48
+Tarkeshwar,28012,2016,district,Tarkeshwar,local,48
+Shivapuri Watershed And Wildlife Reserve,28088,2016,district,Shivapuri Watershed And Wildlife Reserve,local,48
+Langtang National Park,28099,2016,district,Langtang National Park,local,48
+Gosaikunda,29001,2016,district,Gosaikunda,local,56
+Kalika,29002,2016,district,Kalika,local,56
+Naukunda,29003,2016,district,Naukunda,local,56
+Parbati Kunda,29004,2016,district,Parbati Kunda,local,56
+Uttargaya,29005,2016,district,Uttargaya,local,56
+Benighat Rorang,30001,2016,district,Benighat Rorang,local,17
+Dhunibesi,30002,2016,district,Dhunibesi,local,17
+Gajuri,30003,2016,district,Gajuri,local,17
+Galchi,30004,2016,district,Galchi,local,17
+Gangajamuna,30005,2016,district,Gangajamuna,local,17
+Jwalamukhi,30006,2016,district,Jwalamukhi,local,17
+Khaniyabash,30007,2016,district,Khaniyabash,local,17
+Netrawati,30008,2016,district,Netrawati,local,17
+Nilakantha,30009,2016,district,Nilakantha,local,17
+Chulachuli,3001,2016,district,Chulachuli,local,26
+Rubi Valley,30010,2016,district,Rubi Valley,local,17
+Siddhalek,30011,2016,district,Siddhalek,local,17
+Thakre,30012,2016,district,Thakre,local,17
+Tripura Sundari,30013,2016,district,Tripura Sundari,local,17
+Deumai,3002,2016,district,Deumai,local,26
+Fakphokthum,3003,2016,district,Fakphokthum,local,26
+Illam,3004,2016,district,Illam,local,26
+Mai,3005,2016,district,Mai,local,26
+Maijogmai,3006,2016,district,Maijogmai,local,26
+Mangsebung,3007,2016,district,Mangsebung,local,26
+Rong,3008,2016,district,Rong,local,26
+Sandakpur,3009,2016,district,Sandakpur,local,26
+Suryodaya,3010,2016,district,Suryodaya,local,26
+Bagmati,31001,2016,district,Bagmati,local,41
+Bakaiya,31002,2016,district,Bakaiya,local,41
+Bhimphedi,31003,2016,district,Bhimphedi,local,41
+Hetauda,31004,2016,district,Hetauda,local,41
+Indrasarowar,31005,2016,district,Indrasarowar,local,41
+Kailash,31006,2016,district,Kailash,local,41
+Makawanpurgadhi,31007,2016,district,Makawanpurgadhi,local,41
+Manahari,31008,2016,district,Manahari,local,41
+Raksirang,31009,2016,district,Raksirang,local,41
+Thaha,31010,2016,district,Thaha,local,41
+Parsa Wildlife Reserve,31088,2016,district,Parsa Wildlife Reserve,local,41
+Chitawan National Park,31099,2016,district,Chitawan National Park,local,41
+Baudhimai,32001,2016,district,Baudhimai,local,57
+Brindaban,32002,2016,district,Brindaban,local,57
+Chandrapur,32003,2016,district,Chandrapur,local,57
+Dewahhi Gonahi,32004,2016,district,Dewahhi Gonahi,local,57
+Durga Bhagwati,32005,2016,district,Durga Bhagwati,local,57
+Gadhimai,32006,2016,district,Gadhimai,local,57
+Garuda,32007,2016,district,Garuda,local,57
+Gaur,32008,2016,district,Gaur,local,57
+Gujara,32009,2016,district,Gujara,local,57
+Ishanath,32010,2016,district,Ishanath,local,57
+Katahariya,32011,2016,district,Katahariya,local,57
+Madhav Narayan,32012,2016,district,Madhav Narayan,local,57
+Maulapur,32013,2016,district,Maulapur,local,57
+Paroha,32014,2016,district,Paroha,local,57
+Phatuwa Bijayapur,32015,2016,district,Phatuwa Bijayapur,local,57
+Rajdevi,32016,2016,district,Rajdevi,local,57
+Rajpur,32017,2016,district,Rajpur,local,57
+Yemunamai,32018,2016,district,Yemunamai,local,57
+Adarshkotwal,33001,2016,district,Adarshkotwal,local,08
+Baragadhi,33002,2016,district,Baragadhi,local,08
+Bishrampur,33003,2016,district,Bishrampur,local,08
+Devtal,33004,2016,district,Devtal,local,08
+Jitpur Simara,33005,2016,district,Jitpur Simara,local,08
+Kalaiya,33006,2016,district,Kalaiya,local,08
+Karaiyamai,33007,2016,district,Karaiyamai,local,08
+Kolhabi,33008,2016,district,Kolhabi,local,08
+Mahagadhimai,33009,2016,district,Mahagadhimai,local,08
+Nijgadh,33010,2016,district,Nijgadh,local,08
+Pacharauta,33011,2016,district,Pacharauta,local,08
+Parwanipur,33012,2016,district,Parwanipur,local,08
+Pheta,33013,2016,district,Pheta,local,08
+Prasauni,33014,2016,district,Prasauni,local,08
+Simraungadh,33015,2016,district,Simraungadh,local,08
+Suwarna,33016,2016,district,Suwarna,local,08
+Parsa Wildlife Reserve,33099,2016,district,Parsa Wildlife Reserve,local,08
+Bahudaramai,34001,2016,district,Bahudaramai,local,53
+Bindabasini,34002,2016,district,Bindabasini,local,53
+Birgunj,34003,2016,district,Birgunj,local,53
+Chhipaharmai,34004,2016,district,Chhipaharmai,local,53
+Dhobini,34005,2016,district,Dhobini,local,53
+Jagarnathpur,34006,2016,district,Jagarnathpur,local,53
+Jirabhawani,34007,2016,district,Jirabhawani,local,53
+Kalikamai,34008,2016,district,Kalikamai,local,53
+Pakahamainpur,34009,2016,district,Pakahamainpur,local,53
+Parsagadhi,34010,2016,district,Parsagadhi,local,53
+Paterwasugauli,34011,2016,district,Paterwasugauli,local,53
+Pokhariya,34012,2016,district,Pokhariya,local,53
+Sakhuwaprasauni,34013,2016,district,Sakhuwaprasauni,local,53
+Thori,34014,2016,district,Thori,local,53
+Chitwan National Park,34099,2016,district,Chitwan National Park,local,53
+Bharatpur,35001,2016,district,Bharatpur,local,12
+Ichchhyakamana,35002,2016,district,Ichchhyakamana,local,12
+Kalika,35003,2016,district,Kalika,local,12
+Khairahani,35004,2016,district,Khairahani,local,12
+Madi,35005,2016,district,Madi,local,12
+Rapti,35006,2016,district,Rapti,local,12
+Ratnanagar,35007,2016,district,Ratnanagar,local,12
+Chitawan National Park,35099,2016,district,Chitawan National Park,local,12
+Aarughat,36001,2016,district,Aarughat,local,23
+Ajirkot,36002,2016,district,Ajirkot,local,23
+Bhimsen,36003,2016,district,Bhimsen,local,23
+Chum Nubri,36004,2016,district,Chum Nubri,local,23
+Dharche,36005,2016,district,Dharche,local,23
+Gandaki,36006,2016,district,Gandaki,local,23
+Gorkha,36007,2016,district,Gorkha,local,23
+Palungtar,36008,2016,district,Palungtar,local,23
+Sahid Lakhan,36009,2016,district,Sahid Lakhan,local,23
+Siranchok,36010,2016,district,Siranchok,local,23
+Sulikot,36011,2016,district,Sulikot,local,23
+Besishahar,37001,2016,district,Besishahar,local,39
+Dordi,37002,2016,district,Dordi,local,39
+Dudhpokhari,37003,2016,district,Dudhpokhari,local,39
+Kwholasothar,37004,2016,district,Kwholasothar,local,39
+Madhyanepal,37005,2016,district,Madhyanepal,local,39
+Marsyangdi,37006,2016,district,Marsyangdi,local,39
+Rainas,37007,2016,district,Rainas,local,39
+Sundarbazar,37008,2016,district,Sundarbazar,local,39
+Anbukhaireni,38001,2016,district,Anbukhaireni,local,72
+Bandipur,38002,2016,district,Bandipur,local,72
+Bhanu,38003,2016,district,Bhanu,local,72
+Bhimad,38004,2016,district,Bhimad,local,72
+Byas,38005,2016,district,Byas,local,72
+Devghat,38006,2016,district,Devghat,local,72
+Ghiring,38007,2016,district,Ghiring,local,72
+Myagde,38008,2016,district,Myagde,local,72
+Rhishing,38009,2016,district,Rhishing,local,72
+Shuklagandaki,38010,2016,district,Shuklagandaki,local,72
+Aandhikhola,39001,2016,district,Aandhikhola,local,71
+Arjunchaupari,39002,2016,district,Arjunchaupari,local,71
+Bhirkot,39003,2016,district,Bhirkot,local,71
+Biruwa,39004,2016,district,Biruwa,local,71
+Chapakot,39005,2016,district,Chapakot,local,71
+Galyang,39006,2016,district,Galyang,local,71
+Harinas,39007,2016,district,Harinas,local,71
+Kaligandagi,39008,2016,district,Kaligandagi,local,71
+Phedikhola,39009,2016,district,Phedikhola,local,71
+Putalibazar,39010,2016,district,Putalibazar,local,71
+Waling,39011,2016,district,Waling,local,71
+Annapurna,40001,2016,district,Annapurna,local,34
+Machhapuchchhre,40002,2016,district,Machhapuchchhre,local,34
+Madi,40003,2016,district,Madi,local,34
+Pokhara Lekhnath,40004,2016,district,Pokhara Lekhnath,local,34
+Rupa,40005,2016,district,Rupa,local,34
+Arjundhara,4001,2016,district,Arjundhara,local,28
+Barhadashi,4002,2016,district,Barhadashi,local,28
+Bhadrapur,4003,2016,district,Bhadrapur,local,28
+Birtamod,4004,2016,district,Birtamod,local,28
+Buddhashanti,4005,2016,district,Buddhashanti,local,28
+Damak,4006,2016,district,Damak,local,28
+Gauradhaha,4007,2016,district,Gauradhaha,local,28
+Gauriganj,4008,2016,district,Gauriganj,local,28
+Haldibari,4009,2016,district,Haldibari,local,28
+Jhapa,4010,2016,district,Jhapa,local,28
+Kachankawal,4011,2016,district,Kachankawal,local,28
+Kamal,4012,2016,district,Kamal,local,28
+Kankai,4013,2016,district,Kankai,local,28
+Mechinagar,4014,2016,district,Mechinagar,local,28
+Shivasataxi,4015,2016,district,Shivasataxi,local,28
+Chame,41001,2016,district,Chame,local,42
+Narphu,41002,2016,district,Narphu,local,42
+Nashong,41003,2016,district,Nashong,local,42
+Neshyang,41004,2016,district,Neshyang,local,42
+Barhagaun Muktikhsetra,42001,2016,district,Barhagaun Muktikhsetra,local,45
+Dalome,42002,2016,district,Dalome,local,45
+Gharapjhong,42003,2016,district,Gharapjhong,local,45
+Lomanthang,42004,2016,district,Lomanthang,local,45
+Thasang,42005,2016,district,Thasang,local,45
+Annapurna,43001,2016,district,Annapurna,local,46
+Beni,43002,2016,district,Beni,local,46
+Dhaulagiri,43003,2016,district,Dhaulagiri,local,46
+Malika,43004,2016,district,Malika,local,46
+Mangala,43005,2016,district,Mangala,local,46
+Raghuganga,43006,2016,district,Raghuganga,local,46
+Dhorpatan Hunting Reserve,43099,2016,district,Dhorpatan Hunting Reserve,local,46
+Bihadi,44001,2016,district,Bihadi,local,52
+Jaljala,44002,2016,district,Jaljala,local,52
+Kushma,44003,2016,district,Kushma,local,52
+Mahashila,44004,2016,district,Mahashila,local,52
+Modi,44005,2016,district,Modi,local,52
+Painyu,44006,2016,district,Painyu,local,52
+Phalebas,44007,2016,district,Phalebas,local,52
+Badigad,45001,2016,district,Badigad,local,03
+Baglung,45002,2016,district,Baglung,local,03
+Bareng,45003,2016,district,Bareng,local,03
+Dhorpatan,45004,2016,district,Dhorpatan,local,03
+Galkot,45005,2016,district,Galkot,local,03
+Jaimuni,45006,2016,district,Jaimuni,local,03
+Kanthekhola,45007,2016,district,Kanthekhola,local,03
+Nisikhola,45008,2016,district,Nisikhola,local,03
+Taman Khola,45009,2016,district,Taman Khola,local,03
+Tara Khola,45010,2016,district,Tara Khola,local,03
+Dhorpatan Hunting Reserve,45099,2016,district,Dhorpatan Hunting Reserve,local,03
+Chandrakot,46001,2016,district,Chandrakot,local,24
+Chatrakot,46002,2016,district,Chatrakot,local,24
+Dhurkot,46003,2016,district,Dhurkot,local,24
+Gulmidarbar,46004,2016,district,Gulmidarbar,local,24
+Isma,46005,2016,district,Isma,local,24
+Kaligandaki,46006,2016,district,Kaligandaki,local,24
+Madane,46007,2016,district,Madane,local,24
+Malika,46008,2016,district,Malika,local,24
+Musikot,46009,2016,district,Musikot,local,24
+Resunga,46010,2016,district,Resunga,local,24
+Ruru,46011,2016,district,Ruru,local,24
+Satyawati,46012,2016,district,Satyawati,local,24
+Bagnaskali,47001,2016,district,Bagnaskali,local,50
+Mathagadhi,47002,2016,district,Mathagadhi,local,50
+Nisdi,47003,2016,district,Nisdi,local,50
+Purbakhola,47004,2016,district,Purbakhola,local,50
+Rainadevi Chhahara,47005,2016,district,Rainadevi Chhahara,local,50
+Rambha,47006,2016,district,Rambha,local,50
+Rampur,47007,2016,district,Rampur,local,50
+Ribdikot,47008,2016,district,Ribdikot,local,50
+Tansen,47009,2016,district,Tansen,local,50
+Tinau,47010,2016,district,Tinau,local,50
+Bardaghat,48001,2016,district,Bardaghat,local,76
+Palhi Nandan,48002,2016,district,Palhi Nandan,local,76
+Pratappur,48003,2016,district,Pratappur,local,76
+Ramgram,48004,2016,district,Ramgram,local,76
+Sarawal,48005,2016,district,Sarawal,local,76
+Sunwal,48006,2016,district,Sunwal,local,76
+Susta,48007,2016,district,Susta,local,76
+Butwal,49001,2016,district,Butwal,local,60
+Devdaha,49002,2016,district,Devdaha,local,60
+Gaidahawa,49003,2016,district,Gaidahawa,local,60
+Kanchan,49004,2016,district,Kanchan,local,60
+Kotahimai,49005,2016,district,Kotahimai,local,60
+Lumbini Sanskritik,49006,2016,district,Lumbini Sanskritik,local,60
+Marchawari,49007,2016,district,Marchawari,local,60
+Mayadevi,49008,2016,district,Mayadevi,local,60
+Omsatiya,49009,2016,district,Omsatiya,local,60
+Rohini,49010,2016,district,Rohini,local,60
+Sainamaina,49011,2016,district,Sainamaina,local,60
+Sammarimai,49012,2016,district,Sammarimai,local,60
+Siddharthanagar,49013,2016,district,Siddharthanagar,local,60
+Siyari,49014,2016,district,Siyari,local,60
+Sudhdhodhan,49015,2016,district,Sudhdhodhan,local,60
+Tillotama,49016,2016,district,Tillotama,local,60
+Lumbini Sanskritik Development Area,49099,2016,district,Lumbini Sanskritik Development Area,local,60
+Banganga,50001,2016,district,Banganga,local,33
+Bijayanagar,50002,2016,district,Bijayanagar,local,33
+Buddhabhumi,50003,2016,district,Buddhabhumi,local,33
+Kapilbastu,50004,2016,district,Kapilbastu,local,33
+Krishnanagar,50005,2016,district,Krishnanagar,local,33
+Maharajgunj,50006,2016,district,Maharajgunj,local,33
+Mayadevi,50007,2016,district,Mayadevi,local,33
+Shivaraj,50008,2016,district,Shivaraj,local,33
+Suddhodhan,50009,2016,district,Suddhodhan,local,33
+Belbari,5001,2016,district,Belbari,local,43
+Yashodhara,50010,2016,district,Yashodhara,local,33
+Biratnagar,5002,2016,district,Biratnagar,local,43
+Budhiganga,5003,2016,district,Budhiganga,local,43
+Dhanpalthan,5004,2016,district,Dhanpalthan,local,43
+Gramthan,5005,2016,district,Gramthan,local,43
+Jahada,5006,2016,district,Jahada,local,43
+Kanepokhari,5007,2016,district,Kanepokhari,local,43
+Katahari,5008,2016,district,Katahari,local,43
+Kerabari,5009,2016,district,Kerabari,local,43
+Letang,5010,2016,district,Letang,local,43
+Miklajung,5011,2016,district,Miklajung,local,43
+Patahrishanishchare,5012,2016,district,Patahrishanishchare,local,43
+Rangeli,5013,2016,district,Rangeli,local,43
+Ratuwamai,5014,2016,district,Ratuwamai,local,43
+Sundarharaicha,5015,2016,district,Sundarharaicha,local,43
+Sunwarshi,5016,2016,district,Sunwarshi,local,43
+Uralabari,5017,2016,district,Uralabari,local,43
+Bhumekasthan,51001,2016,district,Bhumekasthan,local,02
+Chhatradev,51002,2016,district,Chhatradev,local,02
+Malarani,51003,2016,district,Malarani,local,02
+Panini,51004,2016,district,Panini,local,02
+Sandhikharka,51005,2016,district,Sandhikharka,local,02
+Sitganga,51006,2016,district,Sitganga,local,02
+Ayirabati,52001,2016,district,Ayirabati,local,54
+Gaumukhi,52002,2016,district,Gaumukhi,local,54
+Jhimruk,52003,2016,district,Jhimruk,local,54
+Mallarani,52004,2016,district,Mallarani,local,54
+Mandavi,52005,2016,district,Mandavi,local,54
+Naubahini,52006,2016,district,Naubahini,local,54
+Pyuthan,52007,2016,district,Pyuthan,local,54
+Sarumarani,52008,2016,district,Sarumarani,local,54
+Sworgadwary,52009,2016,district,Sworgadwary,local,54
+Duikholi,53001,2016,district,Duikholi,local,58
+Lungri,53002,2016,district,Lungri,local,58
+Madi,53003,2016,district,Madi,local,58
+Rolpa,53004,2016,district,Rolpa,local,58
+Runtigadi,53005,2016,district,Runtigadi,local,58
+Sukidaha,53006,2016,district,Sukidaha,local,58
+Sunchhahari,53007,2016,district,Sunchhahari,local,58
+Suwarnabati,53008,2016,district,Suwarnabati,local,58
+Thawang,53009,2016,district,Thawang,local,58
+Tribeni,53010,2016,district,Tribeni,local,58
+Aathbiskot,54001,2016,district,Aathbiskot,local,77
+Banfikot,54002,2016,district,Banfikot,local,77
+Chaurjahari,54003,2016,district,Chaurjahari,local,77
+Musikot,54004,2016,district,Musikot,local,77
+Sani Bheri,54005,2016,district,Sani Bheri,local,77
+Tribeni,54006,2016,district,Tribeni,local,77
+Bagchaur,55001,2016,district,Bagchaur,local,61
+Bangad Kupinde,55002,2016,district,Bangad Kupinde,local,61
+Chhatreshwori,55003,2016,district,Chhatreshwori,local,61
+Darma,55004,2016,district,Darma,local,61
+Dhorchaur,55005,2016,district,Dhorchaur,local,61
+Kalimati,55006,2016,district,Kalimati,local,61
+Kapurkot,55007,2016,district,Kapurkot,local,61
+Kumakhmalika,55008,2016,district,Kumakhmalika,local,61
+Sharada,55009,2016,district,Sharada,local,61
+Tribeni,55010,2016,district,Tribeni,local,61
+Babai,56001,2016,district,Babai,local,15
+Banglachuli,56002,2016,district,Banglachuli,local,15
+Dangisharan,56003,2016,district,Dangisharan,local,15
+Gadhawa,56004,2016,district,Gadhawa,local,15
+Ghorahi,56005,2016,district,Ghorahi,local,15
+Lamahi,56006,2016,district,Lamahi,local,15
+Rajpur,56007,2016,district,Rajpur,local,15
+Rapti,56008,2016,district,Rapti,local,15
+Shantinagar,56009,2016,district,Shantinagar,local,15
+Tulsipur,56010,2016,district,Tulsipur,local,15
+Baijanath,57001,2016,district,Baijanath,local,07
+Duduwa,57002,2016,district,Duduwa,local,07
+Janki,57003,2016,district,Janki,local,07
+Khajura,57004,2016,district,Khajura,local,07
+Kohalpur,57005,2016,district,Kohalpur,local,07
+Narainapur,57006,2016,district,Narainapur,local,07
+Nepalgunj,57007,2016,district,Nepalgunj,local,07
+Rapti Sonari,57008,2016,district,Rapti Sonari,local,07
+Badhaiyatal,58001,2016,district,Badhaiyatal,local,09
+Bansagadhi,58002,2016,district,Bansagadhi,local,09
+Barbardiya,58003,2016,district,Barbardiya,local,09
+Geruwa,58004,2016,district,Geruwa,local,09
+Gulariya,58005,2016,district,Gulariya,local,09
+Madhuwan,58006,2016,district,Madhuwan,local,09
+Rajapur,58007,2016,district,Rajapur,local,09
+Thakurbaba,58008,2016,district,Thakurbaba,local,09
+Bardiya National Park,58099,2016,district,Bardiya National Park,local,09
+Barahtal,59001,2016,district,Barahtal,local,70
+Bheriganga,59002,2016,district,Bheriganga,local,70
+Birendranagar,59003,2016,district,Birendranagar,local,70
+Chaukune,59004,2016,district,Chaukune,local,70
+Chingad,59005,2016,district,Chingad,local,70
+Gurbhakot,59006,2016,district,Gurbhakot,local,70
+Lekbeshi,59007,2016,district,Lekbeshi,local,70
+Panchpuri,59008,2016,district,Panchpuri,local,70
+Simta,59009,2016,district,Simta,local,70
+Aathabis,60001,2016,district,Aathabis,local,14
+Bhagawatimai,60002,2016,district,Bhagawatimai,local,14
+Bhairabi,60003,2016,district,Bhairabi,local,14
+Chamunda Bindrasaini,60004,2016,district,Chamunda Bindrasaini,local,14
+Dullu,60005,2016,district,Dullu,local,14
+Dungeshwor,60006,2016,district,Dungeshwor,local,14
+Gurans,60007,2016,district,Gurans,local,14
+Mahabu,60008,2016,district,Mahabu,local,14
+Narayan,60009,2016,district,Narayan,local,14
+Barah,6001,2016,district,Barah,local,69
+Naumule,60010,2016,district,Naumule,local,14
+Thantikandh,60011,2016,district,Thantikandh,local,14
+Barju,6002,2016,district,Barju,local,69
+Bhokraha,6003,2016,district,Bhokraha,local,69
+Dewanganj,6004,2016,district,Dewanganj,local,69
+Dharan,6005,2016,district,Dharan,local,69
+Duhabi,6006,2016,district,Duhabi,local,69
+Gadhi,6007,2016,district,Gadhi,local,69
+Harinagara,6008,2016,district,Harinagara,local,69
+Inaruwa,6009,2016,district,Inaruwa,local,69
+Itahari,6010,2016,district,Itahari,local,69
+Koshi,6011,2016,district,Koshi,local,69
+Ramdhuni,6012,2016,district,Ramdhuni,local,69
+Koshi Tappu Wildlife Reserve,6099,2016,district,Koshi Tappu Wildlife Reserve,local,69
+Barekot,61001,2016,district,Barekot,local,27
+Bheri,61002,2016,district,Bheri,local,27
+Chhedagad,61003,2016,district,Chhedagad,local,27
+Junichande,61004,2016,district,Junichande,local,27
+Kuse,61005,2016,district,Kuse,local,27
+Shiwalaya,61006,2016,district,Shiwalaya,local,27
+Tribeni Nalagad,61007,2016,district,Tribeni Nalagad,local,27
+Chharka Tangsong,62001,2016,district,Chharka Tangsong,local,21
+Dolpo Buddha,62002,2016,district,Dolpo Buddha,local,21
+Jagadulla,62003,2016,district,Jagadulla,local,21
+Kaike,62004,2016,district,Kaike,local,21
+Mudkechula,62005,2016,district,Mudkechula,local,21
+Shey Phoksundo,62006,2016,district,Shey Phoksundo,local,21
+Thuli Bheri,62007,2016,district,Thuli Bheri,local,21
+Tripurasundari,62008,2016,district,Tripurasundari,local,21
+Chandannath,63001,2016,district,Chandannath,local,29
+Guthichaur,63002,2016,district,Guthichaur,local,29
+Hima,63003,2016,district,Hima,local,29
+Kanakasundari,63004,2016,district,Kanakasundari,local,29
+Patrasi,63005,2016,district,Patrasi,local,29
+Sinja,63006,2016,district,Sinja,local,29
+Tatopani,63007,2016,district,Tatopani,local,29
+Tila,63008,2016,district,Tila,local,29
+Kalika,64001,2016,district,Kalika,local,31
+Khandachakra,64002,2016,district,Khandachakra,local,31
+Mahawai,64003,2016,district,Mahawai,local,31
+Naraharinath,64004,2016,district,Naraharinath,local,31
+Pachaljharana,64005,2016,district,Pachaljharana,local,31
+Palata,64006,2016,district,Palata,local,31
+Raskot,64007,2016,district,Raskot,local,31
+Sanni Tribeni,64008,2016,district,Sanni Tribeni,local,31
+Tilagufa,64009,2016,district,Tilagufa,local,31
+Chhayanath Rara,65001,2016,district,Chhayanath Rara,local,44
+Khatyad,65002,2016,district,Khatyad,local,44
+Mugum Karmarong,65003,2016,district,Mugum Karmarong,local,44
+Soru,65004,2016,district,Soru,local,44
+Adanchuli,66001,2016,district,Adanchuli,local,25
+Chankheli,66002,2016,district,Chankheli,local,25
+Kharpunath,66003,2016,district,Kharpunath,local,25
+Namkha,66004,2016,district,Namkha,local,25
+Sarkegad,66005,2016,district,Sarkegad,local,25
+Simkot,66006,2016,district,Simkot,local,25
+Tanjakot,66007,2016,district,Tanjakot,local,25
+Badimalika,67001,2016,district,Badimalika,local,06
+Budhiganga,67002,2016,district,Budhiganga,local,06
+Budhinanda,67003,2016,district,Budhinanda,local,06
+Chhededaha,67004,2016,district,Chhededaha,local,06
+Gaumul,67005,2016,district,Gaumul,local,06
+Himali,67006,2016,district,Himali,local,06
+Pandav Gupha,67007,2016,district,Pandav Gupha,local,06
+Swami Kartik,67008,2016,district,Swami Kartik,local,06
+Tribeni,67009,2016,district,Tribeni,local,06
+Khaptad National Park,67099,2016,district,Khaptad National Park,local,06
+Bithadchir,68001,2016,district,Bithadchir,local,05
+Bungal,68002,2016,district,Bungal,local,05
+Chabispathivera,68003,2016,district,Chabispathivera,local,05
+Durgathali,68004,2016,district,Durgathali,local,05
+Jayaprithivi,68005,2016,district,Jayaprithivi,local,05
+Kanda,68006,2016,district,Kanda,local,05
+Kedarseu,68007,2016,district,Kedarseu,local,05
+Khaptadchhanna,68008,2016,district,Khaptadchhanna,local,05
+Masta,68009,2016,district,Masta,local,05
+Surma,68010,2016,district,Surma,local,05
+Talkot,68011,2016,district,Talkot,local,05
+Thalara,68012,2016,district,Thalara,local,05
+Khaptad National Park,68099,2016,district,Khaptad National Park,local,05
+Bannigadhi Jayagadh,69001,2016,district,Bannigadhi Jayagadh,local,01
+Chaurpati,69002,2016,district,Chaurpati,local,01
+Dhakari,69003,2016,district,Dhakari,local,01
+Kamalbazar,69004,2016,district,Kamalbazar,local,01
+Mangalsen,69005,2016,district,Mangalsen,local,01
+Mellekh,69006,2016,district,Mellekh,local,01
+Panchadewal Binayak,69007,2016,district,Panchadewal Binayak,local,01
+Ramaroshan,69008,2016,district,Ramaroshan,local,01
+Sanphebagar,69009,2016,district,Sanphebagar,local,01
+Turmakhad,69010,2016,district,Turmakhad,local,01
+Khaptad National Park,69099,2016,district,Khaptad National Park,local,01
+Adharsha,70001,2016,district,Adharsha,local,22
+Badikedar,70002,2016,district,Badikedar,local,22
+Bogtan,70003,2016,district,Bogtan,local,22
+Dipayal Silgadi,70004,2016,district,Dipayal Silgadi,local,22
+Jorayal,70005,2016,district,Jorayal,local,22
+K I Singh,70006,2016,district,K I Singh,local,22
+Purbichauki,70007,2016,district,Purbichauki,local,22
+Sayal,70008,2016,district,Sayal,local,22
+Shikhar,70009,2016,district,Shikhar,local,22
+Chaubise,7001,2016,district,Chaubise,local,18
+Chhathar Jorpati,7002,2016,district,Chhathar Jorpati,local,18
+Dhankuta,7003,2016,district,Dhankuta,local,18
+Khalsa Chhintang Shahidbhumi,7004,2016,district,Khalsa Chhintang Shahidbhumi,local,18
+Mahalaxmi,7005,2016,district,Mahalaxmi,local,18
+Pakhribas,7006,2016,district,Pakhribas,local,18
+Sangurigadhi,7007,2016,district,Sangurigadhi,local,18
+Khaptad National Park,70099,2016,district,Khaptad National Park,local,22
+Bardagoriya,71001,2016,district,Bardagoriya,local,30
+Bhajani,71002,2016,district,Bhajani,local,30
+Chure,71003,2016,district,Chure,local,30
+Dhangadhi,71004,2016,district,Dhangadhi,local,30
+Gauriganga,71005,2016,district,Gauriganga,local,30
+Ghodaghodi,71006,2016,district,Ghodaghodi,local,30
+Godawari,71007,2016,district,Godawari,local,30
+Janaki,71008,2016,district,Janaki,local,30
+Joshipur,71009,2016,district,Joshipur,local,30
+Kailari,71010,2016,district,Kailari,local,30
+Lamkichuha,71011,2016,district,Lamkichuha,local,30
+Mohanyal,71012,2016,district,Mohanyal,local,30
+Tikapur,71013,2016,district,Tikapur,local,30
+Bedkot,72001,2016,district,Bedkot,local,32
+Belauri,72002,2016,district,Belauri,local,32
+Beldandi,72003,2016,district,Beldandi,local,32
+Bhimdatta,72004,2016,district,Bhimdatta,local,32
+Krishnapur,72005,2016,district,Krishnapur,local,32
+Laljhadi,72006,2016,district,Laljhadi,local,32
+Mahakali,72007,2016,district,Mahakali,local,32
+Punarbas,72008,2016,district,Punarbas,local,32
+Shuklaphanta,72009,2016,district,Shuklaphanta,local,32
+Shuklaphanta National Park,72099,2016,district,Shuklaphanta National Park,local,32
+Ajaymeru,73001,2016,district,Ajaymeru,local,13
+Alital,73002,2016,district,Alital,local,13
+Amargadhi,73003,2016,district,Amargadhi,local,13
+Bhageshwar,73004,2016,district,Bhageshwar,local,13
+Ganayapdhura,73005,2016,district,Ganayapdhura,local,13
+Nawadurga,73006,2016,district,Nawadurga,local,13
+Parashuram,73007,2016,district,Parashuram,local,13
+Dasharathchanda,74001,2016,district,Dasharathchanda,local,04
+Dilasaini,74002,2016,district,Dilasaini,local,04
+Dogadakedar,74003,2016,district,Dogadakedar,local,04
+Melauli,74004,2016,district,Melauli,local,04
+Pancheshwar,74005,2016,district,Pancheshwar,local,04
+Patan,74006,2016,district,Patan,local,04
+Purchaudi,74007,2016,district,Purchaudi,local,04
+Shivanath,74008,2016,district,Shivanath,local,04
+Sigas,74009,2016,district,Sigas,local,04
+Surnaya,74010,2016,district,Surnaya,local,04
+Apihimal,75001,2016,district,Apihimal,local,16
+Byas,75002,2016,district,Byas,local,16
+Dunhu,75003,2016,district,Dunhu,local,16
+Lekam,75004,2016,district,Lekam,local,16
+Mahakali,75005,2016,district,Mahakali,local,16
+Malikaarjun,75006,2016,district,Malikaarjun,local,16
+Marma,75007,2016,district,Marma,local,16
+Naugad,75008,2016,district,Naugad,local,16
+Shailyashikhar,75009,2016,district,Shailyashikhar,local,16
+Binayee Tribeni,76001,2016,district,Binayee Tribeni,local,47
+Bulingtar,76002,2016,district,Bulingtar,local,47
+Bungdikali,76003,2016,district,Bungdikali,local,47
+Devchuli,76004,2016,district,Devchuli,local,47
+Gaidakot,76005,2016,district,Gaidakot,local,47
+Hupsekot,76006,2016,district,Hupsekot,local,47
+Kawasoti,76007,2016,district,Kawasoti,local,47
+Madhyabindu,76008,2016,district,Madhyabindu,local,47
+Chitawan National Park,76099,2016,district,Chitawan National Park,local,47
+Bhume,77001,2016,district,Bhume,local,59
+Putha Uttarganga,77002,2016,district,Putha Uttarganga,local,59
+Sisne,77003,2016,district,Sisne,local,59
+Dhorpatan Hunting Reserve,77099,2016,district,Dhorpatan Hunting Reserve,local,59
+Aathrai,8001,2016,district,Aathrai,local,74
+Chhathar,8002,2016,district,Chhathar,local,74
+Laligurans,8003,2016,district,Laligurans,local,74
+Menchayam,8004,2016,district,Menchayam,local,74
+Myanglung,8005,2016,district,Myanglung,local,74
+Phedap,8006,2016,district,Phedap,local,74
+Bhotkhola,9001,2016,district,Bhotkhola,local,62
+Chainpur,9002,2016,district,Chainpur,local,62
+Chichila,9003,2016,district,Chichila,local,62
+Dharmadevi,9004,2016,district,Dharmadevi,local,62
+Khandbari,9005,2016,district,Khandbari,local,62
+Madi,9006,2016,district,Madi,local,62
+Makalu,9007,2016,district,Makalu,local,62
+Panchakhapan,9008,2016,district,Panchakhapan,local,62
+Sabhapokhari,9009,2016,district,Sabhapokhari,local,62
+Silichong,9010,2016,district,Silichong,local,62
 \.
 
 --
