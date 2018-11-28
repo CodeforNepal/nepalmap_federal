@@ -4,6 +4,7 @@ from wazimap.settings import *  # noqa
 # install this app before Wazimap
 INSTALLED_APPS = ['wazimap_np'] + INSTALLED_APPS
 
+DEBUG = False if (os.environ.get('APP_ENV', 'dev') == 'prod') else True
 
 DATABASE_URL = os.environ.get('DATABASE_URL', 'postgresql://wazimap_np:wazimap_np@localhost/wazimap_np')
 DATABASES['default'] = dj_database_url.parse(DATABASE_URL)
