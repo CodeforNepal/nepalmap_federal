@@ -7,18 +7,17 @@ from wazimap.data.utils import get_stat_data, get_objects_by_geo, \
 
 
 def get_demographics_profile(geo_code, geo_level, session):
-    demographic_data = {
-        "is_vdc": True,
-        "has_data": True
-    }
     pop_data, total_pop = get_stat_data(
         'sex', geo_level, geo_code, session,
         table_fields=['sex'],
         table_name='population')
-    demographic_data['pop_dist'] = pop_data
-    demographic_data['total_population'] = {
-        "name": "People",
-        "values": {"this": total_pop}
+
+    demographic_data = {
+        'pop_dist': pop_data,
+        'has_data': total_pop > 0,
+        'total_population': {
+            'name': 'People',
+            'values': {'this': total_pop}
+        }
     }
-    demographic_data['has_data'] = total_pop > 0
     return demographic_data
