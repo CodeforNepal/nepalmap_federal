@@ -20,4 +20,5 @@ def get_demographics_profile(geo_code, geo_level, session):
         "name": "People",
         "values": {"this": total_pop}
     }
+    demographic_data['has_data'] = total_pop > 0
     return demographic_data
