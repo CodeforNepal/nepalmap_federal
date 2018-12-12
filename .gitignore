@@ -12,3 +12,10 @@ certs/*
 
 # Keep files
 !.keep
+
+# Virtual Environment folders
+/nepalmap_venv
+/nepalmap_env
+/nepalmap
+/venv
+
