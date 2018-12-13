@@ -1471,6 +1471,10 @@ COPY public.population (geo_code, geo_level, sex, total) FROM stdin WITH DELIMIT
 21008,local,female,9358
 21005,local,male,20750
 21005,local,female,24666
+25004,local,male,145924
+25004,local,female,138998
+28012,local,male,7034
+28012,local,female,8685
 28004,local,male,12986
 28004,local,female,13277
 28005,local,male,6942
@@ -1497,6 +1501,8 @@ COPY public.population (geo_code, geo_level, sex, total) FROM stdin WITH DELIMIT
 30003,local,female,13773
 30004,local,male,12342
 30004,local,female,13313
+30013,local,male,10050
+30013,local,female,12910
 30012,local,male,16053
 30012,local,female,16861
 30008,local,male,5603
@@ -1591,8 +1597,8 @@ COPY public.population (geo_code, geo_level, sex, total) FROM stdin WITH DELIMIT
 15,district,female,291050
 16,district,male,62864
 16,district,female,69620
-17,district,male,146050
-17,district,female,165282
+17,district,male,156100
+17,district,female,178192
 18,district,male,74647
 18,district,female,86751
 19,district,male,366139
@@ -1633,8 +1639,8 @@ COPY public.population (geo_code, geo_level, sex, total) FROM stdin WITH DELIMIT
 36,district,female,197675
 37,district,male,96069
 37,district,female,109156
-38,district,male,84986
-38,district,female,87698
+38,district,male,230910
+38,district,female,226696
 39,district,male,74495
 39,district,female,91655
 40,district,male,308732
@@ -1653,8 +1659,8 @@ COPY public.population (geo_code, geo_level, sex, total) FROM stdin WITH DELIMIT
 46,district,female,62043
 47,district,male,142184
 47,district,female,168685
-48,district,male,124403
-48,district,female,135653
+48,district,male,131437
+48,district,female,144338
 49,district,male,67577
 49,district,female,79247
 50,district,male,114063
@@ -1711,8 +1717,8 @@ COPY public.population (geo_code, geo_level, sex, total) FROM stdin WITH DELIMIT
 75,district,female,167668
 77,district,male,73119
 77,district,female,81153
-NP,country,male,24226158
-NP,country,female,26101034
+NP,country,male,24389166
+NP,country,female,26261627
 7,province,male,1124864
 7,province,female,1124864
 6,province,male,737483
@@ -1721,8 +1727,8 @@ NP,country,female,26101034
 5,province,female,1917059
 4,province,male,1060103
 4,province,female,1060103
-3,province,male,2509586
-3,province,female,2509586
+3,province,male,2672594
+3,province,female,2670179
 2,province,male,2694747
 2,province,female,2694747
 1,province,male,2069237
