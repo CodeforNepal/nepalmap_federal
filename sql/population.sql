@@ -1722,19 +1722,20 @@ COPY public.population (geo_code, geo_level, sex, total) FROM stdin WITH DELIMIT
 NP,country,male,24400497
 NP,country,female,26261627
 7,province,male,1124864
-7,province,female,1124864
+7,province,female,1258383
 6,province,male,737483
-6,province,female,737483
+6,province,female,784244
 5,province,male,1917059
-5,province,female,1917059
+5,province,female,2147564
 4,province,male,1060103
-4,province,female,1060103
-3,province,male,2672594
-3,province,female,2670179
-2,province,male,2706078
-2,province,female,2705994
+4,province,female,1295533
+3,province,male,2509586
+3,province,female,2600631
+2,province,male,2694747
+2,province,female,2674024
 1,province,male,2069237
-1,province,female,2069237
+1,province,female,2290138
+
 \.
 
 
