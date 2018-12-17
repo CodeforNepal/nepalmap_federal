@@ -875,6 +875,8 @@ COPY public.population (geo_code, geo_level, sex, total) FROM stdin WITH DELIMIT
 6003,local,female,20655
 6011,local,male,21954
 6011,local,female,21672
+6010,local,male,66566
+6010,local,female,73951
 6008,local,male,20139
 6008,local,female,20707
 6009,local,male,31195
@@ -1723,8 +1725,8 @@ COPY public.population (geo_code, geo_level, sex, total) FROM stdin WITH DELIMIT
 67,district,female,327116
 68,district,male,50571
 68,district,female,54548
-69,district,male,295985
-69,district,female,316742
+69,district,male,362551
+69,district,female,390693
 70,district,male,162672
 70,district,female,180646
 71,district,male,124871
@@ -1741,8 +1743,8 @@ COPY public.population (geo_code, geo_level, sex, total) FROM stdin WITH DELIMIT
 76,district,female,170631
 77,district,male,73119
 77,district,female,81153
-NP,country,male,24603408
-NP,country,female,26480996
+NP,country,male,24669974
+NP,country,female,26554947
 7,province,male,1124864
 7,province,female,1258383
 6,province,male,737483
@@ -1755,8 +1757,8 @@ NP,country,female,26480996
 3,province,female,2600631
 2,province,male,2694747
 2,province,female,2674024
-1,province,male,2069237
-1,province,female,2290138
+1,province,male,2135803
+1,province,female,2364089
 
 \.
 
