@@ -15,9 +15,6 @@ export DATABASE_URL="postgresql://$POSTGRES_USERNAME:$POSTGRES_PASSWORD@$POSTGRE
 # setup pgpassfile for psql non-interactive authentication
 export PGPASSWORD="$POSTGRES_PASSWORD"
 
-# Setup Simpletable entries
-cat sql/simpletables/*.sql | psql -w -U "$POSTGRES_USERNAME"  -h "$POSTGRES_HOST"
-
 # Migrate
 python ./manage.py migrate --no-input
 
