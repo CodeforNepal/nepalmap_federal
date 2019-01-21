@@ -5,5 +5,4 @@ FieldTable(['sex'],
            universe='Population',
            description='Total Population',
            dataset='National Population and Housing Census 2011',
-           year='2011',
-           table_per_level=False)
+           year='2011')
