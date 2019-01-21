@@ -1763,7 +1763,6 @@ NP,country,female,26646283
 2,province,female,2674024
 1,province,male,2135803
 1,province,female,2364089
-
 \.
 
 
