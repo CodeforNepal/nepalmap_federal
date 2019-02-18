@@ -1747,8 +1747,8 @@ COPY public.population (geo_code, geo_level, sex, total) FROM stdin WITH DELIMIT
 76,district,female,170631
 77,district,male,73119
 77,district,female,81153
-NP,country,male,24759894
-NP,country,female,26646283
+NP,country,male,12472476
+NP,country,female,13435173
 7,province,male,1198326
 7,province,female,1332662
 6,province,male,753941
