@@ -57,7 +57,7 @@ WAZIMAP['map_zoom'] = 7
 
 # Custom Settings
 WAZIMAP['email'] = 'nepalmap@codefornepal.org'
-WAZIMAP['github'] = 'https://github.com/Code4Nepal/nepalmap_app'
+WAZIMAP['github'] = 'https://github.com/Code4Nepal/nepalmap_federal'
 WAZIMAP['tagline'] = 'Explore and understand Nepal using data'
 WAZIMAP['facebook'] = 'codefornepal'
 WAZIMAP['twittercard'] = True
