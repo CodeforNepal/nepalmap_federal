@@ -70,9 +70,9 @@ Nepal,NP,2016,\N,Nepal,country,\N
 Province No. 1,1,2016,country,Province No. 1,province,NP
 Province No. 2,2,2016,country,Province No. 2,province,NP
 Province No. 3,3,2016,country,Province No. 3,province,NP
-Province No. 4,4,2016,country,Province No. 4,province,NP
+Gandaki Province,4,2016,country,Gandaki Province,province,NP
 Province No. 5,5,2016,country,Province No. 5,province,NP
-Province No. 6,6,2016,country,Province No. 6,province,NP
+Karnali Province,6,2016,country,Karnali Province,province,NP
 Province No. 7,7,2016,country,Province No. 7,province,NP
 Achham,01,2016,province,Achham,district,7
 Arghakhanchi,02,2016,province,Arghakhanchi,district,5
