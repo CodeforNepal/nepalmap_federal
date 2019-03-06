@@ -4,6 +4,7 @@ from wazimap.settings import *  # noqa
 # install this app before Wazimap
 INSTALLED_APPS = ['wazimap_np'] + INSTALLED_APPS
 
+DEBUG = False if (os.environ.get('APP_ENV', 'dev') == 'prod') else True
 
 DATABASE_URL = os.environ.get('DATABASE_URL', 'postgresql://wazimap_np:wazimap_np@localhost/wazimap_np')
 DATABASES['default'] = dj_database_url.parse(DATABASE_URL)
@@ -56,7 +57,7 @@ WAZIMAP['map_zoom'] = 7
 
 # Custom Settings
 WAZIMAP['email'] = 'nepalmap@codefornepal.org'
-WAZIMAP['github'] = 'https://github.com/Code4Nepal/nepalmap_app'
+WAZIMAP['github'] = 'https://github.com/Code4Nepal/nepalmap_federal'
 WAZIMAP['tagline'] = 'Explore and understand Nepal using data'
 WAZIMAP['facebook'] = 'codefornepal'
 WAZIMAP['twittercard'] = True

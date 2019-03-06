@@ -1,13 +1,13 @@
-# Nepal Map
+# Nepal Map Federal
 
 The Nepal instance of [Wazimap](https://github.com/Code4SA/wazimap), a Django application for exploring census and other similar data.
 
 # Local development
 
 1. clone the repo
-2. ``cd nepalmap``
-2. ``mkvirtualenv nepalmap``
-3. ``workon nepalmap``
+2. ``cd nepalmap_federal``
+2. ``mkvirtualenv nepalmap_venv``
+3. ``workon nepalmap_venv``
 4. ``pip install -r requirements.txt``
 
 You might need to install certain dependencies on Ubuntu before you can install dependencies via `pip` for the app.
