@@ -5,6 +5,7 @@ node_modules/
 debug
 .vagrant
 .DS_Store
+.vscode
 
 # Empty directories (for Compose mounts)
 static/*
