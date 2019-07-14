@@ -1,6 +1,5 @@
 from wazimap.data.tables import FieldTable, SimpleTable
 
-
 # Population tables
 FieldTable(['sex'],
            id='population',

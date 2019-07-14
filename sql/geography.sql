@@ -168,7 +168,7 @@ Phaktanglung,1005,2016,district,Phaktanglung,local,73
 Phungling,1006,2016,district,Phungling,local,73
 Sidingba,1007,2016,district,Sidingba,local,73
 Sirijangha,1008,2016,district,Sirijangha,local,73
-Yangwarak,1009,2016,district,Yangwarak,local,73
+Pathibhara Yangwarak,1009,2016,district,Pathibhara Yangwarak,local,73
 Dudhkaushika,11001,2016,district,Dudhkaushika,local,68
 Dudhkoshi,11002,2016,district,Dudhkoshi,local,68
 Khumbupasanglahmu,11003,2016,district,Khumbupasanglahmu,local,68
