@@ -22,3 +22,11 @@ FieldTable(['Agricultural land use area'],
            description='Agriculture Land Use Area',
            dataset='National Portal',
            year='2011')
+
+FieldTable(['Agricultural holdings size by land tenure'],
+           id='agriculture_holding_size',
+           universe='agriculture holdings',
+           description='Agricultural Holdings Size By Land Tenure',
+           dataset='National Portal',
+           year='2011')
+
