@@ -14,3 +14,11 @@ FieldTable(['religion_name'],
            description='Population by Religion',
            dataset='National Population and Housing Census 2011',
            year='2011')
+
+# Agriculture Tables
+FieldTable(['Agricultural land use area'],
+           id='agriculture_land_use',
+           universe='Agriculture',
+           description='Agriculture Land Use Area',
+           dataset='National Portal',
+           year='2011')

@@ -3,7 +3,7 @@ from wazimap.geo import geo_data
 
 
 from wazimap_np import (
-    demographics,
+    demographics, agriculture
 )
 
 # ensure tables are loaded
@@ -24,6 +24,7 @@ from wazimap_np import (
 
 PROFILE_SECTIONS = (
     'demographics',
+    'agriculture'
 )
 
 def get_census_profile(geo_code, geo_level, profile_name=None):
@@ -58,3 +59,7 @@ def get_census_profile(geo_code, geo_level, profile_name=None):
 
 def get_demographics_profile(geo_code, geo_level, session):
     return demographics.get_demographics_profile(geo_code, geo_level, session)
+
+
+def get_agriculture_profile(geo_code, geo_level, session):
+    return agriculture.get_agriculture_profile(geo_code, geo_level, session)
