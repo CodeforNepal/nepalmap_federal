@@ -1,5 +1,5 @@
 from wazimap.data.utils import get_stat_data
-
+from wazimap.data.utils import LocationNotFound
 
 def get_highest_value(data):
     data_copy = data.copy()
@@ -22,10 +22,12 @@ def get_demographics_profile(geo_code, geo_level, session):
         }
     }
 
-    religion_data, _ = get_stat_data(['religion_name'], geo_level,
-                                  geo_code, session)
-    most_populous_religion = get_highest_value(religion_data)
-
-    demographic_data['religion_distribution'] = religion_data
-    demographic_data['most_populous_religion'] = most_populous_religion
+    try:
+        religion_data, _ = get_stat_data(['religion_name'], geo_level,
+                                     geo_code, session)
+        most_populous_religion = get_highest_value(religion_data)
+        demographic_data['religion_distribution'] = religion_data
+        demographic_data['most_populous_religion'] = most_populous_religion
+    except LocationNotFound:
+        pass
     return demographic_data
