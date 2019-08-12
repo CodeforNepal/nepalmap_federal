@@ -8,7 +8,7 @@ FieldTable(['sex'],
            dataset='National Population and Housing Census 2011',
            year='2011')
 
-FieldTable(['religion_name'],
+FieldTable(['religion name'],
            id='religion',
            universe='Population',
            description='Population by Religion',

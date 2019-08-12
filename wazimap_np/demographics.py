@@ -16,7 +16,7 @@ def get_demographics_profile(geo_code, geo_level, session):
         }
     }
 
-    religion_data, _ = get_stat_data(['religion_name'], geo_level,
+    religion_data, _ = get_stat_data(['religion name'], geo_level,
                                      geo_code, session,
                                      order_by='-total')
     most_populous_religion = religion_data[religion_data.keys()[0]]
