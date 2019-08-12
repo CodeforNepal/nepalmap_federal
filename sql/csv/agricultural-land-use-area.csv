@@ -1682,15 +1682,15 @@ Temporary Meadows,12,48003,local
 Other Land,1462,48003,local
 Ponds,6,48003,local
 Woodland And Forest,133,48003,local
-Arable Land,41652,7,district
-Meadows And Pasture,35,7,district
-Permanent Crops,299,7,district
-Temporary Crops,41276,7,district
-Temporary Fallow,350,7,district
-Temporary Meadows,27,7,district
-Other Land,2041,7,district
-Ponds,32,7,district
-Woodland And Forest,61,7,district
+Arable Land,41652,07,district
+Meadows And Pasture,35,07,district
+Permanent Crops,299,07,district
+Temporary Crops,41276,07,district
+Temporary Fallow,350,07,district
+Temporary Meadows,27,07,district
+Other Land,2041,07,district
+Ponds,32,07,district
+Woodland And Forest,61,07,district
 Arable Land,41652,57002,local
 Meadows And Pasture,35,57002,local
 Permanent Crops,299,57002,local
@@ -2060,15 +2060,15 @@ Temporary Meadows,51,56004,local
 Other Land,2782,56004,local
 Ponds,15,56004,local
 Woodland And Forest,356,56004,local
-Arable Land,16795,2,district
-Meadows And Pasture,247,2,district
-Permanent Crops,9788,2,district
-Temporary Crops,16135,2,district
-Temporary Fallow,533,2,district
-Temporary Meadows,127,2,district
-Other Land,1014,2,district
-Ponds,2,2,district
-Woodland And Forest,3752,2,district
+Arable Land,16795,02,district
+Meadows And Pasture,247,02,district
+Permanent Crops,9788,02,district
+Temporary Crops,16135,02,district
+Temporary Fallow,533,02,district
+Temporary Meadows,127,02,district
+Other Land,1014,02,district
+Ponds,2,02,district
+Woodland And Forest,3752,02,district
 Arable Land,16795,51002,local
 Meadows And Pasture,247,51002,local
 Permanent Crops,9788,51002,local
@@ -2123,15 +2123,15 @@ Temporary Meadows,127,51004,local
 Other Land,1014,51004,local
 Ponds,2,51004,local
 Woodland And Forest,3752,51004,local
-Arable Land,44412,9,district
-Meadows And Pasture,1,9,district
-Permanent Crops,499,9,district
-Temporary Crops,44229,9,district
-Temporary Fallow,94,9,district
-Temporary Meadows,88,9,district
-Other Land,2189,9,district
-Ponds,109,9,district
-Woodland And Forest,22,9,district
+Arable Land,44412,09,district
+Meadows And Pasture,1,09,district
+Permanent Crops,499,09,district
+Temporary Crops,44229,09,district
+Temporary Fallow,94,09,district
+Temporary Meadows,88,09,district
+Other Land,2189,09,district
+Ponds,109,09,district
+Woodland And Forest,22,09,district
 Arable Land,44412,58007,local
 Meadows And Pasture,1,58007,local
 Permanent Crops,499,58007,local
@@ -2420,15 +2420,15 @@ Temporary Meadows,146,36009,local
 Other Land,1211,36009,local
 Ponds,3,36009,local
 Woodland And Forest,863,36009,local
-Arable Land,18358,3,district
-Meadows And Pasture,3799,3,district
-Permanent Crops,4836,3,district
-Temporary Crops,17834,3,district
-Temporary Fallow,378,3,district
-Temporary Meadows,145,3,district
-Other Land,1371,3,district
-Ponds,2,3,district
-Woodland And Forest,2322,3,district
+Arable Land,18358,03,district
+Meadows And Pasture,3799,03,district
+Permanent Crops,4836,03,district
+Temporary Crops,17834,03,district
+Temporary Fallow,378,03,district
+Temporary Meadows,145,03,district
+Other Land,1371,03,district
+Ponds,2,03,district
+Woodland And Forest,2322,03,district
 Arable Land,18358,45008,local
 Meadows And Pasture,3799,45008,local
 Permanent Crops,4836,45008,local
@@ -4157,15 +4157,15 @@ Temporary Meadows,550,32008,local
 Other Land,2052,32008,local
 Ponds,120,32008,local
 Woodland And Forest,998,32008,local
-Arable Land,53838,8,district
-Meadows And Pasture,175,8,district
-Permanent Crops,649,8,district
-Temporary Crops,53584,8,district
-Temporary Fallow,206,8,district
-Temporary Meadows,48,8,district
-Other Land,1758,8,district
-Ponds,340,8,district
-Woodland And Forest,107,8,district
+Arable Land,53838,08,district
+Meadows And Pasture,175,08,district
+Permanent Crops,649,08,district
+Temporary Crops,53584,08,district
+Temporary Fallow,206,08,district
+Temporary Meadows,48,08,district
+Other Land,1758,08,district
+Ponds,340,08,district
+Woodland And Forest,107,08,district
 Arable Land,53838,33014,local
 Meadows And Pasture,175,33014,local
 Permanent Crops,649,33014,local
@@ -4490,15 +4490,15 @@ Temporary Meadows,667,7,province
 Other Land,10666,7,province
 Ponds,84,7,province
 Woodland And Forest,2162,7,province
-Arable Land,13735,4,district
-Meadows And Pasture,221,4,district
-Permanent Crops,6353,4,district
-Temporary Crops,13103,4,district
-Temporary Fallow,366,4,district
-Temporary Meadows,266,4,district
-Other Land,884,4,district
-Ponds,0,4,district
-Woodland And Forest,134,4,district
+Arable Land,13735,04,district
+Meadows And Pasture,221,04,district
+Permanent Crops,6353,04,district
+Temporary Crops,13103,04,district
+Temporary Fallow,366,04,district
+Temporary Meadows,266,04,district
+Other Land,884,04,district
+Ponds,0,04,district
+Woodland And Forest,134,04,district
 Arable Land,13735,74005,local
 Meadows And Pasture,221,74005,local
 Permanent Crops,6353,74005,local
@@ -4751,15 +4751,15 @@ Temporary Meadows,32,73003,local
 Other Land,644,73003,local
 Ponds,1,73003,local
 Woodland And Forest,304,73003,local
-Arable Land,7598,6,district
-Meadows And Pasture,671,6,district
-Permanent Crops,154,6,district
-Temporary Crops,7341,6,district
-Temporary Fallow,179,6,district
-Temporary Meadows,78,6,district
-Other Land,390,6,district
-Ponds,5,6,district
-Woodland And Forest,595,6,district
+Arable Land,7598,06,district
+Meadows And Pasture,671,06,district
+Permanent Crops,154,06,district
+Temporary Crops,7341,06,district
+Temporary Fallow,179,06,district
+Temporary Meadows,78,06,district
+Other Land,390,06,district
+Ponds,5,06,district
+Woodland And Forest,595,06,district
 Arable Land,7598,67002,local
 Meadows And Pasture,671,67002,local
 Permanent Crops,154,67002,local
@@ -5057,15 +5057,15 @@ Temporary Meadows,46,70005,local
 Other Land,658,70005,local
 Ponds,0,70005,local
 Woodland And Forest,355,70005,local
-Arable Land,15936,1,district
-Meadows And Pasture,1196,1,district
-Permanent Crops,169,1,district
-Temporary Crops,15254,1,district
-Temporary Fallow,535,1,district
-Temporary Meadows,147,1,district
-Other Land,696,1,district
-Ponds,5,1,district
-Woodland And Forest,486,1,district
+Arable Land,15936,01,district
+Meadows And Pasture,1196,01,district
+Permanent Crops,169,01,district
+Temporary Crops,15254,01,district
+Temporary Fallow,535,01,district
+Temporary Meadows,147,01,district
+Other Land,696,01,district
+Ponds,5,01,district
+Woodland And Forest,486,01,district
 Arable Land,15936,69006,local
 Meadows And Pasture,1196,69006,local
 Permanent Crops,169,69006,local
@@ -5156,15 +5156,15 @@ Temporary Meadows,147,69002,local
 Other Land,696,69002,local
 Ponds,5,69002,local
 Woodland And Forest,486,69002,local
-Arable Land,10149,5,district
-Meadows And Pasture,121,5,district
-Permanent Crops,793,5,district
-Temporary Crops,10013,5,district
-Temporary Fallow,97,5,district
-Temporary Meadows,39,5,district
-Other Land,587,5,district
-Ponds,0,5,district
-Woodland And Forest,163,5,district
+Arable Land,10149,05,district
+Meadows And Pasture,121,05,district
+Permanent Crops,793,05,district
+Temporary Crops,10013,05,district
+Temporary Fallow,97,05,district
+Temporary Meadows,39,05,district
+Other Land,587,05,district
+Ponds,0,05,district
+Woodland And Forest,163,05,district
 Arable Land,10149,68011,local
 Meadows And Pasture,121,68011,local
 Permanent Crops,793,68011,local
