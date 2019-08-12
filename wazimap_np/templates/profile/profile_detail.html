@@ -7,6 +7,10 @@
 {% endblock %}
 
 {% block profile_detail %}
-    {% include 'profile/sections/demographics.html' %}
-    {% include 'profile/sections/agriculture.html' %}
+    {% if area_has_no_data %}
+        <h2>No demographic data available for this area</h2>
+    {% else %}
+        {% include 'profile/sections/demographics.html' %}
+        {% include 'profile/sections/agriculture.html' %}
+    {% endif %}
 {% endblock %}

@@ -1,7 +1,5 @@
 <article id="demographics" class="clearfix">
-    {% if demographics.has_data == False %}
-        <h2>No demographic data available for this area</h2>
-    {% else %}
+    {% if demographics.has_data %}
         <header class="section-contents">
             <h1>Demographics</h1>
         </header>
@@ -30,7 +28,6 @@
                          data-chart-title="Population by religion"></div>
                 </div>
             </section>
-
 
         </div>
     {% endif %}
