@@ -1,0 +1,42 @@
+<article id="agriculture" class="clearfix">
+    {% if agriculture.area_has_data == True %}
+        <header class="section-contents">
+            <h1>Agriculture</h1>
+        </header>
+        <div class="section-container">
+            <section class="clearfix stat-row">
+                <h2><a class="permalink" href="#agriculture-total-land"
+                       id="agriculture-total-land">Agriculture Land Use Area
+                    <i class="fa fa-link"></i></a></h2>
+                <div class="column-third">
+                    {% include 'profile/_blocks/_stat_list.html' with stat=agriculture.total_land stat_type='number' %}
+                </div>
+                <div class="column-two-thirds"
+                     id="chart-histogram-agriculture-land_distribution"
+                     data-stat-type="scaled-percentage"
+                     data-chart-title="Agriculture Land Use Area"></div>
+                <small>Source: <br>
+                    <a href="http://nationaldata.gov.np/">National Data Profile</a>
+                    <br>
+                </small>
+            </section>
+
+            <section class="clearfix stat-row">
+                <h2><a class="permalink" href="#agriculture-total-holding"
+                       id="agriculture-total-holding">Agriculture Land Holding Size
+                    <i class="fa fa-link"></i></a></h2>
+                <div class="column-third">
+                    {% include 'profile/_blocks/_stat_list.html' with stat=agriculture.total_holding stat_type='number' %}
+                </div>
+                <div class="column-two-thirds"
+                     id="chart-histogram-agriculture-holding_distribution"
+                     data-stat-type="scaled-percentage"
+                     data-chart-title="Agricultural holdings size by land tenure"></div>
+                <small>Source: <br>
+                    <a href="http://nationaldata.gov.np/">National Data Profile</a>
+                    <br>
+                </small>
+            </section>
+        </div>
+    {% endif %}
+</article>
