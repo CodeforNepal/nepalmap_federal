@@ -1,0 +1,3353 @@
+home ownership,total,geo_code,geo_level
+Institutional House,445369,NP,country
+Other Type of House,887913,NP,country
+Owned House,63304814,NP,country
+Rental House,8539343,NP,country
+Institutional House,10830,3,province
+Other Type of House,19307,3,province
+Owned House,860603,3,province
+Rental House,378404,3,province
+Institutional House,165,56,district
+Other Type of House,125,56,district
+Owned House,8747,56,district
+Rental House,704,56,district
+Institutional House,165,29005,local
+Other Type of House,125,29005,local
+Owned House,8747,29005,local
+Rental House,704,29005,local
+Institutional House,165,29001,local
+Other Type of House,125,29001,local
+Owned House,8747,29001,local
+Rental House,704,29001,local
+Institutional House,165,29003,local
+Other Type of House,125,29003,local
+Owned House,8747,29003,local
+Rental House,704,29003,local
+Institutional House,165,29002,local
+Other Type of House,125,29002,local
+Owned House,8747,29002,local
+Rental House,704,29002,local
+Institutional House,165,29004,local
+Other Type of House,125,29004,local
+Owned House,8747,29004,local
+Rental House,704,29004,local
+Institutional House,100,65,district
+Other Type of House,360,65,district
+Owned House,54269,65,district
+Rental House,2815,65,district
+Institutional House,100,20008,local
+Other Type of House,360,20008,local
+Owned House,54269,20008,local
+Rental House,2815,20008,local
+Institutional House,100,20007,local
+Other Type of House,360,20007,local
+Owned House,54269,20007,local
+Rental House,2815,20007,local
+Institutional House,100,20004,local
+Other Type of House,360,20004,local
+Owned House,54269,20004,local
+Rental House,2815,20004,local
+Institutional House,100,20006,local
+Other Type of House,360,20006,local
+Owned House,54269,20006,local
+Rental House,2815,20006,local
+Institutional House,100,20001,local
+Other Type of House,360,20001,local
+Owned House,54269,20001,local
+Rental House,2815,20001,local
+Institutional House,100,20002,local
+Other Type of House,360,20002,local
+Owned House,54269,20002,local
+Rental House,2815,20002,local
+Institutional House,100,20009,local
+Other Type of House,360,20009,local
+Owned House,54269,20009,local
+Rental House,2815,20009,local
+Institutional House,100,20003,local
+Other Type of House,360,20003,local
+Owned House,54269,20003,local
+Rental House,2815,20003,local
+Institutional House,100,20005,local
+Other Type of House,360,20005,local
+Owned House,54269,20005,local
+Rental House,2815,20005,local
+Institutional House,259,66,district
+Other Type of House,561,66,district
+Owned House,62563,66,district
+Rental House,3252,66,district
+Institutional House,259,23011,local
+Other Type of House,561,23011,local
+Owned House,62563,23011,local
+Rental House,3252,23011,local
+Institutional House,259,23008,local
+Other Type of House,561,23008,local
+Owned House,62563,23008,local
+Rental House,3252,23008,local
+Institutional House,259,23007,local
+Other Type of House,561,23007,local
+Owned House,62563,23007,local
+Rental House,3252,23007,local
+Institutional House,259,23006,local
+Other Type of House,561,23006,local
+Owned House,62563,23006,local
+Rental House,3252,23006,local
+Institutional House,259,23004,local
+Other Type of House,561,23004,local
+Owned House,62563,23004,local
+Rental House,3252,23004,local
+Institutional House,259,23003,local
+Other Type of House,561,23003,local
+Owned House,62563,23003,local
+Rental House,3252,23003,local
+Institutional House,259,23005,local
+Other Type of House,561,23005,local
+Owned House,62563,23005,local
+Rental House,3252,23005,local
+Institutional House,259,23001,local
+Other Type of House,561,23001,local
+Owned House,62563,23001,local
+Rental House,3252,23001,local
+Institutional House,259,23009,local
+Other Type of House,561,23009,local
+Owned House,62563,23009,local
+Rental House,3252,23009,local
+Institutional House,259,23012,local
+Other Type of House,561,23012,local
+Owned House,62563,23012,local
+Rental House,3252,23012,local
+Institutional House,259,23002,local
+Other Type of House,561,23002,local
+Owned House,62563,23002,local
+Rental House,3252,23002,local
+Institutional House,259,23010,local
+Other Type of House,561,23010,local
+Owned House,62563,23010,local
+Rental House,3252,23010,local
+Institutional House,1704,12,district
+Other Type of House,8945,12,district
+Owned House,99107,12,district
+Rental House,22589,12,district
+Institutional House,1704,35002,local
+Other Type of House,8945,35002,local
+Owned House,99107,35002,local
+Rental House,22589,35002,local
+Institutional House,1704,35006,local
+Other Type of House,8945,35006,local
+Owned House,99107,35006,local
+Rental House,22589,35006,local
+Institutional House,1704,35004,local
+Other Type of House,8945,35004,local
+Owned House,99107,35004,local
+Rental House,22589,35004,local
+Institutional House,1704,35007,local
+Other Type of House,8945,35007,local
+Owned House,99107,35007,local
+Rental House,22589,35007,local
+Institutional House,1704,35003,local
+Other Type of House,8945,35003,local
+Owned House,99107,35003,local
+Rental House,22589,35003,local
+Institutional House,1704,35001,local
+Other Type of House,8945,35001,local
+Owned House,99107,35001,local
+Rental House,22589,35001,local
+Institutional House,1704,35005,local
+Other Type of House,8945,35005,local
+Owned House,99107,35005,local
+Rental House,22589,35005,local
+Institutional House,1121,38,district
+Other Type of House,1159,38,district
+Owned House,62419,38,district
+Rental House,44806,38,district
+Institutional House,1121,25005,local
+Other Type of House,1159,25005,local
+Owned House,62419,25005,local
+Rental House,44806,25005,local
+Institutional House,1121,25002,local
+Other Type of House,1159,25002,local
+Owned House,62419,25002,local
+Rental House,44806,25002,local
+Institutional House,1121,25001,local
+Other Type of House,1159,25001,local
+Owned House,62419,25001,local
+Rental House,44806,25001,local
+Institutional House,1121,25003,local
+Other Type of House,1159,25003,local
+Owned House,62419,25003,local
+Rental House,44806,25003,local
+Institutional House,1121,25006,local
+Other Type of House,1159,25006,local
+Owned House,62419,25006,local
+Rental House,44806,25006,local
+Institutional House,1121,25004,local
+Other Type of House,1159,25004,local
+Owned House,62419,25004,local
+Rental House,44806,25004,local
+Institutional House,372,10,district
+Other Type of House,848,10,district
+Owned House,44988,10,district
+Rental House,22349,10,district
+Institutional House,372,26004,local
+Other Type of House,848,26004,local
+Owned House,44988,26004,local
+Rental House,22349,26004,local
+Institutional House,372,26002,local
+Other Type of House,848,26002,local
+Owned House,44988,26002,local
+Rental House,22349,26002,local
+Institutional House,372,26003,local
+Other Type of House,848,26003,local
+Owned House,44988,26003,local
+Rental House,22349,26003,local
+Institutional House,372,26001,local
+Other Type of House,848,26001,local
+Owned House,44988,26001,local
+Rental House,22349,26001,local
+Institutional House,315,20,district
+Other Type of House,366,20,district
+Owned House,42742,20,district
+Rental House,2235,20,district
+Institutional House,315,22003,local
+Other Type of House,366,22003,local
+Owned House,42742,22003,local
+Rental House,2235,22003,local
+Institutional House,315,22008,local
+Other Type of House,366,22008,local
+Owned House,42742,22008,local
+Rental House,2235,22008,local
+Institutional House,315,22009,local
+Other Type of House,366,22009,local
+Owned House,42742,22009,local
+Rental House,2235,22009,local
+Institutional House,315,22002,local
+Other Type of House,366,22002,local
+Owned House,42742,22002,local
+Rental House,2235,22002,local
+Institutional House,315,22004,local
+Other Type of House,366,22004,local
+Owned House,42742,22004,local
+Rental House,2235,22004,local
+Institutional House,315,22006,local
+Other Type of House,366,22006,local
+Owned House,42742,22006,local
+Rental House,2235,22006,local
+Institutional House,315,22005,local
+Other Type of House,366,22005,local
+Owned House,42742,22005,local
+Rental House,2235,22005,local
+Institutional House,315,22007,local
+Other Type of House,366,22007,local
+Owned House,42742,22007,local
+Rental House,2235,22007,local
+Institutional House,315,22001,local
+Other Type of House,366,22001,local
+Owned House,42742,22001,local
+Rental House,2235,22001,local
+Institutional House,1109,41,district
+Other Type of House,1220,41,district
+Owned House,75155,41,district
+Rental House,8561,41,district
+Institutional House,1109,31010,local
+Other Type of House,1220,31010,local
+Owned House,75155,31010,local
+Rental House,8561,31010,local
+Institutional House,1109,31006,local
+Other Type of House,1220,31006,local
+Owned House,75155,31006,local
+Rental House,8561,31006,local
+Institutional House,1109,31003,local
+Other Type of House,1220,31003,local
+Owned House,75155,31003,local
+Rental House,8561,31003,local
+Institutional House,1109,31001,local
+Other Type of House,1220,31001,local
+Owned House,75155,31001,local
+Rental House,8561,31001,local
+Institutional House,1109,31005,local
+Other Type of House,1220,31005,local
+Owned House,75155,31005,local
+Rental House,8561,31005,local
+Institutional House,1109,31002,local
+Other Type of House,1220,31002,local
+Owned House,75155,31002,local
+Rental House,8561,31002,local
+Institutional House,1109,31008,local
+Other Type of House,1220,31008,local
+Owned House,75155,31008,local
+Rental House,8561,31008,local
+Institutional House,1109,31009,local
+Other Type of House,1220,31009,local
+Owned House,75155,31009,local
+Rental House,8561,31009,local
+Institutional House,1109,31007,local
+Other Type of House,1220,31007,local
+Owned House,75155,31007,local
+Rental House,8561,31007,local
+Institutional House,1109,31004,local
+Other Type of House,1220,31004,local
+Owned House,75155,31004,local
+Rental House,8561,31004,local
+Institutional House,283,36,district
+Other Type of House,548,36,district
+Owned House,73363,36,district
+Rental House,6457,36,district
+Institutional House,283,24001,local
+Other Type of House,548,24001,local
+Owned House,73363,24001,local
+Rental House,6457,24001,local
+Institutional House,283,24011,local
+Other Type of House,548,24011,local
+Owned House,73363,24011,local
+Rental House,6457,24011,local
+Institutional House,283,24007,local
+Other Type of House,548,24007,local
+Owned House,73363,24007,local
+Rental House,6457,24007,local
+Institutional House,283,24010,local
+Other Type of House,548,24010,local
+Owned House,73363,24010,local
+Rental House,6457,24010,local
+Institutional House,283,24008,local
+Other Type of House,548,24008,local
+Owned House,73363,24008,local
+Rental House,6457,24008,local
+Institutional House,283,24002,local
+Other Type of House,548,24002,local
+Owned House,73363,24002,local
+Rental House,6457,24002,local
+Institutional House,283,24012,local
+Other Type of House,548,24012,local
+Owned House,73363,24012,local
+Rental House,6457,24012,local
+Institutional House,283,24005,local
+Other Type of House,548,24005,local
+Owned House,73363,24005,local
+Rental House,6457,24005,local
+Institutional House,283,24006,local
+Other Type of House,548,24006,local
+Owned House,73363,24006,local
+Rental House,6457,24006,local
+Institutional House,283,24009,local
+Other Type of House,548,24009,local
+Owned House,73363,24009,local
+Rental House,6457,24009,local
+Institutional House,283,24004,local
+Other Type of House,548,24004,local
+Owned House,73363,24004,local
+Rental House,6457,24004,local
+Institutional House,283,24013,local
+Other Type of House,548,24013,local
+Owned House,73363,24013,local
+Rental House,6457,24013,local
+Institutional House,283,24003,local
+Other Type of House,548,24003,local
+Owned House,73363,24003,local
+Rental House,6457,24003,local
+Institutional House,4675,35,district
+Other Type of House,3597,35,district
+Owned House,171828,35,district
+Rental House,255444,35,district
+Institutional House,4675,27006,local
+Other Type of House,3597,27006,local
+Owned House,171828,27006,local
+Rental House,255444,27006,local
+Institutional House,4675,27002,local
+Other Type of House,3597,27002,local
+Owned House,171828,27002,local
+Rental House,255444,27002,local
+Institutional House,4675,27005,local
+Other Type of House,3597,27005,local
+Owned House,171828,27005,local
+Rental House,255444,27005,local
+Institutional House,4675,27001,local
+Other Type of House,3597,27001,local
+Owned House,171828,27001,local
+Rental House,255444,27001,local
+Institutional House,4675,27004,local
+Other Type of House,3597,27004,local
+Owned House,171828,27004,local
+Rental House,255444,27004,local
+Institutional House,4675,27003,local
+Other Type of House,3597,27003,local
+Owned House,171828,27003,local
+Rental House,255444,27003,local
+Institutional House,4675,27008,local
+Other Type of House,3597,27008,local
+Owned House,171828,27008,local
+Rental House,255444,27008,local
+Institutional House,4675,27009,local
+Other Type of House,3597,27009,local
+Owned House,171828,27009,local
+Rental House,255444,27009,local
+Institutional House,4675,27007,local
+Other Type of House,3597,27007,local
+Owned House,171828,27007,local
+Rental House,255444,27007,local
+Institutional House,4675,27010,local
+Other Type of House,3597,27010,local
+Owned House,171828,27010,local
+Rental House,255444,27010,local
+Institutional House,4675,27011,local
+Other Type of House,3597,27011,local
+Owned House,171828,27011,local
+Rental House,255444,27011,local
+Institutional House,98,55,district
+Other Type of House,277,55,district
+Owned House,41735,55,district
+Rental House,1773,55,district
+Institutional House,98,21008,local
+Other Type of House,277,21008,local
+Owned House,41735,21008,local
+Rental House,1773,21008,local
+Institutional House,98,21005,local
+Other Type of House,277,21005,local
+Owned House,41735,21005,local
+Rental House,1773,21005,local
+Institutional House,98,21001,local
+Other Type of House,277,21001,local
+Owned House,41735,21001,local
+Rental House,1773,21001,local
+Institutional House,98,21002,local
+Other Type of House,277,21002,local
+Owned House,41735,21002,local
+Rental House,1773,21002,local
+Institutional House,98,21007,local
+Other Type of House,277,21007,local
+Owned House,41735,21007,local
+Rental House,1773,21007,local
+Institutional House,98,21004,local
+Other Type of House,277,21004,local
+Owned House,41735,21004,local
+Rental House,1773,21004,local
+Institutional House,98,21003,local
+Other Type of House,277,21003,local
+Owned House,41735,21003,local
+Rental House,1773,21003,local
+Institutional House,98,21006,local
+Other Type of House,277,21006,local
+Owned House,41735,21006,local
+Rental House,1773,21006,local
+Institutional House,394,48,district
+Other Type of House,624,48,district
+Owned House,55981,48,district
+Rental House,2195,48,district
+Institutional House,394,28009,local
+Other Type of House,624,28009,local
+Owned House,55981,28009,local
+Rental House,2195,28009,local
+Institutional House,394,28002,local
+Other Type of House,624,28002,local
+Owned House,55981,28002,local
+Rental House,2195,28002,local
+Institutional House,394,28008,local
+Other Type of House,624,28008,local
+Owned House,55981,28008,local
+Rental House,2195,28008,local
+Institutional House,394,28006,local
+Other Type of House,624,28006,local
+Owned House,55981,28006,local
+Rental House,2195,28006,local
+Institutional House,394,28011,local
+Other Type of House,624,28011,local
+Owned House,55981,28011,local
+Rental House,2195,28011,local
+Institutional House,394,28012,local
+Other Type of House,624,28012,local
+Owned House,55981,28012,local
+Rental House,2195,28012,local
+Institutional House,394,28003,local
+Other Type of House,624,28003,local
+Owned House,55981,28003,local
+Rental House,2195,28003,local
+Institutional House,394,28005,local
+Other Type of House,624,28005,local
+Owned House,55981,28005,local
+Rental House,2195,28005,local
+Institutional House,394,28010,local
+Other Type of House,624,28010,local
+Owned House,55981,28010,local
+Rental House,2195,28010,local
+Institutional House,394,28007,local
+Other Type of House,624,28007,local
+Owned House,55981,28007,local
+Rental House,2195,28007,local
+Institutional House,394,28001,local
+Other Type of House,624,28001,local
+Owned House,55981,28001,local
+Rental House,2195,28001,local
+Institutional House,394,28004,local
+Other Type of House,624,28004,local
+Owned House,55981,28004,local
+Rental House,2195,28004,local
+Institutional House,235,17,district
+Other Type of House,677,17,district
+Owned House,67706,17,district
+Rental House,5224,17,district
+Institutional House,235,30010,local
+Other Type of House,677,30010,local
+Owned House,67706,30010,local
+Rental House,5224,30010,local
+Institutional House,235,30007,local
+Other Type of House,677,30007,local
+Owned House,67706,30007,local
+Rental House,5224,30007,local
+Institutional House,235,30004,local
+Other Type of House,677,30004,local
+Owned House,67706,30004,local
+Rental House,5224,30004,local
+Institutional House,235,30009,local
+Other Type of House,677,30009,local
+Owned House,67706,30009,local
+Rental House,5224,30009,local
+Institutional House,235,30011,local
+Other Type of House,677,30011,local
+Owned House,67706,30011,local
+Rental House,5224,30011,local
+Institutional House,235,30005,local
+Other Type of House,677,30005,local
+Owned House,67706,30005,local
+Rental House,5224,30005,local
+Institutional House,235,30008,local
+Other Type of House,677,30008,local
+Owned House,67706,30008,local
+Rental House,5224,30008,local
+Institutional House,235,30003,local
+Other Type of House,677,30003,local
+Owned House,67706,30003,local
+Rental House,5224,30003,local
+Institutional House,235,30006,local
+Other Type of House,677,30006,local
+Owned House,67706,30006,local
+Rental House,5224,30006,local
+Institutional House,235,30013,local
+Other Type of House,677,30013,local
+Owned House,67706,30013,local
+Rental House,5224,30013,local
+Institutional House,235,30002,local
+Other Type of House,677,30002,local
+Owned House,67706,30002,local
+Rental House,5224,30002,local
+Institutional House,235,30012,local
+Other Type of House,677,30012,local
+Owned House,67706,30012,local
+Rental House,5224,30012,local
+Institutional House,235,30001,local
+Other Type of House,677,30001,local
+Owned House,67706,30001,local
+Rental House,5224,30001,local
+Institutional House,4060,5,province
+Other Type of House,7317,5,province
+Owned House,802408,5,province
+Rental House,70972,5,province
+Institutional House,232,24,district
+Other Type of House,819,24,district
+Owned House,58924,24,district
+Rental House,4912,24,district
+Institutional House,232,46006,local
+Other Type of House,819,46006,local
+Owned House,58924,46006,local
+Rental House,4912,46006,local
+Institutional House,232,46001,local
+Other Type of House,819,46001,local
+Owned House,58924,46001,local
+Rental House,4912,46001,local
+Institutional House,232,46010,local
+Other Type of House,819,46010,local
+Owned House,58924,46010,local
+Rental House,4912,46010,local
+Institutional House,232,46008,local
+Other Type of House,819,46008,local
+Owned House,58924,46008,local
+Rental House,4912,46008,local
+Institutional House,232,46011,local
+Other Type of House,819,46011,local
+Owned House,58924,46011,local
+Rental House,4912,46011,local
+Institutional House,232,46012,local
+Other Type of House,819,46012,local
+Owned House,58924,46012,local
+Rental House,4912,46012,local
+Institutional House,232,46003,local
+Other Type of House,819,46003,local
+Owned House,58924,46003,local
+Rental House,4912,46003,local
+Institutional House,232,46002,local
+Other Type of House,819,46002,local
+Owned House,58924,46002,local
+Rental House,4912,46002,local
+Institutional House,232,46004,local
+Other Type of House,819,46004,local
+Owned House,58924,46004,local
+Rental House,4912,46004,local
+Institutional House,232,46007,local
+Other Type of House,819,46007,local
+Owned House,58924,46007,local
+Rental House,4912,46007,local
+Institutional House,232,46009,local
+Other Type of House,819,46009,local
+Owned House,58924,46009,local
+Rental House,4912,46009,local
+Institutional House,232,46005,local
+Other Type of House,819,46005,local
+Owned House,58924,46005,local
+Rental House,4912,46005,local
+Institutional House,7,59,district
+Other Type of House,135,59,district
+Owned House,10852,59,district
+Rental House,208,59,district
+Institutional House,7,77001,local
+Other Type of House,135,77001,local
+Owned House,10852,77001,local
+Rental House,208,77001,local
+Institutional House,7,77002,local
+Other Type of House,135,77002,local
+Owned House,10852,77002,local
+Rental House,208,77002,local
+Institutional House,7,77003,local
+Other Type of House,135,77003,local
+Owned House,10852,77003,local
+Rental House,208,77003,local
+Institutional House,185,54,district
+Other Type of House,287,54,district
+Owned House,45538,54,district
+Rental House,1706,54,district
+Institutional House,185,52001,local
+Other Type of House,287,52001,local
+Owned House,45538,52001,local
+Rental House,1706,52001,local
+Institutional House,185,52004,local
+Other Type of House,287,52004,local
+Owned House,45538,52004,local
+Rental House,1706,52004,local
+Institutional House,185,52003,local
+Other Type of House,287,52003,local
+Owned House,45538,52003,local
+Rental House,1706,52003,local
+Institutional House,185,52005,local
+Other Type of House,287,52005,local
+Owned House,45538,52005,local
+Rental House,1706,52005,local
+Institutional House,185,52008,local
+Other Type of House,287,52008,local
+Owned House,45538,52008,local
+Rental House,1706,52008,local
+Institutional House,185,52002,local
+Other Type of House,287,52002,local
+Owned House,45538,52002,local
+Rental House,1706,52002,local
+Institutional House,185,52009,local
+Other Type of House,287,52009,local
+Owned House,45538,52009,local
+Rental House,1706,52009,local
+Institutional House,185,52007,local
+Other Type of House,287,52007,local
+Owned House,45538,52007,local
+Rental House,1706,52007,local
+Institutional House,185,52006,local
+Other Type of House,287,52006,local
+Owned House,45538,52006,local
+Rental House,1706,52006,local
+Institutional House,1219,60,district
+Other Type of House,1328,60,district
+Owned House,137116,60,district
+Rental House,24172,60,district
+Institutional House,1219,49010,local
+Other Type of House,1328,49010,local
+Owned House,137116,49010,local
+Rental House,24172,49010,local
+Institutional House,1219,49004,local
+Other Type of House,1328,49004,local
+Owned House,137116,49004,local
+Rental House,24172,49004,local
+Institutional House,1219,49012,local
+Other Type of House,1328,49012,local
+Owned House,137116,49012,local
+Rental House,24172,49012,local
+Institutional House,1219,49001,local
+Other Type of House,1328,49001,local
+Owned House,137116,49001,local
+Rental House,24172,49001,local
+Institutional House,1219,49015,local
+Other Type of House,1328,49015,local
+Owned House,137116,49015,local
+Rental House,24172,49015,local
+Institutional House,1219,49009,local
+Other Type of House,1328,49009,local
+Owned House,137116,49009,local
+Rental House,24172,49009,local
+Institutional House,1219,49011,local
+Other Type of House,1328,49011,local
+Owned House,137116,49011,local
+Rental House,24172,49011,local
+Institutional House,1219,49016,local
+Other Type of House,1328,49016,local
+Owned House,137116,49016,local
+Rental House,24172,49016,local
+Institutional House,1219,49014,local
+Other Type of House,1328,49014,local
+Owned House,137116,49014,local
+Rental House,24172,49014,local
+Institutional House,1219,49008,local
+Other Type of House,1328,49008,local
+Owned House,137116,49008,local
+Rental House,24172,49008,local
+Institutional House,1219,49003,local
+Other Type of House,1328,49003,local
+Owned House,137116,49003,local
+Rental House,24172,49003,local
+Institutional House,1219,49006,local
+Other Type of House,1328,49006,local
+Owned House,137116,49006,local
+Rental House,24172,49006,local
+Institutional House,1219,49005,local
+Other Type of House,1328,49005,local
+Owned House,137116,49005,local
+Rental House,24172,49005,local
+Institutional House,1219,49007,local
+Other Type of House,1328,49007,local
+Owned House,137116,49007,local
+Rental House,24172,49007,local
+Institutional House,1219,49002,local
+Other Type of House,1328,49002,local
+Owned House,137116,49002,local
+Rental House,24172,49002,local
+Institutional House,1219,49013,local
+Other Type of House,1328,49013,local
+Owned House,137116,49013,local
+Rental House,24172,49013,local
+Institutional House,191,76,district
+Other Type of House,351,76,district
+Owned House,58461,76,district
+Rental House,2842,76,district
+Institutional House,191,48004,local
+Other Type of House,351,48004,local
+Owned House,58461,48004,local
+Rental House,2842,48004,local
+Institutional House,191,48002,local
+Other Type of House,351,48002,local
+Owned House,58461,48002,local
+Rental House,2842,48002,local
+Institutional House,191,48005,local
+Other Type of House,351,48005,local
+Owned House,58461,48005,local
+Rental House,2842,48005,local
+Institutional House,191,48001,local
+Other Type of House,351,48001,local
+Owned House,58461,48001,local
+Rental House,2842,48001,local
+Institutional House,191,48006,local
+Other Type of House,351,48006,local
+Owned House,58461,48006,local
+Rental House,2842,48006,local
+Institutional House,191,48007,local
+Other Type of House,351,48007,local
+Owned House,58461,48007,local
+Rental House,2842,48007,local
+Institutional House,191,48003,local
+Other Type of House,351,48003,local
+Owned House,58461,48003,local
+Rental House,2842,48003,local
+Institutional House,713,07,district
+Other Type of House,639,07,district
+Owned House,83430,07,district
+Rental House,9911,07,district
+Institutional House,713,57002,local
+Other Type of House,639,57002,local
+Owned House,83430,57002,local
+Rental House,9911,57002,local
+Institutional House,713,57006,local
+Other Type of House,639,57006,local
+Owned House,83430,57006,local
+Rental House,9911,57006,local
+Institutional House,713,57008,local
+Other Type of House,639,57008,local
+Owned House,83430,57008,local
+Rental House,9911,57008,local
+Institutional House,713,57001,local
+Other Type of House,639,57001,local
+Owned House,83430,57001,local
+Rental House,9911,57001,local
+Institutional House,713,57004,local
+Other Type of House,639,57004,local
+Owned House,83430,57004,local
+Rental House,9911,57004,local
+Institutional House,713,57005,local
+Other Type of House,639,57005,local
+Owned House,83430,57005,local
+Rental House,9911,57005,local
+Institutional House,713,57007,local
+Other Type of House,639,57007,local
+Owned House,83430,57007,local
+Rental House,9911,57007,local
+Institutional House,713,57003,local
+Other Type of House,639,57003,local
+Owned House,83430,57003,local
+Rental House,9911,57003,local
+Institutional House,400,50,district
+Other Type of House,646,50,district
+Owned House,51704,50,district
+Rental House,6510,50,district
+Institutional House,400,47007,local
+Other Type of House,646,47007,local
+Owned House,51704,47007,local
+Rental House,6510,47007,local
+Institutional House,400,47005,local
+Other Type of House,646,47005,local
+Owned House,51704,47005,local
+Rental House,6510,47005,local
+Institutional House,400,47010,local
+Other Type of House,646,47010,local
+Owned House,51704,47010,local
+Rental House,6510,47010,local
+Institutional House,400,47003,local
+Other Type of House,646,47003,local
+Owned House,51704,47003,local
+Rental House,6510,47003,local
+Institutional House,400,47008,local
+Other Type of House,646,47008,local
+Owned House,51704,47008,local
+Rental House,6510,47008,local
+Institutional House,400,47006,local
+Other Type of House,646,47006,local
+Owned House,51704,47006,local
+Rental House,6510,47006,local
+Institutional House,400,47001,local
+Other Type of House,646,47001,local
+Owned House,51704,47001,local
+Rental House,6510,47001,local
+Institutional House,400,47009,local
+Other Type of House,646,47009,local
+Owned House,51704,47009,local
+Rental House,6510,47009,local
+Institutional House,400,47002,local
+Other Type of House,646,47002,local
+Owned House,51704,47002,local
+Rental House,6510,47002,local
+Institutional House,400,47004,local
+Other Type of House,646,47004,local
+Owned House,51704,47004,local
+Rental House,6510,47004,local
+Institutional House,118,58,district
+Other Type of House,225,58,district
+Owned House,41188,58,district
+Rental House,2204,58,district
+Institutional House,118,53008,local
+Other Type of House,225,53008,local
+Owned House,41188,53008,local
+Rental House,2204,53008,local
+Institutional House,118,53001,local
+Other Type of House,225,53001,local
+Owned House,41188,53001,local
+Rental House,2204,53001,local
+Institutional House,118,53003,local
+Other Type of House,225,53003,local
+Owned House,41188,53003,local
+Rental House,2204,53003,local
+Institutional House,118,53004,local
+Other Type of House,225,53004,local
+Owned House,41188,53004,local
+Rental House,2204,53004,local
+Institutional House,118,53010,local
+Other Type of House,225,53010,local
+Owned House,41188,53010,local
+Rental House,2204,53010,local
+Institutional House,118,53006,local
+Other Type of House,225,53006,local
+Owned House,41188,53006,local
+Rental House,2204,53006,local
+Institutional House,118,53009,local
+Other Type of House,225,53009,local
+Owned House,41188,53009,local
+Rental House,2204,53009,local
+Institutional House,118,53005,local
+Other Type of House,225,53005,local
+Owned House,41188,53005,local
+Rental House,2204,53005,local
+Institutional House,118,53002,local
+Other Type of House,225,53002,local
+Owned House,41188,53002,local
+Rental House,2204,53002,local
+Institutional House,118,53007,local
+Other Type of House,225,53007,local
+Owned House,41188,53007,local
+Rental House,2204,53007,local
+Institutional House,418,15,district
+Other Type of House,1443,15,district
+Owned House,103762,15,district
+Rental House,10724,15,district
+Institutional House,418,56005,local
+Other Type of House,1443,56005,local
+Owned House,103762,56005,local
+Rental House,10724,56005,local
+Institutional House,418,56010,local
+Other Type of House,1443,56010,local
+Owned House,103762,56010,local
+Rental House,10724,56010,local
+Institutional House,418,56003,local
+Other Type of House,1443,56003,local
+Owned House,103762,56003,local
+Rental House,10724,56003,local
+Institutional House,418,56007,local
+Other Type of House,1443,56007,local
+Owned House,103762,56007,local
+Rental House,10724,56007,local
+Institutional House,418,56006,local
+Other Type of House,1443,56006,local
+Owned House,103762,56006,local
+Rental House,10724,56006,local
+Institutional House,418,56009,local
+Other Type of House,1443,56009,local
+Owned House,103762,56009,local
+Rental House,10724,56009,local
+Institutional House,418,56001,local
+Other Type of House,1443,56001,local
+Owned House,103762,56001,local
+Rental House,10724,56001,local
+Institutional House,418,56008,local
+Other Type of House,1443,56008,local
+Owned House,103762,56008,local
+Rental House,10724,56008,local
+Institutional House,418,56002,local
+Other Type of House,1443,56002,local
+Owned House,103762,56002,local
+Rental House,10724,56002,local
+Institutional House,418,56004,local
+Other Type of House,1443,56004,local
+Owned House,103762,56004,local
+Rental House,10724,56004,local
+Institutional House,160,02,district
+Other Type of House,259,02,district
+Owned House,43895,02,district
+Rental House,2512,02,district
+Institutional House,160,51002,local
+Other Type of House,259,51002,local
+Owned House,43895,51002,local
+Rental House,2512,51002,local
+Institutional House,160,51003,local
+Other Type of House,259,51003,local
+Owned House,43895,51003,local
+Rental House,2512,51003,local
+Institutional House,160,51005,local
+Other Type of House,259,51005,local
+Owned House,43895,51005,local
+Rental House,2512,51005,local
+Institutional House,160,51001,local
+Other Type of House,259,51001,local
+Owned House,43895,51001,local
+Rental House,2512,51001,local
+Institutional House,160,51006,local
+Other Type of House,259,51006,local
+Owned House,43895,51006,local
+Rental House,2512,51006,local
+Institutional House,160,51004,local
+Other Type of House,259,51004,local
+Owned House,43895,51004,local
+Rental House,2512,51004,local
+Institutional House,238,09,district
+Other Type of House,761,09,district
+Owned House,80076,09,district
+Rental House,2072,09,district
+Institutional House,238,58007,local
+Other Type of House,761,58007,local
+Owned House,80076,58007,local
+Rental House,2072,58007,local
+Institutional House,238,58001,local
+Other Type of House,761,58001,local
+Owned House,80076,58001,local
+Rental House,2072,58001,local
+Institutional House,238,58008,local
+Other Type of House,761,58008,local
+Owned House,80076,58008,local
+Rental House,2072,58008,local
+Institutional House,238,58004,local
+Other Type of House,761,58004,local
+Owned House,80076,58004,local
+Rental House,2072,58004,local
+Institutional House,238,58002,local
+Other Type of House,761,58002,local
+Owned House,80076,58002,local
+Rental House,2072,58002,local
+Institutional House,238,58005,local
+Other Type of House,761,58005,local
+Owned House,80076,58005,local
+Rental House,2072,58005,local
+Institutional House,238,58006,local
+Other Type of House,761,58006,local
+Owned House,80076,58006,local
+Rental House,2072,58006,local
+Institutional House,238,58003,local
+Other Type of House,761,58003,local
+Owned House,80076,58003,local
+Rental House,2072,58003,local
+Institutional House,179,33,district
+Other Type of House,424,33,district
+Owned House,87462,33,district
+Rental House,3199,33,district
+Institutional House,179,50009,local
+Other Type of House,424,50009,local
+Owned House,87462,50009,local
+Rental House,3199,50009,local
+Institutional House,179,50001,local
+Other Type of House,424,50001,local
+Owned House,87462,50001,local
+Rental House,3199,50001,local
+Institutional House,179,50002,local
+Other Type of House,424,50002,local
+Owned House,87462,50002,local
+Rental House,3199,50002,local
+Institutional House,179,50007,local
+Other Type of House,424,50007,local
+Owned House,87462,50007,local
+Rental House,3199,50007,local
+Institutional House,179,50010,local
+Other Type of House,424,50010,local
+Owned House,87462,50010,local
+Rental House,3199,50010,local
+Institutional House,179,50005,local
+Other Type of House,424,50005,local
+Owned House,87462,50005,local
+Rental House,3199,50005,local
+Institutional House,179,50003,local
+Other Type of House,424,50003,local
+Owned House,87462,50003,local
+Rental House,3199,50003,local
+Institutional House,179,50004,local
+Other Type of House,424,50004,local
+Owned House,87462,50004,local
+Rental House,3199,50004,local
+Institutional House,179,50008,local
+Other Type of House,424,50008,local
+Owned House,87462,50008,local
+Rental House,3199,50008,local
+Institutional House,179,50006,local
+Other Type of House,424,50006,local
+Owned House,87462,50006,local
+Rental House,3199,50006,local
+Institutional House,4083,4,province
+Other Type of House,9965,4,province
+Owned House,472211,4,province
+Rental House,91423,4,province
+Institutional House,257,23,district
+Other Type of House,669,23,district
+Owned House,60591,23,district
+Rental House,4941,23,district
+Institutional House,257,36011,local
+Other Type of House,669,36011,local
+Owned House,60591,36011,local
+Rental House,4941,36011,local
+Institutional House,257,36008,local
+Other Type of House,669,36008,local
+Owned House,60591,36008,local
+Rental House,4941,36008,local
+Institutional House,257,36001,local
+Other Type of House,669,36001,local
+Owned House,60591,36001,local
+Rental House,4941,36001,local
+Institutional House,257,36003,local
+Other Type of House,669,36003,local
+Owned House,60591,36003,local
+Rental House,4941,36003,local
+Institutional House,257,36006,local
+Other Type of House,669,36006,local
+Owned House,60591,36006,local
+Rental House,4941,36006,local
+Institutional House,257,36010,local
+Other Type of House,669,36010,local
+Owned House,60591,36010,local
+Rental House,4941,36010,local
+Institutional House,257,36002,local
+Other Type of House,669,36002,local
+Owned House,60591,36002,local
+Rental House,4941,36002,local
+Institutional House,257,36007,local
+Other Type of House,669,36007,local
+Owned House,60591,36007,local
+Rental House,4941,36007,local
+Institutional House,257,36004,local
+Other Type of House,669,36004,local
+Owned House,60591,36004,local
+Rental House,4941,36004,local
+Institutional House,257,36005,local
+Other Type of House,669,36005,local
+Owned House,60591,36005,local
+Rental House,4941,36005,local
+Institutional House,257,36009,local
+Other Type of House,669,36009,local
+Owned House,60591,36009,local
+Rental House,4941,36009,local
+Institutional House,151,03,district
+Other Type of House,835,03,district
+Owned House,54549,03,district
+Rental House,5947,03,district
+Institutional House,151,45008,local
+Other Type of House,835,45008,local
+Owned House,54549,45008,local
+Rental House,5947,45008,local
+Institutional House,151,45007,local
+Other Type of House,835,45007,local
+Owned House,54549,45007,local
+Rental House,5947,45007,local
+Institutional House,151,45005,local
+Other Type of House,835,45005,local
+Owned House,54549,45005,local
+Rental House,5947,45005,local
+Institutional House,151,45001,local
+Other Type of House,835,45001,local
+Owned House,54549,45001,local
+Rental House,5947,45001,local
+Institutional House,151,45002,local
+Other Type of House,835,45002,local
+Owned House,54549,45002,local
+Rental House,5947,45002,local
+Institutional House,151,45003,local
+Other Type of House,835,45003,local
+Owned House,54549,45003,local
+Rental House,5947,45003,local
+Institutional House,151,45009,local
+Other Type of House,835,45009,local
+Owned House,54549,45009,local
+Rental House,5947,45009,local
+Institutional House,151,45004,local
+Other Type of House,835,45004,local
+Owned House,54549,45004,local
+Rental House,5947,45004,local
+Institutional House,151,45010,local
+Other Type of House,835,45010,local
+Owned House,54549,45010,local
+Rental House,5947,45010,local
+Institutional House,151,45006,local
+Other Type of House,835,45006,local
+Owned House,54549,45006,local
+Rental House,5947,45006,local
+Institutional House,262,71,district
+Other Type of House,815,71,district
+Owned House,61462,71,district
+Rental House,6317,71,district
+Institutional House,262,39008,local
+Other Type of House,815,39008,local
+Owned House,61462,39008,local
+Rental House,6317,39008,local
+Institutional House,262,39005,local
+Other Type of House,815,39005,local
+Owned House,61462,39005,local
+Rental House,6317,39005,local
+Institutional House,262,39009,local
+Other Type of House,815,39009,local
+Owned House,61462,39009,local
+Rental House,6317,39009,local
+Institutional House,262,39001,local
+Other Type of House,815,39001,local
+Owned House,61462,39001,local
+Rental House,6317,39001,local
+Institutional House,262,39004,local
+Other Type of House,815,39004,local
+Owned House,61462,39004,local
+Rental House,6317,39004,local
+Institutional House,262,39003,local
+Other Type of House,815,39003,local
+Owned House,61462,39003,local
+Rental House,6317,39003,local
+Institutional House,262,39011,local
+Other Type of House,815,39011,local
+Owned House,61462,39011,local
+Rental House,6317,39011,local
+Institutional House,262,39006,local
+Other Type of House,815,39006,local
+Owned House,61462,39006,local
+Rental House,6317,39006,local
+Institutional House,262,39002,local
+Other Type of House,815,39002,local
+Owned House,61462,39002,local
+Rental House,6317,39002,local
+Institutional House,262,39010,local
+Other Type of House,815,39010,local
+Owned House,61462,39010,local
+Rental House,6317,39010,local
+Institutional House,262,39007,local
+Other Type of House,815,39007,local
+Owned House,61462,39007,local
+Rental House,6317,39007,local
+Institutional House,378,47,district
+Other Type of House,676,47,district
+Owned House,59345,47,district
+Rental House,6516,47,district
+Institutional House,378,76004,local
+Other Type of House,676,76004,local
+Owned House,59345,76004,local
+Rental House,6516,76004,local
+Institutional House,378,76002,local
+Other Type of House,676,76002,local
+Owned House,59345,76002,local
+Rental House,6516,76002,local
+Institutional House,378,76007,local
+Other Type of House,676,76007,local
+Owned House,59345,76007,local
+Rental House,6516,76007,local
+Institutional House,378,76008,local
+Other Type of House,676,76008,local
+Owned House,59345,76008,local
+Rental House,6516,76008,local
+Institutional House,378,76001,local
+Other Type of House,676,76001,local
+Owned House,59345,76001,local
+Rental House,6516,76001,local
+Institutional House,378,76005,local
+Other Type of House,676,76005,local
+Owned House,59345,76005,local
+Rental House,6516,76005,local
+Institutional House,378,76006,local
+Other Type of House,676,76006,local
+Owned House,59345,76006,local
+Rental House,6516,76006,local
+Institutional House,378,76003,local
+Other Type of House,676,76003,local
+Owned House,59345,76003,local
+Rental House,6516,76003,local
+Institutional House,244,46,district
+Other Type of House,1101,46,district
+Owned House,23310,46,district
+Rental House,3072,46,district
+Institutional House,244,43003,local
+Other Type of House,1101,43003,local
+Owned House,23310,43003,local
+Rental House,3072,43003,local
+Institutional House,244,43002,local
+Other Type of House,1101,43002,local
+Owned House,23310,43002,local
+Rental House,3072,43002,local
+Institutional House,244,43004,local
+Other Type of House,1101,43004,local
+Owned House,23310,43004,local
+Rental House,3072,43004,local
+Institutional House,244,43001,local
+Other Type of House,1101,43001,local
+Owned House,23310,43001,local
+Rental House,3072,43001,local
+Institutional House,244,43005,local
+Other Type of House,1101,43005,local
+Owned House,23310,43005,local
+Rental House,3072,43005,local
+Institutional House,244,43006,local
+Other Type of House,1101,43006,local
+Owned House,23310,43006,local
+Rental House,3072,43006,local
+Institutional House,243,39,district
+Other Type of House,607,39,district
+Owned House,35760,39,district
+Rental House,5438,39,district
+Institutional House,243,37005,local
+Other Type of House,607,37005,local
+Owned House,35760,37005,local
+Rental House,5438,37005,local
+Institutional House,243,37007,local
+Other Type of House,607,37007,local
+Owned House,35760,37007,local
+Rental House,5438,37007,local
+Institutional House,243,37001,local
+Other Type of House,607,37001,local
+Owned House,35760,37001,local
+Rental House,5438,37001,local
+Institutional House,243,37006,local
+Other Type of House,607,37006,local
+Owned House,35760,37006,local
+Rental House,5438,37006,local
+Institutional House,243,37008,local
+Other Type of House,607,37008,local
+Owned House,35760,37008,local
+Rental House,5438,37008,local
+Institutional House,243,37004,local
+Other Type of House,607,37004,local
+Owned House,35760,37004,local
+Rental House,5438,37004,local
+Institutional House,243,37003,local
+Other Type of House,607,37003,local
+Owned House,35760,37003,local
+Rental House,5438,37003,local
+Institutional House,243,37002,local
+Other Type of House,607,37002,local
+Owned House,35760,37002,local
+Rental House,5438,37002,local
+Institutional House,1656,34,district
+Other Type of House,3012,34,district
+Owned House,76599,34,district
+Rental House,44192,34,district
+Institutional House,1656,40005,local
+Other Type of House,3012,40005,local
+Owned House,76599,40005,local
+Rental House,44192,40005,local
+Institutional House,1656,40001,local
+Other Type of House,3012,40001,local
+Owned House,76599,40001,local
+Rental House,44192,40001,local
+Institutional House,1656,40003,local
+Other Type of House,3012,40003,local
+Owned House,76599,40003,local
+Rental House,44192,40003,local
+Institutional House,1656,40002,local
+Other Type of House,3012,40002,local
+Owned House,76599,40002,local
+Rental House,44192,40002,local
+Institutional House,1656,40004,local
+Other Type of House,3012,40004,local
+Owned House,76599,40004,local
+Rental House,44192,40004,local
+Institutional House,36,42,district
+Other Type of House,179,42,district
+Owned House,904,42,district
+Rental House,329,42,district
+Institutional House,36,41003,local
+Other Type of House,179,41003,local
+Owned House,904,41003,local
+Rental House,329,41003,local
+Institutional House,36,41001,local
+Other Type of House,179,41001,local
+Owned House,904,41001,local
+Rental House,329,41001,local
+Institutional House,36,41004,local
+Other Type of House,179,41004,local
+Owned House,904,41004,local
+Rental House,329,41004,local
+Institutional House,36,41002,local
+Other Type of House,179,41002,local
+Owned House,904,41002,local
+Rental House,329,41002,local
+Institutional House,488,72,district
+Other Type of House,1131,72,district
+Owned House,66323,72,district
+Rental House,10344,72,district
+Institutional House,488,38006,local
+Other Type of House,1131,38006,local
+Owned House,66323,38006,local
+Rental House,10344,38006,local
+Institutional House,488,38009,local
+Other Type of House,1131,38009,local
+Owned House,66323,38009,local
+Rental House,10344,38009,local
+Institutional House,488,38001,local
+Other Type of House,1131,38001,local
+Owned House,66323,38001,local
+Rental House,10344,38001,local
+Institutional House,488,38004,local
+Other Type of House,1131,38004,local
+Owned House,66323,38004,local
+Rental House,10344,38004,local
+Institutional House,488,38003,local
+Other Type of House,1131,38003,local
+Owned House,66323,38003,local
+Rental House,10344,38003,local
+Institutional House,488,38002,local
+Other Type of House,1131,38002,local
+Owned House,66323,38002,local
+Rental House,10344,38002,local
+Institutional House,488,38007,local
+Other Type of House,1131,38007,local
+Owned House,66323,38007,local
+Rental House,10344,38007,local
+Institutional House,488,38010,local
+Other Type of House,1131,38010,local
+Owned House,66323,38010,local
+Rental House,10344,38010,local
+Institutional House,488,38005,local
+Other Type of House,1131,38005,local
+Owned House,66323,38005,local
+Rental House,10344,38005,local
+Institutional House,488,38008,local
+Other Type of House,1131,38008,local
+Owned House,66323,38008,local
+Rental House,10344,38008,local
+Institutional House,182,45,district
+Other Type of House,139,45,district
+Owned House,2278,45,district
+Rental House,706,45,district
+Institutional House,182,42001,local
+Other Type of House,139,42001,local
+Owned House,2278,42001,local
+Rental House,706,42001,local
+Institutional House,182,42004,local
+Other Type of House,139,42004,local
+Owned House,2278,42004,local
+Rental House,706,42004,local
+Institutional House,182,42005,local
+Other Type of House,139,42005,local
+Owned House,2278,42005,local
+Rental House,706,42005,local
+Institutional House,182,42002,local
+Other Type of House,139,42002,local
+Owned House,2278,42002,local
+Rental House,706,42002,local
+Institutional House,182,42003,local
+Other Type of House,139,42003,local
+Owned House,2278,42003,local
+Rental House,706,42003,local
+Institutional House,186,52,district
+Other Type of House,801,52,district
+Owned House,31090,52,district
+Rental House,3621,52,district
+Institutional House,186,44004,local
+Other Type of House,801,44004,local
+Owned House,31090,44004,local
+Rental House,3621,44004,local
+Institutional House,186,44006,local
+Other Type of House,801,44006,local
+Owned House,31090,44006,local
+Rental House,3621,44006,local
+Institutional House,186,44002,local
+Other Type of House,801,44002,local
+Owned House,31090,44002,local
+Rental House,3621,44002,local
+Institutional House,186,44007,local
+Other Type of House,801,44007,local
+Owned House,31090,44007,local
+Rental House,3621,44007,local
+Institutional House,186,44003,local
+Other Type of House,801,44003,local
+Owned House,31090,44003,local
+Rental House,3621,44003,local
+Institutional House,186,44001,local
+Other Type of House,801,44001,local
+Owned House,31090,44001,local
+Rental House,3621,44001,local
+Institutional House,186,44005,local
+Other Type of House,801,44005,local
+Owned House,31090,44005,local
+Rental House,3621,44005,local
+Institutional House,3284,2,province
+Other Type of House,6464,2,province
+Owned House,896369,2,province
+Rental House,25970,2,province
+Institutional House,260,64,district
+Other Type of House,744,64,district
+Owned House,129240,64,district
+Rental House,2559,64,district
+Institutional House,260,19020,local
+Other Type of House,744,19020,local
+Owned House,129240,19020,local
+Rental House,2559,19020,local
+Institutional House,260,19005,local
+Other Type of House,744,19005,local
+Owned House,129240,19005,local
+Rental House,2559,19005,local
+Institutional House,260,19008,local
+Other Type of House,744,19008,local
+Owned House,129240,19008,local
+Rental House,2559,19008,local
+Institutional House,260,19016,local
+Other Type of House,744,19016,local
+Owned House,129240,19016,local
+Rental House,2559,19016,local
+Institutional House,260,19012,local
+Other Type of House,744,19012,local
+Owned House,129240,19012,local
+Rental House,2559,19012,local
+Institutional House,260,19009,local
+Other Type of House,744,19009,local
+Owned House,129240,19009,local
+Rental House,2559,19009,local
+Institutional House,260,19010,local
+Other Type of House,744,19010,local
+Owned House,129240,19010,local
+Rental House,2559,19010,local
+Institutional House,260,19013,local
+Other Type of House,744,19013,local
+Owned House,129240,19013,local
+Rental House,2559,19013,local
+Institutional House,260,19007,local
+Other Type of House,744,19007,local
+Owned House,129240,19007,local
+Rental House,2559,19007,local
+Institutional House,260,19017,local
+Other Type of House,744,19017,local
+Owned House,129240,19017,local
+Rental House,2559,19017,local
+Institutional House,260,19018,local
+Other Type of House,744,19018,local
+Owned House,129240,19018,local
+Rental House,2559,19018,local
+Institutional House,260,19011,local
+Other Type of House,744,19011,local
+Owned House,129240,19011,local
+Rental House,2559,19011,local
+Institutional House,260,19001,local
+Other Type of House,744,19001,local
+Owned House,129240,19001,local
+Rental House,2559,19001,local
+Institutional House,260,19014,local
+Other Type of House,744,19014,local
+Owned House,129240,19014,local
+Rental House,2559,19014,local
+Institutional House,260,19015,local
+Other Type of House,744,19015,local
+Owned House,129240,19015,local
+Rental House,2559,19015,local
+Institutional House,260,19003,local
+Other Type of House,744,19003,local
+Owned House,129240,19003,local
+Rental House,2559,19003,local
+Institutional House,260,19004,local
+Other Type of House,744,19004,local
+Owned House,129240,19004,local
+Rental House,2559,19004,local
+Institutional House,260,19019,local
+Other Type of House,744,19019,local
+Owned House,129240,19019,local
+Rental House,2559,19019,local
+Institutional House,260,19006,local
+Other Type of House,744,19006,local
+Owned House,129240,19006,local
+Rental House,2559,19006,local
+Institutional House,260,19002,local
+Other Type of House,744,19002,local
+Owned House,129240,19002,local
+Rental House,2559,19002,local
+Institutional House,496,67,district
+Other Type of House,1147,67,district
+Owned House,113960,67,district
+Rental House,2326,67,district
+Institutional House,496,16011,local
+Other Type of House,1147,16011,local
+Owned House,113960,16011,local
+Rental House,2326,16011,local
+Institutional House,496,16007,local
+Other Type of House,1147,16007,local
+Owned House,113960,16007,local
+Rental House,2326,16007,local
+Institutional House,496,16015,local
+Other Type of House,1147,16015,local
+Owned House,113960,16015,local
+Rental House,2326,16015,local
+Institutional House,496,16010,local
+Other Type of House,1147,16010,local
+Owned House,113960,16010,local
+Rental House,2326,16010,local
+Institutional House,496,16008,local
+Other Type of House,1147,16008,local
+Owned House,113960,16008,local
+Rental House,2326,16008,local
+Institutional House,496,16009,local
+Other Type of House,1147,16009,local
+Owned House,113960,16009,local
+Rental House,2326,16009,local
+Institutional House,496,16014,local
+Other Type of House,1147,16014,local
+Owned House,113960,16014,local
+Rental House,2326,16014,local
+Institutional House,496,16003,local
+Other Type of House,1147,16003,local
+Owned House,113960,16003,local
+Rental House,2326,16003,local
+Institutional House,496,16004,local
+Other Type of House,1147,16004,local
+Owned House,113960,16004,local
+Rental House,2326,16004,local
+Institutional House,496,16005,local
+Other Type of House,1147,16005,local
+Owned House,113960,16005,local
+Rental House,2326,16005,local
+Institutional House,496,16001,local
+Other Type of House,1147,16001,local
+Owned House,113960,16001,local
+Rental House,2326,16001,local
+Institutional House,496,16006,local
+Other Type of House,1147,16006,local
+Owned House,113960,16006,local
+Rental House,2326,16006,local
+Institutional House,496,16012,local
+Other Type of House,1147,16012,local
+Owned House,113960,16012,local
+Rental House,2326,16012,local
+Institutional House,496,16013,local
+Other Type of House,1147,16013,local
+Owned House,113960,16013,local
+Rental House,2326,16013,local
+Institutional House,496,16016,local
+Other Type of House,1147,16016,local
+Owned House,113960,16016,local
+Rental House,2326,16016,local
+Institutional House,496,16002,local
+Other Type of House,1147,16002,local
+Owned House,113960,16002,local
+Rental House,2326,16002,local
+Institutional House,496,16017,local
+Other Type of House,1147,16017,local
+Owned House,113960,16017,local
+Rental House,2326,16017,local
+Institutional House,216,40,district
+Other Type of House,439,40,district
+Owned House,109298,40,district
+Rental House,1345,40,district
+Institutional House,216,18012,local
+Other Type of House,439,18012,local
+Owned House,109298,18012,local
+Rental House,1345,18012,local
+Institutional House,216,18002,local
+Other Type of House,439,18002,local
+Owned House,109298,18002,local
+Rental House,1345,18002,local
+Institutional House,216,18014,local
+Other Type of House,439,18014,local
+Owned House,109298,18014,local
+Rental House,1345,18014,local
+Institutional House,216,18013,local
+Other Type of House,439,18013,local
+Owned House,109298,18013,local
+Rental House,1345,18013,local
+Institutional House,216,18003,local
+Other Type of House,439,18003,local
+Owned House,109298,18003,local
+Rental House,1345,18003,local
+Institutional House,216,18007,local
+Other Type of House,439,18007,local
+Owned House,109298,18007,local
+Rental House,1345,18007,local
+Institutional House,216,18005,local
+Other Type of House,439,18005,local
+Owned House,109298,18005,local
+Rental House,1345,18005,local
+Institutional House,216,18008,local
+Other Type of House,439,18008,local
+Owned House,109298,18008,local
+Rental House,1345,18008,local
+Institutional House,216,18009,local
+Other Type of House,439,18009,local
+Owned House,109298,18009,local
+Rental House,1345,18009,local
+Institutional House,216,18004,local
+Other Type of House,439,18004,local
+Owned House,109298,18004,local
+Rental House,1345,18004,local
+Institutional House,216,18006,local
+Other Type of House,439,18006,local
+Owned House,109298,18006,local
+Rental House,1345,18006,local
+Institutional House,216,18011,local
+Other Type of House,439,18011,local
+Owned House,109298,18011,local
+Rental House,1345,18011,local
+Institutional House,216,18015,local
+Other Type of House,439,18015,local
+Owned House,109298,18015,local
+Rental House,1345,18015,local
+Institutional House,216,18010,local
+Other Type of House,439,18010,local
+Owned House,109298,18010,local
+Rental House,1345,18010,local
+Institutional House,216,18001,local
+Other Type of House,439,18001,local
+Owned House,109298,18001,local
+Rental House,1345,18001,local
+Institutional House,650,53,district
+Other Type of House,460,53,district
+Owned House,86655,53,district
+Rental House,7751,53,district
+Institutional House,650,34008,local
+Other Type of House,460,34008,local
+Owned House,86655,34008,local
+Rental House,7751,34008,local
+Institutional House,650,34006,local
+Other Type of House,460,34006,local
+Owned House,86655,34006,local
+Rental House,7751,34006,local
+Institutional House,650,34005,local
+Other Type of House,460,34005,local
+Owned House,86655,34005,local
+Rental House,7751,34005,local
+Institutional House,650,34007,local
+Other Type of House,460,34007,local
+Owned House,86655,34007,local
+Rental House,7751,34007,local
+Institutional House,650,34003,local
+Other Type of House,460,34003,local
+Owned House,86655,34003,local
+Rental House,7751,34003,local
+Institutional House,650,34011,local
+Other Type of House,460,34011,local
+Owned House,86655,34011,local
+Rental House,7751,34011,local
+Institutional House,650,34012,local
+Other Type of House,460,34012,local
+Owned House,86655,34012,local
+Rental House,7751,34012,local
+Institutional House,650,34002,local
+Other Type of House,460,34002,local
+Owned House,86655,34002,local
+Rental House,7751,34002,local
+Institutional House,650,34014,local
+Other Type of House,460,34014,local
+Owned House,86655,34014,local
+Rental House,7751,34014,local
+Institutional House,650,34004,local
+Other Type of House,460,34004,local
+Owned House,86655,34004,local
+Rental House,7751,34004,local
+Institutional House,650,34001,local
+Other Type of House,460,34001,local
+Owned House,86655,34001,local
+Rental House,7751,34001,local
+Institutional House,650,34010,local
+Other Type of House,460,34010,local
+Owned House,86655,34010,local
+Rental House,7751,34010,local
+Institutional House,650,34013,local
+Other Type of House,460,34013,local
+Owned House,86655,34013,local
+Rental House,7751,34013,local
+Institutional House,650,34009,local
+Other Type of House,460,34009,local
+Owned House,86655,34009,local
+Rental House,7751,34009,local
+Institutional House,364,63,district
+Other Type of House,1595,63,district
+Owned House,116451,63,district
+Rental House,2654,63,district
+Institutional House,364,15002,local
+Other Type of House,1595,15002,local
+Owned House,116451,15002,local
+Rental House,2654,15002,local
+Institutional House,364,15005,local
+Other Type of House,1595,15005,local
+Owned House,116451,15005,local
+Rental House,2654,15005,local
+Institutional House,364,15007,local
+Other Type of House,1595,15007,local
+Owned House,116451,15007,local
+Rental House,2654,15007,local
+Institutional House,364,15010,local
+Other Type of House,1595,15010,local
+Owned House,116451,15010,local
+Rental House,2654,15010,local
+Institutional House,364,15004,local
+Other Type of House,1595,15004,local
+Owned House,116451,15004,local
+Rental House,2654,15004,local
+Institutional House,364,15008,local
+Other Type of House,1595,15008,local
+Owned House,116451,15008,local
+Rental House,2654,15008,local
+Institutional House,364,15003,local
+Other Type of House,1595,15003,local
+Owned House,116451,15003,local
+Rental House,2654,15003,local
+Institutional House,364,15018,local
+Other Type of House,1595,15018,local
+Owned House,116451,15018,local
+Rental House,2654,15018,local
+Institutional House,364,15012,local
+Other Type of House,1595,15012,local
+Owned House,116451,15012,local
+Rental House,2654,15012,local
+Institutional House,364,15001,local
+Other Type of House,1595,15001,local
+Owned House,116451,15001,local
+Rental House,2654,15001,local
+Institutional House,364,15016,local
+Other Type of House,1595,15016,local
+Owned House,116451,15016,local
+Rental House,2654,15016,local
+Institutional House,364,15013,local
+Other Type of House,1595,15013,local
+Owned House,116451,15013,local
+Rental House,2654,15013,local
+Institutional House,364,15017,local
+Other Type of House,1595,15017,local
+Owned House,116451,15017,local
+Rental House,2654,15017,local
+Institutional House,364,15015,local
+Other Type of House,1595,15015,local
+Owned House,116451,15015,local
+Rental House,2654,15015,local
+Institutional House,364,15014,local
+Other Type of House,1595,15014,local
+Owned House,116451,15014,local
+Rental House,2654,15014,local
+Institutional House,364,15011,local
+Other Type of House,1595,15011,local
+Owned House,116451,15011,local
+Rental House,2654,15011,local
+Institutional House,364,15009,local
+Other Type of House,1595,15009,local
+Owned House,116451,15009,local
+Rental House,2654,15009,local
+Institutional House,364,15006,local
+Other Type of House,1595,15006,local
+Owned House,116451,15006,local
+Rental House,2654,15006,local
+Institutional House,125,57,district
+Other Type of House,463,57,district
+Owned House,104995,57,district
+Rental House,1069,57,district
+Institutional House,125,32002,local
+Other Type of House,463,32002,local
+Owned House,104995,32002,local
+Rental House,1069,32002,local
+Institutional House,125,32001,local
+Other Type of House,463,32001,local
+Owned House,104995,32001,local
+Rental House,1069,32001,local
+Institutional House,125,32005,local
+Other Type of House,463,32005,local
+Owned House,104995,32005,local
+Rental House,1069,32005,local
+Institutional House,125,32003,local
+Other Type of House,463,32003,local
+Owned House,104995,32003,local
+Rental House,1069,32003,local
+Institutional House,125,32010,local
+Other Type of House,463,32010,local
+Owned House,104995,32010,local
+Rental House,1069,32010,local
+Institutional House,125,32015,local
+Other Type of House,463,32015,local
+Owned House,104995,32015,local
+Rental House,1069,32015,local
+Institutional House,125,32011,local
+Other Type of House,463,32011,local
+Owned House,104995,32011,local
+Rental House,1069,32011,local
+Institutional House,125,32006,local
+Other Type of House,463,32006,local
+Owned House,104995,32006,local
+Rental House,1069,32006,local
+Institutional House,125,32016,local
+Other Type of House,463,32016,local
+Owned House,104995,32016,local
+Rental House,1069,32016,local
+Institutional House,125,32017,local
+Other Type of House,463,32017,local
+Owned House,104995,32017,local
+Rental House,1069,32017,local
+Institutional House,125,32018,local
+Other Type of House,463,32018,local
+Owned House,104995,32018,local
+Rental House,1069,32018,local
+Institutional House,125,32007,local
+Other Type of House,463,32007,local
+Owned House,104995,32007,local
+Rental House,1069,32007,local
+Institutional House,125,32014,local
+Other Type of House,463,32014,local
+Owned House,104995,32014,local
+Rental House,1069,32014,local
+Institutional House,125,32004,local
+Other Type of House,463,32004,local
+Owned House,104995,32004,local
+Rental House,1069,32004,local
+Institutional House,125,32009,local
+Other Type of House,463,32009,local
+Owned House,104995,32009,local
+Rental House,1069,32009,local
+Institutional House,125,32012,local
+Other Type of House,463,32012,local
+Owned House,104995,32012,local
+Rental House,1069,32012,local
+Institutional House,125,32013,local
+Other Type of House,463,32013,local
+Owned House,104995,32013,local
+Rental House,1069,32013,local
+Institutional House,125,32008,local
+Other Type of House,463,32008,local
+Owned House,104995,32008,local
+Rental House,1069,32008,local
+Institutional House,551,08,district
+Other Type of House,742,08,district
+Owned House,104352,08,district
+Rental House,2955,08,district
+Institutional House,551,33014,local
+Other Type of House,742,33014,local
+Owned House,104352,33014,local
+Rental House,2955,33014,local
+Institutional House,551,33016,local
+Other Type of House,742,33016,local
+Owned House,104352,33016,local
+Rental House,2955,33016,local
+Institutional House,551,33012,local
+Other Type of House,742,33012,local
+Owned House,104352,33012,local
+Rental House,2955,33012,local
+Institutional House,551,33007,local
+Other Type of House,742,33007,local
+Owned House,104352,33007,local
+Rental House,2955,33007,local
+Institutional House,551,33004,local
+Other Type of House,742,33004,local
+Owned House,104352,33004,local
+Rental House,2955,33004,local
+Institutional House,551,33010,local
+Other Type of House,742,33010,local
+Owned House,104352,33010,local
+Rental House,2955,33010,local
+Institutional House,551,33002,local
+Other Type of House,742,33002,local
+Owned House,104352,33002,local
+Rental House,2955,33002,local
+Institutional House,551,33005,local
+Other Type of House,742,33005,local
+Owned House,104352,33005,local
+Rental House,2955,33005,local
+Institutional House,551,33001,local
+Other Type of House,742,33001,local
+Owned House,104352,33001,local
+Rental House,2955,33001,local
+Institutional House,551,33013,local
+Other Type of House,742,33013,local
+Owned House,104352,33013,local
+Rental House,2955,33013,local
+Institutional House,551,33011,local
+Other Type of House,742,33011,local
+Owned House,104352,33011,local
+Rental House,2955,33011,local
+Institutional House,551,33009,local
+Other Type of House,742,33009,local
+Owned House,104352,33009,local
+Rental House,2955,33009,local
+Institutional House,551,33006,local
+Other Type of House,742,33006,local
+Owned House,104352,33006,local
+Rental House,2955,33006,local
+Institutional House,551,33003,local
+Other Type of House,742,33003,local
+Owned House,104352,33003,local
+Rental House,2955,33003,local
+Institutional House,551,33008,local
+Other Type of House,742,33008,local
+Owned House,104352,33008,local
+Rental House,2955,33008,local
+Institutional House,551,33015,local
+Other Type of House,742,33015,local
+Owned House,104352,33015,local
+Rental House,2955,33015,local
+Institutional House,622,19,district
+Other Type of House,874,19,district
+Owned House,131418,19,district
+Rental House,5311,19,district
+Institutional House,622,17013,local
+Other Type of House,874,17013,local
+Owned House,131418,17013,local
+Rental House,5311,17013,local
+Institutional House,622,17017,local
+Other Type of House,874,17017,local
+Owned House,131418,17017,local
+Rental House,5311,17017,local
+Institutional House,622,17004,local
+Other Type of House,874,17004,local
+Owned House,131418,17004,local
+Rental House,5311,17004,local
+Institutional House,622,17015,local
+Other Type of House,874,17015,local
+Owned House,131418,17015,local
+Rental House,5311,17015,local
+Institutional House,622,17011,local
+Other Type of House,874,17011,local
+Owned House,131418,17011,local
+Rental House,5311,17011,local
+Institutional House,622,17016,local
+Other Type of House,874,17016,local
+Owned House,131418,17016,local
+Rental House,5311,17016,local
+Institutional House,622,17006,local
+Other Type of House,874,17006,local
+Owned House,131418,17006,local
+Rental House,5311,17006,local
+Institutional House,622,17018,local
+Other Type of House,874,17018,local
+Owned House,131418,17018,local
+Rental House,5311,17018,local
+Institutional House,622,17007,local
+Other Type of House,874,17007,local
+Owned House,131418,17007,local
+Rental House,5311,17007,local
+Institutional House,622,17014,local
+Other Type of House,874,17014,local
+Owned House,131418,17014,local
+Rental House,5311,17014,local
+Institutional House,622,17012,local
+Other Type of House,874,17012,local
+Owned House,131418,17012,local
+Rental House,5311,17012,local
+Institutional House,622,17005,local
+Other Type of House,874,17005,local
+Owned House,131418,17005,local
+Rental House,5311,17005,local
+Institutional House,622,17001,local
+Other Type of House,874,17001,local
+Owned House,131418,17001,local
+Rental House,5311,17001,local
+Institutional House,622,17009,local
+Other Type of House,874,17009,local
+Owned House,131418,17009,local
+Rental House,5311,17009,local
+Institutional House,622,17010,local
+Other Type of House,874,17010,local
+Owned House,131418,17010,local
+Rental House,5311,17010,local
+Institutional House,622,17008,local
+Other Type of House,874,17008,local
+Owned House,131418,17008,local
+Rental House,5311,17008,local
+Institutional House,622,17003,local
+Other Type of House,874,17003,local
+Owned House,131418,17003,local
+Rental House,5311,17003,local
+Institutional House,622,17002,local
+Other Type of House,874,17002,local
+Owned House,131418,17002,local
+Rental House,5311,17002,local
+Institutional House,2027,7,province
+Other Type of House,4491,7,province
+Owned House,445017,7,province
+Rental House,18168,7,province
+Institutional House,114,04,district
+Other Type of House,510,04,district
+Owned House,43881,04,district
+Rental House,662,04,district
+Institutional House,114,74005,local
+Other Type of House,510,74005,local
+Owned House,43881,74005,local
+Rental House,662,74005,local
+Institutional House,114,74008,local
+Other Type of House,510,74008,local
+Owned House,43881,74008,local
+Rental House,662,74008,local
+Institutional House,114,74010,local
+Other Type of House,510,74010,local
+Owned House,43881,74010,local
+Rental House,662,74010,local
+Institutional House,114,74009,local
+Other Type of House,510,74009,local
+Owned House,43881,74009,local
+Rental House,662,74009,local
+Institutional House,114,74007,local
+Other Type of House,510,74007,local
+Owned House,43881,74007,local
+Rental House,662,74007,local
+Institutional House,114,74003,local
+Other Type of House,510,74003,local
+Owned House,43881,74003,local
+Rental House,662,74003,local
+Institutional House,114,74004,local
+Other Type of House,510,74004,local
+Owned House,43881,74004,local
+Rental House,662,74004,local
+Institutional House,114,74001,local
+Other Type of House,510,74001,local
+Owned House,43881,74001,local
+Rental House,662,74001,local
+Institutional House,114,74002,local
+Other Type of House,510,74002,local
+Owned House,43881,74002,local
+Rental House,662,74002,local
+Institutional House,114,74006,local
+Other Type of House,510,74006,local
+Owned House,43881,74006,local
+Rental House,662,74006,local
+Institutional House,179,16,district
+Other Type of House,180,16,district
+Owned House,23175,16,district
+Rental House,1070,16,district
+Institutional House,179,75005,local
+Other Type of House,180,75005,local
+Owned House,23175,75005,local
+Rental House,1070,75005,local
+Institutional House,179,75009,local
+Other Type of House,180,75009,local
+Owned House,23175,75009,local
+Rental House,1070,75009,local
+Institutional House,179,75001,local
+Other Type of House,180,75001,local
+Owned House,23175,75001,local
+Rental House,1070,75001,local
+Institutional House,179,75008,local
+Other Type of House,180,75008,local
+Owned House,23175,75008,local
+Rental House,1070,75008,local
+Institutional House,179,75002,local
+Other Type of House,180,75002,local
+Owned House,23175,75002,local
+Rental House,1070,75002,local
+Institutional House,179,75004,local
+Other Type of House,180,75004,local
+Owned House,23175,75004,local
+Rental House,1070,75004,local
+Institutional House,179,75006,local
+Other Type of House,180,75006,local
+Owned House,23175,75006,local
+Rental House,1070,75006,local
+Institutional House,179,75003,local
+Other Type of House,180,75003,local
+Owned House,23175,75003,local
+Rental House,1070,75003,local
+Institutional House,179,75007,local
+Other Type of House,180,75007,local
+Owned House,23175,75007,local
+Rental House,1070,75007,local
+Institutional House,177,13,district
+Other Type of House,462,13,district
+Owned House,25352,13,district
+Rental House,1032,13,district
+Institutional House,177,73006,local
+Other Type of House,462,73006,local
+Owned House,25352,73006,local
+Rental House,1032,73006,local
+Institutional House,177,73005,local
+Other Type of House,462,73005,local
+Owned House,25352,73005,local
+Rental House,1032,73005,local
+Institutional House,177,73007,local
+Other Type of House,462,73007,local
+Owned House,25352,73007,local
+Rental House,1032,73007,local
+Institutional House,177,73002,local
+Other Type of House,462,73002,local
+Owned House,25352,73002,local
+Rental House,1032,73002,local
+Institutional House,177,73001,local
+Other Type of House,462,73001,local
+Owned House,25352,73001,local
+Rental House,1032,73001,local
+Institutional House,177,73004,local
+Other Type of House,462,73004,local
+Owned House,25352,73004,local
+Rental House,1032,73004,local
+Institutional House,177,73003,local
+Other Type of House,462,73003,local
+Owned House,25352,73003,local
+Rental House,1032,73003,local
+Institutional House,138,06,district
+Other Type of House,199,06,district
+Owned House,23506,06,district
+Rental House,1045,06,district
+Institutional House,138,67002,local
+Other Type of House,199,67002,local
+Owned House,23506,67002,local
+Rental House,1045,67002,local
+Institutional House,138,67006,local
+Other Type of House,199,67006,local
+Owned House,23506,67006,local
+Rental House,1045,67006,local
+Institutional House,138,67009,local
+Other Type of House,199,67009,local
+Owned House,23506,67009,local
+Rental House,1045,67009,local
+Institutional House,138,67007,local
+Other Type of House,199,67007,local
+Owned House,23506,67007,local
+Rental House,1045,67007,local
+Institutional House,138,67008,local
+Other Type of House,199,67008,local
+Owned House,23506,67008,local
+Rental House,1045,67008,local
+Institutional House,138,67003,local
+Other Type of House,199,67003,local
+Owned House,23506,67003,local
+Rental House,1045,67003,local
+Institutional House,138,67005,local
+Other Type of House,199,67005,local
+Owned House,23506,67005,local
+Rental House,1045,67005,local
+Institutional House,138,67004,local
+Other Type of House,199,67004,local
+Owned House,23506,67004,local
+Rental House,1045,67004,local
+Institutional House,138,67001,local
+Other Type of House,199,67001,local
+Owned House,23506,67001,local
+Rental House,1045,67001,local
+Institutional House,462,30,district
+Other Type of House,1155,30,district
+Owned House,132935,30,district
+Rental House,7861,30,district
+Institutional House,462,71004,local
+Other Type of House,1155,71004,local
+Owned House,132935,71004,local
+Rental House,7861,71004,local
+Institutional House,462,71012,local
+Other Type of House,1155,71012,local
+Owned House,132935,71012,local
+Rental House,7861,71012,local
+Institutional House,462,71009,local
+Other Type of House,1155,71009,local
+Owned House,132935,71009,local
+Rental House,7861,71009,local
+Institutional House,462,71013,local
+Other Type of House,1155,71013,local
+Owned House,132935,71013,local
+Rental House,7861,71013,local
+Institutional House,462,71001,local
+Other Type of House,1155,71001,local
+Owned House,132935,71001,local
+Rental House,7861,71001,local
+Institutional House,462,71007,local
+Other Type of House,1155,71007,local
+Owned House,132935,71007,local
+Rental House,7861,71007,local
+Institutional House,462,71011,local
+Other Type of House,1155,71011,local
+Owned House,132935,71011,local
+Rental House,7861,71011,local
+Institutional House,462,71002,local
+Other Type of House,1155,71002,local
+Owned House,132935,71002,local
+Rental House,7861,71002,local
+Institutional House,462,71003,local
+Other Type of House,1155,71003,local
+Owned House,132935,71003,local
+Rental House,7861,71003,local
+Institutional House,462,71006,local
+Other Type of House,1155,71006,local
+Owned House,132935,71006,local
+Rental House,7861,71006,local
+Institutional House,462,71005,local
+Other Type of House,1155,71005,local
+Owned House,132935,71005,local
+Rental House,7861,71005,local
+Institutional House,462,71010,local
+Other Type of House,1155,71010,local
+Owned House,132935,71010,local
+Rental House,7861,71010,local
+Institutional House,462,71008,local
+Other Type of House,1155,71008,local
+Owned House,132935,71008,local
+Rental House,7861,71008,local
+Institutional House,360,22,district
+Other Type of House,550,22,district
+Owned House,39152,22,district
+Rental House,1321,22,district
+Institutional House,360,70007,local
+Other Type of House,550,70007,local
+Owned House,39152,70007,local
+Rental House,1321,70007,local
+Institutional House,360,70004,local
+Other Type of House,550,70004,local
+Owned House,39152,70004,local
+Rental House,1321,70004,local
+Institutional House,360,70001,local
+Other Type of House,550,70001,local
+Owned House,39152,70001,local
+Rental House,1321,70001,local
+Institutional House,360,70002,local
+Other Type of House,550,70002,local
+Owned House,39152,70002,local
+Rental House,1321,70002,local
+Institutional House,360,70006,local
+Other Type of House,550,70006,local
+Owned House,39152,70006,local
+Rental House,1321,70006,local
+Institutional House,360,70008,local
+Other Type of House,550,70008,local
+Owned House,39152,70008,local
+Rental House,1321,70008,local
+Institutional House,360,70003,local
+Other Type of House,550,70003,local
+Owned House,39152,70003,local
+Rental House,1321,70003,local
+Institutional House,360,70009,local
+Other Type of House,550,70009,local
+Owned House,39152,70009,local
+Rental House,1321,70009,local
+Institutional House,360,70005,local
+Other Type of House,550,70005,local
+Owned House,39152,70005,local
+Rental House,1321,70005,local
+Institutional House,163,01,district
+Other Type of House,320,01,district
+Owned House,46812,01,district
+Rental House,1023,01,district
+Institutional House,163,69006,local
+Other Type of House,320,69006,local
+Owned House,46812,69006,local
+Rental House,1023,69006,local
+Institutional House,163,69004,local
+Other Type of House,320,69004,local
+Owned House,46812,69004,local
+Rental House,1023,69004,local
+Institutional House,163,69010,local
+Other Type of House,320,69010,local
+Owned House,46812,69010,local
+Rental House,1023,69010,local
+Institutional House,163,69005,local
+Other Type of House,320,69005,local
+Owned House,46812,69005,local
+Rental House,1023,69005,local
+Institutional House,163,69008,local
+Other Type of House,320,69008,local
+Owned House,46812,69008,local
+Rental House,1023,69008,local
+Institutional House,163,69001,local
+Other Type of House,320,69001,local
+Owned House,46812,69001,local
+Rental House,1023,69001,local
+Institutional House,163,69003,local
+Other Type of House,320,69003,local
+Owned House,46812,69003,local
+Rental House,1023,69003,local
+Institutional House,163,69009,local
+Other Type of House,320,69009,local
+Owned House,46812,69009,local
+Rental House,1023,69009,local
+Institutional House,163,69007,local
+Other Type of House,320,69007,local
+Owned House,46812,69007,local
+Rental House,1023,69007,local
+Institutional House,163,69002,local
+Other Type of House,320,69002,local
+Owned House,46812,69002,local
+Rental House,1023,69002,local
+Institutional House,110,05,district
+Other Type of House,199,05,district
+Owned House,32904,05,district
+Rental House,560,05,district
+Institutional House,110,68011,local
+Other Type of House,199,68011,local
+Owned House,32904,68011,local
+Rental House,560,68011,local
+Institutional House,110,68007,local
+Other Type of House,199,68007,local
+Owned House,32904,68007,local
+Rental House,560,68007,local
+Institutional House,110,68010,local
+Other Type of House,199,68010,local
+Owned House,32904,68010,local
+Rental House,560,68010,local
+Institutional House,110,68012,local
+Other Type of House,199,68012,local
+Owned House,32904,68012,local
+Rental House,560,68012,local
+Institutional House,110,68002,local
+Other Type of House,199,68002,local
+Owned House,32904,68002,local
+Rental House,560,68002,local
+Institutional House,110,68001,local
+Other Type of House,199,68001,local
+Owned House,32904,68001,local
+Rental House,560,68001,local
+Institutional House,110,68004,local
+Other Type of House,199,68004,local
+Owned House,32904,68004,local
+Rental House,560,68004,local
+Institutional House,110,68005,local
+Other Type of House,199,68005,local
+Owned House,32904,68005,local
+Rental House,560,68005,local
+Institutional House,110,68009,local
+Other Type of House,199,68009,local
+Owned House,32904,68009,local
+Rental House,560,68009,local
+Institutional House,110,68003,local
+Other Type of House,199,68003,local
+Owned House,32904,68003,local
+Rental House,560,68003,local
+Institutional House,110,68006,local
+Other Type of House,199,68006,local
+Owned House,32904,68006,local
+Rental House,560,68006,local
+Institutional House,110,68008,local
+Other Type of House,199,68008,local
+Owned House,32904,68008,local
+Rental House,560,68008,local
+Institutional House,324,32,district
+Other Type of House,916,32,district
+Owned House,77300,32,district
+Rental House,3594,32,district
+Institutional House,324,72007,local
+Other Type of House,916,72007,local
+Owned House,77300,72007,local
+Rental House,3594,72007,local
+Institutional House,324,72005,local
+Other Type of House,916,72005,local
+Owned House,77300,72005,local
+Rental House,3594,72005,local
+Institutional House,324,72001,local
+Other Type of House,916,72001,local
+Owned House,77300,72001,local
+Rental House,3594,72001,local
+Institutional House,324,72009,local
+Other Type of House,916,72009,local
+Owned House,77300,72009,local
+Rental House,3594,72009,local
+Institutional House,324,72002,local
+Other Type of House,916,72002,local
+Owned House,77300,72002,local
+Rental House,3594,72002,local
+Institutional House,324,72006,local
+Other Type of House,916,72006,local
+Owned House,77300,72006,local
+Rental House,3594,72006,local
+Institutional House,324,72008,local
+Other Type of House,916,72008,local
+Owned House,77300,72008,local
+Rental House,3594,72008,local
+Institutional House,324,72003,local
+Other Type of House,916,72003,local
+Owned House,77300,72003,local
+Rental House,3594,72003,local
+Institutional House,324,72004,local
+Other Type of House,916,72004,local
+Owned House,77300,72004,local
+Rental House,3594,72004,local
+Institutional House,9137,1,province
+Other Type of House,20852,1,province
+Owned House,865693,1,province
+Rental House,96068,1,province
+Institutional House,2646,69,district
+Other Type of House,3684,69,district
+Owned House,134351,69,district
+Rental House,21598,69,district
+Institutional House,2646,6001,local
+Other Type of House,3684,6001,local
+Owned House,134351,6001,local
+Rental House,21598,6001,local
+Institutional House,2646,6007,local
+Other Type of House,3684,6007,local
+Owned House,134351,6007,local
+Rental House,21598,6007,local
+Institutional House,2646,6012,local
+Other Type of House,3684,6012,local
+Owned House,134351,6012,local
+Rental House,21598,6012,local
+Institutional House,2646,6002,local
+Other Type of House,3684,6002,local
+Owned House,134351,6002,local
+Rental House,21598,6002,local
+Institutional House,2646,6004,local
+Other Type of House,3684,6004,local
+Owned House,134351,6004,local
+Rental House,21598,6004,local
+Institutional House,2646,6008,local
+Other Type of House,3684,6008,local
+Owned House,134351,6008,local
+Rental House,21598,6008,local
+Institutional House,2646,6003,local
+Other Type of House,3684,6003,local
+Owned House,134351,6003,local
+Rental House,21598,6003,local
+Institutional House,2646,6011,local
+Other Type of House,3684,6011,local
+Owned House,134351,6011,local
+Rental House,21598,6011,local
+Institutional House,2646,6009,local
+Other Type of House,3684,6009,local
+Owned House,134351,6009,local
+Rental House,21598,6009,local
+Institutional House,2646,6010,local
+Other Type of House,3684,6010,local
+Owned House,134351,6010,local
+Rental House,21598,6010,local
+Institutional House,2646,6005,local
+Other Type of House,3684,6005,local
+Owned House,134351,6005,local
+Rental House,21598,6005,local
+Institutional House,2646,6006,local
+Other Type of House,3684,6006,local
+Owned House,134351,6006,local
+Rental House,21598,6006,local
+Institutional House,2251,28,district
+Other Type of House,4149,28,district
+Owned House,157581,28,district
+Rental House,20403,28,district
+Institutional House,2251,4011,local
+Other Type of House,4149,4011,local
+Owned House,157581,4011,local
+Rental House,20403,4011,local
+Institutional House,2251,4015,local
+Other Type of House,4149,4015,local
+Owned House,157581,4015,local
+Rental House,20403,4015,local
+Institutional House,2251,4009,local
+Other Type of House,4149,4009,local
+Owned House,157581,4009,local
+Rental House,20403,4009,local
+Institutional House,2251,4013,local
+Other Type of House,4149,4013,local
+Owned House,157581,4013,local
+Rental House,20403,4013,local
+Institutional House,2251,4008,local
+Other Type of House,4149,4008,local
+Owned House,157581,4008,local
+Rental House,20403,4008,local
+Institutional House,2251,4003,local
+Other Type of House,4149,4003,local
+Owned House,157581,4003,local
+Rental House,20403,4003,local
+Institutional House,2251,4006,local
+Other Type of House,4149,4006,local
+Owned House,157581,4006,local
+Rental House,20403,4006,local
+Institutional House,2251,4010,local
+Other Type of House,4149,4010,local
+Owned House,157581,4010,local
+Rental House,20403,4010,local
+Institutional House,2251,4014,local
+Other Type of House,4149,4014,local
+Owned House,157581,4014,local
+Rental House,20403,4014,local
+Institutional House,2251,4012,local
+Other Type of House,4149,4012,local
+Owned House,157581,4012,local
+Rental House,20403,4012,local
+Institutional House,2251,4001,local
+Other Type of House,4149,4001,local
+Owned House,157581,4001,local
+Rental House,20403,4001,local
+Institutional House,2251,4004,local
+Other Type of House,4149,4004,local
+Owned House,157581,4004,local
+Rental House,20403,4004,local
+Institutional House,2251,4002,local
+Other Type of House,4149,4002,local
+Owned House,157581,4002,local
+Rental House,20403,4002,local
+Institutional House,2251,4005,local
+Other Type of House,4149,4005,local
+Owned House,157581,4005,local
+Rental House,20403,4005,local
+Institutional House,2251,4007,local
+Other Type of House,4149,4007,local
+Owned House,157581,4007,local
+Rental House,20403,4007,local
+Institutional House,183,11,district
+Other Type of House,1025,11,district
+Owned House,36057,11,district
+Rental House,2128,11,district
+Institutional House,183,10003,local
+Other Type of House,1025,10003,local
+Owned House,36057,10003,local
+Rental House,2128,10003,local
+Institutional House,183,10008,local
+Other Type of House,1025,10008,local
+Owned House,36057,10008,local
+Rental House,2128,10008,local
+Institutional House,183,10007,local
+Other Type of House,1025,10007,local
+Owned House,36057,10007,local
+Rental House,2128,10007,local
+Institutional House,183,10005,local
+Other Type of House,1025,10005,local
+Owned House,36057,10005,local
+Rental House,2128,10005,local
+Institutional House,183,10001,local
+Other Type of House,1025,10001,local
+Owned House,36057,10001,local
+Rental House,2128,10001,local
+Institutional House,183,10002,local
+Other Type of House,1025,10002,local
+Owned House,36057,10002,local
+Rental House,2128,10002,local
+Institutional House,183,10004,local
+Other Type of House,1025,10004,local
+Owned House,36057,10004,local
+Rental House,2128,10004,local
+Institutional House,183,10009,local
+Other Type of House,1025,10009,local
+Owned House,36057,10009,local
+Rental House,2128,10009,local
+Institutional House,183,10006,local
+Other Type of House,1025,10006,local
+Owned House,36057,10006,local
+Rental House,2128,10006,local
+Institutional House,506,18,district
+Other Type of House,696,18,district
+Owned House,32116,18,district
+Rental House,4298,18,district
+Institutional House,506,7006,local
+Other Type of House,696,7006,local
+Owned House,32116,7006,local
+Rental House,4298,7006,local
+Institutional House,506,7004,local
+Other Type of House,696,7004,local
+Owned House,32116,7004,local
+Rental House,4298,7004,local
+Institutional House,506,7002,local
+Other Type of House,696,7002,local
+Owned House,32116,7002,local
+Rental House,4298,7002,local
+Institutional House,506,7005,local
+Other Type of House,696,7005,local
+Owned House,32116,7005,local
+Rental House,4298,7005,local
+Institutional House,506,7003,local
+Other Type of House,696,7003,local
+Owned House,32116,7003,local
+Rental House,4298,7003,local
+Institutional House,506,7001,local
+Other Type of House,696,7001,local
+Owned House,32116,7001,local
+Rental House,4298,7001,local
+Institutional House,506,7007,local
+Other Type of House,696,7007,local
+Owned House,32116,7007,local
+Rental House,4298,7007,local
+Institutional House,189,62,district
+Other Type of House,871,62,district
+Owned House,30959,62,district
+Rental House,2596,62,district
+Institutional House,189,9004,local
+Other Type of House,871,9004,local
+Owned House,30959,9004,local
+Rental House,2596,9004,local
+Institutional House,189,9001,local
+Other Type of House,871,9001,local
+Owned House,30959,9001,local
+Rental House,2596,9001,local
+Institutional House,189,9010,local
+Other Type of House,871,9010,local
+Owned House,30959,9010,local
+Rental House,2596,9010,local
+Institutional House,189,9007,local
+Other Type of House,871,9007,local
+Owned House,30959,9007,local
+Rental House,2596,9007,local
+Institutional House,189,9006,local
+Other Type of House,871,9006,local
+Owned House,30959,9006,local
+Rental House,2596,9006,local
+Institutional House,189,9002,local
+Other Type of House,871,9002,local
+Owned House,30959,9002,local
+Rental House,2596,9002,local
+Institutional House,189,9005,local
+Other Type of House,871,9005,local
+Owned House,30959,9005,local
+Rental House,2596,9005,local
+Institutional House,189,9003,local
+Other Type of House,871,9003,local
+Owned House,30959,9003,local
+Rental House,2596,9003,local
+Institutional House,189,9008,local
+Other Type of House,871,9008,local
+Owned House,30959,9008,local
+Rental House,2596,9008,local
+Institutional House,189,9009,local
+Other Type of House,871,9009,local
+Owned House,30959,9009,local
+Rental House,2596,9009,local
+Institutional House,419,75,district
+Other Type of House,512,75,district
+Owned House,61452,75,district
+Rental House,4131,75,district
+Institutional House,419,14006,local
+Other Type of House,512,14006,local
+Owned House,61452,14006,local
+Rental House,4131,14006,local
+Institutional House,419,14004,local
+Other Type of House,512,14004,local
+Owned House,61452,14004,local
+Rental House,4131,14004,local
+Institutional House,419,14007,local
+Other Type of House,512,14007,local
+Owned House,61452,14007,local
+Rental House,4131,14007,local
+Institutional House,419,14001,local
+Other Type of House,512,14001,local
+Owned House,61452,14001,local
+Rental House,4131,14001,local
+Institutional House,419,14005,local
+Other Type of House,512,14005,local
+Owned House,61452,14005,local
+Rental House,4131,14005,local
+Institutional House,419,14003,local
+Other Type of House,512,14003,local
+Owned House,61452,14003,local
+Rental House,4131,14003,local
+Institutional House,419,14008,local
+Other Type of House,512,14008,local
+Owned House,61452,14008,local
+Rental House,4131,14008,local
+Institutional House,419,14002,local
+Other Type of House,512,14002,local
+Owned House,61452,14002,local
+Rental House,4131,14002,local
+Institutional House,230,51,district
+Other Type of House,517,51,district
+Owned House,36413,51,district
+Rental House,4016,51,district
+Institutional House,230,2004,local
+Other Type of House,517,2004,local
+Owned House,36413,2004,local
+Rental House,4016,2004,local
+Institutional House,230,2001,local
+Other Type of House,517,2001,local
+Owned House,36413,2001,local
+Rental House,4016,2001,local
+Institutional House,230,2003,local
+Other Type of House,517,2003,local
+Owned House,36413,2003,local
+Rental House,4016,2003,local
+Institutional House,230,2005,local
+Other Type of House,517,2005,local
+Owned House,36413,2005,local
+Rental House,4016,2005,local
+Institutional House,230,2006,local
+Other Type of House,517,2006,local
+Owned House,36413,2006,local
+Rental House,4016,2006,local
+Institutional House,230,2008,local
+Other Type of House,517,2008,local
+Owned House,36413,2008,local
+Rental House,4016,2008,local
+Institutional House,230,2007,local
+Other Type of House,517,2007,local
+Owned House,36413,2007,local
+Rental House,4016,2007,local
+Institutional House,230,2002,local
+Other Type of House,517,2002,local
+Owned House,36413,2002,local
+Rental House,4016,2002,local
+Institutional House,83,74,district
+Other Type of House,1056,74,district
+Owned House,19251,74,district
+Rental House,1694,74,district
+Institutional House,83,8001,local
+Other Type of House,1056,8001,local
+Owned House,19251,8001,local
+Rental House,1694,8001,local
+Institutional House,83,8005,local
+Other Type of House,1056,8005,local
+Owned House,19251,8005,local
+Rental House,1694,8005,local
+Institutional House,83,8003,local
+Other Type of House,1056,8003,local
+Owned House,19251,8003,local
+Rental House,1694,8003,local
+Institutional House,83,8004,local
+Other Type of House,1056,8004,local
+Owned House,19251,8004,local
+Rental House,1694,8004,local
+Institutional House,83,8006,local
+Other Type of House,1056,8006,local
+Owned House,19251,8006,local
+Rental House,1694,8006,local
+Institutional House,83,8002,local
+Other Type of House,1056,8002,local
+Owned House,19251,8002,local
+Rental House,1694,8002,local
+Institutional House,467,26,district
+Other Type of House,1555,26,district
+Owned House,57975,26,district
+Rental House,4480,26,district
+Institutional House,467,3009,local
+Other Type of House,1555,3009,local
+Owned House,57975,3009,local
+Rental House,4480,3009,local
+Institutional House,467,3001,local
+Other Type of House,1555,3001,local
+Owned House,57975,3001,local
+Rental House,4480,3001,local
+Institutional House,467,3007,local
+Other Type of House,1555,3007,local
+Owned House,57975,3007,local
+Rental House,4480,3007,local
+Institutional House,467,3003,local
+Other Type of House,1555,3003,local
+Owned House,57975,3003,local
+Rental House,4480,3003,local
+Institutional House,467,3006,local
+Other Type of House,1555,3006,local
+Owned House,57975,3006,local
+Rental House,4480,3006,local
+Institutional House,467,3005,local
+Other Type of House,1555,3005,local
+Owned House,57975,3005,local
+Rental House,4480,3005,local
+Institutional House,467,3008,local
+Other Type of House,1555,3008,local
+Owned House,57975,3008,local
+Rental House,4480,3008,local
+Institutional House,467,3004,local
+Other Type of House,1555,3004,local
+Owned House,57975,3004,local
+Rental House,4480,3004,local
+Institutional House,467,3002,local
+Other Type of House,1555,3002,local
+Owned House,57975,3002,local
+Rental House,4480,3002,local
+Institutional House,467,3010,local
+Other Type of House,1555,3010,local
+Owned House,57975,3010,local
+Rental House,4480,3010,local
+Institutional House,113,49,district
+Other Type of House,363,49,district
+Owned House,30818,49,district
+Rental House,1172,49,district
+Institutional House,113,12008,local
+Other Type of House,363,12008,local
+Owned House,30818,12008,local
+Rental House,1172,12008,local
+Institutional House,113,12001,local
+Other Type of House,363,12001,local
+Owned House,30818,12001,local
+Rental House,1172,12001,local
+Institutional House,113,12002,local
+Other Type of House,363,12002,local
+Owned House,30818,12002,local
+Rental House,1172,12002,local
+Institutional House,113,12004,local
+Other Type of House,363,12004,local
+Owned House,30818,12004,local
+Rental House,1172,12004,local
+Institutional House,113,12007,local
+Other Type of House,363,12007,local
+Owned House,30818,12007,local
+Rental House,1172,12007,local
+Institutional House,113,12005,local
+Other Type of House,363,12005,local
+Owned House,30818,12005,local
+Rental House,1172,12005,local
+Institutional House,113,12003,local
+Other Type of House,363,12003,local
+Owned House,30818,12003,local
+Rental House,1172,12003,local
+Institutional House,113,12006,local
+Other Type of House,363,12006,local
+Owned House,30818,12006,local
+Rental House,1172,12006,local
+Institutional House,86,37,district
+Other Type of House,637,37,district
+Owned House,40621,37,district
+Rental House,1303,37,district
+Institutional House,86,13006,local
+Other Type of House,637,13006,local
+Owned House,40621,13006,local
+Rental House,1303,13006,local
+Institutional House,86,13010,local
+Other Type of House,637,13010,local
+Owned House,40621,13010,local
+Rental House,1303,13010,local
+Institutional House,86,13004,local
+Other Type of House,637,13004,local
+Owned House,40621,13004,local
+Rental House,1303,13004,local
+Institutional House,86,13001,local
+Other Type of House,637,13001,local
+Owned House,40621,13001,local
+Rental House,1303,13001,local
+Institutional House,86,13002,local
+Other Type of House,637,13002,local
+Owned House,40621,13002,local
+Rental House,1303,13002,local
+Institutional House,86,13008,local
+Other Type of House,637,13008,local
+Owned House,40621,13008,local
+Rental House,1303,13008,local
+Institutional House,86,13003,local
+Other Type of House,637,13003,local
+Owned House,40621,13003,local
+Rental House,1303,13003,local
+Institutional House,86,13007,local
+Other Type of House,637,13007,local
+Owned House,40621,13007,local
+Rental House,1303,13007,local
+Institutional House,86,13005,local
+Other Type of House,637,13005,local
+Owned House,40621,13005,local
+Rental House,1303,13005,local
+Institutional House,86,13009,local
+Other Type of House,637,13009,local
+Owned House,40621,13009,local
+Rental House,1303,13009,local
+Institutional House,133,73,district
+Other Type of House,1753,73,district
+Owned House,21533,73,district
+Rental House,3052,73,district
+Institutional House,133,1005,local
+Other Type of House,1753,1005,local
+Owned House,21533,1005,local
+Rental House,3052,1005,local
+Institutional House,133,1002,local
+Other Type of House,1753,1002,local
+Owned House,21533,1002,local
+Rental House,3052,1002,local
+Institutional House,133,1006,local
+Other Type of House,1753,1006,local
+Owned House,21533,1006,local
+Rental House,3052,1006,local
+Institutional House,133,1007,local
+Other Type of House,1753,1007,local
+Owned House,21533,1007,local
+Rental House,3052,1007,local
+Institutional House,133,1004,local
+Other Type of House,1753,1004,local
+Owned House,21533,1004,local
+Rental House,3052,1004,local
+Institutional House,133,1008,local
+Other Type of House,1753,1008,local
+Owned House,21533,1008,local
+Rental House,3052,1008,local
+Institutional House,133,1009,local
+Other Type of House,1753,1009,local
+Owned House,21533,1009,local
+Rental House,3052,1009,local
+Institutional House,133,1003,local
+Other Type of House,1753,1003,local
+Owned House,21533,1003,local
+Rental House,3052,1003,local
+Institutional House,133,1001,local
+Other Type of House,1753,1001,local
+Owned House,21533,1001,local
+Rental House,3052,1001,local
+Institutional House,1681,43,district
+Other Type of House,3659,43,district
+Owned House,185571,43,district
+Rental House,22959,43,district
+Institutional House,1681,5015,local
+Other Type of House,3659,5015,local
+Owned House,185571,5015,local
+Rental House,22959,5015,local
+Institutional House,1681,5010,local
+Other Type of House,3659,5010,local
+Owned House,185571,5010,local
+Rental House,22959,5010,local
+Institutional House,1681,5014,local
+Other Type of House,3659,5014,local
+Owned House,185571,5014,local
+Rental House,22959,5014,local
+Institutional House,1681,5003,local
+Other Type of House,3659,5003,local
+Owned House,185571,5003,local
+Rental House,22959,5003,local
+Institutional House,1681,5017,local
+Other Type of House,3659,5017,local
+Owned House,185571,5017,local
+Rental House,22959,5017,local
+Institutional House,1681,5016,local
+Other Type of House,3659,5016,local
+Owned House,185571,5016,local
+Rental House,22959,5016,local
+Institutional House,1681,5007,local
+Other Type of House,3659,5007,local
+Owned House,185571,5007,local
+Rental House,22959,5007,local
+Institutional House,1681,5001,local
+Other Type of House,3659,5001,local
+Owned House,185571,5001,local
+Rental House,22959,5001,local
+Institutional House,1681,5012,local
+Other Type of House,3659,5012,local
+Owned House,185571,5012,local
+Rental House,22959,5012,local
+Institutional House,1681,5011,local
+Other Type of House,3659,5011,local
+Owned House,185571,5011,local
+Rental House,22959,5011,local
+Institutional House,1681,5005,local
+Other Type of House,3659,5005,local
+Owned House,185571,5005,local
+Rental House,22959,5005,local
+Institutional House,1681,5013,local
+Other Type of House,3659,5013,local
+Owned House,185571,5013,local
+Rental House,22959,5013,local
+Institutional House,1681,5008,local
+Other Type of House,3659,5008,local
+Owned House,185571,5008,local
+Rental House,22959,5008,local
+Institutional House,1681,5004,local
+Other Type of House,3659,5004,local
+Owned House,185571,5004,local
+Rental House,22959,5004,local
+Institutional House,1681,5006,local
+Other Type of House,3659,5006,local
+Owned House,185571,5006,local
+Rental House,22959,5006,local
+Institutional House,1681,5009,local
+Other Type of House,3659,5009,local
+Owned House,185571,5009,local
+Rental House,22959,5009,local
+Institutional House,1681,5002,local
+Other Type of House,3659,5002,local
+Owned House,185571,5002,local
+Rental House,22959,5002,local
+Institutional House,150,68,district
+Other Type of House,375,68,district
+Owned House,20995,68,district
+Rental House,2238,68,district
+Institutional House,150,11001,local
+Other Type of House,375,11001,local
+Owned House,20995,11001,local
+Rental House,2238,11001,local
+Institutional House,150,11006,local
+Other Type of House,375,11006,local
+Owned House,20995,11006,local
+Rental House,2238,11006,local
+Institutional House,150,11007,local
+Other Type of House,375,11007,local
+Owned House,20995,11007,local
+Rental House,2238,11007,local
+Institutional House,150,11004,local
+Other Type of House,375,11004,local
+Owned House,20995,11004,local
+Rental House,2238,11004,local
+Institutional House,150,11003,local
+Other Type of House,375,11003,local
+Owned House,20995,11003,local
+Rental House,2238,11003,local
+Institutional House,150,11008,local
+Other Type of House,375,11008,local
+Owned House,20995,11008,local
+Rental House,2238,11008,local
+Institutional House,150,11005,local
+Other Type of House,375,11005,local
+Owned House,20995,11005,local
+Rental House,2238,11005,local
+Institutional House,150,11002,local
+Other Type of House,375,11002,local
+Owned House,20995,11002,local
+Rental House,2238,11002,local
+Institutional House,892,6,province
+Other Type of House,2234,6,province
+Owned House,281352,6,province
+Rental House,13696,6,province
+Institutional House,79,14,district
+Other Type of House,333,14,district
+Owned House,46899,14,district
+Rental House,1604,14,district
+Institutional House,79,60001,local
+Other Type of House,333,60001,local
+Owned House,46899,60001,local
+Rental House,1604,60001,local
+Institutional House,79,60007,local
+Other Type of House,333,60007,local
+Owned House,46899,60007,local
+Rental House,1604,60007,local
+Institutional House,79,60002,local
+Other Type of House,333,60002,local
+Owned House,46899,60002,local
+Rental House,1604,60002,local
+Institutional House,79,60009,local
+Other Type of House,333,60009,local
+Owned House,46899,60009,local
+Rental House,1604,60009,local
+Institutional House,79,60006,local
+Other Type of House,333,60006,local
+Owned House,46899,60006,local
+Rental House,1604,60006,local
+Institutional House,79,60004,local
+Other Type of House,333,60004,local
+Owned House,46899,60004,local
+Rental House,1604,60004,local
+Institutional House,79,60005,local
+Other Type of House,333,60005,local
+Owned House,46899,60005,local
+Rental House,1604,60005,local
+Institutional House,79,60010,local
+Other Type of House,333,60010,local
+Owned House,46899,60010,local
+Rental House,1604,60010,local
+Institutional House,79,60003,local
+Other Type of House,333,60003,local
+Owned House,46899,60003,local
+Rental House,1604,60003,local
+Institutional House,79,60008,local
+Other Type of House,333,60008,local
+Owned House,46899,60008,local
+Rental House,1604,60008,local
+Institutional House,79,60011,local
+Other Type of House,333,60011,local
+Owned House,46899,60011,local
+Rental House,1604,60011,local
+Institutional House,197,25,district
+Other Type of House,140,25,district
+Owned House,8574,25,district
+Rental House,526,25,district
+Institutional House,197,66001,local
+Other Type of House,140,66001,local
+Owned House,8574,66001,local
+Rental House,526,66001,local
+Institutional House,197,66005,local
+Other Type of House,140,66005,local
+Owned House,8574,66005,local
+Rental House,526,66005,local
+Institutional House,197,66004,local
+Other Type of House,140,66004,local
+Owned House,8574,66004,local
+Rental House,526,66004,local
+Institutional House,197,66003,local
+Other Type of House,140,66003,local
+Owned House,8574,66003,local
+Rental House,526,66003,local
+Institutional House,197,66002,local
+Other Type of House,140,66002,local
+Owned House,8574,66002,local
+Rental House,526,66002,local
+Institutional House,197,66006,local
+Other Type of House,140,66006,local
+Owned House,8574,66006,local
+Rental House,526,66006,local
+Institutional House,197,66007,local
+Other Type of House,140,66007,local
+Owned House,8574,66007,local
+Rental House,526,66007,local
+Institutional House,80,29,district
+Other Type of House,153,29,district
+Owned House,18394,29,district
+Rental House,664,29,district
+Institutional House,80,63004,local
+Other Type of House,153,63004,local
+Owned House,18394,63004,local
+Rental House,664,63004,local
+Institutional House,80,63006,local
+Other Type of House,153,63006,local
+Owned House,18394,63006,local
+Rental House,664,63006,local
+Institutional House,80,63008,local
+Other Type of House,153,63008,local
+Owned House,18394,63008,local
+Rental House,664,63008,local
+Institutional House,80,63005,local
+Other Type of House,153,63005,local
+Owned House,18394,63005,local
+Rental House,664,63005,local
+Institutional House,80,63001,local
+Other Type of House,153,63001,local
+Owned House,18394,63001,local
+Rental House,664,63001,local
+Institutional House,80,63002,local
+Other Type of House,153,63002,local
+Owned House,18394,63002,local
+Rental House,664,63002,local
+Institutional House,80,63003,local
+Other Type of House,153,63003,local
+Owned House,18394,63003,local
+Rental House,664,63003,local
+Institutional House,80,63007,local
+Other Type of House,153,63007,local
+Owned House,18394,63007,local
+Rental House,664,63007,local
+Institutional House,156,70,district
+Other Type of House,862,70,district
+Owned House,66131,70,district
+Rental House,5681,70,district
+Institutional House,156,59008,local
+Other Type of House,862,59008,local
+Owned House,66131,59008,local
+Rental House,5681,59008,local
+Institutional House,156,59005,local
+Other Type of House,862,59005,local
+Owned House,66131,59005,local
+Rental House,5681,59005,local
+Institutional House,156,59006,local
+Other Type of House,862,59006,local
+Owned House,66131,59006,local
+Rental House,5681,59006,local
+Institutional House,156,59001,local
+Other Type of House,862,59001,local
+Owned House,66131,59001,local
+Rental House,5681,59001,local
+Institutional House,156,59007,local
+Other Type of House,862,59007,local
+Owned House,66131,59007,local
+Rental House,5681,59007,local
+Institutional House,156,59009,local
+Other Type of House,862,59009,local
+Owned House,66131,59009,local
+Rental House,5681,59009,local
+Institutional House,156,59003,local
+Other Type of House,862,59003,local
+Owned House,66131,59003,local
+Rental House,5681,59003,local
+Institutional House,156,59002,local
+Other Type of House,862,59002,local
+Owned House,66131,59002,local
+Rental House,5681,59002,local
+Institutional House,156,59004,local
+Other Type of House,862,59004,local
+Owned House,66131,59004,local
+Rental House,5681,59004,local
+Institutional House,120,21,district
+Other Type of House,58,21,district
+Owned House,6961,21,district
+Rental House,327,21,district
+Institutional House,120,62007,local
+Other Type of House,58,62007,local
+Owned House,6961,62007,local
+Rental House,327,62007,local
+Institutional House,120,62004,local
+Other Type of House,58,62004,local
+Owned House,6961,62004,local
+Rental House,327,62004,local
+Institutional House,120,62001,local
+Other Type of House,58,62001,local
+Owned House,6961,62001,local
+Rental House,327,62001,local
+Institutional House,120,62006,local
+Other Type of House,58,62006,local
+Owned House,6961,62006,local
+Rental House,327,62006,local
+Institutional House,120,62003,local
+Other Type of House,58,62003,local
+Owned House,6961,62003,local
+Rental House,327,62003,local
+Institutional House,120,62002,local
+Other Type of House,58,62002,local
+Owned House,6961,62002,local
+Rental House,327,62002,local
+Institutional House,120,62008,local
+Other Type of House,58,62008,local
+Owned House,6961,62008,local
+Rental House,327,62008,local
+Institutional House,120,62005,local
+Other Type of House,58,62005,local
+Owned House,6961,62005,local
+Rental House,327,62005,local
+Institutional House,33,44,district
+Other Type of House,55,44,district
+Owned House,9303,44,district
+Rental House,209,44,district
+Institutional House,33,65002,local
+Other Type of House,55,65002,local
+Owned House,9303,65002,local
+Rental House,209,65002,local
+Institutional House,33,65001,local
+Other Type of House,55,65001,local
+Owned House,9303,65001,local
+Rental House,209,65001,local
+Institutional House,33,65003,local
+Other Type of House,55,65003,local
+Owned House,9303,65003,local
+Rental House,209,65003,local
+Institutional House,33,65004,local
+Other Type of House,55,65004,local
+Owned House,9303,65004,local
+Rental House,209,65004,local
+Institutional House,126,61,district
+Other Type of House,191,61,district
+Owned House,44660,61,district
+Rental House,1547,61,district
+Institutional House,126,55009,local
+Other Type of House,191,55009,local
+Owned House,44660,55009,local
+Rental House,1547,55009,local
+Institutional House,126,55003,local
+Other Type of House,191,55003,local
+Owned House,44660,55003,local
+Rental House,1547,55003,local
+Institutional House,126,55002,local
+Other Type of House,191,55002,local
+Owned House,44660,55002,local
+Rental House,1547,55002,local
+Institutional House,126,55010,local
+Other Type of House,191,55010,local
+Owned House,44660,55010,local
+Rental House,1547,55010,local
+Institutional House,126,55006,local
+Other Type of House,191,55006,local
+Owned House,44660,55006,local
+Rental House,1547,55006,local
+Institutional House,126,55001,local
+Other Type of House,191,55001,local
+Owned House,44660,55001,local
+Rental House,1547,55001,local
+Institutional House,126,55007,local
+Other Type of House,191,55007,local
+Owned House,44660,55007,local
+Rental House,1547,55007,local
+Institutional House,126,55004,local
+Other Type of House,191,55004,local
+Owned House,44660,55004,local
+Rental House,1547,55004,local
+Institutional House,126,55008,local
+Other Type of House,191,55008,local
+Owned House,44660,55008,local
+Rental House,1547,55008,local
+Institutional House,126,55005,local
+Other Type of House,191,55005,local
+Owned House,44660,55005,local
+Rental House,1547,55005,local
+Institutional House,39,77,district
+Other Type of House,159,77,district
+Owned House,28727,77,district
+Rental House,1710,77,district
+Institutional House,39,54003,local
+Other Type of House,159,54003,local
+Owned House,28727,54003,local
+Rental House,1710,54003,local
+Institutional House,39,54001,local
+Other Type of House,159,54001,local
+Owned House,28727,54001,local
+Rental House,1710,54001,local
+Institutional House,39,54005,local
+Other Type of House,159,54005,local
+Owned House,28727,54005,local
+Rental House,1710,54005,local
+Institutional House,39,54006,local
+Other Type of House,159,54006,local
+Owned House,28727,54006,local
+Rental House,1710,54006,local
+Institutional House,39,54002,local
+Other Type of House,159,54002,local
+Owned House,28727,54002,local
+Rental House,1710,54002,local
+Institutional House,39,54004,local
+Other Type of House,159,54004,local
+Owned House,28727,54004,local
+Rental House,1710,54004,local
+Institutional House,14,27,district
+Other Type of House,156,27,district
+Owned House,29720,27,district
+Rental House,578,27,district
+Institutional House,14,61005,local
+Other Type of House,156,61005,local
+Owned House,29720,61005,local
+Rental House,578,61005,local
+Institutional House,14,61004,local
+Other Type of House,156,61004,local
+Owned House,29720,61004,local
+Rental House,578,61004,local
+Institutional House,14,61002,local
+Other Type of House,156,61002,local
+Owned House,29720,61002,local
+Rental House,578,61002,local
+Institutional House,14,61001,local
+Other Type of House,156,61001,local
+Owned House,29720,61001,local
+Rental House,578,61001,local
+Institutional House,14,61006,local
+Other Type of House,156,61006,local
+Owned House,29720,61006,local
+Rental House,578,61006,local
+Institutional House,14,61007,local
+Other Type of House,156,61007,local
+Owned House,29720,61007,local
+Rental House,578,61007,local
+Institutional House,14,61003,local
+Other Type of House,156,61003,local
+Owned House,29720,61003,local
+Rental House,578,61003,local
+Institutional House,48,31,district
+Other Type of House,127,31,district
+Owned House,21983,31,district
+Rental House,850,31,district
+Institutional House,48,64002,local
+Other Type of House,127,64002,local
+Owned House,21983,64002,local
+Rental House,850,64002,local
+Institutional House,48,64001,local
+Other Type of House,127,64001,local
+Owned House,21983,64001,local
+Rental House,850,64001,local
+Institutional House,48,64006,local
+Other Type of House,127,64006,local
+Owned House,21983,64006,local
+Rental House,850,64006,local
+Institutional House,48,64004,local
+Other Type of House,127,64004,local
+Owned House,21983,64004,local
+Rental House,850,64004,local
+Institutional House,48,64009,local
+Other Type of House,127,64009,local
+Owned House,21983,64009,local
+Rental House,850,64009,local
+Institutional House,48,64008,local
+Other Type of House,127,64008,local
+Owned House,21983,64008,local
+Rental House,850,64008,local
+Institutional House,48,64007,local
+Other Type of House,127,64007,local
+Owned House,21983,64007,local
+Rental House,850,64007,local
+Institutional House,48,64003,local
+Other Type of House,127,64003,local
+Owned House,21983,64003,local
+Rental House,850,64003,local
+Institutional House,48,64005,local
+Other Type of House,127,64005,local
+Owned House,21983,64005,local
+Rental House,850,64005,local
