@@ -17,7 +17,7 @@ park_geo_codes = {'6099', '14099', '15099', '28088', '28099', '31088', '31099', 
 
 
 def should_have_data(geo_code, geo_level):
-    return geo_level != 'local' and geo_code not in park_geo_codes
+    return not (geo_level == 'local' and geo_code in park_geo_codes)
 
 
 def get_census_profile(geo_code, geo_level, profile_name=None):
