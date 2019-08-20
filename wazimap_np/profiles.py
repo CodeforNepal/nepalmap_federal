@@ -2,14 +2,15 @@ from wazimap.data.utils import get_session, merge_dicts, group_remainder
 from wazimap.geo import geo_data
 
 from wazimap_np import (
-    demographics, agriculture
+    demographics, agriculture, households
 )
 
 # ensure tables are loaded
 
 PROFILE_SECTIONS = (
     'demographics',
-    'agriculture'
+    'agriculture',
+    'households'
 )
 
 park_geo_codes = {'6099', '14099', '15099', '28088', '28099', '31088', '31099', '33099', '34099', '35099', '43099',
@@ -59,3 +60,7 @@ def get_demographics_profile(geo_code, geo_level, session):
 
 def get_agriculture_profile(geo_code, geo_level, session):
     return agriculture.get_agriculture_profile(geo_code, geo_level, session)
+
+
+def get_households_profile(geo_code, geo_level, session):
+    return households.get_households_profile(geo_code, geo_level, session)

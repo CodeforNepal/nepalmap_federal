@@ -30,3 +30,51 @@ FieldTable(['Agricultural holdings size by land tenure'],
            dataset='National Portal',
            year='2011')
 
+# Household Tables
+FieldTable(['home ownership'],
+           universe='Households',
+           description='Home ownership',
+           dataset='National Portal',
+           year='2011')
+
+FieldTable(['drinking water source'],
+           universe='Households',
+           description='Drinking water source',
+           dataset='National Portal',
+           year='2011')
+
+FieldTable(['lighting fuel'],
+           universe='Households',
+           description='Main type of lighting fuel',
+           dataset='National Portal',
+           year='2011')
+
+FieldTable(['main type of cooking fuel'],
+           universe='Households',
+           description='Main type of cooking fuel',
+           dataset='National Portal',
+           year='2011')
+
+FieldTable(['toilet type'],
+           universe='Households',
+           description='Type of toilet used',
+           dataset='National Portal',
+           year='2011')
+
+FieldTable(['foundation type'],
+           universe='Households',
+           description='Building foundation',
+           dataset='National Population and Housing Census 2011',
+           year='2011')
+
+FieldTable(['outer wall type'],
+           universe='Households',
+           description='Outer wall of building',
+           dataset='National Population and Housing Census 2011',
+           year='2011')
+
+FieldTable(['roof type'],
+           universe='Households',
+           description='Roof type of building',
+           dataset='National Population and Housing Census 2011',
+           year='2011')
