@@ -35,22 +35,19 @@ def get_census_profile(geo_code, geo_level, profile_name=None):
                 func = globals()[function_name]
                 if should_have_data(geo_code, geo_level):
                     data[section] = func(geo_code, geo_level, session)
-                    #
-                    #         # get profiles for province and/or country
+                    # Get profiles for province and/or country
                     for level, code in geo_summary_levels:
-                        #             # merge summary profile into current geo profile
+                        # merge summary profile into current geo profile
                         merge_dicts(data[section], func(code, level, session),
                                     level)
                 else:
                     return {'area_has_no_data': True}
-
-
     finally:
         session.close()
 
-    # if geo_level != 'vdc':
-    # group_remainder(data['demographics']['language_distribution'], 10)
-    # group_remainder(data['demographics']['ethnic_distribution'], 10)
+    if geo_level != 'vdc':
+        group_remainder(data['demographics']['language_distribution'], 10)
+        group_remainder(data['demographics']['ethnic_distribution'], 10)
 
     return data
 
