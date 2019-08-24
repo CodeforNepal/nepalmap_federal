@@ -1,12 +1,12 @@
 geo_code,geo_level,literacy,sex,total
-NP,country,Literate,Female,21296832
-NP,country,Literate,Male,25500538
-NP,country,Not Read/Write,Female,14887399
-NP,country,Not Read/Write,Male,7739648
-NP,country,Not Stated,Female,40317
-NP,country,Not Stated,Male,24490
-NP,country,Read Only,Female,958552
-NP,country,Read Only,Male,848406
+NP,country,Literate,Female,7076720
+NP,country,Literate,Male,8471659
+NP,country,Not Read/Write,Female,4946311
+NP,country,Not Read/Write,Male,2571325
+NP,country,Not Stated,Female,13382
+NP,country,Not Stated,Male,8131
+NP,country,Read Only,Female,318438
+NP,country,Read Only,Male,281734
 3,province,Literate,Female,1713980
 3,province,Literate,Male,2026712
 3,province,Not Read/Write,Female,786990
