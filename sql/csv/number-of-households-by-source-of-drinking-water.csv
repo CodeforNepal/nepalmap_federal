@@ -1,12 +1,12 @@
 drinking water source,total,geo_code,geo_level
-CoveredWell/Kuwa,399028,NP,country
-Not Stated Source of Water,102059,NP,country
-Other Source of water,398177,NP,country
-River/Stream,182150,NP,country
-Sprout Water,935165,NP,country
-Tap/Piped,7793851,NP,country
-Tubewell/HandPump,5739049,NP,country
-Uncovered Well/Kuwa,769197,NP,country
+CoveredWell/Kuwa,132870,NP,country
+Not Stated Source of Water,33900,NP,country
+Other Source of water,132551,NP,country
+River/Stream,60580,NP,country
+Sprout Water,311394,NP,country
+Tap/Piped,2591379,NP,country
+Tubewell/HandPump,1904965,NP,country
+Uncovered Well/Kuwa,255658,NP,country
 CoveredWell/Kuwa,67291,3,province
 Not Stated Source of Water,8035,3,province
 Other Source of water,92051,3,province
