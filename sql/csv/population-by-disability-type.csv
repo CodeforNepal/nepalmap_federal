@@ -1,22 +1,22 @@
 disability,geo_code,geo_level,sex,total
-Blind/low vision,NP,country,Female,142567
-Blind/low vision,NP,country,Male,140136
-Deaf-Blind,NP,country,Female,13919
-Deaf-Blind,NP,country,Male,14418
-Deaf/hard of hearing,NP,country,Female,113810
-Deaf/hard of hearing,NP,country,Male,122597
-Intellectual disable,NP,country,Female,19796
-Intellectual disable,NP,country,Male,24785
-Mental disable,NP,country,Female,42558
-Mental disable,NP,country,Male,50183
-Multiple disable,NP,country,Female,54241
-Multiple disable,NP,country,Male,61265
-No disability,NP,country,Female,40254327
-No disability,NP,country,Male,37232478
-Physical,NP,country,Female,234223
-Physical,NP,country,Male,323316
-Speech problem,NP,country,Female,76954
-Speech problem,NP,country,Male,99356
+Blind/low vision,NP,country,Female,47396
+Blind/low vision,NP,country,Male,46577
+Deaf-Blind,NP,country,Female,4624
+Deaf-Blind,NP,country,Male,4791
+Deaf/hard of hearing,NP,country,Female,37821
+Deaf/hard of hearing,NP,country,Male,40729
+Intellectual disable,NP,country,Female,6578
+Intellectual disable,NP,country,Male,8236
+Mental disable,NP,country,Female,14134
+Mental disable,NP,country,Male,16670
+Multiple disable,NP,country,Female,18020
+Multiple disable,NP,country,Male,20349
+No disability,NP,country,Female,13375028
+No disability,NP,country,Male,12369014
+Physical,NP,country,Female,77846
+Physical,NP,country,Male,107433
+Speech problem,NP,country,Female,25566
+Speech problem,NP,country,Male,33016
 Blind/low vision,3,province,Female,8588
 Blind/low vision,3,province,Male,8379
 Deaf/hard of hearing,3,province,Female,6559
