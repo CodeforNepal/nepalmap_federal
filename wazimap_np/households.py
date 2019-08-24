@@ -10,7 +10,7 @@ COOKING_FUEL_RECODES = OrderedDict([
     ('KeroseneFuel', 'Kerosene'),
     ('Electricity Fuel', 'Electricity'),
     ('OthersFuel', 'Others'),
-    ('Not Sated about Fuel', 'Not Stated')
+    ('Not Stated about Fuel', 'Not Stated')
 ])
 
 FOUNDATION_TYPE_RECODES = OrderedDict([
@@ -37,7 +37,7 @@ ROOF_TYPE_RECODES = OrderedDict([
     ('Tile/Slate Roof', 'Slate'),
     ('RCC Roof', 'Reinforced Concrete'),
     ('Thatch/Straw Roof', 'Thatch'),
-    ('Not Sated Roof', 'Not Stated'),
+    ('Not Stated Roof', 'Not Stated'),
     ('Mud Roof', 'Mud'),
     ('Wood/Planks Roof', 'Wood Planks'),
     ('Other Type of Roof', 'Others')
@@ -74,7 +74,7 @@ LIGHTING_FUEL_RECODES = OrderedDict([
     ('Kerosene', 'Kerosene'),
     ('Solar', 'Solar'),
     ('Others Type of Light', 'Others'),
-    ('Not Sated about Light', 'Not Stated'),
+    ('Not Stated about Light', 'Not Stated'),
     ('Bio-Gas', 'Biogas')
 ])
 
