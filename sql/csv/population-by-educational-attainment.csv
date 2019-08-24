@@ -1,26 +1,26 @@
 education level passed,geo_code,geo_level,sex,total
-Beginners,NP,country,Female,889466
-Beginners,NP,country,Male,1019531
-Graduate and Equivalent,NP,country,Female,450373
-Graduate and Equivalent,NP,country,Male,907420
-Intermediate and Equivalent,NP,country,Female,1285117
-Intermediate and Equivalent,NP,country,Male,1768556
-Level not Stated,NP,country,Female,107395
-Level not Stated,NP,country,Male,119077
-Lower Secondary (Class 6-8),NP,country,Female,4485962
-Lower Secondary (Class 6-8),NP,country,Male,5158111
-Non Formal Education,NP,country,Female,1078339
-Non Formal Education,NP,country,Male,921107
-Others,NP,country,Female,23158
-Others,NP,country,Male,26282
-Post Graduate Equivalent and Above,NP,country,Female,118171
-Post Graduate Equivalent and Above,NP,country,Male,354214
-Primary Education (1-5 Class),NP,country,Female,8770838
-Primary Education (1-5 Class),NP,country,Male,10020103
-SLC and Equivalent,NP,country,Female,2100602
-SLC and Equivalent,NP,country,Male,2673667
-Secondary Level (Class 9-10),NP,country,Female,2452709
-Secondary Level (Class 9-10),NP,country,Male,3031901
+Beginners,NP,country,Female,295586
+Beginners,NP,country,Male,338729
+Graduate and Equivalent,NP,country,Female,149692
+Graduate and Equivalent,NP,country,Male,301554
+Intermediate and Equivalent,NP,country,Female,426940
+Intermediate and Equivalent,NP,country,Male,587352
+Level not Stated,NP,country,Female,35628
+Level not Stated,NP,country,Male,39475
+Lower Secondary (Class 6-8),NP,country,Female,1490674
+Lower Secondary (Class 6-8),NP,country,Male,1713579
+Non Formal Education,NP,country,Female,358493
+Non Formal Education,NP,country,Male,306130
+Others,NP,country,Female,7659
+Others,NP,country,Male,8723
+Post Graduate Equivalent and Above,NP,country,Female,39284
+Post Graduate Equivalent and Above,NP,country,Male,117636
+Primary Education (1-5 Class),NP,country,Female,2913813
+Primary Education (1-5 Class),NP,country,Male,3328566
+SLC and Equivalent,NP,country,Female,698320
+SLC and Equivalent,NP,country,Male,888648
+Secondary Level (Class 9-10),NP,country,Female,815068
+Secondary Level (Class 9-10),NP,country,Male,1007022
 Beginners,3,province,Female,60698
 Beginners,3,province,Male,69230
 Graduate and Equivalent,3,province,Female,82862
