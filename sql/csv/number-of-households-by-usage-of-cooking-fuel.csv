@@ -1,12 +1,12 @@
 main type of cooking fuel,total,geo_code,geo_level
-Bio-Gas Fuel,398044,NP,country
-Cow Dung,1695176,NP,country
-Electricity Fuel,13620,NP,country
-KeroseneFuel,167228,NP,country
-LP Gas,3428401,NP,country
-Not Stated about Fuel,105296,NP,country
-OthersFuel,67831,NP,country
-Wood/FireWood,10443080,NP,country
+Bio-Gas Fuel,131596,NP,country
+Cow Dung,563126,NP,country
+Electricity Fuel,4523,NP,country
+KeroseneFuel,55610,NP,country
+LP Gas,1140662,NP,country
+Not Stated about Fuel,34973,NP,country
+OthersFuel,22583,NP,country
+Wood/FireWood,3470224,NP,country
 Bio-Gas Fuel,25801,3,province
 Cow Dung,983,3,province
 Electricity Fuel,1433,3,province
