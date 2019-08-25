@@ -73,7 +73,7 @@ Province No. 3,3,2016,country,Province No. 3,province,NP
 Gandaki Province,4,2016,country,Gandaki Province,province,NP
 Province No. 5,5,2016,country,Province No. 5,province,NP
 Karnali Province,6,2016,country,Karnali Province,province,NP
-Province No. 7,7,2016,country,Province No. 7,province,NP
+Sudurpashchim Province,7,2016,country,Sudurpashchim Province,province,NP
 Achham,01,2016,province,Achham,district,7
 Arghakhanchi,02,2016,province,Arghakhanchi,district,5
 Baglung,03,2016,province,Baglung,district,4
