@@ -15,6 +15,25 @@ FieldTable(['religion name'],
            dataset='National Portal',
            year='2011')
 
+FieldTable(['caste or ethnic group'],
+           id='caste',
+           universe='Population',
+           description='Caste or ethnic group',
+           dataset='National Portal',
+           year='2011')
+
+FieldTable(['language'],
+           universe='Population',
+           description='Mother tongue',
+           dataset='National Portal',
+           year='2011')
+
+FieldTable(['disability', 'sex'],
+           universe='Population',
+           description='Disability by gender',
+           dataset='National Portal',
+           year='2011')
+
 # Agriculture Tables
 FieldTable(['Agricultural land use area'],
            id='agriculture_land_use',
