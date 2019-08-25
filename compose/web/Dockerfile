@@ -15,6 +15,7 @@ RUN set -exu \
 WORKDIR /usr/src/app
 
 COPY requirements.txt /usr/src/app/requirements.txt
+RUN pip install --upgrade pip
 RUN pip install --no-cache-dir --global-option=build_ext --global-option="-I/usr/include/gdal/" -r requirements.txt
 
 COPY . /usr/src/app/
