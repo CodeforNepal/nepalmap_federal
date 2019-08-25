@@ -16,12 +16,12 @@ def get_agriculture_profile(geo_code, geo_level, session):
         area_has_data=True,
         land_distribution=land_dist,
         total_land={
-            'name': 'Total Land Use',
+            'name': 'Hectares',
             'values': {'this': total_land}
         },
         holding_distribution=holding_dist,
         total_holding={
-            'name': 'Total Land Holding Size',
+            'name': 'Hectares',
             'values': {'this': total_holding}
         }
     )
