@@ -17,6 +17,10 @@
                 <div class="column-third">
                     {% include 'profile/_blocks/_stat_list.html' with stat=households.male_to_female_ratio decimals='true' %}
                 </div>
+                <small>Source: <br>
+                    <a href="http://nationaldata.gov.np/" target="_blank">National Data Profile</a>
+                    <br>
+                </small>
             </section>
             <section class="clearfix stat-row">
                 <h2><a class="permalink"
@@ -96,10 +100,6 @@
                      id="chart-histogram-households-toilet_type_distribution"
                      data-stat-type="scaled-percentage"
                      data-chart-title="Households by toilet type"></div>
-                 <small>Source: <br>
-                    <a href="http://nationaldata.gov.np/" target="_blank">National Data Profile</a>
-                    <br>
-                </small>
             </section>
         </div>
     {% endif %}
