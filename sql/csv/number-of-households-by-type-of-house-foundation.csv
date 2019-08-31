@@ -1,0 +1,5029 @@
+foundation type,total,geo_code,geo_level
+Cement Bonded Bricks/Stone,952702,NP,country
+Mud Bonded Bricks/Stone,2397441,NP,country
+Not Stated about House,57718,NP,country
+Others,126281,NP,country
+Rcc with Pillar,539004,NP,country
+Wooden Pillar,1350151,NP,country
+Cement Bonded Bricks/Stone,291019,3,province
+Mud Bonded Bricks/Stone,587718,3,province
+Not Stated about House,20221,3,province
+Others,3911,3,province
+Rcc with Pillar,269032,3,province
+Wooden Pillar,97243,3,province
+Cement Bonded Bricks/Stone,549,56,district
+Mud Bonded Bricks/Stone,8736,56,district
+Not Stated about House,60,56,district
+Others,13,56,district
+Rcc with Pillar,180,56,district
+Wooden Pillar,203,56,district
+Cement Bonded Bricks/Stone,48,29005,local
+Mud Bonded Bricks/Stone,1769,29005,local
+Not Stated about House,9,29005,local
+Others,6,29005,local
+Rcc with Pillar,9,29005,local
+Wooden Pillar,5,29005,local
+Cement Bonded Bricks/Stone,391,29001,local
+Mud Bonded Bricks/Stone,1412,29001,local
+Not Stated about House,11,29001,local
+Others,4,29001,local
+Rcc with Pillar,68,29001,local
+Wooden Pillar,131,29001,local
+Cement Bonded Bricks/Stone,4,29003,local
+Mud Bonded Bricks/Stone,2461,29003,local
+Not Stated about House,15,29003,local
+Others,0,29003,local
+Rcc with Pillar,0,29003,local
+Wooden Pillar,3,29003,local
+Cement Bonded Bricks/Stone,102,29002,local
+Mud Bonded Bricks/Stone,1853,29002,local
+Not Stated about House,20,29002,local
+Others,1,29002,local
+Rcc with Pillar,96,29002,local
+Wooden Pillar,17,29002,local
+Cement Bonded Bricks/Stone,4,29004,local
+Mud Bonded Bricks/Stone,1241,29004,local
+Not Stated about House,5,29004,local
+Others,2,29004,local
+Rcc with Pillar,7,29004,local
+Wooden Pillar,47,29004,local
+Cement Bonded Bricks/Stone,1804,65,district
+Mud Bonded Bricks/Stone,20798,65,district
+Not Stated about House,343,65,district
+Others,67,65,district
+Rcc with Pillar,1222,65,district
+Wooden Pillar,33310,65,district
+Cement Bonded Bricks/Stone,4,20008,local
+Mud Bonded Bricks/Stone,4491,20008,local
+Not Stated about House,22,20008,local
+Others,3,20008,local
+Rcc with Pillar,2,20008,local
+Wooden Pillar,35,20008,local
+Cement Bonded Bricks/Stone,1,20007,local
+Mud Bonded Bricks/Stone,2952,20007,local
+Not Stated about House,21,20007,local
+Others,1,20007,local
+Rcc with Pillar,1,20007,local
+Wooden Pillar,59,20007,local
+Cement Bonded Bricks/Stone,6,20004,local
+Mud Bonded Bricks/Stone,1013,20004,local
+Not Stated about House,40,20004,local
+Others,0,20004,local
+Rcc with Pillar,3,20004,local
+Wooden Pillar,3524,20004,local
+Cement Bonded Bricks/Stone,34,20006,local
+Mud Bonded Bricks/Stone,1286,20006,local
+Not Stated about House,18,20006,local
+Others,0,20006,local
+Rcc with Pillar,11,20006,local
+Wooden Pillar,3521,20006,local
+Cement Bonded Bricks/Stone,180,20001,local
+Mud Bonded Bricks/Stone,1615,20001,local
+Not Stated about House,107,20001,local
+Others,9,20001,local
+Rcc with Pillar,46,20001,local
+Wooden Pillar,11207,20001,local
+Cement Bonded Bricks/Stone,0,20002,local
+Mud Bonded Bricks/Stone,1912,20002,local
+Not Stated about House,14,20002,local
+Others,1,20002,local
+Rcc with Pillar,0,20002,local
+Wooden Pillar,530,20002,local
+Cement Bonded Bricks/Stone,46,20009,local
+Mud Bonded Bricks/Stone,2294,20009,local
+Not Stated about House,29,20009,local
+Others,22,20009,local
+Rcc with Pillar,5,20009,local
+Wooden Pillar,4483,20009,local
+Cement Bonded Bricks/Stone,18,20003,local
+Mud Bonded Bricks/Stone,3592,20003,local
+Not Stated about House,16,20003,local
+Others,3,20003,local
+Rcc with Pillar,3,20003,local
+Wooden Pillar,49,20003,local
+Cement Bonded Bricks/Stone,1515,20005,local
+Mud Bonded Bricks/Stone,1643,20005,local
+Not Stated about House,76,20005,local
+Others,28,20005,local
+Rcc with Pillar,1151,20005,local
+Wooden Pillar,9902,20005,local
+Cement Bonded Bricks/Stone,2708,66,district
+Mud Bonded Bricks/Stone,61377,66,district
+Not Stated about House,543,66,district
+Others,34,66,district
+Rcc with Pillar,1322,66,district
+Wooden Pillar,651,66,district
+Cement Bonded Bricks/Stone,140,23011,local
+Mud Bonded Bricks/Stone,4156,23011,local
+Not Stated about House,34,23011,local
+Others,1,23011,local
+Rcc with Pillar,16,23011,local
+Wooden Pillar,12,23011,local
+Cement Bonded Bricks/Stone,113,23008,local
+Mud Bonded Bricks/Stone,3527,23008,local
+Not Stated about House,19,23008,local
+Others,0,23008,local
+Rcc with Pillar,9,23008,local
+Wooden Pillar,12,23008,local
+Cement Bonded Bricks/Stone,43,23007,local
+Mud Bonded Bricks/Stone,3858,23007,local
+Not Stated about House,35,23007,local
+Others,0,23007,local
+Rcc with Pillar,3,23007,local
+Wooden Pillar,2,23007,local
+Cement Bonded Bricks/Stone,42,23006,local
+Mud Bonded Bricks/Stone,6088,23006,local
+Not Stated about House,44,23006,local
+Others,0,23006,local
+Rcc with Pillar,21,23006,local
+Wooden Pillar,16,23006,local
+Cement Bonded Bricks/Stone,440,23004,local
+Mud Bonded Bricks/Stone,9760,23004,local
+Not Stated about House,143,23004,local
+Others,3,23004,local
+Rcc with Pillar,533,23004,local
+Wooden Pillar,27,23004,local
+Cement Bonded Bricks/Stone,793,23003,local
+Mud Bonded Bricks/Stone,2864,23003,local
+Not Stated about House,46,23003,local
+Others,20,23003,local
+Rcc with Pillar,171,23003,local
+Wooden Pillar,289,23003,local
+Cement Bonded Bricks/Stone,60,23005,local
+Mud Bonded Bricks/Stone,4091,23005,local
+Not Stated about House,23,23005,local
+Others,0,23005,local
+Rcc with Pillar,10,23005,local
+Wooden Pillar,19,23005,local
+Cement Bonded Bricks/Stone,423,23001,local
+Mud Bonded Bricks/Stone,3876,23001,local
+Not Stated about House,34,23001,local
+Others,4,23001,local
+Rcc with Pillar,85,23001,local
+Wooden Pillar,7,23001,local
+Cement Bonded Bricks/Stone,187,23009,local
+Mud Bonded Bricks/Stone,9690,23009,local
+Not Stated about House,68,23009,local
+Others,2,23009,local
+Rcc with Pillar,132,23009,local
+Wooden Pillar,18,23009,local
+Cement Bonded Bricks/Stone,30,23012,local
+Mud Bonded Bricks/Stone,3349,23012,local
+Not Stated about House,6,23012,local
+Others,0,23012,local
+Rcc with Pillar,1,23012,local
+Wooden Pillar,8,23012,local
+Cement Bonded Bricks/Stone,410,23002,local
+Mud Bonded Bricks/Stone,5288,23002,local
+Not Stated about House,34,23002,local
+Others,2,23002,local
+Rcc with Pillar,329,23002,local
+Wooden Pillar,162,23002,local
+Cement Bonded Bricks/Stone,27,23010,local
+Mud Bonded Bricks/Stone,4830,23010,local
+Not Stated about House,57,23010,local
+Others,2,23010,local
+Rcc with Pillar,12,23010,local
+Wooden Pillar,79,23010,local
+Cement Bonded Bricks/Stone,44360,12,district
+Mud Bonded Bricks/Stone,33729,12,district
+Not Stated about House,1104,12,district
+Others,1376,12,district
+Rcc with Pillar,22126,12,district
+Wooden Pillar,29650,12,district
+Cement Bonded Bricks/Stone,628,35002,local
+Mud Bonded Bricks/Stone,2960,35002,local
+Not Stated about House,20,35002,local
+Others,8,35002,local
+Rcc with Pillar,243,35002,local
+Wooden Pillar,919,35002,local
+Cement Bonded Bricks/Stone,1651,35006,local
+Mud Bonded Bricks/Stone,3969,35006,local
+Not Stated about House,44,35006,local
+Others,28,35006,local
+Rcc with Pillar,953,35006,local
+Wooden Pillar,5410,35006,local
+Cement Bonded Bricks/Stone,3731,35004,local
+Mud Bonded Bricks/Stone,3042,35004,local
+Not Stated about House,80,35004,local
+Others,59,35004,local
+Rcc with Pillar,1891,35004,local
+Wooden Pillar,3528,35004,local
+Cement Bonded Bricks/Stone,4393,35007,local
+Mud Bonded Bricks/Stone,7294,35007,local
+Not Stated about House,251,35007,local
+Others,66,35007,local
+Rcc with Pillar,2250,35007,local
+Wooden Pillar,1816,35007,local
+Cement Bonded Bricks/Stone,1492,35003,local
+Mud Bonded Bricks/Stone,3563,35003,local
+Not Stated about House,47,35003,local
+Others,15,35003,local
+Rcc with Pillar,391,35003,local
+Wooden Pillar,3608,35003,local
+Cement Bonded Bricks/Stone,31702,35001,local
+Mud Bonded Bricks/Stone,11194,35001,local
+Not Stated about House,632,35001,local
+Others,1185,35001,local
+Rcc with Pillar,16216,35001,local
+Wooden Pillar,8106,35001,local
+Cement Bonded Bricks/Stone,763,35005,local
+Mud Bonded Bricks/Stone,1707,35005,local
+Not Stated about House,30,35005,local
+Others,15,35005,local
+Rcc with Pillar,182,35005,local
+Wooden Pillar,6263,35005,local
+Cement Bonded Bricks/Stone,34151,38,district
+Mud Bonded Bricks/Stone,36858,38,district
+Not Stated about House,3725,38,district
+Others,275,38,district
+Rcc with Pillar,33934,38,district
+Wooden Pillar,562,38,district
+Cement Bonded Bricks/Stone,5460,25005,local
+Mud Bonded Bricks/Stone,4471,25005,local
+Not Stated about House,480,25005,local
+Others,14,25005,local
+Rcc with Pillar,4483,25005,local
+Wooden Pillar,22,25005,local
+Cement Bonded Bricks/Stone,4470,25002,local
+Mud Bonded Bricks/Stone,11136,25002,local
+Not Stated about House,419,25002,local
+Others,35,25002,local
+Rcc with Pillar,1641,25002,local
+Wooden Pillar,61,25002,local
+Cement Bonded Bricks/Stone,4,25001,local
+Mud Bonded Bricks/Stone,2561,25001,local
+Not Stated about House,23,25001,local
+Others,3,25001,local
+Rcc with Pillar,1,25001,local
+Wooden Pillar,22,25001,local
+Cement Bonded Bricks/Stone,15,25003,local
+Mud Bonded Bricks/Stone,1959,25003,local
+Not Stated about House,20,25003,local
+Others,1,25003,local
+Rcc with Pillar,2,25003,local
+Wooden Pillar,4,25003,local
+Cement Bonded Bricks/Stone,2,25006,local
+Mud Bonded Bricks/Stone,1904,25006,local
+Not Stated about House,19,25006,local
+Others,0,25006,local
+Rcc with Pillar,0,25006,local
+Wooden Pillar,17,25006,local
+Cement Bonded Bricks/Stone,24200,25004,local
+Mud Bonded Bricks/Stone,14827,25004,local
+Not Stated about House,2764,25004,local
+Others,222,25004,local
+Rcc with Pillar,27807,25004,local
+Wooden Pillar,436,25004,local
+Cement Bonded Bricks/Stone,17894,10,district
+Mud Bonded Bricks/Stone,28269,10,district
+Not Stated about House,963,10,district
+Others,273,10,district
+Rcc with Pillar,20868,10,district
+Wooden Pillar,290,10,district
+Cement Bonded Bricks/Stone,5673,26004,local
+Mud Bonded Bricks/Stone,6893,26004,local
+Not Stated about House,195,26004,local
+Others,27,26004,local
+Rcc with Pillar,5613,26004,local
+Wooden Pillar,45,26004,local
+Cement Bonded Bricks/Stone,2508,26002,local
+Mud Bonded Bricks/Stone,8371,26002,local
+Not Stated about House,149,26002,local
+Others,28,26002,local
+Rcc with Pillar,1015,26002,local
+Wooden Pillar,99,26002,local
+Cement Bonded Bricks/Stone,5559,26003,local
+Mud Bonded Bricks/Stone,4382,26003,local
+Not Stated about House,337,26003,local
+Others,204,26003,local
+Rcc with Pillar,9727,26003,local
+Wooden Pillar,93,26003,local
+Cement Bonded Bricks/Stone,4154,26001,local
+Mud Bonded Bricks/Stone,8623,26001,local
+Not Stated about House,282,26001,local
+Others,14,26001,local
+Rcc with Pillar,4513,26001,local
+Wooden Pillar,53,26001,local
+Cement Bonded Bricks/Stone,917,20,district
+Mud Bonded Bricks/Stone,42960,20,district
+Not Stated about House,214,20,district
+Others,43,20,district
+Rcc with Pillar,887,20,district
+Wooden Pillar,637,20,district
+Cement Bonded Bricks/Stone,12,22003,local
+Mud Bonded Bricks/Stone,4323,22003,local
+Not Stated about House,28,22003,local
+Others,5,22003,local
+Rcc with Pillar,0,22003,local
+Wooden Pillar,50,22003,local
+Cement Bonded Bricks/Stone,16,22008,local
+Mud Bonded Bricks/Stone,4877,22008,local
+Not Stated about House,19,22008,local
+Others,5,22008,local
+Rcc with Pillar,5,22008,local
+Wooden Pillar,36,22008,local
+Cement Bonded Bricks/Stone,116,22009,local
+Mud Bonded Bricks/Stone,4176,22009,local
+Not Stated about House,8,22009,local
+Others,7,22009,local
+Rcc with Pillar,5,22009,local
+Wooden Pillar,33,22009,local
+Cement Bonded Bricks/Stone,670,22002,local
+Mud Bonded Bricks/Stone,6941,22002,local
+Not Stated about House,37,22002,local
+Others,11,22002,local
+Rcc with Pillar,778,22002,local
+Wooden Pillar,202,22002,local
+Cement Bonded Bricks/Stone,5,22004,local
+Mud Bonded Bricks/Stone,3969,22004,local
+Not Stated about House,51,22004,local
+Others,0,22004,local
+Rcc with Pillar,1,22004,local
+Wooden Pillar,41,22004,local
+Cement Bonded Bricks/Stone,11,22006,local
+Mud Bonded Bricks/Stone,5374,22006,local
+Not Stated about House,21,22006,local
+Others,2,22006,local
+Rcc with Pillar,13,22006,local
+Wooden Pillar,36,22006,local
+Cement Bonded Bricks/Stone,27,22005,local
+Mud Bonded Bricks/Stone,3671,22005,local
+Not Stated about House,14,22005,local
+Others,1,22005,local
+Rcc with Pillar,18,22005,local
+Wooden Pillar,123,22005,local
+Cement Bonded Bricks/Stone,23,22007,local
+Mud Bonded Bricks/Stone,4757,22007,local
+Not Stated about House,22,22007,local
+Others,5,22007,local
+Rcc with Pillar,2,22007,local
+Wooden Pillar,32,22007,local
+Cement Bonded Bricks/Stone,37,22001,local
+Mud Bonded Bricks/Stone,4872,22001,local
+Not Stated about House,14,22001,local
+Others,7,22001,local
+Rcc with Pillar,65,22001,local
+Wooden Pillar,84,22001,local
+Cement Bonded Bricks/Stone,11671,41,district
+Mud Bonded Bricks/Stone,44230,41,district
+Not Stated about House,380,41,district
+Others,272,41,district
+Rcc with Pillar,3082,41,district
+Wooden Pillar,26410,41,district
+Cement Bonded Bricks/Stone,251,31010,local
+Mud Bonded Bricks/Stone,8488,31010,local
+Not Stated about House,18,31010,local
+Others,4,31010,local
+Rcc with Pillar,85,31010,local
+Wooden Pillar,82,31010,local
+Cement Bonded Bricks/Stone,28,31006,local
+Mud Bonded Bricks/Stone,2919,31006,local
+Not Stated about House,19,31006,local
+Others,17,31006,local
+Rcc with Pillar,1,31006,local
+Wooden Pillar,1279,31006,local
+Cement Bonded Bricks/Stone,145,31003,local
+Mud Bonded Bricks/Stone,4214,31003,local
+Not Stated about House,21,31003,local
+Others,3,31003,local
+Rcc with Pillar,4,31003,local
+Wooden Pillar,423,31003,local
+Cement Bonded Bricks/Stone,59,31001,local
+Mud Bonded Bricks/Stone,1608,31001,local
+Not Stated about House,15,31001,local
+Others,5,31001,local
+Rcc with Pillar,11,31001,local
+Wooden Pillar,4033,31001,local
+Cement Bonded Bricks/Stone,51,31005,local
+Mud Bonded Bricks/Stone,2975,31005,local
+Not Stated about House,10,31005,local
+Others,0,31005,local
+Rcc with Pillar,4,31005,local
+Wooden Pillar,14,31005,local
+Cement Bonded Bricks/Stone,154,31002,local
+Mud Bonded Bricks/Stone,2712,31002,local
+Not Stated about House,20,31002,local
+Others,15,31002,local
+Rcc with Pillar,42,31002,local
+Wooden Pillar,4595,31002,local
+Cement Bonded Bricks/Stone,707,31008,local
+Mud Bonded Bricks/Stone,1716,31008,local
+Not Stated about House,16,31008,local
+Others,5,31008,local
+Rcc with Pillar,144,31008,local
+Wooden Pillar,5303,31008,local
+Cement Bonded Bricks/Stone,27,31009,local
+Mud Bonded Bricks/Stone,2047,31009,local
+Not Stated about House,8,31009,local
+Others,22,31009,local
+Rcc with Pillar,3,31009,local
+Wooden Pillar,2450,31009,local
+Cement Bonded Bricks/Stone,119,31007,local
+Mud Bonded Bricks/Stone,3433,31007,local
+Not Stated about House,31,31007,local
+Others,8,31007,local
+Rcc with Pillar,4,31007,local
+Wooden Pillar,1408,31007,local
+Cement Bonded Bricks/Stone,10130,31004,local
+Mud Bonded Bricks/Stone,14118,31004,local
+Not Stated about House,222,31004,local
+Others,193,31004,local
+Rcc with Pillar,2784,31004,local
+Wooden Pillar,6823,31004,local
+Cement Bonded Bricks/Stone,5382,36,district
+Mud Bonded Bricks/Stone,68449,36,district
+Not Stated about House,966,36,district
+Others,146,36,district
+Rcc with Pillar,5095,36,district
+Wooden Pillar,613,36,district
+Cement Bonded Bricks/Stone,2358,24001,local
+Mud Bonded Bricks/Stone,6154,24001,local
+Not Stated about House,234,24001,local
+Others,10,24001,local
+Rcc with Pillar,3296,24001,local
+Wooden Pillar,54,24001,local
+Cement Bonded Bricks/Stone,462,24011,local
+Mud Bonded Bricks/Stone,7745,24011,local
+Not Stated about House,52,24011,local
+Others,3,24011,local
+Rcc with Pillar,270,24011,local
+Wooden Pillar,12,24011,local
+Cement Bonded Bricks/Stone,3,24007,local
+Mud Bonded Bricks/Stone,2698,24007,local
+Not Stated about House,20,24007,local
+Others,1,24007,local
+Rcc with Pillar,0,24007,local
+Wooden Pillar,188,24007,local
+Cement Bonded Bricks/Stone,1185,24010,local
+Mud Bonded Bricks/Stone,8280,24010,local
+Not Stated about House,82,24010,local
+Others,9,24010,local
+Rcc with Pillar,623,24010,local
+Wooden Pillar,17,24010,local
+Cement Bonded Bricks/Stone,190,24008,local
+Mud Bonded Bricks/Stone,6896,24008,local
+Not Stated about House,34,24008,local
+Others,4,24008,local
+Rcc with Pillar,187,24008,local
+Wooden Pillar,17,24008,local
+Cement Bonded Bricks/Stone,8,24002,local
+Mud Bonded Bricks/Stone,3564,24002,local
+Not Stated about House,22,24002,local
+Others,1,24002,local
+Rcc with Pillar,4,24002,local
+Wooden Pillar,2,24002,local
+Cement Bonded Bricks/Stone,26,24012,local
+Mud Bonded Bricks/Stone,5768,24012,local
+Not Stated about House,32,24012,local
+Others,8,24012,local
+Rcc with Pillar,13,24012,local
+Wooden Pillar,49,24012,local
+Cement Bonded Bricks/Stone,885,24005,local
+Mud Bonded Bricks/Stone,5221,24005,local
+Not Stated about House,294,24005,local
+Others,6,24005,local
+Rcc with Pillar,622,24005,local
+Wooden Pillar,33,24005,local
+Cement Bonded Bricks/Stone,7,24006,local
+Mud Bonded Bricks/Stone,2165,24006,local
+Not Stated about House,7,24006,local
+Others,8,24006,local
+Rcc with Pillar,2,24006,local
+Wooden Pillar,183,24006,local
+Cement Bonded Bricks/Stone,159,24009,local
+Mud Bonded Bricks/Stone,6207,24009,local
+Not Stated about House,42,24009,local
+Others,94,24009,local
+Rcc with Pillar,59,24009,local
+Wooden Pillar,23,24009,local
+Cement Bonded Bricks/Stone,13,24004,local
+Mud Bonded Bricks/Stone,4608,24004,local
+Not Stated about House,31,24004,local
+Others,1,24004,local
+Rcc with Pillar,1,24004,local
+Wooden Pillar,10,24004,local
+Cement Bonded Bricks/Stone,10,24013,local
+Mud Bonded Bricks/Stone,4833,24013,local
+Not Stated about House,22,24013,local
+Others,1,24013,local
+Rcc with Pillar,3,24013,local
+Wooden Pillar,7,24013,local
+Cement Bonded Bricks/Stone,76,24003,local
+Mud Bonded Bricks/Stone,4310,24003,local
+Not Stated about House,94,24003,local
+Others,0,24003,local
+Rcc with Pillar,15,24003,local
+Wooden Pillar,18,24003,local
+Cement Bonded Bricks/Stone,165677,35,district
+Mud Bonded Bricks/Stone,80811,35,district
+Not Stated about House,10375,35,district
+Others,1243,35,district
+Rcc with Pillar,174916,35,district
+Wooden Pillar,2522,35,district
+Cement Bonded Bricks/Stone,100716,27006,local
+Mud Bonded Bricks/Stone,37941,27006,local
+Not Stated about House,6879,27006,local
+Others,781,27006,local
+Rcc with Pillar,106607,27006,local
+Wooden Pillar,1368,27006,local
+Cement Bonded Bricks/Stone,8085,27002,local
+Mud Bonded Bricks/Stone,6489,27002,local
+Not Stated about House,581,27002,local
+Others,22,27002,local
+Rcc with Pillar,5287,27002,local
+Wooden Pillar,68,27002,local
+Cement Bonded Bricks/Stone,5559,27005,local
+Mud Bonded Bricks/Stone,4140,27005,local
+Not Stated about House,203,27005,local
+Others,49,27005,local
+Rcc with Pillar,4262,27005,local
+Wooden Pillar,116,27005,local
+Cement Bonded Bricks/Stone,9721,27001,local
+Mud Bonded Bricks/Stone,3096,27001,local
+Not Stated about House,455,27001,local
+Others,54,27001,local
+Rcc with Pillar,12980,27001,local
+Wooden Pillar,179,27001,local
+Cement Bonded Bricks/Stone,12125,27004,local
+Mud Bonded Bricks/Stone,3404,27004,local
+Not Stated about House,846,27004,local
+Others,112,27004,local
+Rcc with Pillar,10366,27004,local
+Wooden Pillar,253,27004,local
+Cement Bonded Bricks/Stone,854,27003,local
+Mud Bonded Bricks/Stone,4224,27003,local
+Not Stated about House,95,27003,local
+Others,15,27003,local
+Rcc with Pillar,266,27003,local
+Wooden Pillar,34,27003,local
+Cement Bonded Bricks/Stone,5383,27008,local
+Mud Bonded Bricks/Stone,3838,27008,local
+Not Stated about House,280,27008,local
+Others,26,27008,local
+Rcc with Pillar,7174,27008,local
+Wooden Pillar,45,27008,local
+Cement Bonded Bricks/Stone,493,27009,local
+Mud Bonded Bricks/Stone,4519,27009,local
+Not Stated about House,42,27009,local
+Others,3,27009,local
+Rcc with Pillar,321,27009,local
+Wooden Pillar,28,27009,local
+Cement Bonded Bricks/Stone,7711,27007,local
+Mud Bonded Bricks/Stone,5589,27007,local
+Not Stated about House,334,27007,local
+Others,61,27007,local
+Rcc with Pillar,5695,27007,local
+Wooden Pillar,51,27007,local
+Cement Bonded Bricks/Stone,5579,27010,local
+Mud Bonded Bricks/Stone,5235,27010,local
+Not Stated about House,265,27010,local
+Others,51,27010,local
+Rcc with Pillar,8835,27010,local
+Wooden Pillar,193,27010,local
+Cement Bonded Bricks/Stone,9451,27011,local
+Mud Bonded Bricks/Stone,2336,27011,local
+Not Stated about House,395,27011,local
+Others,69,27011,local
+Rcc with Pillar,13123,27011,local
+Wooden Pillar,187,27011,local
+Cement Bonded Bricks/Stone,434,55,district
+Mud Bonded Bricks/Stone,42327,55,district
+Not Stated about House,484,55,district
+Others,29,55,district
+Rcc with Pillar,287,55,district
+Wooden Pillar,322,55,district
+Cement Bonded Bricks/Stone,17,21008,local
+Mud Bonded Bricks/Stone,3762,21008,local
+Not Stated about House,28,21008,local
+Others,4,21008,local
+Rcc with Pillar,0,21008,local
+Wooden Pillar,58,21008,local
+Cement Bonded Bricks/Stone,306,21005,local
+Mud Bonded Bricks/Stone,9382,21005,local
+Not Stated about House,115,21005,local
+Others,6,21005,local
+Rcc with Pillar,250,21005,local
+Wooden Pillar,40,21005,local
+Cement Bonded Bricks/Stone,9,21001,local
+Mud Bonded Bricks/Stone,4894,21001,local
+Not Stated about House,58,21001,local
+Others,1,21001,local
+Rcc with Pillar,0,21001,local
+Wooden Pillar,31,21001,local
+Cement Bonded Bricks/Stone,19,21002,local
+Mud Bonded Bricks/Stone,4293,21002,local
+Not Stated about House,43,21002,local
+Others,8,21002,local
+Rcc with Pillar,3,21002,local
+Wooden Pillar,80,21002,local
+Cement Bonded Bricks/Stone,5,21007,local
+Mud Bonded Bricks/Stone,4012,21007,local
+Not Stated about House,26,21007,local
+Others,0,21007,local
+Rcc with Pillar,1,21007,local
+Wooden Pillar,6,21007,local
+Cement Bonded Bricks/Stone,19,21004,local
+Mud Bonded Bricks/Stone,4768,21004,local
+Not Stated about House,62,21004,local
+Others,5,21004,local
+Rcc with Pillar,12,21004,local
+Wooden Pillar,62,21004,local
+Cement Bonded Bricks/Stone,14,21003,local
+Mud Bonded Bricks/Stone,5227,21003,local
+Not Stated about House,116,21003,local
+Others,2,21003,local
+Rcc with Pillar,0,21003,local
+Wooden Pillar,13,21003,local
+Cement Bonded Bricks/Stone,45,21006,local
+Mud Bonded Bricks/Stone,5989,21006,local
+Not Stated about House,36,21006,local
+Others,3,21006,local
+Rcc with Pillar,21,21006,local
+Wooden Pillar,32,21006,local
+Cement Bonded Bricks/Stone,2056,48,district
+Mud Bonded Bricks/Stone,55189,48,district
+Not Stated about House,619,48,district
+Others,26,48,district
+Rcc with Pillar,1155,48,district
+Wooden Pillar,149,48,district
+Cement Bonded Bricks/Stone,26,28009,local
+Mud Bonded Bricks/Stone,4601,28009,local
+Not Stated about House,27,28009,local
+Others,1,28009,local
+Rcc with Pillar,2,28009,local
+Wooden Pillar,19,28009,local
+Cement Bonded Bricks/Stone,1537,28002,local
+Mud Bonded Bricks/Stone,9890,28002,local
+Not Stated about House,143,28002,local
+Others,8,28002,local
+Rcc with Pillar,906,28002,local
+Wooden Pillar,21,28002,local
+Cement Bonded Bricks/Stone,31,28008,local
+Mud Bonded Bricks/Stone,3243,28008,local
+Not Stated about House,33,28008,local
+Others,1,28008,local
+Rcc with Pillar,2,28008,local
+Wooden Pillar,11,28008,local
+Cement Bonded Bricks/Stone,98,28006,local
+Mud Bonded Bricks/Stone,3460,28006,local
+Not Stated about House,27,28006,local
+Others,1,28006,local
+Rcc with Pillar,36,28006,local
+Wooden Pillar,7,28006,local
+Cement Bonded Bricks/Stone,36,28011,local
+Mud Bonded Bricks/Stone,3494,28011,local
+Not Stated about House,23,28011,local
+Others,9,28011,local
+Rcc with Pillar,4,28011,local
+Wooden Pillar,16,28011,local
+Cement Bonded Bricks/Stone,9,28012,local
+Mud Bonded Bricks/Stone,3452,28012,local
+Not Stated about House,36,28012,local
+Others,1,28012,local
+Rcc with Pillar,9,28012,local
+Wooden Pillar,4,28012,local
+Cement Bonded Bricks/Stone,8,28003,local
+Mud Bonded Bricks/Stone,4391,28003,local
+Not Stated about House,49,28003,local
+Others,0,28003,local
+Rcc with Pillar,0,28003,local
+Wooden Pillar,3,28003,local
+Cement Bonded Bricks/Stone,21,28005,local
+Mud Bonded Bricks/Stone,3257,28005,local
+Not Stated about House,37,28005,local
+Others,1,28005,local
+Rcc with Pillar,19,28005,local
+Wooden Pillar,5,28005,local
+Cement Bonded Bricks/Stone,44,28010,local
+Mud Bonded Bricks/Stone,3424,28010,local
+Not Stated about House,31,28010,local
+Others,0,28010,local
+Rcc with Pillar,8,28010,local
+Wooden Pillar,2,28010,local
+Cement Bonded Bricks/Stone,74,28007,local
+Mud Bonded Bricks/Stone,3266,28007,local
+Not Stated about House,38,28007,local
+Others,0,28007,local
+Rcc with Pillar,6,28007,local
+Wooden Pillar,4,28007,local
+Cement Bonded Bricks/Stone,107,28001,local
+Mud Bonded Bricks/Stone,7835,28001,local
+Not Stated about House,85,28001,local
+Others,2,28001,local
+Rcc with Pillar,46,28001,local
+Wooden Pillar,24,28001,local
+Cement Bonded Bricks/Stone,65,28004,local
+Mud Bonded Bricks/Stone,4876,28004,local
+Not Stated about House,90,28004,local
+Others,2,28004,local
+Rcc with Pillar,117,28004,local
+Wooden Pillar,33,28004,local
+Cement Bonded Bricks/Stone,3416,17,district
+Mud Bonded Bricks/Stone,63985,17,district
+Not Stated about House,445,17,district
+Others,114,17,district
+Rcc with Pillar,3958,17,district
+Wooden Pillar,1924,17,district
+Cement Bonded Bricks/Stone,1,30010,local
+Mud Bonded Bricks/Stone,2098,30010,local
+Not Stated about House,12,30010,local
+Others,0,30010,local
+Rcc with Pillar,0,30010,local
+Wooden Pillar,23,30010,local
+Cement Bonded Bricks/Stone,10,30007,local
+Mud Bonded Bricks/Stone,2614,30007,local
+Not Stated about House,25,30007,local
+Others,1,30007,local
+Rcc with Pillar,0,30007,local
+Wooden Pillar,1,30007,local
+Cement Bonded Bricks/Stone,188,30004,local
+Mud Bonded Bricks/Stone,4769,30004,local
+Not Stated about House,43,30004,local
+Others,36,30004,local
+Rcc with Pillar,339,30004,local
+Wooden Pillar,35,30004,local
+Cement Bonded Bricks/Stone,1065,30009,local
+Mud Bonded Bricks/Stone,10628,30009,local
+Not Stated about House,88,30009,local
+Others,1,30009,local
+Rcc with Pillar,2151,30009,local
+Wooden Pillar,51,30009,local
+Cement Bonded Bricks/Stone,61,30011,local
+Mud Bonded Bricks/Stone,4943,30011,local
+Not Stated about House,41,30011,local
+Others,1,30011,local
+Rcc with Pillar,58,30011,local
+Wooden Pillar,34,30011,local
+Cement Bonded Bricks/Stone,63,30005,local
+Mud Bonded Bricks/Stone,4763,30005,local
+Not Stated about House,11,30005,local
+Others,1,30005,local
+Rcc with Pillar,2,30005,local
+Wooden Pillar,24,30005,local
+Cement Bonded Bricks/Stone,15,30008,local
+Mud Bonded Bricks/Stone,3088,30008,local
+Not Stated about House,10,30008,local
+Others,0,30008,local
+Rcc with Pillar,1,30008,local
+Wooden Pillar,7,30008,local
+Cement Bonded Bricks/Stone,395,30003,local
+Mud Bonded Bricks/Stone,4381,30003,local
+Not Stated about House,42,30003,local
+Others,9,30003,local
+Rcc with Pillar,494,30003,local
+Wooden Pillar,279,30003,local
+Cement Bonded Bricks/Stone,27,30006,local
+Mud Bonded Bricks/Stone,5573,30006,local
+Not Stated about House,22,30006,local
+Others,4,30006,local
+Rcc with Pillar,5,30006,local
+Wooden Pillar,99,30006,local
+Cement Bonded Bricks/Stone,253,30013,local
+Mud Bonded Bricks/Stone,4714,30013,local
+Not Stated about House,20,30013,local
+Others,6,30013,local
+Rcc with Pillar,66,30013,local
+Wooden Pillar,296,30013,local
+Cement Bonded Bricks/Stone,475,30002,local
+Mud Bonded Bricks/Stone,6111,30002,local
+Not Stated about House,25,30002,local
+Others,9,30002,local
+Rcc with Pillar,93,30002,local
+Wooden Pillar,46,30002,local
+Cement Bonded Bricks/Stone,327,30012,local
+Mud Bonded Bricks/Stone,6076,30012,local
+Not Stated about House,73,30012,local
+Others,22,30012,local
+Rcc with Pillar,273,30012,local
+Wooden Pillar,156,30012,local
+Cement Bonded Bricks/Stone,536,30001,local
+Mud Bonded Bricks/Stone,4227,30001,local
+Not Stated about House,33,30001,local
+Others,24,30001,local
+Rcc with Pillar,476,30001,local
+Wooden Pillar,873,30001,local
+Cement Bonded Bricks/Stone,155997,5,province
+Mud Bonded Bricks/Stone,483067,5,province
+Not Stated about House,7267,5,province
+Others,34370,5,province
+Rcc with Pillar,62090,5,province
+Wooden Pillar,141966,5,province
+Cement Bonded Bricks/Stone,2133,24,district
+Mud Bonded Bricks/Stone,59067,24,district
+Not Stated about House,205,24,district
+Others,29,24,district
+Rcc with Pillar,2014,24,district
+Wooden Pillar,1439,24,district
+Cement Bonded Bricks/Stone,40,46006,local
+Mud Bonded Bricks/Stone,3918,46006,local
+Not Stated about House,15,46006,local
+Others,1,46006,local
+Rcc with Pillar,25,46006,local
+Wooden Pillar,99,46006,local
+Cement Bonded Bricks/Stone,93,46001,local
+Mud Bonded Bricks/Stone,4729,46001,local
+Not Stated about House,12,46001,local
+Others,2,46001,local
+Rcc with Pillar,178,46001,local
+Wooden Pillar,107,46001,local
+Cement Bonded Bricks/Stone,1261,46010,local
+Mud Bonded Bricks/Stone,5556,46010,local
+Not Stated about House,44,46010,local
+Others,8,46010,local
+Rcc with Pillar,1272,46010,local
+Wooden Pillar,212,46010,local
+Cement Bonded Bricks/Stone,59,46008,local
+Mud Bonded Bricks/Stone,4391,46008,local
+Not Stated about House,27,46008,local
+Others,0,46008,local
+Rcc with Pillar,6,46008,local
+Wooden Pillar,67,46008,local
+Cement Bonded Bricks/Stone,81,46011,local
+Mud Bonded Bricks/Stone,4272,46011,local
+Not Stated about House,13,46011,local
+Others,2,46011,local
+Rcc with Pillar,163,46011,local
+Wooden Pillar,172,46011,local
+Cement Bonded Bricks/Stone,55,46012,local
+Mud Bonded Bricks/Stone,4947,46012,local
+Not Stated about House,19,46012,local
+Others,1,46012,local
+Rcc with Pillar,133,46012,local
+Wooden Pillar,371,46012,local
+Cement Bonded Bricks/Stone,24,46003,local
+Mud Bonded Bricks/Stone,5241,46003,local
+Not Stated about House,10,46003,local
+Others,0,46003,local
+Rcc with Pillar,5,46003,local
+Wooden Pillar,27,46003,local
+Cement Bonded Bricks/Stone,78,46002,local
+Mud Bonded Bricks/Stone,5023,46002,local
+Not Stated about House,10,46002,local
+Others,5,46002,local
+Rcc with Pillar,60,46002,local
+Wooden Pillar,139,46002,local
+Cement Bonded Bricks/Stone,162,46004,local
+Mud Bonded Bricks/Stone,4978,46004,local
+Not Stated about House,6,46004,local
+Others,7,46004,local
+Rcc with Pillar,55,46004,local
+Wooden Pillar,58,46004,local
+Cement Bonded Bricks/Stone,23,46007,local
+Mud Bonded Bricks/Stone,4756,46007,local
+Not Stated about House,18,46007,local
+Others,1,46007,local
+Rcc with Pillar,21,46007,local
+Wooden Pillar,38,46007,local
+Cement Bonded Bricks/Stone,230,46009,local
+Mud Bonded Bricks/Stone,6637,46009,local
+Not Stated about House,24,46009,local
+Others,2,46009,local
+Rcc with Pillar,90,46009,local
+Wooden Pillar,92,46009,local
+Cement Bonded Bricks/Stone,27,46005,local
+Mud Bonded Bricks/Stone,4619,46005,local
+Not Stated about House,7,46005,local
+Others,0,46005,local
+Rcc with Pillar,6,46005,local
+Wooden Pillar,57,46005,local
+Cement Bonded Bricks/Stone,13,59,district
+Mud Bonded Bricks/Stone,10885,59,district
+Not Stated about House,69,59,district
+Others,3,59,district
+Rcc with Pillar,4,59,district
+Wooden Pillar,228,59,district
+Cement Bonded Bricks/Stone,2,77001,local
+Mud Bonded Bricks/Stone,3800,77001,local
+Not Stated about House,25,77001,local
+Others,0,77001,local
+Rcc with Pillar,0,77001,local
+Wooden Pillar,8,77001,local
+Cement Bonded Bricks/Stone,6,77002,local
+Mud Bonded Bricks/Stone,3655,77002,local
+Not Stated about House,16,77002,local
+Others,0,77002,local
+Rcc with Pillar,1,77002,local
+Wooden Pillar,183,77002,local
+Cement Bonded Bricks/Stone,5,77003,local
+Mud Bonded Bricks/Stone,3430,77003,local
+Not Stated about House,28,77003,local
+Others,3,77003,local
+Rcc with Pillar,3,77003,local
+Wooden Pillar,37,77003,local
+Cement Bonded Bricks/Stone,876,54,district
+Mud Bonded Bricks/Stone,44312,54,district
+Not Stated about House,232,54,district
+Others,52,54,district
+Rcc with Pillar,963,54,district
+Wooden Pillar,1281,54,district
+Cement Bonded Bricks/Stone,45,52001,local
+Mud Bonded Bricks/Stone,4492,52001,local
+Not Stated about House,8,52001,local
+Others,0,52001,local
+Rcc with Pillar,9,52001,local
+Wooden Pillar,96,52001,local
+Cement Bonded Bricks/Stone,164,52004,local
+Mud Bonded Bricks/Stone,3891,52004,local
+Not Stated about House,12,52004,local
+Others,5,52004,local
+Rcc with Pillar,38,52004,local
+Wooden Pillar,10,52004,local
+Cement Bonded Bricks/Stone,126,52003,local
+Mud Bonded Bricks/Stone,5677,52003,local
+Not Stated about House,11,52003,local
+Others,0,52003,local
+Rcc with Pillar,36,52003,local
+Wooden Pillar,18,52003,local
+Cement Bonded Bricks/Stone,44,52005,local
+Mud Bonded Bricks/Stone,2931,52005,local
+Not Stated about House,34,52005,local
+Others,0,52005,local
+Rcc with Pillar,35,52005,local
+Wooden Pillar,24,52005,local
+Cement Bonded Bricks/Stone,50,52008,local
+Mud Bonded Bricks/Stone,2740,52008,local
+Not Stated about House,16,52008,local
+Others,4,52008,local
+Rcc with Pillar,46,52008,local
+Wooden Pillar,628,52008,local
+Cement Bonded Bricks/Stone,11,52002,local
+Mud Bonded Bricks/Stone,4668,52002,local
+Not Stated about House,20,52002,local
+Others,0,52002,local
+Rcc with Pillar,46,52002,local
+Wooden Pillar,40,52002,local
+Cement Bonded Bricks/Stone,67,52009,local
+Mud Bonded Bricks/Stone,6593,52009,local
+Not Stated about House,52,52009,local
+Others,32,52009,local
+Rcc with Pillar,129,52009,local
+Wooden Pillar,95,52009,local
+Cement Bonded Bricks/Stone,332,52007,local
+Mud Bonded Bricks/Stone,7909,52007,local
+Not Stated about House,55,52007,local
+Others,1,52007,local
+Rcc with Pillar,569,52007,local
+Wooden Pillar,98,52007,local
+Cement Bonded Bricks/Stone,37,52006,local
+Mud Bonded Bricks/Stone,5411,52006,local
+Not Stated about House,24,52006,local
+Others,10,52006,local
+Rcc with Pillar,55,52006,local
+Wooden Pillar,272,52006,local
+Cement Bonded Bricks/Stone,67756,60,district
+Mud Bonded Bricks/Stone,44772,60,district
+Not Stated about House,2124,60,district
+Others,6493,60,district
+Rcc with Pillar,24537,60,district
+Wooden Pillar,18153,60,district
+Cement Bonded Bricks/Stone,2878,49010,local
+Mud Bonded Bricks/Stone,1425,49010,local
+Not Stated about House,45,49010,local
+Others,693,49010,local
+Rcc with Pillar,113,49010,local
+Wooden Pillar,503,49010,local
+Cement Bonded Bricks/Stone,1413,49004,local
+Mud Bonded Bricks/Stone,991,49004,local
+Not Stated about House,26,49004,local
+Others,39,49004,local
+Rcc with Pillar,853,49004,local
+Wooden Pillar,3762,49004,local
+Cement Bonded Bricks/Stone,1434,49012,local
+Mud Bonded Bricks/Stone,3039,49012,local
+Not Stated about House,78,49012,local
+Others,219,49012,local
+Rcc with Pillar,65,49012,local
+Wooden Pillar,285,49012,local
+Cement Bonded Bricks/Stone,16317,49001,local
+Mud Bonded Bricks/Stone,5035,49001,local
+Not Stated about House,677,49001,local
+Others,284,49001,local
+Rcc with Pillar,10422,49001,local
+Wooden Pillar,1362,49001,local
+Cement Bonded Bricks/Stone,2660,49015,local
+Mud Bonded Bricks/Stone,1950,49015,local
+Not Stated about House,36,49015,local
+Others,199,49015,local
+Rcc with Pillar,533,49015,local
+Wooden Pillar,767,49015,local
+Cement Bonded Bricks/Stone,3290,49009,local
+Mud Bonded Bricks/Stone,1045,49009,local
+Not Stated about House,33,49009,local
+Others,498,49009,local
+Rcc with Pillar,505,49009,local
+Wooden Pillar,416,49009,local
+Cement Bonded Bricks/Stone,2319,49011,local
+Mud Bonded Bricks/Stone,3141,49011,local
+Not Stated about House,39,49011,local
+Others,160,49011,local
+Rcc with Pillar,3868,49011,local
+Wooden Pillar,2865,49011,local
+Cement Bonded Bricks/Stone,10604,49016,local
+Mud Bonded Bricks/Stone,4160,49016,local
+Not Stated about House,361,49016,local
+Others,394,49016,local
+Rcc with Pillar,4562,49016,local
+Wooden Pillar,1876,49016,local
+Cement Bonded Bricks/Stone,3450,49014,local
+Mud Bonded Bricks/Stone,1615,49014,local
+Not Stated about House,30,49014,local
+Others,777,49014,local
+Rcc with Pillar,470,49014,local
+Wooden Pillar,450,49014,local
+Cement Bonded Bricks/Stone,3352,49008,local
+Mud Bonded Bricks/Stone,2401,49008,local
+Not Stated about House,53,49008,local
+Others,401,49008,local
+Rcc with Pillar,185,49008,local
+Wooden Pillar,418,49008,local
+Cement Bonded Bricks/Stone,1932,49003,local
+Mud Bonded Bricks/Stone,2641,49003,local
+Not Stated about House,69,49003,local
+Others,762,49003,local
+Rcc with Pillar,160,49003,local
+Wooden Pillar,1721,49003,local
+Cement Bonded Bricks/Stone,2986,49006,local
+Mud Bonded Bricks/Stone,5610,49006,local
+Not Stated about House,138,49006,local
+Others,676,49006,local
+Rcc with Pillar,149,49006,local
+Wooden Pillar,387,49006,local
+Cement Bonded Bricks/Stone,1527,49005,local
+Mud Bonded Bricks/Stone,3358,49005,local
+Not Stated about House,49,49005,local
+Others,316,49005,local
+Rcc with Pillar,24,49005,local
+Wooden Pillar,319,49005,local
+Cement Bonded Bricks/Stone,1264,49007,local
+Mud Bonded Bricks/Stone,3214,49007,local
+Not Stated about House,90,49007,local
+Others,309,49007,local
+Rcc with Pillar,25,49007,local
+Wooden Pillar,361,49007,local
+Cement Bonded Bricks/Stone,4378,49002,local
+Mud Bonded Bricks/Stone,2741,49002,local
+Not Stated about House,119,49002,local
+Others,578,49002,local
+Rcc with Pillar,1176,49002,local
+Wooden Pillar,2418,49002,local
+Cement Bonded Bricks/Stone,7952,49013,local
+Mud Bonded Bricks/Stone,2406,49013,local
+Not Stated about House,281,49013,local
+Others,188,49013,local
+Rcc with Pillar,1427,49013,local
+Wooden Pillar,243,49013,local
+Cement Bonded Bricks/Stone,22176,76,district
+Mud Bonded Bricks/Stone,11459,76,district
+Not Stated about House,491,76,district
+Others,1583,76,district
+Rcc with Pillar,5377,76,district
+Wooden Pillar,20759,76,district
+Cement Bonded Bricks/Stone,4638,48004,local
+Mud Bonded Bricks/Stone,2279,48004,local
+Not Stated about House,75,48004,local
+Others,418,48004,local
+Rcc with Pillar,590,48004,local
+Wooden Pillar,2282,48004,local
+Cement Bonded Bricks/Stone,2569,48002,local
+Mud Bonded Bricks/Stone,1565,48002,local
+Not Stated about House,38,48002,local
+Others,350,48002,local
+Rcc with Pillar,357,48002,local
+Wooden Pillar,1002,48002,local
+Cement Bonded Bricks/Stone,2415,48005,local
+Mud Bonded Bricks/Stone,1417,48005,local
+Not Stated about House,73,48005,local
+Others,281,48005,local
+Rcc with Pillar,171,48005,local
+Wooden Pillar,2276,48005,local
+Cement Bonded Bricks/Stone,4274,48001,local
+Mud Bonded Bricks/Stone,2745,48001,local
+Not Stated about House,85,48001,local
+Others,263,48001,local
+Rcc with Pillar,1888,48001,local
+Wooden Pillar,4160,48001,local
+Cement Bonded Bricks/Stone,5179,48006,local
+Mud Bonded Bricks/Stone,2160,48006,local
+Not Stated about House,107,48006,local
+Others,168,48006,local
+Rcc with Pillar,1874,48006,local
+Wooden Pillar,2530,48006,local
+Cement Bonded Bricks/Stone,1191,48007,local
+Mud Bonded Bricks/Stone,458,48007,local
+Not Stated about House,39,48007,local
+Others,59,48007,local
+Rcc with Pillar,234,48007,local
+Wooden Pillar,4249,48007,local
+Cement Bonded Bricks/Stone,1910,48003,local
+Mud Bonded Bricks/Stone,835,48003,local
+Not Stated about House,74,48003,local
+Others,44,48003,local
+Rcc with Pillar,263,48003,local
+Wooden Pillar,4260,48003,local
+Cement Bonded Bricks/Stone,19037,07,district
+Mud Bonded Bricks/Stone,37078,07,district
+Not Stated about House,950,07,district
+Others,13026,07,district
+Rcc with Pillar,6988,07,district
+Wooden Pillar,17614,07,district
+Cement Bonded Bricks/Stone,488,57002,local
+Mud Bonded Bricks/Stone,2418,57002,local
+Not Stated about House,34,57002,local
+Others,1090,57002,local
+Rcc with Pillar,71,57002,local
+Wooden Pillar,2489,57002,local
+Cement Bonded Bricks/Stone,774,57006,local
+Mud Bonded Bricks/Stone,1810,57006,local
+Not Stated about House,48,57006,local
+Others,38,57006,local
+Rcc with Pillar,17,57006,local
+Wooden Pillar,3221,57006,local
+Cement Bonded Bricks/Stone,669,57008,local
+Mud Bonded Bricks/Stone,4291,57008,local
+Not Stated about House,43,57008,local
+Others,388,57008,local
+Rcc with Pillar,49,57008,local
+Wooden Pillar,5302,57008,local
+Cement Bonded Bricks/Stone,1468,57001,local
+Mud Bonded Bricks/Stone,4552,57001,local
+Not Stated about House,43,57001,local
+Others,3614,57001,local
+Rcc with Pillar,211,57001,local
+Wooden Pillar,1178,57001,local
+Cement Bonded Bricks/Stone,1647,57004,local
+Mud Bonded Bricks/Stone,3958,57004,local
+Not Stated about House,64,57004,local
+Others,2989,57004,local
+Rcc with Pillar,205,57004,local
+Wooden Pillar,1425,57004,local
+Cement Bonded Bricks/Stone,3018,57005,local
+Mud Bonded Bricks/Stone,5465,57005,local
+Not Stated about House,115,57005,local
+Others,1929,57005,local
+Rcc with Pillar,3372,57005,local
+Wooden Pillar,1584,57005,local
+Cement Bonded Bricks/Stone,10135,57007,local
+Mud Bonded Bricks/Stone,10893,57007,local
+Not Stated about House,440,57007,local
+Others,2016,57007,local
+Rcc with Pillar,2922,57007,local
+Wooden Pillar,1486,57007,local
+Cement Bonded Bricks/Stone,838,57003,local
+Mud Bonded Bricks/Stone,3691,57003,local
+Not Stated about House,163,57003,local
+Others,962,57003,local
+Rcc with Pillar,141,57003,local
+Wooden Pillar,929,57003,local
+Cement Bonded Bricks/Stone,3499,50,district
+Mud Bonded Bricks/Stone,47964,50,district
+Not Stated about House,274,50,district
+Others,82,50,district
+Rcc with Pillar,4450,50,district
+Wooden Pillar,2991,50,district
+Cement Bonded Bricks/Stone,511,47007,local
+Mud Bonded Bricks/Stone,6386,47007,local
+Not Stated about House,50,47007,local
+Others,1,47007,local
+Rcc with Pillar,688,47007,local
+Wooden Pillar,496,47007,local
+Cement Bonded Bricks/Stone,43,47005,local
+Mud Bonded Bricks/Stone,5595,47005,local
+Not Stated about House,26,47005,local
+Others,3,47005,local
+Rcc with Pillar,24,47005,local
+Wooden Pillar,318,47005,local
+Cement Bonded Bricks/Stone,97,47010,local
+Mud Bonded Bricks/Stone,3030,47010,local
+Not Stated about House,14,47010,local
+Others,58,47010,local
+Rcc with Pillar,84,47010,local
+Wooden Pillar,605,47010,local
+Cement Bonded Bricks/Stone,26,47003,local
+Mud Bonded Bricks/Stone,3475,47003,local
+Not Stated about House,21,47003,local
+Others,0,47003,local
+Rcc with Pillar,34,47003,local
+Wooden Pillar,335,47003,local
+Cement Bonded Bricks/Stone,110,47008,local
+Mud Bonded Bricks/Stone,4403,47008,local
+Not Stated about House,16,47008,local
+Others,2,47008,local
+Rcc with Pillar,48,47008,local
+Wooden Pillar,68,47008,local
+Cement Bonded Bricks/Stone,100,47006,local
+Mud Bonded Bricks/Stone,4350,47006,local
+Not Stated about House,8,47006,local
+Others,7,47006,local
+Rcc with Pillar,100,47006,local
+Wooden Pillar,61,47006,local
+Cement Bonded Bricks/Stone,108,47001,local
+Mud Bonded Bricks/Stone,4793,47001,local
+Not Stated about House,12,47001,local
+Others,2,47001,local
+Rcc with Pillar,160,47001,local
+Wooden Pillar,195,47001,local
+Cement Bonded Bricks/Stone,2044,47009,local
+Mud Bonded Bricks/Stone,8018,47009,local
+Not Stated about House,106,47009,local
+Others,6,47009,local
+Rcc with Pillar,3130,47009,local
+Wooden Pillar,342,47009,local
+Cement Bonded Bricks/Stone,333,47002,local
+Mud Bonded Bricks/Stone,4172,47002,local
+Not Stated about House,11,47002,local
+Others,2,47002,local
+Rcc with Pillar,126,47002,local
+Wooden Pillar,422,47002,local
+Cement Bonded Bricks/Stone,127,47004,local
+Mud Bonded Bricks/Stone,3742,47004,local
+Not Stated about House,10,47004,local
+Others,1,47004,local
+Rcc with Pillar,56,47004,local
+Wooden Pillar,149,47004,local
+Cement Bonded Bricks/Stone,626,58,district
+Mud Bonded Bricks/Stone,41733,58,district
+Not Stated about House,262,58,district
+Others,45,58,district
+Rcc with Pillar,355,58,district
+Wooden Pillar,714,58,district
+Cement Bonded Bricks/Stone,177,53008,local
+Mud Bonded Bricks/Stone,5024,53008,local
+Not Stated about House,33,53008,local
+Others,29,53008,local
+Rcc with Pillar,132,53008,local
+Wooden Pillar,262,53008,local
+Cement Bonded Bricks/Stone,2,53001,local
+Mud Bonded Bricks/Stone,3988,53001,local
+Not Stated about House,22,53001,local
+Others,0,53001,local
+Rcc with Pillar,0,53001,local
+Wooden Pillar,6,53001,local
+Cement Bonded Bricks/Stone,1,53003,local
+Mud Bonded Bricks/Stone,3626,53003,local
+Not Stated about House,17,53003,local
+Others,0,53003,local
+Rcc with Pillar,0,53003,local
+Wooden Pillar,14,53003,local
+Cement Bonded Bricks/Stone,310,53004,local
+Mud Bonded Bricks/Stone,6489,53004,local
+Not Stated about House,78,53004,local
+Others,2,53004,local
+Rcc with Pillar,214,53004,local
+Wooden Pillar,40,53004,local
+Cement Bonded Bricks/Stone,30,53010,local
+Mud Bonded Bricks/Stone,4467,53010,local
+Not Stated about House,25,53010,local
+Others,1,53010,local
+Rcc with Pillar,5,53010,local
+Wooden Pillar,12,53010,local
+Cement Bonded Bricks/Stone,5,53006,local
+Mud Bonded Bricks/Stone,3437,53006,local
+Not Stated about House,12,53006,local
+Others,0,53006,local
+Rcc with Pillar,0,53006,local
+Wooden Pillar,1,53006,local
+Cement Bonded Bricks/Stone,4,53009,local
+Mud Bonded Bricks/Stone,2154,53009,local
+Not Stated about House,13,53009,local
+Others,0,53009,local
+Rcc with Pillar,0,53009,local
+Wooden Pillar,1,53009,local
+Cement Bonded Bricks/Stone,82,53005,local
+Mud Bonded Bricks/Stone,5520,53005,local
+Not Stated about House,21,53005,local
+Others,9,53005,local
+Rcc with Pillar,3,53005,local
+Wooden Pillar,49,53005,local
+Cement Bonded Bricks/Stone,12,53002,local
+Mud Bonded Bricks/Stone,4084,53002,local
+Not Stated about House,25,53002,local
+Others,2,53002,local
+Rcc with Pillar,1,53002,local
+Wooden Pillar,278,53002,local
+Cement Bonded Bricks/Stone,3,53007,local
+Mud Bonded Bricks/Stone,2944,53007,local
+Not Stated about House,16,53007,local
+Others,2,53007,local
+Rcc with Pillar,0,53007,local
+Wooden Pillar,51,53007,local
+Cement Bonded Bricks/Stone,10202,15,district
+Mud Bonded Bricks/Stone,76279,15,district
+Not Stated about House,829,15,district
+Others,3504,15,district
+Rcc with Pillar,9574,15,district
+Wooden Pillar,15959,15,district
+Cement Bonded Bricks/Stone,3846,56005,local
+Mud Bonded Bricks/Stone,25951,56005,local
+Not Stated about House,211,56005,local
+Others,364,56005,local
+Rcc with Pillar,4391,56005,local
+Wooden Pillar,656,56005,local
+Cement Bonded Bricks/Stone,3424,56010,local
+Mud Bonded Bricks/Stone,22559,56010,local
+Not Stated about House,267,56010,local
+Others,1310,56010,local
+Rcc with Pillar,3443,56010,local
+Wooden Pillar,240,56010,local
+Cement Bonded Bricks/Stone,36,56003,local
+Mud Bonded Bricks/Stone,4010,56003,local
+Not Stated about House,20,56003,local
+Others,344,56003,local
+Rcc with Pillar,8,56003,local
+Wooden Pillar,37,56003,local
+Cement Bonded Bricks/Stone,24,56007,local
+Mud Bonded Bricks/Stone,1812,56007,local
+Not Stated about House,22,56007,local
+Others,212,56007,local
+Rcc with Pillar,7,56007,local
+Wooden Pillar,2396,56007,local
+Cement Bonded Bricks/Stone,1166,56006,local
+Mud Bonded Bricks/Stone,4536,56006,local
+Not Stated about House,63,56006,local
+Others,13,56006,local
+Rcc with Pillar,1014,56006,local
+Wooden Pillar,2640,56006,local
+Cement Bonded Bricks/Stone,51,56009,local
+Mud Bonded Bricks/Stone,4612,56009,local
+Not Stated about House,14,56009,local
+Others,619,56009,local
+Rcc with Pillar,9,56009,local
+Wooden Pillar,23,56009,local
+Cement Bonded Bricks/Stone,35,56001,local
+Mud Bonded Bricks/Stone,4540,56001,local
+Not Stated about House,40,56001,local
+Others,595,56001,local
+Rcc with Pillar,30,56001,local
+Wooden Pillar,705,56001,local
+Cement Bonded Bricks/Stone,1250,56008,local
+Mud Bonded Bricks/Stone,2395,56008,local
+Not Stated about House,102,56008,local
+Others,15,56008,local
+Rcc with Pillar,587,56008,local
+Wooden Pillar,3706,56008,local
+Cement Bonded Bricks/Stone,13,56002,local
+Mud Bonded Bricks/Stone,4019,56002,local
+Not Stated about House,32,56002,local
+Others,13,56002,local
+Rcc with Pillar,3,56002,local
+Wooden Pillar,650,56002,local
+Cement Bonded Bricks/Stone,357,56004,local
+Mud Bonded Bricks/Stone,1845,56004,local
+Not Stated about House,58,56004,local
+Others,19,56004,local
+Rcc with Pillar,82,56004,local
+Wooden Pillar,4906,56004,local
+Cement Bonded Bricks/Stone,1234,02,district
+Mud Bonded Bricks/Stone,40618,02,district
+Not Stated about House,188,02,district
+Others,27,02,district
+Rcc with Pillar,1340,02,district
+Wooden Pillar,3419,02,district
+Cement Bonded Bricks/Stone,40,51002,local
+Mud Bonded Bricks/Stone,6206,51002,local
+Not Stated about House,16,51002,local
+Others,2,51002,local
+Rcc with Pillar,15,51002,local
+Wooden Pillar,62,51002,local
+Cement Bonded Bricks/Stone,41,51003,local
+Mud Bonded Bricks/Stone,6730,51003,local
+Not Stated about House,11,51003,local
+Others,2,51003,local
+Rcc with Pillar,29,51003,local
+Wooden Pillar,11,51003,local
+Cement Bonded Bricks/Stone,948,51005,local
+Mud Bonded Bricks/Stone,8217,51005,local
+Not Stated about House,67,51005,local
+Others,7,51005,local
+Rcc with Pillar,1185,51005,local
+Wooden Pillar,157,51005,local
+Cement Bonded Bricks/Stone,10,51001,local
+Mud Bonded Bricks/Stone,7515,51001,local
+Not Stated about House,19,51001,local
+Others,1,51001,local
+Rcc with Pillar,9,51001,local
+Wooden Pillar,173,51001,local
+Cement Bonded Bricks/Stone,132,51006,local
+Mud Bonded Bricks/Stone,6218,51006,local
+Not Stated about House,47,51006,local
+Others,14,51006,local
+Rcc with Pillar,84,51006,local
+Wooden Pillar,2706,51006,local
+Cement Bonded Bricks/Stone,63,51004,local
+Mud Bonded Bricks/Stone,5732,51004,local
+Not Stated about House,28,51004,local
+Others,1,51004,local
+Rcc with Pillar,18,51004,local
+Wooden Pillar,310,51004,local
+Cement Bonded Bricks/Stone,8193,09,district
+Mud Bonded Bricks/Stone,26947,09,district
+Not Stated about House,269,09,district
+Others,6155,09,district
+Rcc with Pillar,1652,09,district
+Wooden Pillar,39931,09,district
+Cement Bonded Bricks/Stone,830,58007,local
+Mud Bonded Bricks/Stone,174,58007,local
+Not Stated about House,20,58007,local
+Others,206,58007,local
+Rcc with Pillar,92,58007,local
+Wooden Pillar,9594,58007,local
+Cement Bonded Bricks/Stone,882,58001,local
+Mud Bonded Bricks/Stone,3819,58001,local
+Not Stated about House,45,58001,local
+Others,2377,58001,local
+Rcc with Pillar,246,58001,local
+Wooden Pillar,2964,58001,local
+Cement Bonded Bricks/Stone,863,58008,local
+Mud Bonded Bricks/Stone,2996,58008,local
+Not Stated about House,27,58008,local
+Others,380,58008,local
+Rcc with Pillar,310,58008,local
+Wooden Pillar,4076,58008,local
+Cement Bonded Bricks/Stone,443,58004,local
+Mud Bonded Bricks/Stone,51,58004,local
+Not Stated about House,5,58004,local
+Others,9,58004,local
+Rcc with Pillar,67,58004,local
+Wooden Pillar,5560,58004,local
+Cement Bonded Bricks/Stone,1149,58002,local
+Mud Bonded Bricks/Stone,5084,58002,local
+Not Stated about House,57,58002,local
+Others,1323,58002,local
+Rcc with Pillar,423,58002,local
+Wooden Pillar,3174,58002,local
+Cement Bonded Bricks/Stone,1649,58005,local
+Mud Bonded Bricks/Stone,5664,58005,local
+Not Stated about House,33,58005,local
+Others,973,58005,local
+Rcc with Pillar,163,58005,local
+Wooden Pillar,4582,58005,local
+Cement Bonded Bricks/Stone,1650,58006,local
+Mud Bonded Bricks/Stone,2827,58006,local
+Not Stated about House,38,58006,local
+Others,160,58006,local
+Rcc with Pillar,232,58006,local
+Wooden Pillar,4662,58006,local
+Cement Bonded Bricks/Stone,727,58003,local
+Mud Bonded Bricks/Stone,6332,58003,local
+Not Stated about House,44,58003,local
+Others,727,58003,local
+Rcc with Pillar,119,58003,local
+Wooden Pillar,5319,58003,local
+Cement Bonded Bricks/Stone,20252,33,district
+Mud Bonded Bricks/Stone,41953,33,district
+Not Stated about House,1374,33,district
+Others,3371,33,district
+Rcc with Pillar,4836,33,district
+Wooden Pillar,19478,33,district
+Cement Bonded Bricks/Stone,614,50009,local
+Mud Bonded Bricks/Stone,3810,50009,local
+Not Stated about House,186,50009,local
+Others,833,50009,local
+Rcc with Pillar,88,50009,local
+Wooden Pillar,815,50009,local
+Cement Bonded Bricks/Stone,4678,50001,local
+Mud Bonded Bricks/Stone,3145,50001,local
+Not Stated about House,144,50001,local
+Others,224,50001,local
+Rcc with Pillar,2677,50001,local
+Wooden Pillar,5097,50001,local
+Cement Bonded Bricks/Stone,1127,50002,local
+Mud Bonded Bricks/Stone,2103,50002,local
+Not Stated about House,54,50002,local
+Others,338,50002,local
+Rcc with Pillar,34,50002,local
+Wooden Pillar,2014,50002,local
+Cement Bonded Bricks/Stone,1161,50007,local
+Mud Bonded Bricks/Stone,4329,50007,local
+Not Stated about House,116,50007,local
+Others,487,50007,local
+Rcc with Pillar,30,50007,local
+Wooden Pillar,384,50007,local
+Cement Bonded Bricks/Stone,698,50010,local
+Mud Bonded Bricks/Stone,3844,50010,local
+Not Stated about House,141,50010,local
+Others,291,50010,local
+Rcc with Pillar,4,50010,local
+Wooden Pillar,435,50010,local
+Cement Bonded Bricks/Stone,2899,50005,local
+Mud Bonded Bricks/Stone,3876,50005,local
+Not Stated about House,293,50005,local
+Others,37,50005,local
+Rcc with Pillar,250,50005,local
+Wooden Pillar,1166,50005,local
+Cement Bonded Bricks/Stone,1819,50003,local
+Mud Bonded Bricks/Stone,4546,50003,local
+Not Stated about House,89,50003,local
+Others,318,50003,local
+Rcc with Pillar,1125,50003,local
+Wooden Pillar,3624,50003,local
+Cement Bonded Bricks/Stone,3192,50004,local
+Mud Bonded Bricks/Stone,6422,50004,local
+Not Stated about House,195,50004,local
+Others,401,50004,local
+Rcc with Pillar,290,50004,local
+Wooden Pillar,1594,50004,local
+Cement Bonded Bricks/Stone,3446,50008,local
+Mud Bonded Bricks/Stone,4026,50008,local
+Not Stated about House,111,50008,local
+Others,243,50008,local
+Rcc with Pillar,324,50008,local
+Wooden Pillar,3100,50008,local
+Cement Bonded Bricks/Stone,618,50006,local
+Mud Bonded Bricks/Stone,5852,50006,local
+Not Stated about House,45,50006,local
+Others,199,50006,local
+Rcc with Pillar,14,50006,local
+Wooden Pillar,1249,50006,local
+Cement Bonded Bricks/Stone,87648,4,province
+Mud Bonded Bricks/Stone,387311,4,province
+Not Stated about House,3378,4,province
+Others,1384,4,province
+Rcc with Pillar,69259,4,province
+Wooden Pillar,28702,4,province
+Cement Bonded Bricks/Stone,2284,23,district
+Mud Bonded Bricks/Stone,58275,23,district
+Not Stated about House,350,23,district
+Others,187,23,district
+Rcc with Pillar,3660,23,district
+Wooden Pillar,1702,23,district
+Cement Bonded Bricks/Stone,22,36011,local
+Mud Bonded Bricks/Stone,5616,36011,local
+Not Stated about House,25,36011,local
+Others,5,36011,local
+Rcc with Pillar,3,36011,local
+Wooden Pillar,158,36011,local
+Cement Bonded Bricks/Stone,362,36008,local
+Mud Bonded Bricks/Stone,9177,36008,local
+Not Stated about House,16,36008,local
+Others,14,36008,local
+Rcc with Pillar,107,36008,local
+Wooden Pillar,248,36008,local
+Cement Bonded Bricks/Stone,113,36001,local
+Mud Bonded Bricks/Stone,5047,36001,local
+Not Stated about House,34,36001,local
+Others,0,36001,local
+Rcc with Pillar,274,36001,local
+Wooden Pillar,146,36001,local
+Cement Bonded Bricks/Stone,35,36003,local
+Mud Bonded Bricks/Stone,5292,36003,local
+Not Stated about House,22,36003,local
+Others,1,36003,local
+Rcc with Pillar,24,36003,local
+Wooden Pillar,64,36003,local
+Cement Bonded Bricks/Stone,132,36006,local
+Mud Bonded Bricks/Stone,4863,36006,local
+Not Stated about House,23,36006,local
+Others,2,36006,local
+Rcc with Pillar,10,36006,local
+Wooden Pillar,223,36006,local
+Cement Bonded Bricks/Stone,64,36010,local
+Mud Bonded Bricks/Stone,5676,36010,local
+Not Stated about House,43,36010,local
+Others,0,36010,local
+Rcc with Pillar,21,36010,local
+Wooden Pillar,92,36010,local
+Cement Bonded Bricks/Stone,23,36002,local
+Mud Bonded Bricks/Stone,3435,36002,local
+Not Stated about House,18,36002,local
+Others,0,36002,local
+Rcc with Pillar,0,36002,local
+Wooden Pillar,142,36002,local
+Cement Bonded Bricks/Stone,1353,36007,local
+Mud Bonded Bricks/Stone,8388,36007,local
+Not Stated about House,69,36007,local
+Others,3,36007,local
+Rcc with Pillar,3096,36007,local
+Wooden Pillar,218,36007,local
+Cement Bonded Bricks/Stone,1,36004,local
+Mud Bonded Bricks/Stone,1698,36004,local
+Not Stated about House,21,36004,local
+Others,157,36004,local
+Rcc with Pillar,0,36004,local
+Wooden Pillar,72,36004,local
+Cement Bonded Bricks/Stone,9,36005,local
+Mud Bonded Bricks/Stone,3012,36005,local
+Not Stated about House,16,36005,local
+Others,3,36005,local
+Rcc with Pillar,2,36005,local
+Wooden Pillar,86,36005,local
+Cement Bonded Bricks/Stone,170,36009,local
+Mud Bonded Bricks/Stone,6071,36009,local
+Not Stated about House,63,36009,local
+Others,2,36009,local
+Rcc with Pillar,123,36009,local
+Wooden Pillar,253,36009,local
+Cement Bonded Bricks/Stone,1777,03,district
+Mud Bonded Bricks/Stone,55890,03,district
+Not Stated about House,407,03,district
+Others,24,03,district
+Rcc with Pillar,2791,03,district
+Wooden Pillar,593,03,district
+Cement Bonded Bricks/Stone,6,45008,local
+Mud Bonded Bricks/Stone,4777,45008,local
+Not Stated about House,53,45008,local
+Others,1,45008,local
+Rcc with Pillar,4,45008,local
+Wooden Pillar,52,45008,local
+Cement Bonded Bricks/Stone,39,45007,local
+Mud Bonded Bricks/Stone,6021,45007,local
+Not Stated about House,29,45007,local
+Others,1,45007,local
+Rcc with Pillar,11,45007,local
+Wooden Pillar,27,45007,local
+Cement Bonded Bricks/Stone,99,45005,local
+Mud Bonded Bricks/Stone,7378,45005,local
+Not Stated about House,50,45005,local
+Others,1,45005,local
+Rcc with Pillar,106,45005,local
+Wooden Pillar,77,45005,local
+Cement Bonded Bricks/Stone,60,45001,local
+Mud Bonded Bricks/Stone,5878,45001,local
+Not Stated about House,69,45001,local
+Others,1,45001,local
+Rcc with Pillar,88,45001,local
+Wooden Pillar,132,45001,local
+Cement Bonded Bricks/Stone,1460,45002,local
+Mud Bonded Bricks/Stone,11202,45002,local
+Not Stated about House,62,45002,local
+Others,7,45002,local
+Rcc with Pillar,2383,45002,local
+Wooden Pillar,68,45002,local
+Cement Bonded Bricks/Stone,10,45003,local
+Mud Bonded Bricks/Stone,3164,45003,local
+Not Stated about House,22,45003,local
+Others,1,45003,local
+Rcc with Pillar,8,45003,local
+Wooden Pillar,35,45003,local
+Cement Bonded Bricks/Stone,14,45009,local
+Mud Bonded Bricks/Stone,2363,45009,local
+Not Stated about House,16,45009,local
+Others,0,45009,local
+Rcc with Pillar,0,45009,local
+Wooden Pillar,29,45009,local
+Cement Bonded Bricks/Stone,30,45004,local
+Mud Bonded Bricks/Stone,5399,45004,local
+Not Stated about House,55,45004,local
+Others,3,45004,local
+Rcc with Pillar,170,45004,local
+Wooden Pillar,49,45004,local
+Cement Bonded Bricks/Stone,4,45010,local
+Mud Bonded Bricks/Stone,2470,45010,local
+Not Stated about House,12,45010,local
+Others,0,45010,local
+Rcc with Pillar,1,45010,local
+Wooden Pillar,8,45010,local
+Cement Bonded Bricks/Stone,55,45006,local
+Mud Bonded Bricks/Stone,7238,45006,local
+Not Stated about House,39,45006,local
+Others,9,45006,local
+Rcc with Pillar,20,45006,local
+Wooden Pillar,116,45006,local
+Cement Bonded Bricks/Stone,5484,71,district
+Mud Bonded Bricks/Stone,57087,71,district
+Not Stated about House,275,71,district
+Others,72,71,district
+Rcc with Pillar,4986,71,district
+Wooden Pillar,952,71,district
+Cement Bonded Bricks/Stone,461,39008,local
+Mud Bonded Bricks/Stone,4133,39008,local
+Not Stated about House,7,39008,local
+Others,3,39008,local
+Rcc with Pillar,127,39008,local
+Wooden Pillar,241,39008,local
+Cement Bonded Bricks/Stone,169,39005,local
+Mud Bonded Bricks/Stone,5378,39005,local
+Not Stated about House,19,39005,local
+Others,3,39005,local
+Rcc with Pillar,179,39005,local
+Wooden Pillar,186,39005,local
+Cement Bonded Bricks/Stone,192,39009,local
+Mud Bonded Bricks/Stone,2762,39009,local
+Not Stated about House,9,39009,local
+Others,3,39009,local
+Rcc with Pillar,281,39009,local
+Wooden Pillar,7,39009,local
+Cement Bonded Bricks/Stone,65,39001,local
+Mud Bonded Bricks/Stone,3899,39001,local
+Not Stated about House,5,39001,local
+Others,1,39001,local
+Rcc with Pillar,92,39001,local
+Wooden Pillar,63,39001,local
+Cement Bonded Bricks/Stone,80,39004,local
+Mud Bonded Bricks/Stone,4167,39004,local
+Not Stated about House,17,39004,local
+Others,1,39004,local
+Rcc with Pillar,12,39004,local
+Wooden Pillar,28,39004,local
+Cement Bonded Bricks/Stone,459,39003,local
+Mud Bonded Bricks/Stone,5105,39003,local
+Not Stated about House,21,39003,local
+Others,4,39003,local
+Rcc with Pillar,470,39003,local
+Wooden Pillar,24,39003,local
+Cement Bonded Bricks/Stone,1858,39011,local
+Mud Bonded Bricks/Stone,8439,39011,local
+Not Stated about House,107,39011,local
+Others,5,39011,local
+Rcc with Pillar,1674,39011,local
+Wooden Pillar,99,39011,local
+Cement Bonded Bricks/Stone,621,39006,local
+Mud Bonded Bricks/Stone,6903,39006,local
+Not Stated about House,22,39006,local
+Others,35,39006,local
+Rcc with Pillar,482,39006,local
+Wooden Pillar,212,39006,local
+Cement Bonded Bricks/Stone,68,39002,local
+Mud Bonded Bricks/Stone,3773,39002,local
+Not Stated about House,16,39002,local
+Others,2,39002,local
+Rcc with Pillar,69,39002,local
+Wooden Pillar,10,39002,local
+Cement Bonded Bricks/Stone,1468,39010,local
+Mud Bonded Bricks/Stone,8748,39010,local
+Not Stated about House,28,39010,local
+Others,13,39010,local
+Rcc with Pillar,1560,39010,local
+Wooden Pillar,65,39010,local
+Cement Bonded Bricks/Stone,43,39007,local
+Mud Bonded Bricks/Stone,3780,39007,local
+Not Stated about House,24,39007,local
+Others,2,39007,local
+Rcc with Pillar,40,39007,local
+Wooden Pillar,17,39007,local
+Cement Bonded Bricks/Stone,17805,47,district
+Mud Bonded Bricks/Stone,19858,47,district
+Not Stated about House,521,47,district
+Others,388,47,district
+Rcc with Pillar,8448,47,district
+Wooden Pillar,19895,47,district
+Cement Bonded Bricks/Stone,2667,76004,local
+Mud Bonded Bricks/Stone,3489,76004,local
+Not Stated about House,131,76004,local
+Others,86,76004,local
+Rcc with Pillar,1002,76004,local
+Wooden Pillar,1881,76004,local
+Cement Bonded Bricks/Stone,20,76002,local
+Mud Bonded Bricks/Stone,2908,76002,local
+Not Stated about House,9,76002,local
+Others,1,76002,local
+Rcc with Pillar,6,76002,local
+Wooden Pillar,543,76002,local
+Cement Bonded Bricks/Stone,5102,76007,local
+Mud Bonded Bricks/Stone,1732,76007,local
+Not Stated about House,110,76007,local
+Others,154,76007,local
+Rcc with Pillar,2196,76007,local
+Wooden Pillar,4810,76007,local
+Cement Bonded Bricks/Stone,2160,76008,local
+Mud Bonded Bricks/Stone,2391,76008,local
+Not Stated about House,62,76008,local
+Others,63,76008,local
+Rcc with Pillar,1262,76008,local
+Wooden Pillar,6005,76008,local
+Cement Bonded Bricks/Stone,1078,76001,local
+Mud Bonded Bricks/Stone,1599,76001,local
+Not Stated about House,39,76001,local
+Others,14,76001,local
+Rcc with Pillar,798,76001,local
+Wooden Pillar,3388,76001,local
+Cement Bonded Bricks/Stone,6104,76005,local
+Mud Bonded Bricks/Stone,2590,76005,local
+Not Stated about House,128,76005,local
+Others,68,76005,local
+Rcc with Pillar,2845,76005,local
+Wooden Pillar,1888,76005,local
+Cement Bonded Bricks/Stone,631,76006,local
+Mud Bonded Bricks/Stone,2421,76006,local
+Not Stated about House,37,76006,local
+Others,2,76006,local
+Rcc with Pillar,334,76006,local
+Wooden Pillar,1163,76006,local
+Cement Bonded Bricks/Stone,43,76003,local
+Mud Bonded Bricks/Stone,2728,76003,local
+Not Stated about House,5,76003,local
+Others,0,76003,local
+Rcc with Pillar,5,76003,local
+Wooden Pillar,217,76003,local
+Cement Bonded Bricks/Stone,782,46,district
+Mud Bonded Bricks/Stone,24973,46,district
+Not Stated about House,117,46,district
+Others,4,46,district
+Rcc with Pillar,1593,46,district
+Wooden Pillar,258,46,district
+Cement Bonded Bricks/Stone,2,43003,local
+Mud Bonded Bricks/Stone,3149,43003,local
+Not Stated about House,20,43003,local
+Others,0,43003,local
+Rcc with Pillar,0,43003,local
+Wooden Pillar,58,43003,local
+Cement Bonded Bricks/Stone,583,43002,local
+Mud Bonded Bricks/Stone,6494,43002,local
+Not Stated about House,31,43002,local
+Others,1,43002,local
+Rcc with Pillar,1483,43002,local
+Wooden Pillar,60,43002,local
+Cement Bonded Bricks/Stone,71,43004,local
+Mud Bonded Bricks/Stone,4045,43004,local
+Not Stated about House,18,43004,local
+Others,0,43004,local
+Rcc with Pillar,47,43004,local
+Wooden Pillar,42,43004,local
+Cement Bonded Bricks/Stone,61,43001,local
+Mud Bonded Bricks/Stone,3553,43001,local
+Not Stated about House,23,43001,local
+Others,3,43001,local
+Rcc with Pillar,16,43001,local
+Wooden Pillar,44,43001,local
+Cement Bonded Bricks/Stone,23,43005,local
+Mud Bonded Bricks/Stone,3728,43005,local
+Not Stated about House,10,43005,local
+Others,0,43005,local
+Rcc with Pillar,34,43005,local
+Wooden Pillar,30,43005,local
+Cement Bonded Bricks/Stone,42,43006,local
+Mud Bonded Bricks/Stone,4004,43006,local
+Not Stated about House,15,43006,local
+Others,0,43006,local
+Rcc with Pillar,13,43006,local
+Wooden Pillar,24,43006,local
+Cement Bonded Bricks/Stone,3403,39,district
+Mud Bonded Bricks/Stone,33594,39,district
+Not Stated about House,211,39,district
+Others,40,39,district
+Rcc with Pillar,3774,39,district
+Wooden Pillar,1026,39,district
+Cement Bonded Bricks/Stone,381,37005,local
+Mud Bonded Bricks/Stone,4825,37005,local
+Not Stated about House,23,37005,local
+Others,3,37005,local
+Rcc with Pillar,423,37005,local
+Wooden Pillar,233,37005,local
+Cement Bonded Bricks/Stone,104,37007,local
+Mud Bonded Bricks/Stone,4347,37007,local
+Not Stated about House,33,37007,local
+Others,5,37007,local
+Rcc with Pillar,56,37007,local
+Wooden Pillar,206,37007,local
+Cement Bonded Bricks/Stone,1736,37001,local
+Mud Bonded Bricks/Stone,6343,37001,local
+Not Stated about House,64,37001,local
+Others,10,37001,local
+Rcc with Pillar,2054,37001,local
+Wooden Pillar,215,37001,local
+Cement Bonded Bricks/Stone,196,37006,local
+Mud Bonded Bricks/Stone,4017,37006,local
+Not Stated about House,16,37006,local
+Others,3,37006,local
+Rcc with Pillar,51,37006,local
+Wooden Pillar,126,37006,local
+Cement Bonded Bricks/Stone,896,37008,local
+Mud Bonded Bricks/Stone,4980,37008,local
+Not Stated about House,47,37008,local
+Others,12,37008,local
+Rcc with Pillar,1183,37008,local
+Wooden Pillar,81,37008,local
+Cement Bonded Bricks/Stone,8,37004,local
+Mud Bonded Bricks/Stone,2407,37004,local
+Not Stated about House,11,37004,local
+Others,1,37004,local
+Rcc with Pillar,0,37004,local
+Wooden Pillar,25,37004,local
+Cement Bonded Bricks/Stone,4,37003,local
+Mud Bonded Bricks/Stone,2535,37003,local
+Not Stated about House,7,37003,local
+Others,3,37003,local
+Rcc with Pillar,0,37003,local
+Wooden Pillar,41,37003,local
+Cement Bonded Bricks/Stone,78,37002,local
+Mud Bonded Bricks/Stone,4140,37002,local
+Not Stated about House,10,37002,local
+Others,3,37002,local
+Rcc with Pillar,7,37002,local
+Wooden Pillar,99,37002,local
+Cement Bonded Bricks/Stone,42003,34,district
+Mud Bonded Bricks/Stone,47380,34,district
+Not Stated about House,762,34,district
+Others,438,34,district
+Rcc with Pillar,34114,34,district
+Wooden Pillar,762,34,district
+Cement Bonded Bricks/Stone,74,40005,local
+Mud Bonded Bricks/Stone,3660,40005,local
+Not Stated about House,5,40005,local
+Others,4,40005,local
+Rcc with Pillar,14,40005,local
+Wooden Pillar,23,40005,local
+Cement Bonded Bricks/Stone,424,40001,local
+Mud Bonded Bricks/Stone,5260,40001,local
+Not Stated about House,26,40001,local
+Others,6,40001,local
+Rcc with Pillar,141,40001,local
+Wooden Pillar,172,40001,local
+Cement Bonded Bricks/Stone,27,40003,local
+Mud Bonded Bricks/Stone,4376,40003,local
+Not Stated about House,14,40003,local
+Others,2,40003,local
+Rcc with Pillar,4,40003,local
+Wooden Pillar,85,40003,local
+Cement Bonded Bricks/Stone,327,40002,local
+Mud Bonded Bricks/Stone,5035,40002,local
+Not Stated about House,33,40002,local
+Others,3,40002,local
+Rcc with Pillar,78,40002,local
+Wooden Pillar,36,40002,local
+Cement Bonded Bricks/Stone,41151,40004,local
+Mud Bonded Bricks/Stone,29049,40004,local
+Not Stated about House,684,40004,local
+Others,423,40004,local
+Rcc with Pillar,33877,40004,local
+Wooden Pillar,446,40004,local
+Cement Bonded Bricks/Stone,44,42,district
+Mud Bonded Bricks/Stone,1332,42,district
+Not Stated about House,7,42,district
+Others,0,42,district
+Rcc with Pillar,4,42,district
+Wooden Pillar,61,42,district
+Cement Bonded Bricks/Stone,35,41003,local
+Mud Bonded Bricks/Stone,399,41003,local
+Not Stated about House,3,41003,local
+Others,0,41003,local
+Rcc with Pillar,2,41003,local
+Wooden Pillar,15,41003,local
+Cement Bonded Bricks/Stone,2,41001,local
+Mud Bonded Bricks/Stone,245,41001,local
+Not Stated about House,0,41001,local
+Others,0,41001,local
+Rcc with Pillar,1,41001,local
+Wooden Pillar,31,41001,local
+Cement Bonded Bricks/Stone,5,41004,local
+Mud Bonded Bricks/Stone,568,41004,local
+Not Stated about House,4,41004,local
+Others,0,41004,local
+Rcc with Pillar,1,41004,local
+Wooden Pillar,15,41004,local
+Cement Bonded Bricks/Stone,2,41002,local
+Mud Bonded Bricks/Stone,120,41002,local
+Not Stated about House,0,41002,local
+Others,0,41002,local
+Rcc with Pillar,0,41002,local
+Wooden Pillar,0,41002,local
+Cement Bonded Bricks/Stone,11553,72,district
+Mud Bonded Bricks/Stone,54293,72,district
+Not Stated about House,572,72,district
+Others,183,72,district
+Rcc with Pillar,8596,72,district
+Wooden Pillar,3089,72,district
+Cement Bonded Bricks/Stone,660,38006,local
+Mud Bonded Bricks/Stone,1629,38006,local
+Not Stated about House,24,38006,local
+Others,16,38006,local
+Rcc with Pillar,56,38006,local
+Wooden Pillar,1050,38006,local
+Cement Bonded Bricks/Stone,153,38009,local
+Mud Bonded Bricks/Stone,4769,38009,local
+Not Stated about House,24,38009,local
+Others,1,38009,local
+Rcc with Pillar,42,38009,local
+Wooden Pillar,226,38009,local
+Cement Bonded Bricks/Stone,901,38001,local
+Mud Bonded Bricks/Stone,2769,38001,local
+Not Stated about House,30,38001,local
+Others,7,38001,local
+Rcc with Pillar,1069,38001,local
+Wooden Pillar,135,38001,local
+Cement Bonded Bricks/Stone,1257,38004,local
+Mud Bonded Bricks/Stone,5701,38004,local
+Not Stated about House,92,38004,local
+Others,5,38004,local
+Rcc with Pillar,310,38004,local
+Wooden Pillar,123,38004,local
+Cement Bonded Bricks/Stone,853,38003,local
+Mud Bonded Bricks/Stone,10525,38003,local
+Not Stated about House,117,38003,local
+Others,10,38003,local
+Rcc with Pillar,290,38003,local
+Wooden Pillar,300,38003,local
+Cement Bonded Bricks/Stone,414,38002,local
+Mud Bonded Bricks/Stone,3967,38002,local
+Not Stated about House,38,38002,local
+Others,4,38002,local
+Rcc with Pillar,238,38002,local
+Wooden Pillar,192,38002,local
+Cement Bonded Bricks/Stone,55,38007,local
+Mud Bonded Bricks/Stone,3719,38007,local
+Not Stated about House,15,38007,local
+Others,2,38007,local
+Rcc with Pillar,25,38007,local
+Wooden Pillar,321,38007,local
+Cement Bonded Bricks/Stone,3175,38010,local
+Mud Bonded Bricks/Stone,6507,38010,local
+Not Stated about House,48,38010,local
+Others,91,38010,local
+Rcc with Pillar,2282,38010,local
+Wooden Pillar,82,38010,local
+Cement Bonded Bricks/Stone,3671,38005,local
+Mud Bonded Bricks/Stone,9997,38005,local
+Not Stated about House,152,38005,local
+Others,24,38005,local
+Rcc with Pillar,3891,38005,local
+Wooden Pillar,604,38005,local
+Cement Bonded Bricks/Stone,414,38008,local
+Mud Bonded Bricks/Stone,4710,38008,local
+Not Stated about House,32,38008,local
+Others,23,38008,local
+Rcc with Pillar,393,38008,local
+Wooden Pillar,56,38008,local
+Cement Bonded Bricks/Stone,146,45,district
+Mud Bonded Bricks/Stone,3097,45,district
+Not Stated about House,21,45,district
+Others,7,45,district
+Rcc with Pillar,3,45,district
+Wooden Pillar,31,45,district
+Cement Bonded Bricks/Stone,33,42001,local
+Mud Bonded Bricks/Stone,686,42001,local
+Not Stated about House,3,42001,local
+Others,0,42001,local
+Rcc with Pillar,1,42001,local
+Wooden Pillar,2,42001,local
+Cement Bonded Bricks/Stone,0,42004,local
+Mud Bonded Bricks/Stone,520,42004,local
+Not Stated about House,3,42004,local
+Others,2,42004,local
+Rcc with Pillar,0,42004,local
+Wooden Pillar,7,42004,local
+Cement Bonded Bricks/Stone,48,42005,local
+Mud Bonded Bricks/Stone,687,42005,local
+Not Stated about House,7,42005,local
+Others,5,42005,local
+Rcc with Pillar,1,42005,local
+Wooden Pillar,22,42005,local
+Cement Bonded Bricks/Stone,1,42002,local
+Mud Bonded Bricks/Stone,399,42002,local
+Not Stated about House,4,42002,local
+Others,0,42002,local
+Rcc with Pillar,0,42002,local
+Wooden Pillar,0,42002,local
+Cement Bonded Bricks/Stone,64,42003,local
+Mud Bonded Bricks/Stone,805,42003,local
+Not Stated about House,4,42003,local
+Others,0,42003,local
+Rcc with Pillar,1,42003,local
+Wooden Pillar,0,42003,local
+Cement Bonded Bricks/Stone,2367,52,district
+Mud Bonded Bricks/Stone,31532,52,district
+Not Stated about House,135,52,district
+Others,41,52,district
+Rcc with Pillar,1290,52,district
+Wooden Pillar,333,52,district
+Cement Bonded Bricks/Stone,9,44004,local
+Mud Bonded Bricks/Stone,2208,44004,local
+Not Stated about House,3,44004,local
+Others,0,44004,local
+Rcc with Pillar,4,44004,local
+Wooden Pillar,5,44004,local
+Cement Bonded Bricks/Stone,109,44006,local
+Mud Bonded Bricks/Stone,3056,44006,local
+Not Stated about House,11,44006,local
+Others,23,44006,local
+Rcc with Pillar,72,44006,local
+Wooden Pillar,23,44006,local
+Cement Bonded Bricks/Stone,388,44002,local
+Mud Bonded Bricks/Stone,4758,44002,local
+Not Stated about House,20,44002,local
+Others,1,44002,local
+Rcc with Pillar,371,44002,local
+Wooden Pillar,23,44002,local
+Cement Bonded Bricks/Stone,39,44007,local
+Mud Bonded Bricks/Stone,5736,44007,local
+Not Stated about House,15,44007,local
+Others,6,44007,local
+Rcc with Pillar,41,44007,local
+Wooden Pillar,46,44007,local
+Cement Bonded Bricks/Stone,1330,44003,local
+Mud Bonded Bricks/Stone,8143,44003,local
+Not Stated about House,32,44003,local
+Others,8,44003,local
+Rcc with Pillar,706,44003,local
+Wooden Pillar,92,44003,local
+Cement Bonded Bricks/Stone,38,44001,local
+Mud Bonded Bricks/Stone,2783,44001,local
+Not Stated about House,19,44001,local
+Others,1,44001,local
+Rcc with Pillar,5,44001,local
+Wooden Pillar,95,44001,local
+Cement Bonded Bricks/Stone,454,44005,local
+Mud Bonded Bricks/Stone,4848,44005,local
+Not Stated about House,35,44005,local
+Others,2,44005,local
+Rcc with Pillar,91,44005,local
+Wooden Pillar,49,44005,local
+Cement Bonded Bricks/Stone,213922,2,province
+Mud Bonded Bricks/Stone,67588,2,province
+Not Stated about House,14265,2,province
+Others,18338,2,province
+Rcc with Pillar,39003,2,province
+Wooden Pillar,578971,2,province
+Cement Bonded Bricks/Stone,25207,64,district
+Mud Bonded Bricks/Stone,8311,64,district
+Not Stated about House,1668,64,district
+Others,3391,64,district
+Rcc with Pillar,6966,64,district
+Wooden Pillar,87260,64,district
+Cement Bonded Bricks/Stone,711,19020,local
+Mud Bonded Bricks/Stone,132,19020,local
+Not Stated about House,46,19020,local
+Others,15,19020,local
+Rcc with Pillar,129,19020,local
+Wooden Pillar,3452,19020,local
+Cement Bonded Bricks/Stone,696,19005,local
+Mud Bonded Bricks/Stone,392,19005,local
+Not Stated about House,86,19005,local
+Others,60,19005,local
+Rcc with Pillar,22,19005,local
+Wooden Pillar,2752,19005,local
+Cement Bonded Bricks/Stone,722,19008,local
+Mud Bonded Bricks/Stone,376,19008,local
+Not Stated about House,52,19008,local
+Others,43,19008,local
+Rcc with Pillar,98,19008,local
+Wooden Pillar,4249,19008,local
+Cement Bonded Bricks/Stone,1163,19016,local
+Mud Bonded Bricks/Stone,521,19016,local
+Not Stated about House,45,19016,local
+Others,28,19016,local
+Rcc with Pillar,43,19016,local
+Wooden Pillar,2273,19016,local
+Cement Bonded Bricks/Stone,1034,19012,local
+Mud Bonded Bricks/Stone,101,19012,local
+Not Stated about House,46,19012,local
+Others,122,19012,local
+Rcc with Pillar,113,19012,local
+Wooden Pillar,4488,19012,local
+Cement Bonded Bricks/Stone,606,19009,local
+Mud Bonded Bricks/Stone,184,19009,local
+Not Stated about House,63,19009,local
+Others,107,19009,local
+Rcc with Pillar,89,19009,local
+Wooden Pillar,2915,19009,local
+Cement Bonded Bricks/Stone,2011,19010,local
+Mud Bonded Bricks/Stone,508,19010,local
+Not Stated about House,156,19010,local
+Others,91,19010,local
+Rcc with Pillar,197,19010,local
+Wooden Pillar,4939,19010,local
+Cement Bonded Bricks/Stone,1407,19013,local
+Mud Bonded Bricks/Stone,176,19013,local
+Not Stated about House,113,19013,local
+Others,34,19013,local
+Rcc with Pillar,702,19013,local
+Wooden Pillar,6169,19013,local
+Cement Bonded Bricks/Stone,917,19007,local
+Mud Bonded Bricks/Stone,442,19007,local
+Not Stated about House,41,19007,local
+Others,86,19007,local
+Rcc with Pillar,73,19007,local
+Wooden Pillar,2850,19007,local
+Cement Bonded Bricks/Stone,2222,19017,local
+Mud Bonded Bricks/Stone,394,19017,local
+Not Stated about House,92,19017,local
+Others,187,19017,local
+Rcc with Pillar,1074,19017,local
+Wooden Pillar,8269,19017,local
+Cement Bonded Bricks/Stone,3052,19018,local
+Mud Bonded Bricks/Stone,1513,19018,local
+Not Stated about House,94,19018,local
+Others,203,19018,local
+Rcc with Pillar,752,19018,local
+Wooden Pillar,2298,19018,local
+Cement Bonded Bricks/Stone,887,19011,local
+Mud Bonded Bricks/Stone,398,19011,local
+Not Stated about House,74,19011,local
+Others,624,19011,local
+Rcc with Pillar,348,19011,local
+Wooden Pillar,4186,19011,local
+Cement Bonded Bricks/Stone,972,19001,local
+Mud Bonded Bricks/Stone,345,19001,local
+Not Stated about House,103,19001,local
+Others,233,19001,local
+Rcc with Pillar,925,19001,local
+Wooden Pillar,5406,19001,local
+Cement Bonded Bricks/Stone,1153,19014,local
+Mud Bonded Bricks/Stone,139,19014,local
+Not Stated about House,170,19014,local
+Others,326,19014,local
+Rcc with Pillar,362,19014,local
+Wooden Pillar,8923,19014,local
+Cement Bonded Bricks/Stone,1805,19015,local
+Mud Bonded Bricks/Stone,749,19015,local
+Not Stated about House,102,19015,local
+Others,91,19015,local
+Rcc with Pillar,127,19015,local
+Wooden Pillar,3997,19015,local
+Cement Bonded Bricks/Stone,2421,19003,local
+Mud Bonded Bricks/Stone,498,19003,local
+Not Stated about House,154,19003,local
+Others,593,19003,local
+Rcc with Pillar,1385,19003,local
+Wooden Pillar,6802,19003,local
+Cement Bonded Bricks/Stone,402,19004,local
+Mud Bonded Bricks/Stone,194,19004,local
+Not Stated about House,28,19004,local
+Others,129,19004,local
+Rcc with Pillar,177,19004,local
+Wooden Pillar,2769,19004,local
+Cement Bonded Bricks/Stone,749,19019,local
+Mud Bonded Bricks/Stone,383,19019,local
+Not Stated about House,40,19019,local
+Others,15,19019,local
+Rcc with Pillar,22,19019,local
+Wooden Pillar,2133,19019,local
+Cement Bonded Bricks/Stone,922,19006,local
+Mud Bonded Bricks/Stone,620,19006,local
+Not Stated about House,66,19006,local
+Others,101,19006,local
+Rcc with Pillar,129,19006,local
+Wooden Pillar,2897,19006,local
+Cement Bonded Bricks/Stone,1355,19002,local
+Mud Bonded Bricks/Stone,246,19002,local
+Not Stated about House,97,19002,local
+Others,303,19002,local
+Rcc with Pillar,199,19002,local
+Wooden Pillar,5493,19002,local
+Cement Bonded Bricks/Stone,26028,67,district
+Mud Bonded Bricks/Stone,6569,67,district
+Not Stated about House,1540,67,district
+Others,1718,67,district
+Rcc with Pillar,4511,67,district
+Wooden Pillar,77563,67,district
+Cement Bonded Bricks/Stone,647,16011,local
+Mud Bonded Bricks/Stone,261,16011,local
+Not Stated about House,21,16011,local
+Others,65,16011,local
+Rcc with Pillar,62,16011,local
+Wooden Pillar,3774,16011,local
+Cement Bonded Bricks/Stone,2744,16007,local
+Mud Bonded Bricks/Stone,575,16007,local
+Not Stated about House,79,16007,local
+Others,289,16007,local
+Rcc with Pillar,360,16007,local
+Wooden Pillar,6063,16007,local
+Cement Bonded Bricks/Stone,454,16015,local
+Mud Bonded Bricks/Stone,66,16015,local
+Not Stated about House,13,16015,local
+Others,27,16015,local
+Rcc with Pillar,29,16015,local
+Wooden Pillar,2799,16015,local
+Cement Bonded Bricks/Stone,4676,16010,local
+Mud Bonded Bricks/Stone,737,16010,local
+Not Stated about House,189,16010,local
+Others,67,16010,local
+Rcc with Pillar,941,16010,local
+Wooden Pillar,10572,16010,local
+Cement Bonded Bricks/Stone,1895,16008,local
+Mud Bonded Bricks/Stone,322,16008,local
+Not Stated about House,119,16008,local
+Others,115,16008,local
+Rcc with Pillar,677,16008,local
+Wooden Pillar,6263,16008,local
+Cement Bonded Bricks/Stone,978,16009,local
+Mud Bonded Bricks/Stone,165,16009,local
+Not Stated about House,64,16009,local
+Others,3,16009,local
+Rcc with Pillar,114,16009,local
+Wooden Pillar,4764,16009,local
+Cement Bonded Bricks/Stone,648,16014,local
+Mud Bonded Bricks/Stone,704,16014,local
+Not Stated about House,19,16014,local
+Others,174,16014,local
+Rcc with Pillar,19,16014,local
+Wooden Pillar,1716,16014,local
+Cement Bonded Bricks/Stone,777,16003,local
+Mud Bonded Bricks/Stone,314,16003,local
+Not Stated about House,33,16003,local
+Others,267,16003,local
+Rcc with Pillar,63,16003,local
+Wooden Pillar,2810,16003,local
+Cement Bonded Bricks/Stone,593,16004,local
+Mud Bonded Bricks/Stone,338,16004,local
+Not Stated about House,41,16004,local
+Others,102,16004,local
+Rcc with Pillar,53,16004,local
+Wooden Pillar,2534,16004,local
+Cement Bonded Bricks/Stone,543,16005,local
+Mud Bonded Bricks/Stone,414,16005,local
+Not Stated about House,16,16005,local
+Others,87,16005,local
+Rcc with Pillar,160,16005,local
+Wooden Pillar,2249,16005,local
+Cement Bonded Bricks/Stone,566,16001,local
+Mud Bonded Bricks/Stone,139,16001,local
+Not Stated about House,62,16001,local
+Others,367,16001,local
+Rcc with Pillar,108,16001,local
+Wooden Pillar,2805,16001,local
+Cement Bonded Bricks/Stone,1501,16006,local
+Mud Bonded Bricks/Stone,621,16006,local
+Not Stated about House,282,16006,local
+Others,9,16006,local
+Rcc with Pillar,103,16006,local
+Wooden Pillar,6241,16006,local
+Cement Bonded Bricks/Stone,2285,16012,local
+Mud Bonded Bricks/Stone,487,16012,local
+Not Stated about House,102,16012,local
+Others,2,16012,local
+Rcc with Pillar,737,16012,local
+Wooden Pillar,5720,16012,local
+Cement Bonded Bricks/Stone,589,16013,local
+Mud Bonded Bricks/Stone,234,16013,local
+Not Stated about House,44,16013,local
+Others,58,16013,local
+Rcc with Pillar,37,16013,local
+Wooden Pillar,2711,16013,local
+Cement Bonded Bricks/Stone,5191,16016,local
+Mud Bonded Bricks/Stone,928,16016,local
+Not Stated about House,156,16016,local
+Others,37,16016,local
+Rcc with Pillar,886,16016,local
+Wooden Pillar,8279,16016,local
+Cement Bonded Bricks/Stone,635,16002,local
+Mud Bonded Bricks/Stone,116,16002,local
+Not Stated about House,265,16002,local
+Others,11,16002,local
+Rcc with Pillar,46,16002,local
+Wooden Pillar,3172,16002,local
+Cement Bonded Bricks/Stone,1306,16017,local
+Mud Bonded Bricks/Stone,148,16017,local
+Not Stated about House,35,16017,local
+Others,38,16017,local
+Rcc with Pillar,116,16017,local
+Wooden Pillar,5091,16017,local
+Cement Bonded Bricks/Stone,24855,40,district
+Mud Bonded Bricks/Stone,4507,40,district
+Not Stated about House,833,40,district
+Others,1368,40,district
+Rcc with Pillar,3672,40,district
+Wooden Pillar,76063,40,district
+Cement Bonded Bricks/Stone,2294,18012,local
+Mud Bonded Bricks/Stone,394,18012,local
+Not Stated about House,46,18012,local
+Others,158,18012,local
+Rcc with Pillar,150,18012,local
+Wooden Pillar,3448,18012,local
+Cement Bonded Bricks/Stone,1863,18002,local
+Mud Bonded Bricks/Stone,373,18002,local
+Not Stated about House,32,18002,local
+Others,171,18002,local
+Rcc with Pillar,163,18002,local
+Wooden Pillar,5059,18002,local
+Cement Bonded Bricks/Stone,962,18014,local
+Mud Bonded Bricks/Stone,100,18014,local
+Not Stated about House,28,18014,local
+Others,11,18014,local
+Rcc with Pillar,104,18014,local
+Wooden Pillar,4177,18014,local
+Cement Bonded Bricks/Stone,926,18013,local
+Mud Bonded Bricks/Stone,297,18013,local
+Not Stated about House,41,18013,local
+Others,86,18013,local
+Rcc with Pillar,275,18013,local
+Wooden Pillar,3632,18013,local
+Cement Bonded Bricks/Stone,1659,18003,local
+Mud Bonded Bricks/Stone,583,18003,local
+Not Stated about House,71,18003,local
+Others,60,18003,local
+Rcc with Pillar,708,18003,local
+Wooden Pillar,10032,18003,local
+Cement Bonded Bricks/Stone,3736,18007,local
+Mud Bonded Bricks/Stone,580,18007,local
+Not Stated about House,182,18007,local
+Others,76,18007,local
+Rcc with Pillar,656,18007,local
+Wooden Pillar,4804,18007,local
+Cement Bonded Bricks/Stone,955,18005,local
+Mud Bonded Bricks/Stone,424,18005,local
+Not Stated about House,13,18005,local
+Others,38,18005,local
+Rcc with Pillar,72,18005,local
+Wooden Pillar,3307,18005,local
+Cement Bonded Bricks/Stone,1883,18008,local
+Mud Bonded Bricks/Stone,114,18008,local
+Not Stated about House,36,18008,local
+Others,49,18008,local
+Rcc with Pillar,228,18008,local
+Wooden Pillar,5007,18008,local
+Cement Bonded Bricks/Stone,1231,18009,local
+Mud Bonded Bricks/Stone,60,18009,local
+Not Stated about House,21,18009,local
+Others,3,18009,local
+Rcc with Pillar,46,18009,local
+Wooden Pillar,3500,18009,local
+Cement Bonded Bricks/Stone,1122,18004,local
+Mud Bonded Bricks/Stone,354,18004,local
+Not Stated about House,62,18004,local
+Others,150,18004,local
+Rcc with Pillar,265,18004,local
+Wooden Pillar,6607,18004,local
+Cement Bonded Bricks/Stone,2036,18006,local
+Mud Bonded Bricks/Stone,293,18006,local
+Not Stated about House,91,18006,local
+Others,130,18006,local
+Rcc with Pillar,247,18006,local
+Wooden Pillar,9096,18006,local
+Cement Bonded Bricks/Stone,1753,18011,local
+Mud Bonded Bricks/Stone,429,18011,local
+Not Stated about House,29,18011,local
+Others,235,18011,local
+Rcc with Pillar,180,18011,local
+Wooden Pillar,2600,18011,local
+Cement Bonded Bricks/Stone,1123,18015,local
+Mud Bonded Bricks/Stone,112,18015,local
+Not Stated about House,69,18015,local
+Others,57,18015,local
+Rcc with Pillar,201,18015,local
+Wooden Pillar,4779,18015,local
+Cement Bonded Bricks/Stone,2334,18010,local
+Mud Bonded Bricks/Stone,176,18010,local
+Not Stated about House,85,18010,local
+Others,33,18010,local
+Rcc with Pillar,226,18010,local
+Wooden Pillar,5678,18010,local
+Cement Bonded Bricks/Stone,978,18001,local
+Mud Bonded Bricks/Stone,218,18001,local
+Not Stated about House,27,18001,local
+Others,111,18001,local
+Rcc with Pillar,151,18001,local
+Wooden Pillar,4337,18001,local
+Cement Bonded Bricks/Stone,30900,53,district
+Mud Bonded Bricks/Stone,2651,53,district
+Not Stated about House,1337,53,district
+Others,512,53,district
+Rcc with Pillar,5376,53,district
+Wooden Pillar,54740,53,district
+Cement Bonded Bricks/Stone,770,34008,local
+Mud Bonded Bricks/Stone,58,34008,local
+Not Stated about House,72,34008,local
+Others,33,34008,local
+Rcc with Pillar,43,34008,local
+Wooden Pillar,2066,34008,local
+Cement Bonded Bricks/Stone,782,34006,local
+Mud Bonded Bricks/Stone,85,34006,local
+Not Stated about House,82,34006,local
+Others,2,34006,local
+Rcc with Pillar,36,34006,local
+Wooden Pillar,3966,34006,local
+Cement Bonded Bricks/Stone,612,34005,local
+Mud Bonded Bricks/Stone,118,34005,local
+Not Stated about House,42,34005,local
+Others,0,34005,local
+Rcc with Pillar,35,34005,local
+Wooden Pillar,2168,34005,local
+Cement Bonded Bricks/Stone,560,34007,local
+Mud Bonded Bricks/Stone,27,34007,local
+Not Stated about House,39,34007,local
+Others,165,34007,local
+Rcc with Pillar,76,34007,local
+Wooden Pillar,3250,34007,local
+Cement Bonded Bricks/Stone,21753,34003,local
+Mud Bonded Bricks/Stone,1512,34003,local
+Not Stated about House,660,34003,local
+Others,134,34003,local
+Rcc with Pillar,4575,34003,local
+Wooden Pillar,10652,34003,local
+Cement Bonded Bricks/Stone,386,34011,local
+Mud Bonded Bricks/Stone,17,34011,local
+Not Stated about House,29,34011,local
+Others,1,34011,local
+Rcc with Pillar,63,34011,local
+Wooden Pillar,3506,34011,local
+Cement Bonded Bricks/Stone,909,34012,local
+Mud Bonded Bricks/Stone,180,34012,local
+Not Stated about House,29,34012,local
+Others,6,34012,local
+Rcc with Pillar,35,34012,local
+Wooden Pillar,3716,34012,local
+Cement Bonded Bricks/Stone,1087,34002,local
+Mud Bonded Bricks/Stone,41,34002,local
+Not Stated about House,42,34002,local
+Others,40,34002,local
+Rcc with Pillar,54,34002,local
+Wooden Pillar,2312,34002,local
+Cement Bonded Bricks/Stone,280,34014,local
+Mud Bonded Bricks/Stone,174,34014,local
+Not Stated about House,25,34014,local
+Others,2,34014,local
+Rcc with Pillar,29,34014,local
+Wooden Pillar,3737,34014,local
+Cement Bonded Bricks/Stone,903,34004,local
+Mud Bonded Bricks/Stone,241,34004,local
+Not Stated about House,70,34004,local
+Others,98,34004,local
+Rcc with Pillar,54,34004,local
+Wooden Pillar,2617,34004,local
+Cement Bonded Bricks/Stone,1314,34001,local
+Mud Bonded Bricks/Stone,43,34001,local
+Not Stated about House,60,34001,local
+Others,19,34001,local
+Rcc with Pillar,87,34001,local
+Wooden Pillar,4158,34001,local
+Cement Bonded Bricks/Stone,515,34010,local
+Mud Bonded Bricks/Stone,51,34010,local
+Not Stated about House,48,34010,local
+Others,5,34010,local
+Rcc with Pillar,177,34010,local
+Wooden Pillar,5616,34010,local
+Cement Bonded Bricks/Stone,400,34013,local
+Mud Bonded Bricks/Stone,51,34013,local
+Not Stated about House,62,34013,local
+Others,4,34013,local
+Rcc with Pillar,79,34013,local
+Wooden Pillar,4733,34013,local
+Cement Bonded Bricks/Stone,629,34009,local
+Mud Bonded Bricks/Stone,53,34009,local
+Not Stated about House,77,34009,local
+Others,3,34009,local
+Rcc with Pillar,33,34009,local
+Wooden Pillar,2243,34009,local
+Cement Bonded Bricks/Stone,22682,63,district
+Mud Bonded Bricks/Stone,8584,63,district
+Not Stated about House,2262,63,district
+Others,4498,63,district
+Rcc with Pillar,4273,63,district
+Wooden Pillar,78765,63,district
+Cement Bonded Bricks/Stone,536,15002,local
+Mud Bonded Bricks/Stone,226,15002,local
+Not Stated about House,68,15002,local
+Others,136,15002,local
+Rcc with Pillar,72,15002,local
+Wooden Pillar,2938,15002,local
+Cement Bonded Bricks/Stone,1483,15005,local
+Mud Bonded Bricks/Stone,695,15005,local
+Not Stated about House,160,15005,local
+Others,81,15005,local
+Rcc with Pillar,263,15005,local
+Wooden Pillar,5340,15005,local
+Cement Bonded Bricks/Stone,1446,15007,local
+Mud Bonded Bricks/Stone,793,15007,local
+Not Stated about House,126,15007,local
+Others,654,15007,local
+Rcc with Pillar,188,15007,local
+Wooden Pillar,4942,15007,local
+Cement Bonded Bricks/Stone,2029,15010,local
+Mud Bonded Bricks/Stone,782,15010,local
+Not Stated about House,110,15010,local
+Others,279,15010,local
+Rcc with Pillar,402,15010,local
+Wooden Pillar,5013,15010,local
+Cement Bonded Bricks/Stone,688,15004,local
+Mud Bonded Bricks/Stone,323,15004,local
+Not Stated about House,42,15004,local
+Others,647,15004,local
+Rcc with Pillar,101,15004,local
+Wooden Pillar,2569,15004,local
+Cement Bonded Bricks/Stone,1122,15008,local
+Mud Bonded Bricks/Stone,804,15008,local
+Not Stated about House,273,15008,local
+Others,352,15008,local
+Rcc with Pillar,233,15008,local
+Wooden Pillar,5368,15008,local
+Cement Bonded Bricks/Stone,673,15003,local
+Mud Bonded Bricks/Stone,475,15003,local
+Not Stated about House,85,15003,local
+Others,461,15003,local
+Rcc with Pillar,78,15003,local
+Wooden Pillar,3470,15003,local
+Cement Bonded Bricks/Stone,319,15018,local
+Mud Bonded Bricks/Stone,355,15018,local
+Not Stated about House,195,15018,local
+Others,13,15018,local
+Rcc with Pillar,100,15018,local
+Wooden Pillar,3096,15018,local
+Cement Bonded Bricks/Stone,5239,15012,local
+Mud Bonded Bricks/Stone,1413,15012,local
+Not Stated about House,281,15012,local
+Others,499,15012,local
+Rcc with Pillar,1296,15012,local
+Wooden Pillar,4622,15012,local
+Cement Bonded Bricks/Stone,910,15001,local
+Mud Bonded Bricks/Stone,428,15001,local
+Not Stated about House,87,15001,local
+Others,19,15001,local
+Rcc with Pillar,68,15001,local
+Wooden Pillar,3910,15001,local
+Cement Bonded Bricks/Stone,941,15016,local
+Mud Bonded Bricks/Stone,211,15016,local
+Not Stated about House,91,15016,local
+Others,29,15016,local
+Rcc with Pillar,206,15016,local
+Wooden Pillar,7172,15016,local
+Cement Bonded Bricks/Stone,980,15013,local
+Mud Bonded Bricks/Stone,118,15013,local
+Not Stated about House,43,15013,local
+Others,295,15013,local
+Rcc with Pillar,56,15013,local
+Wooden Pillar,3520,15013,local
+Cement Bonded Bricks/Stone,889,15017,local
+Mud Bonded Bricks/Stone,341,15017,local
+Not Stated about House,29,15017,local
+Others,144,15017,local
+Rcc with Pillar,154,15017,local
+Wooden Pillar,4140,15017,local
+Cement Bonded Bricks/Stone,1185,15015,local
+Mud Bonded Bricks/Stone,290,15015,local
+Not Stated about House,73,15015,local
+Others,99,15015,local
+Rcc with Pillar,283,15015,local
+Wooden Pillar,4834,15015,local
+Cement Bonded Bricks/Stone,598,15014,local
+Mud Bonded Bricks/Stone,44,15014,local
+Not Stated about House,53,15014,local
+Others,72,15014,local
+Rcc with Pillar,166,15014,local
+Wooden Pillar,3606,15014,local
+Cement Bonded Bricks/Stone,781,15011,local
+Mud Bonded Bricks/Stone,154,15011,local
+Not Stated about House,124,15011,local
+Others,137,15011,local
+Rcc with Pillar,75,15011,local
+Wooden Pillar,4124,15011,local
+Cement Bonded Bricks/Stone,2024,15009,local
+Mud Bonded Bricks/Stone,695,15009,local
+Not Stated about House,188,15009,local
+Others,158,15009,local
+Rcc with Pillar,342,15009,local
+Wooden Pillar,6785,15009,local
+Cement Bonded Bricks/Stone,839,15006,local
+Mud Bonded Bricks/Stone,437,15006,local
+Not Stated about House,234,15006,local
+Others,423,15006,local
+Rcc with Pillar,190,15006,local
+Wooden Pillar,3316,15006,local
+Cement Bonded Bricks/Stone,17256,57,district
+Mud Bonded Bricks/Stone,15443,57,district
+Not Stated about House,2194,57,district
+Others,2089,57,district
+Rcc with Pillar,3129,57,district
+Wooden Pillar,66541,57,district
+Cement Bonded Bricks/Stone,713,32002,local
+Mud Bonded Bricks/Stone,412,32002,local
+Not Stated about House,121,32002,local
+Others,96,32002,local
+Rcc with Pillar,94,32002,local
+Wooden Pillar,4938,32002,local
+Cement Bonded Bricks/Stone,865,32001,local
+Mud Bonded Bricks/Stone,1298,32001,local
+Not Stated about House,48,32001,local
+Others,58,32001,local
+Rcc with Pillar,86,32001,local
+Wooden Pillar,2452,32001,local
+Cement Bonded Bricks/Stone,749,32005,local
+Mud Bonded Bricks/Stone,232,32005,local
+Not Stated about House,38,32005,local
+Others,82,32005,local
+Rcc with Pillar,189,32005,local
+Wooden Pillar,2522,32005,local
+Cement Bonded Bricks/Stone,2661,32003,local
+Mud Bonded Bricks/Stone,319,32003,local
+Not Stated about House,178,32003,local
+Others,32,32003,local
+Rcc with Pillar,652,32003,local
+Wooden Pillar,9603,32003,local
+Cement Bonded Bricks/Stone,738,32010,local
+Mud Bonded Bricks/Stone,3166,32010,local
+Not Stated about House,134,32010,local
+Others,186,32010,local
+Rcc with Pillar,80,32010,local
+Wooden Pillar,1530,32010,local
+Cement Bonded Bricks/Stone,620,32015,local
+Mud Bonded Bricks/Stone,112,32015,local
+Not Stated about House,95,32015,local
+Others,164,32015,local
+Rcc with Pillar,400,32015,local
+Wooden Pillar,4242,32015,local
+Cement Bonded Bricks/Stone,688,32011,local
+Mud Bonded Bricks/Stone,373,32011,local
+Not Stated about House,91,32011,local
+Others,239,32011,local
+Rcc with Pillar,241,32011,local
+Wooden Pillar,4287,32011,local
+Cement Bonded Bricks/Stone,907,32006,local
+Mud Bonded Bricks/Stone,547,32006,local
+Not Stated about House,131,32006,local
+Others,31,32006,local
+Rcc with Pillar,87,32006,local
+Wooden Pillar,4366,32006,local
+Cement Bonded Bricks/Stone,1111,32016,local
+Mud Bonded Bricks/Stone,595,32016,local
+Not Stated about House,171,32016,local
+Others,370,32016,local
+Rcc with Pillar,63,32016,local
+Wooden Pillar,3055,32016,local
+Cement Bonded Bricks/Stone,473,32017,local
+Mud Bonded Bricks/Stone,2275,32017,local
+Not Stated about House,79,32017,local
+Others,169,32017,local
+Rcc with Pillar,64,32017,local
+Wooden Pillar,2708,32017,local
+Cement Bonded Bricks/Stone,539,32018,local
+Mud Bonded Bricks/Stone,703,32018,local
+Not Stated about House,31,32018,local
+Others,97,32018,local
+Rcc with Pillar,66,32018,local
+Wooden Pillar,2340,32018,local
+Cement Bonded Bricks/Stone,1661,32007,local
+Mud Bonded Bricks/Stone,671,32007,local
+Not Stated about House,118,32007,local
+Others,52,32007,local
+Rcc with Pillar,316,32007,local
+Wooden Pillar,4626,32007,local
+Cement Bonded Bricks/Stone,614,32014,local
+Mud Bonded Bricks/Stone,1661,32014,local
+Not Stated about House,163,32014,local
+Others,201,32014,local
+Rcc with Pillar,41,32014,local
+Wooden Pillar,2700,32014,local
+Cement Bonded Bricks/Stone,569,32004,local
+Mud Bonded Bricks/Stone,527,32004,local
+Not Stated about House,179,32004,local
+Others,64,32004,local
+Rcc with Pillar,134,32004,local
+Wooden Pillar,3218,32004,local
+Cement Bonded Bricks/Stone,463,32009,local
+Mud Bonded Bricks/Stone,267,32009,local
+Not Stated about House,221,32009,local
+Others,62,32009,local
+Rcc with Pillar,156,32009,local
+Wooden Pillar,6222,32009,local
+Cement Bonded Bricks/Stone,920,32012,local
+Mud Bonded Bricks/Stone,615,32012,local
+Not Stated about House,157,32012,local
+Others,47,32012,local
+Rcc with Pillar,36,32012,local
+Wooden Pillar,3704,32012,local
+Cement Bonded Bricks/Stone,639,32013,local
+Mud Bonded Bricks/Stone,691,32013,local
+Not Stated about House,130,32013,local
+Others,68,32013,local
+Rcc with Pillar,17,32013,local
+Wooden Pillar,2285,32013,local
+Cement Bonded Bricks/Stone,2326,32008,local
+Mud Bonded Bricks/Stone,979,32008,local
+Not Stated about House,109,32008,local
+Others,71,32008,local
+Rcc with Pillar,407,32008,local
+Wooden Pillar,1743,32008,local
+Cement Bonded Bricks/Stone,28788,08,district
+Mud Bonded Bricks/Stone,12738,08,district
+Not Stated about House,1472,08,district
+Others,3487,08,district
+Rcc with Pillar,5900,08,district
+Wooden Pillar,56215,08,district
+Cement Bonded Bricks/Stone,1345,33014,local
+Mud Bonded Bricks/Stone,224,33014,local
+Not Stated about House,72,33014,local
+Others,10,33014,local
+Rcc with Pillar,19,33014,local
+Wooden Pillar,1956,33014,local
+Cement Bonded Bricks/Stone,376,33016,local
+Mud Bonded Bricks/Stone,1040,33016,local
+Not Stated about House,95,33016,local
+Others,875,33016,local
+Rcc with Pillar,45,33016,local
+Wooden Pillar,1604,33016,local
+Cement Bonded Bricks/Stone,1621,33012,local
+Mud Bonded Bricks/Stone,86,33012,local
+Not Stated about House,64,33012,local
+Others,5,33012,local
+Rcc with Pillar,35,33012,local
+Wooden Pillar,1355,33012,local
+Cement Bonded Bricks/Stone,435,33007,local
+Mud Bonded Bricks/Stone,70,33007,local
+Not Stated about House,46,33007,local
+Others,11,33007,local
+Rcc with Pillar,472,33007,local
+Wooden Pillar,3139,33007,local
+Cement Bonded Bricks/Stone,520,33004,local
+Mud Bonded Bricks/Stone,272,33004,local
+Not Stated about House,154,33004,local
+Others,30,33004,local
+Rcc with Pillar,69,33004,local
+Wooden Pillar,2140,33004,local
+Cement Bonded Bricks/Stone,1030,33010,local
+Mud Bonded Bricks/Stone,685,33010,local
+Not Stated about House,63,33010,local
+Others,41,33010,local
+Rcc with Pillar,136,33010,local
+Wooden Pillar,5207,33010,local
+Cement Bonded Bricks/Stone,833,33002,local
+Mud Bonded Bricks/Stone,67,33002,local
+Not Stated about House,27,33002,local
+Others,283,33002,local
+Rcc with Pillar,558,33002,local
+Wooden Pillar,2502,33002,local
+Cement Bonded Bricks/Stone,7686,33005,local
+Mud Bonded Bricks/Stone,935,33005,local
+Not Stated about House,238,33005,local
+Others,100,33005,local
+Rcc with Pillar,1582,33005,local
+Wooden Pillar,11129,33005,local
+Cement Bonded Bricks/Stone,692,33001,local
+Mud Bonded Bricks/Stone,947,33001,local
+Not Stated about House,34,33001,local
+Others,429,33001,local
+Rcc with Pillar,133,33001,local
+Wooden Pillar,1725,33001,local
+Cement Bonded Bricks/Stone,1276,33013,local
+Mud Bonded Bricks/Stone,587,33013,local
+Not Stated about House,13,33013,local
+Others,92,33013,local
+Rcc with Pillar,37,33013,local
+Wooden Pillar,1580,33013,local
+Cement Bonded Bricks/Stone,690,33011,local
+Mud Bonded Bricks/Stone,2053,33011,local
+Not Stated about House,47,33011,local
+Others,489,33011,local
+Rcc with Pillar,51,33011,local
+Wooden Pillar,1377,33011,local
+Cement Bonded Bricks/Stone,1984,33009,local
+Mud Bonded Bricks/Stone,669,33009,local
+Not Stated about House,105,33009,local
+Others,132,33009,local
+Rcc with Pillar,325,33009,local
+Wooden Pillar,4558,33009,local
+Cement Bonded Bricks/Stone,6859,33006,local
+Mud Bonded Bricks/Stone,1599,33006,local
+Not Stated about House,358,33006,local
+Others,182,33006,local
+Rcc with Pillar,731,33006,local
+Wooden Pillar,8960,33006,local
+Cement Bonded Bricks/Stone,1152,33003,local
+Mud Bonded Bricks/Stone,235,33003,local
+Not Stated about House,32,33003,local
+Others,157,33003,local
+Rcc with Pillar,59,33003,local
+Wooden Pillar,1760,33003,local
+Cement Bonded Bricks/Stone,1216,33008,local
+Mud Bonded Bricks/Stone,261,33008,local
+Not Stated about House,70,33008,local
+Others,107,33008,local
+Rcc with Pillar,1523,33008,local
+Wooden Pillar,4934,33008,local
+Cement Bonded Bricks/Stone,1073,33015,local
+Mud Bonded Bricks/Stone,3008,33015,local
+Not Stated about House,54,33015,local
+Others,544,33015,local
+Rcc with Pillar,125,33015,local
+Wooden Pillar,2289,33015,local
+Cement Bonded Bricks/Stone,38206,19,district
+Mud Bonded Bricks/Stone,8785,19,district
+Not Stated about House,2959,19,district
+Others,1275,19,district
+Rcc with Pillar,5176,19,district
+Wooden Pillar,81824,19,district
+Cement Bonded Bricks/Stone,1263,17013,local
+Mud Bonded Bricks/Stone,359,17013,local
+Not Stated about House,109,17013,local
+Others,5,17013,local
+Rcc with Pillar,349,17013,local
+Wooden Pillar,6144,17013,local
+Cement Bonded Bricks/Stone,1629,17017,local
+Mud Bonded Bricks/Stone,234,17017,local
+Not Stated about House,272,17017,local
+Others,137,17017,local
+Rcc with Pillar,402,17017,local
+Wooden Pillar,7399,17017,local
+Cement Bonded Bricks/Stone,2226,17004,local
+Mud Bonded Bricks/Stone,398,17004,local
+Not Stated about House,106,17004,local
+Others,325,17004,local
+Rcc with Pillar,264,17004,local
+Wooden Pillar,4456,17004,local
+Cement Bonded Bricks/Stone,964,17015,local
+Mud Bonded Bricks/Stone,434,17015,local
+Not Stated about House,107,17015,local
+Others,11,17015,local
+Rcc with Pillar,37,17015,local
+Wooden Pillar,2577,17015,local
+Cement Bonded Bricks/Stone,864,17011,local
+Mud Bonded Bricks/Stone,117,17011,local
+Not Stated about House,145,17011,local
+Others,13,17011,local
+Rcc with Pillar,80,17011,local
+Wooden Pillar,5780,17011,local
+Cement Bonded Bricks/Stone,1533,17016,local
+Mud Bonded Bricks/Stone,804,17016,local
+Not Stated about House,69,17016,local
+Others,198,17016,local
+Rcc with Pillar,171,17016,local
+Wooden Pillar,3590,17016,local
+Cement Bonded Bricks/Stone,1056,17006,local
+Mud Bonded Bricks/Stone,539,17006,local
+Not Stated about House,199,17006,local
+Others,9,17006,local
+Rcc with Pillar,62,17006,local
+Wooden Pillar,6850,17006,local
+Cement Bonded Bricks/Stone,1295,17018,local
+Mud Bonded Bricks/Stone,272,17018,local
+Not Stated about House,209,17018,local
+Others,67,17018,local
+Rcc with Pillar,255,17018,local
+Wooden Pillar,6573,17018,local
+Cement Bonded Bricks/Stone,739,17007,local
+Mud Bonded Bricks/Stone,300,17007,local
+Not Stated about House,122,17007,local
+Others,3,17007,local
+Rcc with Pillar,82,17007,local
+Wooden Pillar,5791,17007,local
+Cement Bonded Bricks/Stone,1139,17014,local
+Mud Bonded Bricks/Stone,311,17014,local
+Not Stated about House,214,17014,local
+Others,12,17014,local
+Rcc with Pillar,90,17014,local
+Wooden Pillar,4300,17014,local
+Cement Bonded Bricks/Stone,1474,17012,local
+Mud Bonded Bricks/Stone,490,17012,local
+Not Stated about House,74,17012,local
+Others,25,17012,local
+Rcc with Pillar,159,17012,local
+Wooden Pillar,2773,17012,local
+Cement Bonded Bricks/Stone,916,17005,local
+Mud Bonded Bricks/Stone,353,17005,local
+Not Stated about House,110,17005,local
+Others,68,17005,local
+Rcc with Pillar,79,17005,local
+Wooden Pillar,2191,17005,local
+Cement Bonded Bricks/Stone,1021,17001,local
+Mud Bonded Bricks/Stone,306,17001,local
+Not Stated about House,56,17001,local
+Others,5,17001,local
+Rcc with Pillar,108,17001,local
+Wooden Pillar,2507,17001,local
+Cement Bonded Bricks/Stone,936,17009,local
+Mud Bonded Bricks/Stone,378,17009,local
+Not Stated about House,93,17009,local
+Others,24,17009,local
+Rcc with Pillar,145,17009,local
+Wooden Pillar,2885,17009,local
+Cement Bonded Bricks/Stone,17879,17010,local
+Mud Bonded Bricks/Stone,2320,17010,local
+Not Stated about House,628,17010,local
+Others,177,17010,local
+Rcc with Pillar,2559,17010,local
+Wooden Pillar,7026,17010,local
+Cement Bonded Bricks/Stone,1372,17008,local
+Mud Bonded Bricks/Stone,314,17008,local
+Not Stated about House,149,17008,local
+Others,173,17008,local
+Rcc with Pillar,113,17008,local
+Wooden Pillar,4791,17008,local
+Cement Bonded Bricks/Stone,1260,17003,local
+Mud Bonded Bricks/Stone,749,17003,local
+Not Stated about House,220,17003,local
+Others,17,17003,local
+Rcc with Pillar,199,17003,local
+Wooden Pillar,3372,17003,local
+Cement Bonded Bricks/Stone,640,17002,local
+Mud Bonded Bricks/Stone,107,17002,local
+Not Stated about House,77,17002,local
+Others,6,17002,local
+Rcc with Pillar,22,17002,local
+Wooden Pillar,2819,17002,local
+Cement Bonded Bricks/Stone,58760,7,province
+Mud Bonded Bricks/Stone,266687,7,province
+Not Stated about House,3843,7,province
+Others,1424,7,province
+Rcc with Pillar,5741,7,province
+Wooden Pillar,133248,7,province
+Cement Bonded Bricks/Stone,749,04,district
+Mud Bonded Bricks/Stone,43972,04,district
+Not Stated about House,293,04,district
+Others,2,04,district
+Rcc with Pillar,104,04,district
+Wooden Pillar,47,04,district
+Cement Bonded Bricks/Stone,33,74005,local
+Mud Bonded Bricks/Stone,3263,74005,local
+Not Stated about House,15,74005,local
+Others,0,74005,local
+Rcc with Pillar,0,74005,local
+Wooden Pillar,1,74005,local
+Cement Bonded Bricks/Stone,15,74008,local
+Mud Bonded Bricks/Stone,2732,74008,local
+Not Stated about House,15,74008,local
+Others,0,74008,local
+Rcc with Pillar,0,74008,local
+Wooden Pillar,9,74008,local
+Cement Bonded Bricks/Stone,12,74010,local
+Mud Bonded Bricks/Stone,3274,74010,local
+Not Stated about House,32,74010,local
+Others,0,74010,local
+Rcc with Pillar,2,74010,local
+Wooden Pillar,1,74010,local
+Cement Bonded Bricks/Stone,1,74009,local
+Mud Bonded Bricks/Stone,3687,74009,local
+Not Stated about House,40,74009,local
+Others,1,74009,local
+Rcc with Pillar,0,74009,local
+Wooden Pillar,4,74009,local
+Cement Bonded Bricks/Stone,27,74007,local
+Mud Bonded Bricks/Stone,6320,74007,local
+Not Stated about House,38,74007,local
+Others,0,74007,local
+Rcc with Pillar,1,74007,local
+Wooden Pillar,4,74007,local
+Cement Bonded Bricks/Stone,68,74003,local
+Mud Bonded Bricks/Stone,4460,74003,local
+Not Stated about House,30,74003,local
+Others,0,74003,local
+Rcc with Pillar,0,74003,local
+Wooden Pillar,1,74003,local
+Cement Bonded Bricks/Stone,20,74004,local
+Mud Bonded Bricks/Stone,3897,74004,local
+Not Stated about House,27,74004,local
+Others,0,74004,local
+Rcc with Pillar,0,74004,local
+Wooden Pillar,3,74004,local
+Cement Bonded Bricks/Stone,438,74001,local
+Mud Bonded Bricks/Stone,6674,74001,local
+Not Stated about House,40,74001,local
+Others,0,74001,local
+Rcc with Pillar,96,74001,local
+Wooden Pillar,9,74001,local
+Cement Bonded Bricks/Stone,97,74002,local
+Mud Bonded Bricks/Stone,3991,74002,local
+Not Stated about House,13,74002,local
+Others,1,74002,local
+Rcc with Pillar,5,74002,local
+Wooden Pillar,3,74002,local
+Cement Bonded Bricks/Stone,38,74006,local
+Mud Bonded Bricks/Stone,5674,74006,local
+Not Stated about House,43,74006,local
+Others,0,74006,local
+Rcc with Pillar,0,74006,local
+Wooden Pillar,12,74006,local
+Cement Bonded Bricks/Stone,2112,16,district
+Mud Bonded Bricks/Stone,21898,16,district
+Not Stated about House,126,16,district
+Others,58,16,district
+Rcc with Pillar,346,16,district
+Wooden Pillar,64,16,district
+Cement Bonded Bricks/Stone,1545,75005,local
+Mud Bonded Bricks/Stone,2619,75005,local
+Not Stated about House,18,75005,local
+Others,5,75005,local
+Rcc with Pillar,326,75005,local
+Wooden Pillar,13,75005,local
+Cement Bonded Bricks/Stone,244,75009,local
+Mud Bonded Bricks/Stone,3712,75009,local
+Not Stated about House,33,75009,local
+Others,20,75009,local
+Rcc with Pillar,3,75009,local
+Wooden Pillar,9,75009,local
+Cement Bonded Bricks/Stone,3,75001,local
+Mud Bonded Bricks/Stone,1080,75001,local
+Not Stated about House,1,75001,local
+Others,0,75001,local
+Rcc with Pillar,0,75001,local
+Wooden Pillar,1,75001,local
+Cement Bonded Bricks/Stone,59,75008,local
+Mud Bonded Bricks/Stone,2538,75008,local
+Not Stated about House,16,75008,local
+Others,0,75008,local
+Rcc with Pillar,0,75008,local
+Wooden Pillar,3,75008,local
+Cement Bonded Bricks/Stone,65,75002,local
+Mud Bonded Bricks/Stone,1808,75002,local
+Not Stated about House,13,75002,local
+Others,21,75002,local
+Rcc with Pillar,5,75002,local
+Wooden Pillar,7,75002,local
+Cement Bonded Bricks/Stone,57,75004,local
+Mud Bonded Bricks/Stone,2774,75004,local
+Not Stated about House,13,75004,local
+Others,0,75004,local
+Rcc with Pillar,3,75004,local
+Wooden Pillar,4,75004,local
+Cement Bonded Bricks/Stone,79,75006,local
+Mud Bonded Bricks/Stone,2980,75006,local
+Not Stated about House,8,75006,local
+Others,1,75006,local
+Rcc with Pillar,9,75006,local
+Wooden Pillar,19,75006,local
+Cement Bonded Bricks/Stone,24,75003,local
+Mud Bonded Bricks/Stone,1926,75003,local
+Not Stated about House,16,75003,local
+Others,9,75003,local
+Rcc with Pillar,0,75003,local
+Wooden Pillar,7,75003,local
+Cement Bonded Bricks/Stone,36,75007,local
+Mud Bonded Bricks/Stone,2461,75007,local
+Not Stated about House,8,75007,local
+Others,2,75007,local
+Rcc with Pillar,0,75007,local
+Wooden Pillar,1,75007,local
+Cement Bonded Bricks/Stone,1079,13,district
+Mud Bonded Bricks/Stone,22840,13,district
+Not Stated about House,180,13,district
+Others,17,13,district
+Rcc with Pillar,482,13,district
+Wooden Pillar,2425,13,district
+Cement Bonded Bricks/Stone,40,73006,local
+Mud Bonded Bricks/Stone,4051,73006,local
+Not Stated about House,23,73006,local
+Others,0,73006,local
+Rcc with Pillar,0,73006,local
+Wooden Pillar,18,73006,local
+Cement Bonded Bricks/Stone,35,73005,local
+Mud Bonded Bricks/Stone,2951,73005,local
+Not Stated about House,4,73005,local
+Others,0,73005,local
+Rcc with Pillar,24,73005,local
+Wooden Pillar,56,73005,local
+Cement Bonded Bricks/Stone,269,73007,local
+Mud Bonded Bricks/Stone,4138,73007,local
+Not Stated about House,42,73007,local
+Others,5,73007,local
+Rcc with Pillar,19,73007,local
+Wooden Pillar,1517,73007,local
+Cement Bonded Bricks/Stone,111,73002,local
+Mud Bonded Bricks/Stone,2559,73002,local
+Not Stated about House,15,73002,local
+Others,6,73002,local
+Rcc with Pillar,6,73002,local
+Wooden Pillar,583,73002,local
+Cement Bonded Bricks/Stone,33,73001,local
+Mud Bonded Bricks/Stone,3227,73001,local
+Not Stated about House,40,73001,local
+Others,0,73001,local
+Rcc with Pillar,2,73001,local
+Wooden Pillar,9,73001,local
+Cement Bonded Bricks/Stone,10,73004,local
+Mud Bonded Bricks/Stone,2365,73004,local
+Not Stated about House,23,73004,local
+Others,2,73004,local
+Rcc with Pillar,1,73004,local
+Wooden Pillar,61,73004,local
+Cement Bonded Bricks/Stone,581,73003,local
+Mud Bonded Bricks/Stone,3549,73003,local
+Not Stated about House,33,73003,local
+Others,4,73003,local
+Rcc with Pillar,430,73003,local
+Wooden Pillar,181,73003,local
+Cement Bonded Bricks/Stone,105,06,district
+Mud Bonded Bricks/Stone,24208,06,district
+Not Stated about House,226,06,district
+Others,112,06,district
+Rcc with Pillar,4,06,district
+Wooden Pillar,233,06,district
+Cement Bonded Bricks/Stone,0,67002,local
+Mud Bonded Bricks/Stone,4086,67002,local
+Not Stated about House,49,67002,local
+Others,4,67002,local
+Rcc with Pillar,0,67002,local
+Wooden Pillar,138,67002,local
+Cement Bonded Bricks/Stone,0,67006,local
+Mud Bonded Bricks/Stone,1686,67006,local
+Not Stated about House,29,67006,local
+Others,4,67006,local
+Rcc with Pillar,1,67006,local
+Wooden Pillar,2,67006,local
+Cement Bonded Bricks/Stone,3,67009,local
+Mud Bonded Bricks/Stone,3325,67009,local
+Not Stated about House,21,67009,local
+Others,0,67009,local
+Rcc with Pillar,0,67009,local
+Wooden Pillar,1,67009,local
+Cement Bonded Bricks/Stone,0,67007,local
+Mud Bonded Bricks/Stone,1667,67007,local
+Not Stated about House,8,67007,local
+Others,9,67007,local
+Rcc with Pillar,0,67007,local
+Wooden Pillar,0,67007,local
+Cement Bonded Bricks/Stone,1,67008,local
+Mud Bonded Bricks/Stone,2200,67008,local
+Not Stated about House,20,67008,local
+Others,0,67008,local
+Rcc with Pillar,0,67008,local
+Wooden Pillar,2,67008,local
+Cement Bonded Bricks/Stone,23,67003,local
+Mud Bonded Bricks/Stone,3388,67003,local
+Not Stated about House,21,67003,local
+Others,2,67003,local
+Rcc with Pillar,1,67003,local
+Wooden Pillar,17,67003,local
+Cement Bonded Bricks/Stone,1,67005,local
+Mud Bonded Bricks/Stone,1553,67005,local
+Not Stated about House,5,67005,local
+Others,1,67005,local
+Rcc with Pillar,0,67005,local
+Wooden Pillar,0,67005,local
+Cement Bonded Bricks/Stone,3,67004,local
+Mud Bonded Bricks/Stone,3127,67004,local
+Not Stated about House,40,67004,local
+Others,1,67004,local
+Rcc with Pillar,0,67004,local
+Wooden Pillar,3,67004,local
+Cement Bonded Bricks/Stone,74,67001,local
+Mud Bonded Bricks/Stone,3176,67001,local
+Not Stated about House,33,67001,local
+Others,91,67001,local
+Rcc with Pillar,2,67001,local
+Wooden Pillar,70,67001,local
+Cement Bonded Bricks/Stone,27893,30,district
+Mud Bonded Bricks/Stone,23151,30,district
+Not Stated about House,973,30,district
+Others,985,30,district
+Rcc with Pillar,3442,30,district
+Wooden Pillar,85969,30,district
+Cement Bonded Bricks/Stone,12277,71004,local
+Mud Bonded Bricks/Stone,4596,71004,local
+Not Stated about House,195,71004,local
+Others,93,71004,local
+Rcc with Pillar,961,71004,local
+Wooden Pillar,11021,71004,local
+Cement Bonded Bricks/Stone,5,71012,local
+Mud Bonded Bricks/Stone,894,71012,local
+Not Stated about House,29,71012,local
+Others,15,71012,local
+Rcc with Pillar,10,71012,local
+Wooden Pillar,3016,71012,local
+Cement Bonded Bricks/Stone,712,71009,local
+Mud Bonded Bricks/Stone,583,71009,local
+Not Stated about House,38,71009,local
+Others,14,71009,local
+Rcc with Pillar,10,71009,local
+Wooden Pillar,5035,71009,local
+Cement Bonded Bricks/Stone,2154,71013,local
+Mud Bonded Bricks/Stone,4802,71013,local
+Not Stated about House,124,71013,local
+Others,513,71013,local
+Rcc with Pillar,1296,71013,local
+Wooden Pillar,6467,71013,local
+Cement Bonded Bricks/Stone,1036,71001,local
+Mud Bonded Bricks/Stone,104,71001,local
+Not Stated about House,27,71001,local
+Others,18,71001,local
+Rcc with Pillar,139,71001,local
+Wooden Pillar,4379,71001,local
+Cement Bonded Bricks/Stone,4717,71007,local
+Mud Bonded Bricks/Stone,3488,71007,local
+Not Stated about House,113,71007,local
+Others,39,71007,local
+Rcc with Pillar,112,71007,local
+Wooden Pillar,6446,71007,local
+Cement Bonded Bricks/Stone,2706,71011,local
+Mud Bonded Bricks/Stone,1929,71011,local
+Not Stated about House,104,71011,local
+Others,33,71011,local
+Rcc with Pillar,507,71011,local
+Wooden Pillar,9478,71011,local
+Cement Bonded Bricks/Stone,611,71002,local
+Mud Bonded Bricks/Stone,973,71002,local
+Not Stated about House,63,71002,local
+Others,83,71002,local
+Rcc with Pillar,14,71002,local
+Wooden Pillar,6973,71002,local
+Cement Bonded Bricks/Stone,21,71003,local
+Mud Bonded Bricks/Stone,2195,71003,local
+Not Stated about House,19,71003,local
+Others,3,71003,local
+Rcc with Pillar,7,71003,local
+Wooden Pillar,1117,71003,local
+Cement Bonded Bricks/Stone,1483,71006,local
+Mud Bonded Bricks/Stone,520,71006,local
+Not Stated about House,101,71006,local
+Others,86,71006,local
+Rcc with Pillar,224,71006,local
+Wooden Pillar,10760,71006,local
+Cement Bonded Bricks/Stone,1034,71005,local
+Mud Bonded Bricks/Stone,346,71005,local
+Not Stated about House,58,71005,local
+Others,16,71005,local
+Rcc with Pillar,110,71005,local
+Wooden Pillar,8508,71005,local
+Cement Bonded Bricks/Stone,409,71010,local
+Mud Bonded Bricks/Stone,582,71010,local
+Not Stated about House,64,71010,local
+Others,1,71010,local
+Rcc with Pillar,7,71010,local
+Wooden Pillar,6739,71010,local
+Cement Bonded Bricks/Stone,728,71008,local
+Mud Bonded Bricks/Stone,2139,71008,local
+Not Stated about House,38,71008,local
+Others,71,71008,local
+Rcc with Pillar,45,71008,local
+Wooden Pillar,6030,71008,local
+Cement Bonded Bricks/Stone,684,22,district
+Mud Bonded Bricks/Stone,39049,22,district
+Not Stated about House,284,22,district
+Others,47,22,district
+Rcc with Pillar,74,22,district
+Wooden Pillar,1245,22,district
+Cement Bonded Bricks/Stone,38,70007,local
+Mud Bonded Bricks/Stone,4742,70007,local
+Not Stated about House,46,70007,local
+Others,0,70007,local
+Rcc with Pillar,0,70007,local
+Wooden Pillar,10,70007,local
+Cement Bonded Bricks/Stone,501,70004,local
+Mud Bonded Bricks/Stone,6505,70004,local
+Not Stated about House,52,70004,local
+Others,30,70004,local
+Rcc with Pillar,70,70004,local
+Wooden Pillar,289,70004,local
+Cement Bonded Bricks/Stone,2,70001,local
+Mud Bonded Bricks/Stone,4688,70001,local
+Not Stated about House,51,70001,local
+Others,2,70001,local
+Rcc with Pillar,0,70001,local
+Wooden Pillar,4,70001,local
+Cement Bonded Bricks/Stone,9,70002,local
+Mud Bonded Bricks/Stone,2258,70002,local
+Not Stated about House,12,70002,local
+Others,4,70002,local
+Rcc with Pillar,1,70002,local
+Wooden Pillar,435,70002,local
+Cement Bonded Bricks/Stone,13,70006,local
+Mud Bonded Bricks/Stone,4202,70006,local
+Not Stated about House,31,70006,local
+Others,0,70006,local
+Rcc with Pillar,0,70006,local
+Wooden Pillar,13,70006,local
+Cement Bonded Bricks/Stone,3,70008,local
+Mud Bonded Bricks/Stone,3735,70008,local
+Not Stated about House,34,70008,local
+Others,0,70008,local
+Rcc with Pillar,0,70008,local
+Wooden Pillar,0,70008,local
+Cement Bonded Bricks/Stone,3,70003,local
+Mud Bonded Bricks/Stone,3024,70003,local
+Not Stated about House,15,70003,local
+Others,2,70003,local
+Rcc with Pillar,0,70003,local
+Wooden Pillar,86,70003,local
+Cement Bonded Bricks/Stone,41,70009,local
+Mud Bonded Bricks/Stone,6573,70009,local
+Not Stated about House,28,70009,local
+Others,5,70009,local
+Rcc with Pillar,1,70009,local
+Wooden Pillar,17,70009,local
+Cement Bonded Bricks/Stone,74,70005,local
+Mud Bonded Bricks/Stone,3322,70005,local
+Not Stated about House,15,70005,local
+Others,4,70005,local
+Rcc with Pillar,2,70005,local
+Wooden Pillar,391,70005,local
+Cement Bonded Bricks/Stone,441,01,district
+Mud Bonded Bricks/Stone,47212,01,district
+Not Stated about House,396,01,district
+Others,27,01,district
+Rcc with Pillar,12,01,district
+Wooden Pillar,230,01,district
+Cement Bonded Bricks/Stone,5,69006,local
+Mud Bonded Bricks/Stone,4293,69006,local
+Not Stated about House,50,69006,local
+Others,1,69006,local
+Rcc with Pillar,2,69006,local
+Wooden Pillar,9,69006,local
+Cement Bonded Bricks/Stone,9,69004,local
+Mud Bonded Bricks/Stone,4420,69004,local
+Not Stated about House,47,69004,local
+Others,1,69004,local
+Rcc with Pillar,0,69004,local
+Wooden Pillar,5,69004,local
+Cement Bonded Bricks/Stone,3,69010,local
+Mud Bonded Bricks/Stone,4521,69010,local
+Not Stated about House,34,69010,local
+Others,1,69010,local
+Rcc with Pillar,1,69010,local
+Wooden Pillar,15,69010,local
+Cement Bonded Bricks/Stone,261,69005,local
+Mud Bonded Bricks/Stone,6237,69005,local
+Not Stated about House,27,69005,local
+Others,19,69005,local
+Rcc with Pillar,4,69005,local
+Wooden Pillar,56,69005,local
+Cement Bonded Bricks/Stone,2,69008,local
+Mud Bonded Bricks/Stone,4306,69008,local
+Not Stated about House,44,69008,local
+Others,2,69008,local
+Rcc with Pillar,0,69008,local
+Wooden Pillar,3,69008,local
+Cement Bonded Bricks/Stone,7,69001,local
+Mud Bonded Bricks/Stone,3346,69001,local
+Not Stated about House,13,69001,local
+Others,1,69001,local
+Rcc with Pillar,0,69001,local
+Wooden Pillar,6,69001,local
+Cement Bonded Bricks/Stone,4,69003,local
+Mud Bonded Bricks/Stone,3732,69003,local
+Not Stated about House,42,69003,local
+Others,0,69003,local
+Rcc with Pillar,0,69003,local
+Wooden Pillar,17,69003,local
+Cement Bonded Bricks/Stone,141,69009,local
+Mud Bonded Bricks/Stone,6371,69009,local
+Not Stated about House,69,69009,local
+Others,1,69009,local
+Rcc with Pillar,4,69009,local
+Wooden Pillar,107,69009,local
+Cement Bonded Bricks/Stone,6,69007,local
+Mud Bonded Bricks/Stone,4906,69007,local
+Not Stated about House,48,69007,local
+Others,1,69007,local
+Rcc with Pillar,1,69007,local
+Wooden Pillar,4,69007,local
+Cement Bonded Bricks/Stone,3,69002,local
+Mud Bonded Bricks/Stone,5080,69002,local
+Not Stated about House,22,69002,local
+Others,0,69002,local
+Rcc with Pillar,0,69002,local
+Wooden Pillar,8,69002,local
+Cement Bonded Bricks/Stone,197,05,district
+Mud Bonded Bricks/Stone,32922,05,district
+Not Stated about House,422,05,district
+Others,1,05,district
+Rcc with Pillar,16,05,district
+Wooden Pillar,215,05,district
+Cement Bonded Bricks/Stone,4,68011,local
+Mud Bonded Bricks/Stone,1963,68011,local
+Not Stated about House,29,68011,local
+Others,0,68011,local
+Rcc with Pillar,0,68011,local
+Wooden Pillar,4,68011,local
+Cement Bonded Bricks/Stone,17,68007,local
+Mud Bonded Bricks/Stone,3518,68007,local
+Not Stated about House,24,68007,local
+Others,0,68007,local
+Rcc with Pillar,2,68007,local
+Wooden Pillar,25,68007,local
+Cement Bonded Bricks/Stone,0,68010,local
+Mud Bonded Bricks/Stone,1411,68010,local
+Not Stated about House,7,68010,local
+Others,0,68010,local
+Rcc with Pillar,0,68010,local
+Wooden Pillar,0,68010,local
+Cement Bonded Bricks/Stone,3,68012,local
+Mud Bonded Bricks/Stone,3139,68012,local
+Not Stated about House,63,68012,local
+Others,0,68012,local
+Rcc with Pillar,0,68012,local
+Wooden Pillar,6,68012,local
+Cement Bonded Bricks/Stone,4,68002,local
+Mud Bonded Bricks/Stone,5367,68002,local
+Not Stated about House,106,68002,local
+Others,0,68002,local
+Rcc with Pillar,0,68002,local
+Wooden Pillar,3,68002,local
+Cement Bonded Bricks/Stone,27,68001,local
+Mud Bonded Bricks/Stone,2666,68001,local
+Not Stated about House,24,68001,local
+Others,0,68001,local
+Rcc with Pillar,2,68001,local
+Wooden Pillar,20,68001,local
+Cement Bonded Bricks/Stone,34,68004,local
+Mud Bonded Bricks/Stone,2353,68004,local
+Not Stated about House,34,68004,local
+Others,0,68004,local
+Rcc with Pillar,1,68004,local
+Wooden Pillar,25,68004,local
+Cement Bonded Bricks/Stone,76,68005,local
+Mud Bonded Bricks/Stone,3747,68005,local
+Not Stated about House,58,68005,local
+Others,1,68005,local
+Rcc with Pillar,11,68005,local
+Wooden Pillar,122,68005,local
+Cement Bonded Bricks/Stone,5,68009,local
+Mud Bonded Bricks/Stone,2426,68009,local
+Not Stated about House,25,68009,local
+Others,0,68009,local
+Rcc with Pillar,0,68009,local
+Wooden Pillar,0,68009,local
+Cement Bonded Bricks/Stone,12,68003,local
+Mud Bonded Bricks/Stone,2902,68003,local
+Not Stated about House,32,68003,local
+Others,0,68003,local
+Rcc with Pillar,0,68003,local
+Wooden Pillar,7,68003,local
+Cement Bonded Bricks/Stone,1,68006,local
+Mud Bonded Bricks/Stone,359,68006,local
+Not Stated about House,3,68006,local
+Others,0,68006,local
+Rcc with Pillar,0,68006,local
+Wooden Pillar,0,68006,local
+Cement Bonded Bricks/Stone,14,68008,local
+Mud Bonded Bricks/Stone,3071,68008,local
+Not Stated about House,17,68008,local
+Others,0,68008,local
+Rcc with Pillar,0,68008,local
+Wooden Pillar,3,68008,local
+Cement Bonded Bricks/Stone,25500,32,district
+Mud Bonded Bricks/Stone,11435,32,district
+Not Stated about House,943,32,district
+Others,175,32,district
+Rcc with Pillar,1261,32,district
+Wooden Pillar,42820,32,district
+Cement Bonded Bricks/Stone,3599,72007,local
+Mud Bonded Bricks/Stone,754,72007,local
+Not Stated about House,73,72007,local
+Others,10,72007,local
+Rcc with Pillar,42,72007,local
+Wooden Pillar,2914,72007,local
+Cement Bonded Bricks/Stone,1405,72005,local
+Mud Bonded Bricks/Stone,328,72005,local
+Not Stated about House,84,72005,local
+Others,14,72005,local
+Rcc with Pillar,47,72005,local
+Wooden Pillar,8138,72005,local
+Cement Bonded Bricks/Stone,2784,72001,local
+Mud Bonded Bricks/Stone,1649,72001,local
+Not Stated about House,40,72001,local
+Others,61,72001,local
+Rcc with Pillar,122,72001,local
+Wooden Pillar,4563,72001,local
+Cement Bonded Bricks/Stone,1623,72009,local
+Mud Bonded Bricks/Stone,713,72009,local
+Not Stated about House,48,72009,local
+Others,7,72009,local
+Rcc with Pillar,70,72009,local
+Wooden Pillar,6396,72009,local
+Cement Bonded Bricks/Stone,1882,72002,local
+Mud Bonded Bricks/Stone,746,72002,local
+Not Stated about House,84,72002,local
+Others,12,72002,local
+Rcc with Pillar,8,72002,local
+Wooden Pillar,5925,72002,local
+Cement Bonded Bricks/Stone,94,72006,local
+Mud Bonded Bricks/Stone,43,72006,local
+Not Stated about House,42,72006,local
+Others,3,72006,local
+Rcc with Pillar,5,72006,local
+Wooden Pillar,3453,72006,local
+Cement Bonded Bricks/Stone,1451,72008,local
+Mud Bonded Bricks/Stone,3531,72008,local
+Not Stated about House,103,72008,local
+Others,28,72008,local
+Rcc with Pillar,27,72008,local
+Wooden Pillar,4769,72008,local
+Cement Bonded Bricks/Stone,657,72003,local
+Mud Bonded Bricks/Stone,401,72003,local
+Not Stated about House,39,72003,local
+Others,5,72003,local
+Rcc with Pillar,5,72003,local
+Wooden Pillar,2653,72003,local
+Cement Bonded Bricks/Stone,12005,72004,local
+Mud Bonded Bricks/Stone,3270,72004,local
+Not Stated about House,430,72004,local
+Others,35,72004,local
+Rcc with Pillar,935,72004,local
+Wooden Pillar,4009,72004,local
+Cement Bonded Bricks/Stone,138197,1,province
+Mud Bonded Bricks/Stone,339653,1,province
+Not Stated about House,6283,1,province
+Others,66488,1,province
+Rcc with Pillar,89901,1,province
+Wooden Pillar,351228,1,province
+Cement Bonded Bricks/Stone,37822,69,district
+Mud Bonded Bricks/Stone,8196,69,district
+Not Stated about House,1390,69,district
+Others,17719,69,district
+Rcc with Pillar,28471,69,district
+Wooden Pillar,68681,69,district
+Cement Bonded Bricks/Stone,1359,6001,local
+Mud Bonded Bricks/Stone,636,6001,local
+Not Stated about House,126,6001,local
+Others,1522,6001,local
+Rcc with Pillar,1001,6001,local
+Wooden Pillar,12908,6001,local
+Cement Bonded Bricks/Stone,489,6007,local
+Mud Bonded Bricks/Stone,41,6007,local
+Not Stated about House,37,6007,local
+Others,1274,6007,local
+Rcc with Pillar,752,6007,local
+Wooden Pillar,4446,6007,local
+Cement Bonded Bricks/Stone,2048,6012,local
+Mud Bonded Bricks/Stone,245,6012,local
+Not Stated about House,53,6012,local
+Others,931,6012,local
+Rcc with Pillar,1304,6012,local
+Wooden Pillar,6910,6012,local
+Cement Bonded Bricks/Stone,405,6002,local
+Mud Bonded Bricks/Stone,49,6002,local
+Not Stated about House,32,6002,local
+Others,3149,6002,local
+Rcc with Pillar,723,6002,local
+Wooden Pillar,1895,6002,local
+Cement Bonded Bricks/Stone,893,6004,local
+Mud Bonded Bricks/Stone,56,6004,local
+Not Stated about House,15,6004,local
+Others,1628,6004,local
+Rcc with Pillar,542,6004,local
+Wooden Pillar,3227,6004,local
+Cement Bonded Bricks/Stone,927,6008,local
+Mud Bonded Bricks/Stone,302,6008,local
+Not Stated about House,26,6008,local
+Others,2045,6008,local
+Rcc with Pillar,837,6008,local
+Wooden Pillar,2705,6008,local
+Cement Bonded Bricks/Stone,654,6003,local
+Mud Bonded Bricks/Stone,270,6003,local
+Not Stated about House,24,6003,local
+Others,960,6003,local
+Rcc with Pillar,930,6003,local
+Wooden Pillar,3960,6003,local
+Cement Bonded Bricks/Stone,1352,6011,local
+Mud Bonded Bricks/Stone,810,6011,local
+Not Stated about House,30,6011,local
+Others,934,6011,local
+Rcc with Pillar,880,6011,local
+Wooden Pillar,4537,6011,local
+Cement Bonded Bricks/Stone,3506,6009,local
+Mud Bonded Bricks/Stone,578,6009,local
+Not Stated about House,67,6009,local
+Others,1849,6009,local
+Rcc with Pillar,1795,6009,local
+Wooden Pillar,5225,6009,local
+Cement Bonded Bricks/Stone,11311,6010,local
+Mud Bonded Bricks/Stone,1382,6010,local
+Not Stated about House,426,6010,local
+Others,1462,6010,local
+Rcc with Pillar,10335,6010,local
+Wooden Pillar,8878,6010,local
+Cement Bonded Bricks/Stone,11802,6005,local
+Mud Bonded Bricks/Stone,3074,6005,local
+Not Stated about House,433,6005,local
+Others,450,6005,local
+Rcc with Pillar,8234,6005,local
+Wooden Pillar,8700,6005,local
+Cement Bonded Bricks/Stone,3076,6006,local
+Mud Bonded Bricks/Stone,753,6006,local
+Not Stated about House,121,6006,local
+Others,1515,6006,local
+Rcc with Pillar,1138,6006,local
+Wooden Pillar,5290,6006,local
+Cement Bonded Bricks/Stone,41139,28,district
+Mud Bonded Bricks/Stone,6195,28,district
+Not Stated about House,1185,28,district
+Others,17181,28,district
+Rcc with Pillar,31716,28,district
+Wooden Pillar,86968,28,district
+Cement Bonded Bricks/Stone,729,4011,local
+Mud Bonded Bricks/Stone,67,4011,local
+Not Stated about House,35,4011,local
+Others,1097,4011,local
+Rcc with Pillar,583,4011,local
+Wooden Pillar,6231,4011,local
+Cement Bonded Bricks/Stone,1885,4015,local
+Mud Bonded Bricks/Stone,658,4015,local
+Not Stated about House,82,4015,local
+Others,709,4015,local
+Rcc with Pillar,1209,4015,local
+Wooden Pillar,10152,4015,local
+Cement Bonded Bricks/Stone,1172,4009,local
+Mud Bonded Bricks/Stone,112,4009,local
+Not Stated about House,17,4009,local
+Others,562,4009,local
+Rcc with Pillar,400,4009,local
+Wooden Pillar,4152,4009,local
+Cement Bonded Bricks/Stone,2353,4013,local
+Mud Bonded Bricks/Stone,288,4013,local
+Not Stated about House,33,4013,local
+Others,782,4013,local
+Rcc with Pillar,2106,4013,local
+Wooden Pillar,3864,4013,local
+Cement Bonded Bricks/Stone,478,4008,local
+Mud Bonded Bricks/Stone,41,4008,local
+Not Stated about House,27,4008,local
+Others,1361,4008,local
+Rcc with Pillar,260,4008,local
+Wooden Pillar,4973,4008,local
+Cement Bonded Bricks/Stone,5116,4003,local
+Mud Bonded Bricks/Stone,599,4003,local
+Not Stated about House,96,4003,local
+Others,1332,4003,local
+Rcc with Pillar,2665,4003,local
+Wooden Pillar,5462,4003,local
+Cement Bonded Bricks/Stone,4771,4006,local
+Mud Bonded Bricks/Stone,287,4006,local
+Not Stated about House,314,4006,local
+Others,913,4006,local
+Rcc with Pillar,5078,4006,local
+Wooden Pillar,6741,4006,local
+Cement Bonded Bricks/Stone,791,4010,local
+Mud Bonded Bricks/Stone,283,4010,local
+Not Stated about House,29,4010,local
+Others,1736,4010,local
+Rcc with Pillar,307,4010,local
+Wooden Pillar,3952,4010,local
+Cement Bonded Bricks/Stone,8332,4014,local
+Mud Bonded Bricks/Stone,1301,4014,local
+Not Stated about House,114,4014,local
+Others,2344,4014,local
+Rcc with Pillar,5800,4014,local
+Wooden Pillar,7640,4014,local
+Cement Bonded Bricks/Stone,1692,4012,local
+Mud Bonded Bricks/Stone,361,4012,local
+Not Stated about House,58,4012,local
+Others,529,4012,local
+Rcc with Pillar,834,4012,local
+Wooden Pillar,6782,4012,local
+Cement Bonded Bricks/Stone,2719,4001,local
+Mud Bonded Bricks/Stone,418,4001,local
+Not Stated about House,39,4001,local
+Others,1029,4001,local
+Rcc with Pillar,2856,4001,local
+Wooden Pillar,6562,4001,local
+Cement Bonded Bricks/Stone,6228,4004,local
+Mud Bonded Bricks/Stone,729,4004,local
+Not Stated about House,106,4004,local
+Others,1530,4004,local
+Rcc with Pillar,6199,4004,local
+Wooden Pillar,4326,4004,local
+Cement Bonded Bricks/Stone,942,4002,local
+Mud Bonded Bricks/Stone,198,4002,local
+Not Stated about House,23,4002,local
+Others,1316,4002,local
+Rcc with Pillar,720,4002,local
+Wooden Pillar,4199,4002,local
+Cement Bonded Bricks/Stone,2102,4005,local
+Mud Bonded Bricks/Stone,560,4005,local
+Not Stated about House,162,4005,local
+Others,446,4005,local
+Rcc with Pillar,1885,4005,local
+Wooden Pillar,4343,4005,local
+Cement Bonded Bricks/Stone,1829,4007,local
+Mud Bonded Bricks/Stone,293,4007,local
+Not Stated about House,50,4007,local
+Others,1495,4007,local
+Rcc with Pillar,814,4007,local
+Wooden Pillar,7589,4007,local
+Cement Bonded Bricks/Stone,130,11,district
+Mud Bonded Bricks/Stone,36207,11,district
+Not Stated about House,81,11,district
+Others,208,11,district
+Rcc with Pillar,15,11,district
+Wooden Pillar,2752,11,district
+Cement Bonded Bricks/Stone,90,10003,local
+Mud Bonded Bricks/Stone,6240,10003,local
+Not Stated about House,13,10003,local
+Others,20,10003,local
+Rcc with Pillar,2,10003,local
+Wooden Pillar,73,10003,local
+Cement Bonded Bricks/Stone,12,10008,local
+Mud Bonded Bricks/Stone,6052,10008,local
+Not Stated about House,12,10008,local
+Others,38,10008,local
+Rcc with Pillar,2,10008,local
+Wooden Pillar,716,10008,local
+Cement Bonded Bricks/Stone,2,10007,local
+Mud Bonded Bricks/Stone,2451,10007,local
+Not Stated about House,9,10007,local
+Others,5,10007,local
+Rcc with Pillar,1,10007,local
+Wooden Pillar,260,10007,local
+Cement Bonded Bricks/Stone,3,10005,local
+Mud Bonded Bricks/Stone,3194,10005,local
+Not Stated about House,9,10005,local
+Others,7,10005,local
+Rcc with Pillar,5,10005,local
+Wooden Pillar,62,10005,local
+Cement Bonded Bricks/Stone,9,10001,local
+Mud Bonded Bricks/Stone,2957,10001,local
+Not Stated about House,6,10001,local
+Others,11,10001,local
+Rcc with Pillar,0,10001,local
+Wooden Pillar,694,10001,local
+Cement Bonded Bricks/Stone,4,10002,local
+Mud Bonded Bricks/Stone,3529,10002,local
+Not Stated about House,5,10002,local
+Others,22,10002,local
+Rcc with Pillar,0,10002,local
+Wooden Pillar,222,10002,local
+Cement Bonded Bricks/Stone,5,10004,local
+Mud Bonded Bricks/Stone,3927,10004,local
+Not Stated about House,8,10004,local
+Others,67,10004,local
+Rcc with Pillar,2,10004,local
+Wooden Pillar,570,10004,local
+Cement Bonded Bricks/Stone,4,10009,local
+Mud Bonded Bricks/Stone,3942,10009,local
+Not Stated about House,8,10009,local
+Others,30,10009,local
+Rcc with Pillar,3,10009,local
+Wooden Pillar,74,10009,local
+Cement Bonded Bricks/Stone,1,10006,local
+Mud Bonded Bricks/Stone,3915,10006,local
+Not Stated about House,11,10006,local
+Others,8,10006,local
+Rcc with Pillar,0,10006,local
+Wooden Pillar,81,10006,local
+Cement Bonded Bricks/Stone,2161,18,district
+Mud Bonded Bricks/Stone,28112,18,district
+Not Stated about House,135,18,district
+Others,335,18,district
+Rcc with Pillar,991,18,district
+Wooden Pillar,5882,18,district
+Cement Bonded Bricks/Stone,94,7006,local
+Mud Bonded Bricks/Stone,4292,7006,local
+Not Stated about House,17,7006,local
+Others,8,7006,local
+Rcc with Pillar,46,7006,local
+Wooden Pillar,520,7006,local
+Cement Bonded Bricks/Stone,43,7004,local
+Mud Bonded Bricks/Stone,2280,7004,local
+Not Stated about House,5,7004,local
+Others,32,7004,local
+Rcc with Pillar,9,7004,local
+Wooden Pillar,1507,7004,local
+Cement Bonded Bricks/Stone,138,7002,local
+Mud Bonded Bricks/Stone,3643,7002,local
+Not Stated about House,10,7002,local
+Others,20,7002,local
+Rcc with Pillar,171,7002,local
+Wooden Pillar,250,7002,local
+Cement Bonded Bricks/Stone,32,7005,local
+Mud Bonded Bricks/Stone,5072,7005,local
+Not Stated about House,20,7005,local
+Others,44,7005,local
+Rcc with Pillar,2,7005,local
+Wooden Pillar,312,7005,local
+Cement Bonded Bricks/Stone,1542,7003,local
+Mud Bonded Bricks/Stone,6135,7003,local
+Not Stated about House,53,7003,local
+Others,93,7003,local
+Rcc with Pillar,680,7003,local
+Wooden Pillar,957,7003,local
+Cement Bonded Bricks/Stone,130,7001,local
+Mud Bonded Bricks/Stone,3183,7001,local
+Not Stated about House,13,7001,local
+Others,108,7001,local
+Rcc with Pillar,29,7001,local
+Wooden Pillar,1079,7001,local
+Cement Bonded Bricks/Stone,182,7007,local
+Mud Bonded Bricks/Stone,3507,7007,local
+Not Stated about House,17,7007,local
+Others,30,7007,local
+Rcc with Pillar,54,7007,local
+Wooden Pillar,1257,7007,local
+Cement Bonded Bricks/Stone,290,62,district
+Mud Bonded Bricks/Stone,26729,62,district
+Not Stated about House,183,62,district
+Others,624,62,district
+Rcc with Pillar,54,62,district
+Wooden Pillar,6735,62,district
+Cement Bonded Bricks/Stone,19,9004,local
+Mud Bonded Bricks/Stone,3335,9004,local
+Not Stated about House,3,9004,local
+Others,16,9004,local
+Rcc with Pillar,3,9004,local
+Wooden Pillar,582,9004,local
+Cement Bonded Bricks/Stone,2,9001,local
+Mud Bonded Bricks/Stone,860,9001,local
+Not Stated about House,3,9001,local
+Others,402,9001,local
+Rcc with Pillar,0,9001,local
+Wooden Pillar,112,9001,local
+Cement Bonded Bricks/Stone,5,9010,local
+Mud Bonded Bricks/Stone,1871,9010,local
+Not Stated about House,16,9010,local
+Others,12,9010,local
+Rcc with Pillar,0,9010,local
+Wooden Pillar,508,9010,local
+Cement Bonded Bricks/Stone,6,9007,local
+Mud Bonded Bricks/Stone,2577,9007,local
+Not Stated about House,13,9007,local
+Others,5,9007,local
+Rcc with Pillar,2,9007,local
+Wooden Pillar,319,9007,local
+Cement Bonded Bricks/Stone,8,9006,local
+Mud Bonded Bricks/Stone,3011,9006,local
+Not Stated about House,13,9006,local
+Others,36,9006,local
+Rcc with Pillar,1,9006,local
+Wooden Pillar,147,9006,local
+Cement Bonded Bricks/Stone,20,9002,local
+Mud Bonded Bricks/Stone,5042,9002,local
+Not Stated about House,26,9002,local
+Others,31,9002,local
+Rcc with Pillar,2,9002,local
+Wooden Pillar,817,9002,local
+Cement Bonded Bricks/Stone,218,9005,local
+Mud Bonded Bricks/Stone,5224,9005,local
+Not Stated about House,70,9005,local
+Others,94,9005,local
+Rcc with Pillar,45,9005,local
+Wooden Pillar,1795,9005,local
+Cement Bonded Bricks/Stone,2,9003,local
+Mud Bonded Bricks/Stone,1161,9003,local
+Not Stated about House,3,9003,local
+Others,8,9003,local
+Rcc with Pillar,1,9003,local
+Wooden Pillar,343,9003,local
+Cement Bonded Bricks/Stone,3,9008,local
+Mud Bonded Bricks/Stone,2204,9008,local
+Not Stated about House,11,9008,local
+Others,14,9008,local
+Rcc with Pillar,0,9008,local
+Wooden Pillar,1402,9008,local
+Cement Bonded Bricks/Stone,7,9009,local
+Mud Bonded Bricks/Stone,1444,9009,local
+Not Stated about House,25,9009,local
+Others,6,9009,local
+Rcc with Pillar,0,9009,local
+Wooden Pillar,710,9009,local
+Cement Bonded Bricks/Stone,4759,75,district
+Mud Bonded Bricks/Stone,11531,75,district
+Not Stated about House,291,75,district
+Others,110,75,district
+Rcc with Pillar,2765,75,district
+Wooden Pillar,47058,75,district
+Cement Bonded Bricks/Stone,2,14006,local
+Mud Bonded Bricks/Stone,2296,14006,local
+Not Stated about House,21,14006,local
+Others,8,14006,local
+Rcc with Pillar,5,14006,local
+Wooden Pillar,371,14006,local
+Cement Bonded Bricks/Stone,154,14004,local
+Mud Bonded Bricks/Stone,2453,14004,local
+Not Stated about House,32,14004,local
+Others,6,14004,local
+Rcc with Pillar,12,14004,local
+Wooden Pillar,2009,14004,local
+Cement Bonded Bricks/Stone,3635,14007,local
+Mud Bonded Bricks/Stone,965,14007,local
+Not Stated about House,96,14007,local
+Others,37,14007,local
+Rcc with Pillar,2144,14007,local
+Wooden Pillar,12607,14007,local
+Cement Bonded Bricks/Stone,56,14001,local
+Mud Bonded Bricks/Stone,54,14001,local
+Not Stated about House,19,14001,local
+Others,21,14001,local
+Rcc with Pillar,28,14001,local
+Wooden Pillar,8752,14001,local
+Cement Bonded Bricks/Stone,2,14005,local
+Mud Bonded Bricks/Stone,2255,14005,local
+Not Stated about House,6,14005,local
+Others,1,14005,local
+Rcc with Pillar,2,14005,local
+Wooden Pillar,50,14005,local
+Cement Bonded Bricks/Stone,558,14003,local
+Mud Bonded Bricks/Stone,2171,14003,local
+Not Stated about House,84,14003,local
+Others,9,14003,local
+Rcc with Pillar,428,14003,local
+Wooden Pillar,8467,14003,local
+Cement Bonded Bricks/Stone,33,14008,local
+Mud Bonded Bricks/Stone,1020,14008,local
+Not Stated about House,17,14008,local
+Others,15,14008,local
+Rcc with Pillar,6,14008,local
+Wooden Pillar,5088,14008,local
+Cement Bonded Bricks/Stone,319,14002,local
+Mud Bonded Bricks/Stone,317,14002,local
+Not Stated about House,16,14002,local
+Others,13,14002,local
+Rcc with Pillar,140,14002,local
+Wooden Pillar,9714,14002,local
+Cement Bonded Bricks/Stone,1299,51,district
+Mud Bonded Bricks/Stone,35620,51,district
+Not Stated about House,179,51,district
+Others,263,51,district
+Rcc with Pillar,371,51,district
+Wooden Pillar,3444,51,district
+Cement Bonded Bricks/Stone,27,2004,local
+Mud Bonded Bricks/Stone,3323,2004,local
+Not Stated about House,18,2004,local
+Others,5,2004,local
+Rcc with Pillar,6,2004,local
+Wooden Pillar,121,2004,local
+Cement Bonded Bricks/Stone,7,2001,local
+Mud Bonded Bricks/Stone,4224,2001,local
+Not Stated about House,33,2001,local
+Others,16,2001,local
+Rcc with Pillar,4,2001,local
+Wooden Pillar,268,2001,local
+Cement Bonded Bricks/Stone,42,2003,local
+Mud Bonded Bricks/Stone,4317,2003,local
+Not Stated about House,26,2003,local
+Others,9,2003,local
+Rcc with Pillar,4,2003,local
+Wooden Pillar,394,2003,local
+Cement Bonded Bricks/Stone,90,2005,local
+Mud Bonded Bricks/Stone,4513,2005,local
+Not Stated about House,12,2005,local
+Others,53,2005,local
+Rcc with Pillar,19,2005,local
+Wooden Pillar,863,2005,local
+Cement Bonded Bricks/Stone,974,2006,local
+Mud Bonded Bricks/Stone,8535,2006,local
+Not Stated about House,52,2006,local
+Others,63,2006,local
+Rcc with Pillar,275,2006,local
+Wooden Pillar,1095,2006,local
+Cement Bonded Bricks/Stone,20,2008,local
+Mud Bonded Bricks/Stone,3604,2008,local
+Not Stated about House,17,2008,local
+Others,23,2008,local
+Rcc with Pillar,6,2008,local
+Wooden Pillar,141,2008,local
+Cement Bonded Bricks/Stone,7,2007,local
+Mud Bonded Bricks/Stone,2579,2007,local
+Not Stated about House,4,2007,local
+Others,37,2007,local
+Rcc with Pillar,0,2007,local
+Wooden Pillar,188,2007,local
+Cement Bonded Bricks/Stone,132,2002,local
+Mud Bonded Bricks/Stone,4525,2002,local
+Not Stated about House,17,2002,local
+Others,57,2002,local
+Rcc with Pillar,57,2002,local
+Wooden Pillar,374,2002,local
+Cement Bonded Bricks/Stone,294,74,district
+Mud Bonded Bricks/Stone,20256,74,district
+Not Stated about House,98,74,district
+Others,145,74,district
+Rcc with Pillar,97,74,district
+Wooden Pillar,1194,74,district
+Cement Bonded Bricks/Stone,2,8001,local
+Mud Bonded Bricks/Stone,4255,8001,local
+Not Stated about House,20,8001,local
+Others,61,8001,local
+Rcc with Pillar,0,8001,local
+Wooden Pillar,240,8001,local
+Cement Bonded Bricks/Stone,226,8005,local
+Mud Bonded Bricks/Stone,4064,8005,local
+Not Stated about House,21,8005,local
+Others,15,8005,local
+Rcc with Pillar,53,8005,local
+Wooden Pillar,216,8005,local
+Cement Bonded Bricks/Stone,26,8003,local
+Mud Bonded Bricks/Stone,3351,8003,local
+Not Stated about House,10,8003,local
+Others,28,8003,local
+Rcc with Pillar,40,8003,local
+Wooden Pillar,222,8003,local
+Cement Bonded Bricks/Stone,2,8004,local
+Mud Bonded Bricks/Stone,1658,8004,local
+Not Stated about House,15,8004,local
+Others,8,8004,local
+Rcc with Pillar,0,8004,local
+Wooden Pillar,111,8004,local
+Cement Bonded Bricks/Stone,12,8006,local
+Mud Bonded Bricks/Stone,3582,8006,local
+Not Stated about House,13,8006,local
+Others,18,8006,local
+Rcc with Pillar,0,8006,local
+Wooden Pillar,179,8006,local
+Cement Bonded Bricks/Stone,26,8002,local
+Mud Bonded Bricks/Stone,3346,8002,local
+Not Stated about House,19,8002,local
+Others,15,8002,local
+Rcc with Pillar,4,8002,local
+Wooden Pillar,226,8002,local
+Cement Bonded Bricks/Stone,4149,26,district
+Mud Bonded Bricks/Stone,38073,26,district
+Not Stated about House,430,26,district
+Others,2139,26,district
+Rcc with Pillar,1431,26,district
+Wooden Pillar,18255,26,district
+Cement Bonded Bricks/Stone,46,3009,local
+Mud Bonded Bricks/Stone,3082,3009,local
+Not Stated about House,23,3009,local
+Others,61,3009,local
+Rcc with Pillar,4,3009,local
+Wooden Pillar,427,3009,local
+Cement Bonded Bricks/Stone,173,3001,local
+Mud Bonded Bricks/Stone,344,3001,local
+Not Stated about House,22,3001,local
+Others,156,3001,local
+Rcc with Pillar,54,3001,local
+Wooden Pillar,3900,3001,local
+Cement Bonded Bricks/Stone,42,3007,local
+Mud Bonded Bricks/Stone,1775,3007,local
+Not Stated about House,44,3007,local
+Others,35,3007,local
+Rcc with Pillar,5,3007,local
+Wooden Pillar,1828,3007,local
+Cement Bonded Bricks/Stone,74,3003,local
+Mud Bonded Bricks/Stone,4291,3003,local
+Not Stated about House,25,3003,local
+Others,128,3003,local
+Rcc with Pillar,9,3003,local
+Wooden Pillar,107,3003,local
+Cement Bonded Bricks/Stone,53,3006,local
+Mud Bonded Bricks/Stone,4057,3006,local
+Not Stated about House,18,3006,local
+Others,212,3006,local
+Rcc with Pillar,6,3006,local
+Wooden Pillar,331,3006,local
+Cement Bonded Bricks/Stone,117,3005,local
+Mud Bonded Bricks/Stone,320,3005,local
+Not Stated about House,35,3005,local
+Others,91,3005,local
+Rcc with Pillar,81,3005,local
+Wooden Pillar,6433,3005,local
+Cement Bonded Bricks/Stone,311,3008,local
+Mud Bonded Bricks/Stone,1706,3008,local
+Not Stated about House,28,3008,local
+Others,51,3008,local
+Rcc with Pillar,45,3008,local
+Wooden Pillar,2210,3008,local
+Cement Bonded Bricks/Stone,1429,3004,local
+Mud Bonded Bricks/Stone,7390,3004,local
+Not Stated about House,138,3004,local
+Others,719,3004,local
+Rcc with Pillar,689,3004,local
+Wooden Pillar,1018,3004,local
+Cement Bonded Bricks/Stone,246,3002,local
+Mud Bonded Bricks/Stone,5966,3002,local
+Not Stated about House,30,3002,local
+Others,310,3002,local
+Rcc with Pillar,75,3002,local
+Wooden Pillar,496,3002,local
+Cement Bonded Bricks/Stone,1658,3010,local
+Mud Bonded Bricks/Stone,9142,3010,local
+Not Stated about House,67,3010,local
+Others,376,3010,local
+Rcc with Pillar,463,3010,local
+Wooden Pillar,1505,3010,local
+Cement Bonded Bricks/Stone,124,49,district
+Mud Bonded Bricks/Stone,31284,49,district
+Not Stated about House,316,49,district
+Others,75,49,district
+Rcc with Pillar,102,49,district
+Wooden Pillar,565,49,district
+Cement Bonded Bricks/Stone,5,12008,local
+Mud Bonded Bricks/Stone,3932,12008,local
+Not Stated about House,29,12008,local
+Others,0,12008,local
+Rcc with Pillar,0,12008,local
+Wooden Pillar,21,12008,local
+Cement Bonded Bricks/Stone,3,12001,local
+Mud Bonded Bricks/Stone,3743,12001,local
+Not Stated about House,29,12001,local
+Others,7,12001,local
+Rcc with Pillar,2,12001,local
+Wooden Pillar,12,12001,local
+Cement Bonded Bricks/Stone,0,12002,local
+Mud Bonded Bricks/Stone,3270,12002,local
+Not Stated about House,32,12002,local
+Others,7,12002,local
+Rcc with Pillar,0,12002,local
+Wooden Pillar,25,12002,local
+Cement Bonded Bricks/Stone,1,12004,local
+Mud Bonded Bricks/Stone,2902,12004,local
+Not Stated about House,15,12004,local
+Others,10,12004,local
+Rcc with Pillar,8,12004,local
+Wooden Pillar,21,12004,local
+Cement Bonded Bricks/Stone,67,12007,local
+Mud Bonded Bricks/Stone,6552,12007,local
+Not Stated about House,141,12007,local
+Others,10,12007,local
+Rcc with Pillar,82,12007,local
+Wooden Pillar,142,12007,local
+Cement Bonded Bricks/Stone,43,12005,local
+Mud Bonded Bricks/Stone,4332,12005,local
+Not Stated about House,40,12005,local
+Others,3,12005,local
+Rcc with Pillar,6,12005,local
+Wooden Pillar,194,12005,local
+Cement Bonded Bricks/Stone,0,12003,local
+Mud Bonded Bricks/Stone,3022,12003,local
+Not Stated about House,13,12003,local
+Others,5,12003,local
+Rcc with Pillar,2,12003,local
+Wooden Pillar,69,12003,local
+Cement Bonded Bricks/Stone,5,12006,local
+Mud Bonded Bricks/Stone,3531,12006,local
+Not Stated about House,17,12006,local
+Others,33,12006,local
+Rcc with Pillar,2,12006,local
+Wooden Pillar,81,12006,local
+Cement Bonded Bricks/Stone,50,37,district
+Mud Bonded Bricks/Stone,40970,37,district
+Not Stated about House,266,37,district
+Others,169,37,district
+Rcc with Pillar,20,37,district
+Wooden Pillar,1172,37,district
+Cement Bonded Bricks/Stone,4,13006,local
+Mud Bonded Bricks/Stone,3251,13006,local
+Not Stated about House,20,13006,local
+Others,17,13006,local
+Rcc with Pillar,1,13006,local
+Wooden Pillar,54,13006,local
+Cement Bonded Bricks/Stone,2,13010,local
+Mud Bonded Bricks/Stone,2341,13010,local
+Not Stated about House,14,13010,local
+Others,21,13010,local
+Rcc with Pillar,0,13010,local
+Wooden Pillar,30,13010,local
+Cement Bonded Bricks/Stone,24,13004,local
+Mud Bonded Bricks/Stone,5541,13004,local
+Not Stated about House,29,13004,local
+Others,26,13004,local
+Rcc with Pillar,1,13004,local
+Wooden Pillar,217,13004,local
+Cement Bonded Bricks/Stone,0,13001,local
+Mud Bonded Bricks/Stone,3414,13001,local
+Not Stated about House,13,13001,local
+Others,13,13001,local
+Rcc with Pillar,3,13001,local
+Wooden Pillar,48,13001,local
+Cement Bonded Bricks/Stone,1,13002,local
+Mud Bonded Bricks/Stone,2317,13002,local
+Not Stated about House,21,13002,local
+Others,2,13002,local
+Rcc with Pillar,1,13002,local
+Wooden Pillar,360,13002,local
+Cement Bonded Bricks/Stone,4,13008,local
+Mud Bonded Bricks/Stone,2750,13008,local
+Not Stated about House,17,13008,local
+Others,3,13008,local
+Rcc with Pillar,0,13008,local
+Wooden Pillar,19,13008,local
+Cement Bonded Bricks/Stone,2,13003,local
+Mud Bonded Bricks/Stone,4003,13003,local
+Not Stated about House,29,13003,local
+Others,23,13003,local
+Rcc with Pillar,1,13003,local
+Wooden Pillar,82,13003,local
+Cement Bonded Bricks/Stone,0,13007,local
+Mud Bonded Bricks/Stone,4567,13007,local
+Not Stated about House,31,13007,local
+Others,6,13007,local
+Rcc with Pillar,5,13007,local
+Wooden Pillar,94,13007,local
+Cement Bonded Bricks/Stone,0,13005,local
+Mud Bonded Bricks/Stone,3029,13005,local
+Not Stated about House,26,13005,local
+Others,9,13005,local
+Rcc with Pillar,2,13005,local
+Wooden Pillar,109,13005,local
+Cement Bonded Bricks/Stone,13,13009,local
+Mud Bonded Bricks/Stone,9757,13009,local
+Not Stated about House,66,13009,local
+Others,49,13009,local
+Rcc with Pillar,6,13009,local
+Wooden Pillar,159,13009,local
+Cement Bonded Bricks/Stone,575,73,district
+Mud Bonded Bricks/Stone,23656,73,district
+Not Stated about House,158,73,district
+Others,181,73,district
+Rcc with Pillar,111,73,district
+Wooden Pillar,1790,73,district
+Cement Bonded Bricks/Stone,8,1005,local
+Mud Bonded Bricks/Stone,2355,1005,local
+Not Stated about House,28,1005,local
+Others,15,1005,local
+Rcc with Pillar,2,1005,local
+Wooden Pillar,117,1005,local
+Cement Bonded Bricks/Stone,0,1002,local
+Mud Bonded Bricks/Stone,1949,1002,local
+Not Stated about House,18,1002,local
+Others,6,1002,local
+Rcc with Pillar,2,1002,local
+Wooden Pillar,219,1002,local
+Cement Bonded Bricks/Stone,529,1006,local
+Mud Bonded Bricks/Stone,4631,1006,local
+Not Stated about House,21,1006,local
+Others,51,1006,local
+Rcc with Pillar,101,1006,local
+Wooden Pillar,653,1006,local
+Cement Bonded Bricks/Stone,1,1007,local
+Mud Bonded Bricks/Stone,2254,1007,local
+Not Stated about House,16,1007,local
+Others,2,1007,local
+Rcc with Pillar,0,1007,local
+Wooden Pillar,97,1007,local
+Cement Bonded Bricks/Stone,4,1004,local
+Mud Bonded Bricks/Stone,1738,1004,local
+Not Stated about House,20,1004,local
+Others,6,1004,local
+Rcc with Pillar,1,1004,local
+Wooden Pillar,100,1004,local
+Cement Bonded Bricks/Stone,14,1008,local
+Mud Bonded Bricks/Stone,3009,1008,local
+Not Stated about House,18,1008,local
+Others,86,1008,local
+Rcc with Pillar,3,1008,local
+Wooden Pillar,97,1008,local
+Cement Bonded Bricks/Stone,10,1009,local
+Mud Bonded Bricks/Stone,2721,1009,local
+Not Stated about House,8,1009,local
+Others,4,1009,local
+Rcc with Pillar,1,1009,local
+Wooden Pillar,90,1009,local
+Cement Bonded Bricks/Stone,2,1003,local
+Mud Bonded Bricks/Stone,2326,1003,local
+Not Stated about House,20,1003,local
+Others,1,1003,local
+Rcc with Pillar,0,1003,local
+Wooden Pillar,229,1003,local
+Cement Bonded Bricks/Stone,7,1001,local
+Mud Bonded Bricks/Stone,2673,1001,local
+Not Stated about House,9,1001,local
+Others,10,1001,local
+Rcc with Pillar,1,1001,local
+Wooden Pillar,188,1001,local
+Cement Bonded Bricks/Stone,45291,43,district
+Mud Bonded Bricks/Stone,10143,43,district
+Not Stated about House,1505,43,district
+Others,27288,43,district
+Rcc with Pillar,23738,43,district
+Wooden Pillar,105905,43,district
+Cement Bonded Bricks/Stone,4843,5015,local
+Mud Bonded Bricks/Stone,861,5015,local
+Not Stated about House,155,5015,local
+Others,1156,5015,local
+Rcc with Pillar,3579,5015,local
+Wooden Pillar,8016,5015,local
+Cement Bonded Bricks/Stone,698,5010,local
+Mud Bonded Bricks/Stone,770,5010,local
+Not Stated about House,36,5010,local
+Others,85,5010,local
+Rcc with Pillar,400,5010,local
+Wooden Pillar,5350,5010,local
+Cement Bonded Bricks/Stone,850,5014,local
+Mud Bonded Bricks/Stone,219,5014,local
+Not Stated about House,37,5014,local
+Others,2439,5014,local
+Rcc with Pillar,542,5014,local
+Wooden Pillar,8395,5014,local
+Cement Bonded Bricks/Stone,2289,5003,local
+Mud Bonded Bricks/Stone,318,5003,local
+Not Stated about House,87,5003,local
+Others,1715,5003,local
+Rcc with Pillar,1336,5003,local
+Wooden Pillar,3876,5003,local
+Cement Bonded Bricks/Stone,3571,5017,local
+Mud Bonded Bricks/Stone,308,5017,local
+Not Stated about House,49,5017,local
+Others,514,5017,local
+Rcc with Pillar,1639,5017,local
+Wooden Pillar,6449,5017,local
+Cement Bonded Bricks/Stone,650,5016,local
+Mud Bonded Bricks/Stone,565,5016,local
+Not Stated about House,42,5016,local
+Others,3263,5016,local
+Rcc with Pillar,424,5016,local
+Wooden Pillar,5851,5016,local
+Cement Bonded Bricks/Stone,438,5007,local
+Mud Bonded Bricks/Stone,44,5007,local
+Not Stated about House,35,5007,local
+Others,1036,5007,local
+Rcc with Pillar,648,5007,local
+Wooden Pillar,6482,5007,local
+Cement Bonded Bricks/Stone,2633,5001,local
+Mud Bonded Bricks/Stone,221,5001,local
+Not Stated about House,90,5001,local
+Others,1349,5001,local
+Rcc with Pillar,1830,5001,local
+Wooden Pillar,9215,5001,local
+Cement Bonded Bricks/Stone,1374,5012,local
+Mud Bonded Bricks/Stone,177,5012,local
+Not Stated about House,103,5012,local
+Others,698,5012,local
+Rcc with Pillar,1685,5012,local
+Wooden Pillar,9919,5012,local
+Cement Bonded Bricks/Stone,435,5011,local
+Mud Bonded Bricks/Stone,478,5011,local
+Not Stated about House,15,5011,local
+Others,28,5011,local
+Rcc with Pillar,257,5011,local
+Wooden Pillar,5204,5011,local
+Cement Bonded Bricks/Stone,1121,5005,local
+Mud Bonded Bricks/Stone,323,5005,local
+Not Stated about House,29,5005,local
+Others,1030,5005,local
+Rcc with Pillar,454,5005,local
+Wooden Pillar,4963,5005,local
+Cement Bonded Bricks/Stone,966,5013,local
+Mud Bonded Bricks/Stone,427,5013,local
+Not Stated about House,30,5013,local
+Others,3486,5013,local
+Rcc with Pillar,473,5013,local
+Wooden Pillar,5867,5013,local
+Cement Bonded Bricks/Stone,1423,5008,local
+Mud Bonded Bricks/Stone,276,5008,local
+Not Stated about House,17,5008,local
+Others,2348,5008,local
+Rcc with Pillar,381,5008,local
+Wooden Pillar,3564,5008,local
+Cement Bonded Bricks/Stone,723,5004,local
+Mud Bonded Bricks/Stone,425,5004,local
+Not Stated about House,27,5004,local
+Others,1893,5004,local
+Rcc with Pillar,222,5004,local
+Wooden Pillar,4667,5004,local
+Cement Bonded Bricks/Stone,314,5006,local
+Mud Bonded Bricks/Stone,239,5006,local
+Not Stated about House,18,5006,local
+Others,3338,5006,local
+Rcc with Pillar,250,5006,local
+Wooden Pillar,4016,5006,local
+Cement Bonded Bricks/Stone,269,5009,local
+Mud Bonded Bricks/Stone,1330,5009,local
+Not Stated about House,26,5009,local
+Others,78,5009,local
+Rcc with Pillar,172,5009,local
+Wooden Pillar,5116,5009,local
+Cement Bonded Bricks/Stone,22694,5002,local
+Mud Bonded Bricks/Stone,3162,5002,local
+Not Stated about House,709,5002,local
+Others,2832,5002,local
+Rcc with Pillar,9446,5002,local
+Wooden Pillar,8955,5002,local
+Cement Bonded Bricks/Stone,114,68,district
+Mud Bonded Bricks/Stone,22681,68,district
+Not Stated about House,66,68,district
+Others,51,68,district
+Rcc with Pillar,19,68,district
+Wooden Pillar,827,68,district
+Cement Bonded Bricks/Stone,1,11001,local
+Mud Bonded Bricks/Stone,4107,11001,local
+Not Stated about House,7,11001,local
+Others,10,11001,local
+Rcc with Pillar,2,11001,local
+Wooden Pillar,113,11001,local
+Cement Bonded Bricks/Stone,2,11006,local
+Mud Bonded Bricks/Stone,3548,11006,local
+Not Stated about House,10,11006,local
+Others,6,11006,local
+Rcc with Pillar,1,11006,local
+Wooden Pillar,69,11006,local
+Cement Bonded Bricks/Stone,10,11007,local
+Mud Bonded Bricks/Stone,4664,11007,local
+Not Stated about House,22,11007,local
+Others,6,11007,local
+Rcc with Pillar,8,11007,local
+Wooden Pillar,270,11007,local
+Cement Bonded Bricks/Stone,0,11004,local
+Mud Bonded Bricks/Stone,1124,11004,local
+Not Stated about House,3,11004,local
+Others,2,11004,local
+Rcc with Pillar,0,11004,local
+Wooden Pillar,39,11004,local
+Cement Bonded Bricks/Stone,96,11003,local
+Mud Bonded Bricks/Stone,2192,11003,local
+Not Stated about House,7,11003,local
+Others,1,11003,local
+Rcc with Pillar,2,11003,local
+Wooden Pillar,135,11003,local
+Cement Bonded Bricks/Stone,1,11008,local
+Mud Bonded Bricks/Stone,1949,11008,local
+Not Stated about House,6,11008,local
+Others,8,11008,local
+Rcc with Pillar,3,11008,local
+Wooden Pillar,81,11008,local
+Cement Bonded Bricks/Stone,3,11005,local
+Mud Bonded Bricks/Stone,2341,11005,local
+Not Stated about House,1,11005,local
+Others,15,11005,local
+Rcc with Pillar,2,11005,local
+Wooden Pillar,88,11005,local
+Cement Bonded Bricks/Stone,1,11002,local
+Mud Bonded Bricks/Stone,2756,11002,local
+Not Stated about House,10,11002,local
+Others,3,11002,local
+Rcc with Pillar,1,11002,local
+Wooden Pillar,32,11002,local
+Cement Bonded Bricks/Stone,7159,6,province
+Mud Bonded Bricks/Stone,265417,6,province
+Not Stated about House,2461,6,province
+Others,366,6,province
+Rcc with Pillar,3978,6,province
+Wooden Pillar,18793,6,province
+Cement Bonded Bricks/Stone,537,14,district
+Mud Bonded Bricks/Stone,47276,14,district
+Not Stated about House,404,14,district
+Others,25,14,district
+Rcc with Pillar,370,14,district
+Wooden Pillar,303,14,district
+Cement Bonded Bricks/Stone,5,60001,local
+Mud Bonded Bricks/Stone,5184,60001,local
+Not Stated about House,34,60001,local
+Others,0,60001,local
+Rcc with Pillar,0,60001,local
+Wooden Pillar,40,60001,local
+Cement Bonded Bricks/Stone,27,60007,local
+Mud Bonded Bricks/Stone,3864,60007,local
+Not Stated about House,25,60007,local
+Others,4,60007,local
+Rcc with Pillar,1,60007,local
+Wooden Pillar,175,60007,local
+Cement Bonded Bricks/Stone,31,60002,local
+Mud Bonded Bricks/Stone,3295,60002,local
+Not Stated about House,16,60002,local
+Others,1,60002,local
+Rcc with Pillar,16,60002,local
+Wooden Pillar,0,60002,local
+Cement Bonded Bricks/Stone,333,60009,local
+Mud Bonded Bricks/Stone,5081,60009,local
+Not Stated about House,64,60009,local
+Others,9,60009,local
+Rcc with Pillar,278,60009,local
+Wooden Pillar,26,60009,local
+Cement Bonded Bricks/Stone,73,60006,local
+Mud Bonded Bricks/Stone,2868,60006,local
+Not Stated about House,31,60006,local
+Others,0,60006,local
+Rcc with Pillar,63,60006,local
+Wooden Pillar,9,60006,local
+Cement Bonded Bricks/Stone,0,60004,local
+Mud Bonded Bricks/Stone,4600,60004,local
+Not Stated about House,25,60004,local
+Others,0,60004,local
+Rcc with Pillar,0,60004,local
+Wooden Pillar,9,60004,local
+Cement Bonded Bricks/Stone,20,60005,local
+Mud Bonded Bricks/Stone,8046,60005,local
+Not Stated about House,68,60005,local
+Others,2,60005,local
+Rcc with Pillar,10,60005,local
+Wooden Pillar,18,60005,local
+Cement Bonded Bricks/Stone,33,60010,local
+Mud Bonded Bricks/Stone,3629,60010,local
+Not Stated about House,38,60010,local
+Others,1,60010,local
+Rcc with Pillar,0,60010,local
+Wooden Pillar,7,60010,local
+Cement Bonded Bricks/Stone,7,60003,local
+Mud Bonded Bricks/Stone,3935,60003,local
+Not Stated about House,25,60003,local
+Others,3,60003,local
+Rcc with Pillar,2,60003,local
+Wooden Pillar,4,60003,local
+Cement Bonded Bricks/Stone,7,60008,local
+Mud Bonded Bricks/Stone,3496,60008,local
+Not Stated about House,33,60008,local
+Others,3,60008,local
+Rcc with Pillar,0,60008,local
+Wooden Pillar,14,60008,local
+Cement Bonded Bricks/Stone,1,60011,local
+Mud Bonded Bricks/Stone,3278,60011,local
+Not Stated about House,45,60011,local
+Others,2,60011,local
+Rcc with Pillar,0,60011,local
+Wooden Pillar,1,60011,local
+Cement Bonded Bricks/Stone,20,25,district
+Mud Bonded Bricks/Stone,9403,25,district
+Not Stated about House,11,25,district
+Others,0,25,district
+Rcc with Pillar,1,25,district
+Wooden Pillar,2,25,district
+Cement Bonded Bricks/Stone,1,66001,local
+Mud Bonded Bricks/Stone,1120,66001,local
+Not Stated about House,0,66001,local
+Others,0,66001,local
+Rcc with Pillar,0,66001,local
+Wooden Pillar,0,66001,local
+Cement Bonded Bricks/Stone,0,66005,local
+Mud Bonded Bricks/Stone,1793,66005,local
+Not Stated about House,1,66005,local
+Others,0,66005,local
+Rcc with Pillar,0,66005,local
+Wooden Pillar,0,66005,local
+Cement Bonded Bricks/Stone,3,66004,local
+Mud Bonded Bricks/Stone,832,66004,local
+Not Stated about House,0,66004,local
+Others,0,66004,local
+Rcc with Pillar,0,66004,local
+Wooden Pillar,0,66004,local
+Cement Bonded Bricks/Stone,0,66003,local
+Mud Bonded Bricks/Stone,1131,66003,local
+Not Stated about House,1,66003,local
+Others,0,66003,local
+Rcc with Pillar,0,66003,local
+Wooden Pillar,0,66003,local
+Cement Bonded Bricks/Stone,0,66002,local
+Mud Bonded Bricks/Stone,962,66002,local
+Not Stated about House,1,66002,local
+Others,0,66002,local
+Rcc with Pillar,0,66002,local
+Wooden Pillar,0,66002,local
+Cement Bonded Bricks/Stone,16,66006,local
+Mud Bonded Bricks/Stone,2539,66006,local
+Not Stated about House,8,66006,local
+Others,0,66006,local
+Rcc with Pillar,1,66006,local
+Wooden Pillar,2,66006,local
+Cement Bonded Bricks/Stone,0,66007,local
+Mud Bonded Bricks/Stone,1026,66007,local
+Not Stated about House,0,66007,local
+Others,0,66007,local
+Rcc with Pillar,0,66007,local
+Wooden Pillar,0,66007,local
+Cement Bonded Bricks/Stone,22,29,district
+Mud Bonded Bricks/Stone,19089,29,district
+Not Stated about House,141,29,district
+Others,4,29,district
+Rcc with Pillar,3,29,district
+Wooden Pillar,32,29,district
+Cement Bonded Bricks/Stone,0,63004,local
+Mud Bonded Bricks/Stone,2213,63004,local
+Not Stated about House,15,63004,local
+Others,0,63004,local
+Rcc with Pillar,0,63004,local
+Wooden Pillar,19,63004,local
+Cement Bonded Bricks/Stone,0,63006,local
+Mud Bonded Bricks/Stone,1982,63006,local
+Not Stated about House,13,63006,local
+Others,1,63006,local
+Rcc with Pillar,0,63006,local
+Wooden Pillar,0,63006,local
+Cement Bonded Bricks/Stone,0,63008,local
+Mud Bonded Bricks/Stone,2232,63008,local
+Not Stated about House,12,63008,local
+Others,0,63008,local
+Rcc with Pillar,0,63008,local
+Wooden Pillar,6,63008,local
+Cement Bonded Bricks/Stone,0,63005,local
+Mud Bonded Bricks/Stone,2514,63005,local
+Not Stated about House,23,63005,local
+Others,0,63005,local
+Rcc with Pillar,0,63005,local
+Wooden Pillar,0,63005,local
+Cement Bonded Bricks/Stone,18,63001,local
+Mud Bonded Bricks/Stone,3937,63001,local
+Not Stated about House,36,63001,local
+Others,0,63001,local
+Rcc with Pillar,3,63001,local
+Wooden Pillar,2,63001,local
+Cement Bonded Bricks/Stone,1,63002,local
+Mud Bonded Bricks/Stone,1829,63002,local
+Not Stated about House,16,63002,local
+Others,2,63002,local
+Rcc with Pillar,0,63002,local
+Wooden Pillar,0,63002,local
+Cement Bonded Bricks/Stone,1,63003,local
+Mud Bonded Bricks/Stone,1694,63003,local
+Not Stated about House,14,63003,local
+Others,1,63003,local
+Rcc with Pillar,0,63003,local
+Wooden Pillar,3,63003,local
+Cement Bonded Bricks/Stone,2,63007,local
+Mud Bonded Bricks/Stone,2688,63007,local
+Not Stated about House,12,63007,local
+Others,0,63007,local
+Rcc with Pillar,0,63007,local
+Wooden Pillar,2,63007,local
+Cement Bonded Bricks/Stone,5585,70,district
+Mud Bonded Bricks/Stone,45423,70,district
+Not Stated about House,658,70,district
+Others,229,70,district
+Rcc with Pillar,3132,70,district
+Wooden Pillar,17803,70,district
+Cement Bonded Bricks/Stone,42,59008,local
+Mud Bonded Bricks/Stone,1795,59008,local
+Not Stated about House,73,59008,local
+Others,35,59008,local
+Rcc with Pillar,31,59008,local
+Wooden Pillar,4328,59008,local
+Cement Bonded Bricks/Stone,9,59005,local
+Mud Bonded Bricks/Stone,1584,59005,local
+Not Stated about House,20,59005,local
+Others,4,59005,local
+Rcc with Pillar,1,59005,local
+Wooden Pillar,1305,59005,local
+Cement Bonded Bricks/Stone,331,59006,local
+Mud Bonded Bricks/Stone,8576,59006,local
+Not Stated about House,60,59006,local
+Others,20,59006,local
+Rcc with Pillar,84,59006,local
+Wooden Pillar,501,59006,local
+Cement Bonded Bricks/Stone,44,59001,local
+Mud Bonded Bricks/Stone,3535,59001,local
+Not Stated about House,28,59001,local
+Others,2,59001,local
+Rcc with Pillar,17,59001,local
+Wooden Pillar,1822,59001,local
+Cement Bonded Bricks/Stone,128,59007,local
+Mud Bonded Bricks/Stone,4314,59007,local
+Not Stated about House,55,59007,local
+Others,11,59007,local
+Rcc with Pillar,42,59007,local
+Wooden Pillar,1796,59007,local
+Cement Bonded Bricks/Stone,32,59009,local
+Mud Bonded Bricks/Stone,4362,59009,local
+Not Stated about House,38,59009,local
+Others,1,59009,local
+Rcc with Pillar,20,59009,local
+Wooden Pillar,641,59009,local
+Cement Bonded Bricks/Stone,4554,59003,local
+Mud Bonded Bricks/Stone,14536,59003,local
+Not Stated about House,275,59003,local
+Others,112,59003,local
+Rcc with Pillar,2720,59003,local
+Wooden Pillar,1513,59003,local
+Cement Bonded Bricks/Stone,428,59002,local
+Mud Bonded Bricks/Stone,5584,59002,local
+Not Stated about House,59,59002,local
+Others,17,59002,local
+Rcc with Pillar,202,59002,local
+Wooden Pillar,2535,59002,local
+Cement Bonded Bricks/Stone,17,59004,local
+Mud Bonded Bricks/Stone,1137,59004,local
+Not Stated about House,50,59004,local
+Others,27,59004,local
+Rcc with Pillar,15,59004,local
+Wooden Pillar,3362,59004,local
+Cement Bonded Bricks/Stone,8,21,district
+Mud Bonded Bricks/Stone,7254,21,district
+Not Stated about House,177,21,district
+Others,3,21,district
+Rcc with Pillar,1,21,district
+Wooden Pillar,23,21,district
+Cement Bonded Bricks/Stone,5,62007,local
+Mud Bonded Bricks/Stone,1870,62007,local
+Not Stated about House,6,62007,local
+Others,1,62007,local
+Rcc with Pillar,1,62007,local
+Wooden Pillar,20,62007,local
+Cement Bonded Bricks/Stone,0,62004,local
+Mud Bonded Bricks/Stone,772,62004,local
+Not Stated about House,8,62004,local
+Others,0,62004,local
+Rcc with Pillar,0,62004,local
+Wooden Pillar,0,62004,local
+Cement Bonded Bricks/Stone,0,62001,local
+Mud Bonded Bricks/Stone,281,62001,local
+Not Stated about House,1,62001,local
+Others,0,62001,local
+Rcc with Pillar,0,62001,local
+Wooden Pillar,0,62001,local
+Cement Bonded Bricks/Stone,0,62006,local
+Mud Bonded Bricks/Stone,582,62006,local
+Not Stated about House,146,62006,local
+Others,2,62006,local
+Rcc with Pillar,0,62006,local
+Wooden Pillar,0,62006,local
+Cement Bonded Bricks/Stone,0,62003,local
+Mud Bonded Bricks/Stone,433,62003,local
+Not Stated about House,0,62003,local
+Others,0,62003,local
+Rcc with Pillar,0,62003,local
+Wooden Pillar,0,62003,local
+Cement Bonded Bricks/Stone,0,62002,local
+Mud Bonded Bricks/Stone,464,62002,local
+Not Stated about House,4,62002,local
+Others,0,62002,local
+Rcc with Pillar,0,62002,local
+Wooden Pillar,0,62002,local
+Cement Bonded Bricks/Stone,3,62008,local
+Mud Bonded Bricks/Stone,1930,62008,local
+Not Stated about House,9,62008,local
+Others,0,62008,local
+Rcc with Pillar,0,62008,local
+Wooden Pillar,2,62008,local
+Cement Bonded Bricks/Stone,0,62005,local
+Mud Bonded Bricks/Stone,922,62005,local
+Not Stated about House,3,62005,local
+Others,0,62005,local
+Rcc with Pillar,0,62005,local
+Wooden Pillar,1,62005,local
+Cement Bonded Bricks/Stone,32,44,district
+Mud Bonded Bricks/Stone,9341,44,district
+Not Stated about House,135,44,district
+Others,63,44,district
+Rcc with Pillar,1,44,district
+Wooden Pillar,28,44,district
+Cement Bonded Bricks/Stone,4,65002,local
+Mud Bonded Bricks/Stone,2767,65002,local
+Not Stated about House,47,65002,local
+Others,1,65002,local
+Rcc with Pillar,0,65002,local
+Wooden Pillar,2,65002,local
+Cement Bonded Bricks/Stone,25,65001,local
+Mud Bonded Bricks/Stone,3541,65001,local
+Not Stated about House,48,65001,local
+Others,0,65001,local
+Rcc with Pillar,1,65001,local
+Wooden Pillar,26,65001,local
+Cement Bonded Bricks/Stone,0,65003,local
+Mud Bonded Bricks/Stone,960,65003,local
+Not Stated about House,7,65003,local
+Others,62,65003,local
+Rcc with Pillar,0,65003,local
+Wooden Pillar,0,65003,local
+Cement Bonded Bricks/Stone,3,65004,local
+Mud Bonded Bricks/Stone,2073,65004,local
+Not Stated about House,33,65004,local
+Others,0,65004,local
+Rcc with Pillar,0,65004,local
+Wooden Pillar,0,65004,local
+Cement Bonded Bricks/Stone,502,61,district
+Mud Bonded Bricks/Stone,44846,61,district
+Not Stated about House,431,61,district
+Others,14,61,district
+Rcc with Pillar,345,61,district
+Wooden Pillar,386,61,district
+Cement Bonded Bricks/Stone,242,55009,local
+Mud Bonded Bricks/Stone,6790,55009,local
+Not Stated about House,145,55009,local
+Others,3,55009,local
+Rcc with Pillar,181,55009,local
+Wooden Pillar,30,55009,local
+Cement Bonded Bricks/Stone,11,55003,local
+Mud Bonded Bricks/Stone,4369,55003,local
+Not Stated about House,11,55003,local
+Others,0,55003,local
+Rcc with Pillar,13,55003,local
+Wooden Pillar,4,55003,local
+Cement Bonded Bricks/Stone,70,55002,local
+Mud Bonded Bricks/Stone,6590,55002,local
+Not Stated about House,41,55002,local
+Others,0,55002,local
+Rcc with Pillar,46,55002,local
+Wooden Pillar,16,55002,local
+Cement Bonded Bricks/Stone,54,55010,local
+Mud Bonded Bricks/Stone,3361,55010,local
+Not Stated about House,16,55010,local
+Others,0,55010,local
+Rcc with Pillar,16,55010,local
+Wooden Pillar,0,55010,local
+Cement Bonded Bricks/Stone,8,55006,local
+Mud Bonded Bricks/Stone,3951,55006,local
+Not Stated about House,87,55006,local
+Others,4,55006,local
+Rcc with Pillar,6,55006,local
+Wooden Pillar,287,55006,local
+Cement Bonded Bricks/Stone,35,55001,local
+Mud Bonded Bricks/Stone,5805,55001,local
+Not Stated about House,19,55001,local
+Others,3,55001,local
+Rcc with Pillar,15,55001,local
+Wooden Pillar,29,55001,local
+Cement Bonded Bricks/Stone,54,55007,local
+Mud Bonded Bricks/Stone,3516,55007,local
+Not Stated about House,21,55007,local
+Others,1,55007,local
+Rcc with Pillar,56,55007,local
+Wooden Pillar,9,55007,local
+Cement Bonded Bricks/Stone,8,55004,local
+Mud Bonded Bricks/Stone,3424,55004,local
+Not Stated about House,23,55004,local
+Others,1,55004,local
+Rcc with Pillar,1,55004,local
+Wooden Pillar,3,55004,local
+Cement Bonded Bricks/Stone,6,55008,local
+Mud Bonded Bricks/Stone,4701,55008,local
+Not Stated about House,28,55008,local
+Others,2,55008,local
+Rcc with Pillar,0,55008,local
+Wooden Pillar,8,55008,local
+Cement Bonded Bricks/Stone,14,55005,local
+Mud Bonded Bricks/Stone,2339,55005,local
+Not Stated about House,40,55005,local
+Others,0,55005,local
+Rcc with Pillar,11,55005,local
+Wooden Pillar,0,55005,local
+Cement Bonded Bricks/Stone,354,77,district
+Mud Bonded Bricks/Stone,29920,77,district
+Not Stated about House,141,77,district
+Others,8,77,district
+Rcc with Pillar,118,77,district
+Wooden Pillar,94,77,district
+Cement Bonded Bricks/Stone,51,54003,local
+Mud Bonded Bricks/Stone,5327,54003,local
+Not Stated about House,28,54003,local
+Others,2,54003,local
+Rcc with Pillar,2,54003,local
+Wooden Pillar,12,54003,local
+Cement Bonded Bricks/Stone,4,54001,local
+Mud Bonded Bricks/Stone,6367,54001,local
+Not Stated about House,38,54001,local
+Others,0,54001,local
+Rcc with Pillar,0,54001,local
+Wooden Pillar,12,54001,local
+Cement Bonded Bricks/Stone,9,54005,local
+Mud Bonded Bricks/Stone,4088,54005,local
+Not Stated about House,22,54005,local
+Others,4,54005,local
+Rcc with Pillar,0,54005,local
+Wooden Pillar,6,54005,local
+Cement Bonded Bricks/Stone,3,54006,local
+Mud Bonded Bricks/Stone,3566,54006,local
+Not Stated about House,18,54006,local
+Others,0,54006,local
+Rcc with Pillar,1,54006,local
+Wooden Pillar,21,54006,local
+Cement Bonded Bricks/Stone,14,54002,local
+Mud Bonded Bricks/Stone,3703,54002,local
+Not Stated about House,23,54002,local
+Others,0,54002,local
+Rcc with Pillar,1,54002,local
+Wooden Pillar,6,54002,local
+Cement Bonded Bricks/Stone,273,54004,local
+Mud Bonded Bricks/Stone,6869,54004,local
+Not Stated about House,12,54004,local
+Others,2,54004,local
+Rcc with Pillar,114,54004,local
+Wooden Pillar,37,54004,local
+Cement Bonded Bricks/Stone,45,27,district
+Mud Bonded Bricks/Stone,30127,27,district
+Not Stated about House,191,27,district
+Others,8,27,district
+Rcc with Pillar,5,27,district
+Wooden Pillar,92,27,district
+Cement Bonded Bricks/Stone,4,61005,local
+Mud Bonded Bricks/Stone,3529,61005,local
+Not Stated about House,31,61005,local
+Others,2,61005,local
+Rcc with Pillar,0,61005,local
+Wooden Pillar,24,61005,local
+Cement Bonded Bricks/Stone,3,61004,local
+Mud Bonded Bricks/Stone,3716,61004,local
+Not Stated about House,52,61004,local
+Others,0,61004,local
+Rcc with Pillar,0,61004,local
+Wooden Pillar,3,61004,local
+Cement Bonded Bricks/Stone,15,61002,local
+Mud Bonded Bricks/Stone,6503,61002,local
+Not Stated about House,49,61002,local
+Others,0,61002,local
+Rcc with Pillar,1,61002,local
+Wooden Pillar,22,61002,local
+Cement Bonded Bricks/Stone,0,61001,local
+Mud Bonded Bricks/Stone,3072,61001,local
+Not Stated about House,13,61001,local
+Others,1,61001,local
+Rcc with Pillar,1,61001,local
+Wooden Pillar,6,61001,local
+Cement Bonded Bricks/Stone,4,61006,local
+Mud Bonded Bricks/Stone,2536,61006,local
+Not Stated about House,6,61006,local
+Others,0,61006,local
+Rcc with Pillar,0,61006,local
+Wooden Pillar,10,61006,local
+Cement Bonded Bricks/Stone,6,61007,local
+Mud Bonded Bricks/Stone,4692,61007,local
+Not Stated about House,11,61007,local
+Others,5,61007,local
+Rcc with Pillar,2,61007,local
+Wooden Pillar,5,61007,local
+Cement Bonded Bricks/Stone,13,61003,local
+Mud Bonded Bricks/Stone,6079,61003,local
+Not Stated about House,29,61003,local
+Others,0,61003,local
+Rcc with Pillar,1,61003,local
+Wooden Pillar,22,61003,local
+Cement Bonded Bricks/Stone,54,31,district
+Mud Bonded Bricks/Stone,22738,31,district
+Not Stated about House,172,31,district
+Others,12,31,district
+Rcc with Pillar,2,31,district
+Wooden Pillar,30,31,district
+Cement Bonded Bricks/Stone,32,64002,local
+Mud Bonded Bricks/Stone,3529,64002,local
+Not Stated about House,41,64002,local
+Others,2,64002,local
+Rcc with Pillar,1,64002,local
+Wooden Pillar,7,64002,local
+Cement Bonded Bricks/Stone,2,64001,local
+Mud Bonded Bricks/Stone,2436,64001,local
+Not Stated about House,13,64001,local
+Others,1,64001,local
+Rcc with Pillar,0,64001,local
+Wooden Pillar,6,64001,local
+Cement Bonded Bricks/Stone,2,64006,local
+Mud Bonded Bricks/Stone,2399,64006,local
+Not Stated about House,13,64006,local
+Others,7,64006,local
+Rcc with Pillar,0,64006,local
+Wooden Pillar,0,64006,local
+Cement Bonded Bricks/Stone,7,64004,local
+Mud Bonded Bricks/Stone,3554,64004,local
+Not Stated about House,22,64004,local
+Others,0,64004,local
+Rcc with Pillar,0,64004,local
+Wooden Pillar,2,64004,local
+Cement Bonded Bricks/Stone,8,64009,local
+Mud Bonded Bricks/Stone,2655,64009,local
+Not Stated about House,14,64009,local
+Others,1,64009,local
+Rcc with Pillar,1,64009,local
+Wooden Pillar,14,64009,local
+Cement Bonded Bricks/Stone,2,64008,local
+Mud Bonded Bricks/Stone,2091,64008,local
+Not Stated about House,10,64008,local
+Others,1,64008,local
+Rcc with Pillar,0,64008,local
+Wooden Pillar,1,64008,local
+Cement Bonded Bricks/Stone,1,64007,local
+Mud Bonded Bricks/Stone,2662,64007,local
+Not Stated about House,22,64007,local
+Others,0,64007,local
+Rcc with Pillar,0,64007,local
+Wooden Pillar,0,64007,local
+Cement Bonded Bricks/Stone,0,64003,local
+Mud Bonded Bricks/Stone,1437,64003,local
+Not Stated about House,10,64003,local
+Others,0,64003,local
+Rcc with Pillar,0,64003,local
+Wooden Pillar,0,64003,local
+Cement Bonded Bricks/Stone,0,64005,local
+Mud Bonded Bricks/Stone,1975,64005,local
+Not Stated about House,27,64005,local
+Others,0,64005,local
+Rcc with Pillar,0,64005,local
+Wooden Pillar,0,64005,local
