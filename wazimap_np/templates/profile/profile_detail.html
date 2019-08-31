@@ -1,4 +1,11 @@
-{% extends 'profile/profile_detail.html' %}
+{% extends 'profile/profile_detail.html' %}{% load humanize lookup staticfiles %}
+{% load nepal_format %}
+
+
+ {% block profile_header_population %}
+    <span class="value">{{ demographics.total_population.values.this|nepal_format }}</span>
+    <span class="name">Population</span>
+ {% endblock %}
 
 {% block profile_header_tail %}
     <div class="column-full">
@@ -15,4 +22,6 @@
         {% include 'profile/sections/education.html' %}
         {% include 'profile/sections/households.html' %}
     {% endif %}
+
+
 {% endblock %}
