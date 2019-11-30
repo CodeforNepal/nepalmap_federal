@@ -2,7 +2,8 @@
 
 #profile .floating-nav-wrapper {
     height: 55px;
-    
+    background-color: #dadada;
+
   }
   #profile .floating-nav a {
         color: #000000;
@@ -11,7 +12,7 @@
     z-index: 1500;
     width: 100%;
     padding: 0.5em;
-    background-color: #ffffff;
+    background-color: #dadada;
   }
   
   #profile .floating-nav.affix {
@@ -27,6 +28,11 @@
     display: none;
   }
   
+  #profile .floating-nav h3 a {
+    color: #e00015;
+    text-decoration: none;
+  }
+  
   #profile .floating-nav h3 img {
     width: auto;
     height: 17px;
@@ -37,6 +43,7 @@
   #profile .floating-nav.affix h3 {
     display: block;
   }
+
   
   #profile .floating-nav ul {
     margin: 0px;
@@ -55,6 +62,10 @@
     text-decoration: none;
   }
   
+  #profile .floating-nav li a:hover {
+    color: #00adef;
+  }
+
   #profile .floating-nav li a span {
     display: block;
   }
