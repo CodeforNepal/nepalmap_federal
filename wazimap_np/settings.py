@@ -19,6 +19,7 @@ WAZIMAP['name'] = 'NepalMap'
 WAZIMAP['url'] = URL
 WAZIMAP['country_code'] = 'NP'
 WAZIMAP['profile_builder'] = 'wazimap_np.profiles.get_census_profile'
+WAZIMAP['default_geo_version'] = '2016'
 WAZIMAP['levels'] = {
     'country': {
         'plural': 'countries',
@@ -43,10 +44,12 @@ WAZIMAP['levels'] = {
 }
 WAZIMAP['comparative_levels'] = ['country', 'province', 'district', 'local']
 WAZIMAP['geometry_data'] = {
-    'country': 'geo/country.topojson',
-    'province': 'geo/province.topojson',
-    'district': 'geo/district.topojson',
-    'local': 'geo/local.topojson'
+    '2016': {
+        'country': 'geo/country.topojson',
+        'province': 'geo/province.topojson',
+        'district': 'geo/district.topojson',
+        'local': 'geo/local.topojson'
+    }
 }
 
 WAZIMAP['ga_tracking_id'] = os.environ.get('GA_TRACKING_ID')

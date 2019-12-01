@@ -14,9 +14,10 @@ DISABILITY_RECODES = OrderedDict([
     ('Deaf-Blind', 'Deaf and Blind')
 ])
 
-def get_demographics_profile(geo_code, geo_level, session):
+
+def get_demographics_profile(geo, session):
     pop_data, total_pop = get_stat_data(
-        'sex', geo_level, geo_code, session,
+        'sex', geo, session,
         table_fields=['sex'],
         table_name='population')
 
@@ -29,24 +30,20 @@ def get_demographics_profile(geo_code, geo_level, session):
         }
     }
 
-    religion_data, _ = get_stat_data(['religion name'], geo_level,
-                                     geo_code, session,
-                                     order_by='-total')
+    religion_data, _ = get_stat_data(['religion name'], geo, session, order_by='-total')
     most_populous_religion = religion_data[religion_data.keys()[0]]
 
     # language
-    language_data, _ = get_stat_data(
-        ['language'], geo_level, geo_code, session, order_by='-total')
+    language_data, _ = get_stat_data(['language'], geo, session, order_by='-total')
     language_most_spoken = language_data[language_data.keys()[0]]
 
     # caste or ethnic group
-    caste_data, _ = get_stat_data(['caste or ethnic group'], geo_level,
-                                  geo_code, session, order_by='-total')
+    caste_data, _ = get_stat_data(['caste or ethnic group'], geo, session, order_by='-total')
     most_populous_caste = caste_data[caste_data.keys()[0]]
 
     # population by disability
     disability_dist_data, total_disabled = get_stat_data(
-        'disability', geo_level, geo_code, session,
+        'disability', geo, session,
         table_fields=['disability', 'sex'],
         recode=dict(DISABILITY_RECODES),
         key_order=DISABILITY_RECODES.values(),
