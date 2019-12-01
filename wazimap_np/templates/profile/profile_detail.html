@@ -1,6 +1,30 @@
 {% extends 'profile/profile_detail.html' %}{% load humanize lookup staticfiles %}
 {% load nepal_format %}
 
+{% block profile_javascript_libs %}
+{{ block.super }}
+<script src="{% static 'js/affix.js' %}"></script>
+<script src="{% static 'js/profiles.js' %}"></script>
+{% endblock %}
+{% block header_content %}
+<div class="floating-nav-wrapper">
+    <nav class="floating-nav">
+        <div class="wrapper clearfix">
+                <h3>
+                    <!-- <img src="{% static 'img/youth-logo.png' %}"> -->
+                    <a href="#profile">{{ WAZIMAP.name }}</a></h3>
+            <ul>
+                <li><a href="#demographics"><i class="fa fa-users"></i> <span>Demographics</span></a></li>
+                <li><a href="#agriculture"><i class="fa fa-leaf"></i> <span>Agriculture</span></a></li>
+                <li><a href="#education"><i class="fa fa-book"></i> <span>Education</span></a></li>
+                <li><a href="#households"><i class="fa fa-home"></i> <span>Households</span></a></li>
+            </ul>
+        </div>
+    </nav>
+</div>
+
+{{ block.super }}
+{% endblock %}
 
  {% block profile_header_population %}
     <span class="value">{{ demographics.total_population.values.this|nepal_format }}</span>
