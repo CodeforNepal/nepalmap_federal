@@ -16,3 +16,4 @@ $('.floating-nav').affix({
       if ('pushState' in window.history) window.history.pushState({}, null, target);
     }
   });
+  
