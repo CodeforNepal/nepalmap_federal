@@ -17,8 +17,10 @@ SET row_security = off;
 
 ALTER TABLE
     IF EXISTS ONLY public.language
-    DROP CONSTRAINT
-        IF EXISTS language_pkey;
+    DROP CONSTRAINT IF EXISTS language_pkey;
+ALTER TABLE
+    IF EXISTS ONLY public.language
+    DROP CONSTRAINT IF EXISTS pk_language;
 DROP TABLE IF EXISTS public.language;
 
 
@@ -34,7 +36,8 @@ CREATE TABLE public.language (
     geo_level character varying(15) NOT NULL,
     geo_code character varying(10) NOT NULL,
     language character varying(128) NOT NULL,
-    total integer NOT NULL
+    total integer NOT NULL,
+    geo_version character varying(100) DEFAULT ''::character varying NOT NULL
 );
 
 
@@ -46,14 +49,14 @@ ALTER TABLE public.language
 -- Data for Name: language; Type: TABLE DATA; Schema: public; Owner: wazimap_np
 --
 
-\copy public.language (language,total, geo_code,geo_level) FROM 'sql/csv/population-by-mother-tongue.csv' DELIMITER ',' CSV HEADER;
+\copy public.language (language,total, geo_code,geo_level,geo_version) FROM 'sql/csv/population-by-mother-tongue.csv' DELIMITER ',' CSV HEADER;
 
 --
--- Name: language_pkey; Type: CONSTRAINT; Schema: public; Owner: wazimap_np
+-- Name: language pk_language; Type: CONSTRAINT; Schema: public; Owner: wazimap_np
 --
 
 ALTER TABLE ONLY public.language
-    ADD CONSTRAINT language_pkey PRIMARY KEY (geo_level, geo_code, "language");
+    ADD CONSTRAINT pk_language PRIMARY KEY (geo_level, geo_code, geo_version, language);
 
 
 --
