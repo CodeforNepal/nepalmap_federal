@@ -1,12 +1,15 @@
 from wazimap.data.utils import get_stat_data
 
 
-def get_agriculture_profile(geo_code, geo_level, session):
-    land_dist, total_land = get_stat_data(['Agricultural land use area'], geo_level, geo_code, session,
+def get_agriculture_profile(geo, session):
+    land_dist, total_land = get_stat_data(['Agricultural land use area'],
+                                          geo,
+                                          session,
                                           percent=True,
                                           order_by='-total')
 
-    holding_dist, total_holding = get_stat_data(['Agricultural holdings size by land tenure'], geo_level, geo_code,
+    holding_dist, total_holding = get_stat_data(['Agricultural holdings size by land tenure'],
+                                                geo,
                                                 session,
                                                 percent=True,
                                                 order_by='-total')

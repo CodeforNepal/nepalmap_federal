@@ -17,8 +17,10 @@ SET row_security = off;
 
 ALTER TABLE
     IF EXISTS ONLY public.drinkingwatersource
-    DROP CONSTRAINT
-        IF EXISTS drinkingwatersource_pkey;
+    DROP CONSTRAINT IF EXISTS drinkingwatersource_pkey;
+ALTER TABLE
+    IF EXISTS ONLY public.drinkingwatersource
+    DROP CONSTRAINT IF EXISTS pk_drinkingwatersource;
 DROP TABLE IF EXISTS public.drinkingwatersource;
 
 
@@ -27,15 +29,15 @@ SET default_tablespace = '';
 SET default_with_oids = false;
 
 --
--- Name: religion; Type: TABLE; Schema: public; Owner: wazimap_np
+-- Name: drinkingwatersource; Type: TABLE; Schema: public; Owner: wazimap_np
 --
 
-CREATE TABLE public.drinkingwatersource
-(
-    geo_level     character varying(15)  NOT NULL,
-    geo_code      character varying(10)  NOT NULL,
+CREATE TABLE public.drinkingwatersource (
+    geo_level character varying(15) NOT NULL,
+    geo_code character varying(10) NOT NULL,
     "drinking water source" character varying(128) NOT NULL,
-    total         integer                NOT NULL
+    total integer NOT NULL,
+    geo_version character varying(100) DEFAULT ''::character varying NOT NULL
 );
 
 
@@ -46,14 +48,14 @@ ALTER TABLE public.drinkingwatersource
 -- Data for Name: religion; Type: TABLE DATA; Schema: public; Owner: wazimap_np
 --
 
-\copy public.drinkingwatersource ("drinking water source",total,geo_code,geo_level) FROM 'sql/csv/number-of-households-by-source-of-drinking-water.csv' DELIMITER ',' CSV HEADER;
+\copy public.drinkingwatersource ("drinking water source",total,geo_code,geo_level,geo_version) FROM 'sql/csv/number-of-households-by-source-of-drinking-water.csv' DELIMITER ',' CSV HEADER;
 
 --
--- Name: religion_pkey; Type: CONSTRAINT; Schema: public; Owner: wazimap_np
+-- Name: drinkingwatersource pk_drinkingwatersource; Type: CONSTRAINT; Schema: public; Owner: wazimap_np
 --
 
 ALTER TABLE ONLY public.drinkingwatersource
-    ADD CONSTRAINT drinkingwatersource_pkey PRIMARY KEY (geo_level, geo_code, "drinking water source");
+    ADD CONSTRAINT pk_drinkingwatersource PRIMARY KEY (geo_level, geo_code, geo_version, "drinking water source");
 
 
 --

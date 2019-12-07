@@ -17,8 +17,10 @@ SET row_security = off;
 
 ALTER TABLE
     IF EXISTS ONLY public.educationlevelpassed_sex
-    DROP CONSTRAINT
-        IF EXISTS educationlevelpassed_sex_pkey;
+    DROP CONSTRAINT IF EXISTS educationlevelpassed_sex_pkey;
+ALTER TABLE
+    IF EXISTS ONLY public.educationlevelpassed_sex
+    DROP CONSTRAINT IF EXISTS pk_educationlevelpassed_sex;
 DROP TABLE IF EXISTS public.educationlevelpassed_sex;
 
 
@@ -35,7 +37,8 @@ CREATE TABLE public.educationlevelpassed_sex (
     geo_code character varying(10) NOT NULL,
     "education level passed" character varying(128) NOT NULL,
     sex character varying(128) NOT NULL,
-    total integer NOT NULL
+    total integer NOT NULL,
+    geo_version character varying(100) DEFAULT ''::character varying NOT NULL
 );
 
 
@@ -47,14 +50,14 @@ ALTER TABLE public.educationlevelpassed_sex
 -- Data for Name: educationlevelpassed_sex; Type: TABLE DATA; Schema: public; Owner: wazimap_np
 --
 
-\copy public.educationlevelpassed_sex ("education level passed",geo_code,geo_level,sex,total) FROM 'sql/csv/population-by-educational-attainment.csv' DELIMITER ',' CSV HEADER;
+\copy public.educationlevelpassed_sex ("education level passed",geo_code,geo_level,sex,total,geo_version) FROM 'sql/csv/population-by-educational-attainment.csv' DELIMITER ',' CSV HEADER;
 
 --
--- Name: educationlevelpassed_sex_pkey; Type: CONSTRAINT; Schema: public; Owner: wazimap_np
+-- Name: educationlevelpassed_sex pk_educationlevelpassed_sex; Type: CONSTRAINT; Schema: public; Owner: wazimap_np
 --
 
 ALTER TABLE ONLY public.educationlevelpassed_sex
-    ADD CONSTRAINT educationlevelpassed_sex_pkey PRIMARY KEY (geo_level, geo_code, literacy, sex);
+    ADD CONSTRAINT pk_educationlevelpassed_sex PRIMARY KEY (geo_level, geo_code, geo_version, "education level passed", sex);
 
 
 --

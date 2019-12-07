@@ -17,8 +17,10 @@ SET row_security = off;
 
 ALTER TABLE
     IF EXISTS ONLY public.caste
-    DROP CONSTRAINT
-        IF EXISTS caste_pkey;
+    DROP CONSTRAINT IF EXISTS caste_pkey;
+ALTER TABLE
+    IF EXISTS ONLY public.caste
+    DROP CONSTRAINT IF EXISTS pk_caste;
 DROP TABLE IF EXISTS public.caste;
 
 
@@ -34,7 +36,8 @@ CREATE TABLE public.caste (
     geo_level character varying(15) NOT NULL,
     geo_code character varying(10) NOT NULL,
     "caste or ethnic group" character varying(128) NOT NULL,
-    total integer NOT NULL
+    total integer NOT NULL,
+    geo_version character varying(100) DEFAULT ''::character varying NOT NULL
 );
 
 
@@ -46,14 +49,14 @@ ALTER TABLE public.caste
 -- Data for Name: caste; Type: TABLE DATA; Schema: public; Owner: wazimap_np
 --
 
-\copy public.caste ("caste or ethnic group",total, geo_code,geo_level) FROM 'sql/csv/population-by-caste-ethinicity.csv' DELIMITER ',' CSV HEADER;
+\copy public.caste ("caste or ethnic group",total, geo_code,geo_level,geo_version) FROM 'sql/csv/population-by-caste-ethinicity.csv' DELIMITER ',' CSV HEADER;
 
 --
--- Name: caste_pkey; Type: CONSTRAINT; Schema: public; Owner: wazimap_np
+-- Name: caste pk_caste; Type: CONSTRAINT; Schema: public; Owner: wazimap_np
 --
 
 ALTER TABLE ONLY public.caste
-    ADD CONSTRAINT caste_pkey PRIMARY KEY (geo_level, geo_code, "caste or ethnic group");
+    ADD CONSTRAINT pk_caste PRIMARY KEY (geo_level, geo_code, geo_version, "caste or ethnic group");
 
 
 --

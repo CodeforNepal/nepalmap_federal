@@ -79,15 +79,15 @@ LIGHTING_FUEL_RECODES = OrderedDict([
 ])
 
 
-def get_households_profile(geo_code, geo_level, session):
+def get_households_profile(geo, session):
     sex_dist_data, total_pop = get_stat_data(
-        'sex', geo_level, geo_code, session,
+        'sex', geo, session,
         table_fields=['sex'],
         table_name='population')
 
     # home ownership
     home_ownership_dict, total_households = get_stat_data(
-        'home ownership', geo_level, geo_code, session,
+        'home ownership', geo, session,
         recode=dict(HOME_OWNERSHIP_RECODES),
         key_order=HOME_OWNERSHIP_RECODES.values())
     total_own_home = home_ownership_dict['Owned']['numerators']['this']
@@ -99,28 +99,28 @@ def get_households_profile(geo_code, geo_level, session):
 
     # drinking water source
     drinking_water_dict, _ = get_stat_data(
-        'drinking water source', geo_level, geo_code, session,
+        'drinking water source', geo, session,
         recode=dict(DRINKING_WATER_RECODES),
         order_by='-total')
     total_piped_tap = drinking_water_dict['Piped Tap']['numerators']['this']
 
     # lighting fuel
     lighting_fuel_dict, _ = get_stat_data(
-        'lighting fuel', geo_level, geo_code, session,
+        'lighting fuel', geo, session,
         recode=dict(LIGHTING_FUEL_RECODES),
         order_by='-total')
     total_electricity = lighting_fuel_dict['Electricity']['numerators']['this']
 
     # cooking fuel
     cooking_fuel_dict, total_households = get_stat_data(
-        'main type of cooking fuel', geo_level, geo_code, session,
+        'main type of cooking fuel', geo, session,
         recode=dict(COOKING_FUEL_RECODES),
         key_order=COOKING_FUEL_RECODES.values())
     total_wood = cooking_fuel_dict['Wood']['numerators']['this']
 
     # toilet type
     toilet_type_dict, _ = get_stat_data(
-        'toilet type', geo_level, geo_code, session,
+        'toilet type', geo, session,
         recode=dict(TOILET_TYPE_RECODES),
         key_order=TOILET_TYPE_RECODES.values())
     total_flush_toilet = toilet_type_dict['Flush (Septic)']['numerators']['this'] \
@@ -128,7 +128,7 @@ def get_households_profile(geo_code, geo_level, session):
 
     # foundation type
     foundation_type_dict, _ = get_stat_data(
-        'foundation type', geo_level, geo_code, session,
+        'foundation type', geo, session,
         recode=dict(FOUNDATION_TYPE_RECODES),
         key_order=FOUNDATION_TYPE_RECODES.values())
     total_mud_bonded_foundation = \
@@ -136,7 +136,7 @@ def get_households_profile(geo_code, geo_level, session):
 
     # outer wall type
     outer_wall_type_dict, _ = get_stat_data(
-        'outer wall type', geo_level, geo_code, session,
+        'outer wall type', geo, session,
         recode=dict(OUTER_WALL_TYPE_RECODES),
         key_order=OUTER_WALL_TYPE_RECODES.values())
     total_mud_bonded_wall = \
@@ -144,7 +144,7 @@ def get_households_profile(geo_code, geo_level, session):
 
     # roof type
     roof_type_dict, _ = get_stat_data(
-        'roof type', geo_level, geo_code, session,
+        'roof type', geo, session,
         recode=dict(ROOF_TYPE_RECODES),
         key_order=ROOF_TYPE_RECODES.values())
     total_galvanized_roof = \

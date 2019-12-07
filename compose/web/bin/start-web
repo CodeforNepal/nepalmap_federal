@@ -16,7 +16,18 @@ export DATABASE_URL="postgresql://$POSTGRES_USERNAME:$POSTGRES_PASSWORD@$POSTGRE
 export PGPASSWORD="$POSTGRES_PASSWORD"
 
 # Migrate
+# As of wazimap 1.1.1, migrations fail when the ./wazimap_np/tables.py file
+# already lists tables but the tables do not yet exist. Specifically, the
+# migration that adds a geo_version column to each table fails because
+# the column already exists for every table listed in tables.py. The `mv`
+# command temporarily hides the table listings until after the migrations
+# are complete.
+mv ./wazimap_np/tables.py ./wazimap_np/tables.py.bkp
+# The ./wazimap_np/tables.py file needs to exist, but it needs not to have
+# tables defined if we want the migrations to succeed.
+head -2 ./wazimap_np/tables.py.bkp > ./wazimap_np/tables.py
 python ./manage.py migrate --no-input
+mv ./wazimap_np/tables.py.bkp ./wazimap_np/tables.py
 
 # Import data for tables
 cat sql/*.sql | psql -w -U "$POSTGRES_USERNAME" -h "$POSTGRES_HOST"
