@@ -2,7 +2,7 @@
 from wazimap.settings import *  # noqa
 
 # install this app before Wazimap
-INSTALLED_APPS = ['wazimap_np'] + INSTALLED_APPS
+INSTALLED_APPS = ['wazimap_np', 'django.contrib.auth'] + INSTALLED_APPS
 
 DEBUG = False if (os.environ.get('APP_ENV', 'dev') == 'prod') else True
 
