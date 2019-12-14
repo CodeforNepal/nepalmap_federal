@@ -17,8 +17,10 @@ SET row_security = off;
 
 ALTER TABLE
     IF EXISTS ONLY public.disability_sex
-    DROP CONSTRAINT
-        IF EXISTS disability_sex_pkey;
+    DROP CONSTRAINT IF EXISTS disability_sex_pkey;
+ALTER TABLE
+    IF EXISTS ONLY public.disability_sex
+    DROP CONSTRAINT IF EXISTS pk_disability_sex;
 DROP TABLE IF EXISTS public.disability_sex;
 
 
@@ -35,7 +37,8 @@ CREATE TABLE public.disability_sex (
     geo_code character varying(10) NOT NULL,
     disability character varying(128) NOT NULL,
     sex character varying(128) NOT NULL,
-    total integer NOT NULL
+    total integer NOT NULL,
+    geo_version character varying(100) DEFAULT ''::character varying NOT NULL
 );
 
 
@@ -47,14 +50,14 @@ ALTER TABLE public.disability_sex
 -- Data for Name: disability_sex; Type: TABLE DATA; Schema: public; Owner: wazimap_np
 --
 
-\copy public.disability_sex (disability,geo_code,geo_level,sex,total) FROM 'sql/csv/population-by-disability-type.csv' DELIMITER ',' CSV HEADER;
+\copy public.disability_sex (disability,geo_code,geo_level,sex,total,geo_version) FROM 'sql/csv/population-by-disability-type.csv' DELIMITER ',' CSV HEADER;
 
 --
--- Name: disability_sex_pkey; Type: CONSTRAINT; Schema: public; Owner: wazimap_np
+-- Name: disability_sex pk_disability_sex; Type: CONSTRAINT; Schema: public; Owner: wazimap_np
 --
 
 ALTER TABLE ONLY public.disability_sex
-    ADD CONSTRAINT disability_sex_pkey PRIMARY KEY (geo_level, geo_code, disability, sex);
+    ADD CONSTRAINT pk_disability_sex PRIMARY KEY (geo_level, geo_code, geo_version, disability, sex);
 
 
 --

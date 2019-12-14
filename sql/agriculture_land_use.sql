@@ -18,8 +18,10 @@ SET row_security = off;
 
 ALTER TABLE
     IF EXISTS ONLY public.agriculture_land_use
-    DROP CONSTRAINT
-        IF EXISTS agriculture_land_use_pkey;
+    DROP CONSTRAINT IF EXISTS agriculture_land_use_pkey;
+ALTER TABLE
+    IF EXISTS ONLY public.agriculture_land_use
+    DROP CONSTRAINT IF EXISTS pk_agriculture_land_use;
 DROP TABLE IF EXISTS public.agriculture_land_use;
 
 
@@ -31,12 +33,12 @@ SET default_with_oids = false;
 -- Name: agriculture_land_use; Type: TABLE; Schema: public; Owner: wazimap_np
 --
 
-CREATE TABLE public.agriculture_land_use
-(
-    geo_level     character varying(15)  NOT NULL,
-    geo_code      character varying(10)  NOT NULL,
+CREATE TABLE public.agriculture_land_use (
+    geo_level character varying(15) NOT NULL,
+    geo_code character varying(10) NOT NULL,
     "Agricultural land use area" character varying(128) NOT NULL,
-    total         integer                NOT NULL
+    total integer NOT NULL,
+    geo_version character varying(100) DEFAULT ''::character varying NOT NULL
 );
 
 
@@ -47,14 +49,15 @@ ALTER TABLE public.agriculture_land_use
 -- Data for Name: agriculture_land_use; Type: TABLE DATA; Schema: public; Owner: wazimap_np
 --
 
-\copy public.agriculture_land_use ("Agricultural land use area",total,geo_code,geo_level) FROM 'sql/csv/agricultural-land-use-area.csv' DELIMITER ',' CSV HEADER;
+\copy public.agriculture_land_use ("Agricultural land use area",total,geo_code,geo_level,geo_version) FROM 'sql/csv/agricultural-land-use-area.csv' DELIMITER ',' CSV HEADER;
 
 --
--- Name: agriculture_land_use_pkey; Type: CONSTRAINT; Schema: public; Owner: wazimap_np
+-- Name: agriculture_land_use pk_agriculture_land_use; Type: CONSTRAINT; Schema: public; Owner: wazimap_np
 --
 
 ALTER TABLE ONLY public.agriculture_land_use
-    ADD CONSTRAINT agriculture_land_use_pkey PRIMARY KEY (geo_level, geo_code, "Agricultural land use area");
+    ADD CONSTRAINT pk_agriculture_land_use PRIMARY KEY (geo_level, geo_code, geo_version, "Agricultural land use area");
+
 
 
 --

@@ -17,8 +17,10 @@ SET row_security = off;
 
 ALTER TABLE
     IF EXISTS ONLY public.foundationtype
-    DROP CONSTRAINT
-        IF EXISTS foundationtype_pkey;
+    DROP CONSTRAINT IF EXISTS foundationtype_pkey;
+ALTER TABLE
+    IF EXISTS ONLY public.foundationtype
+    DROP CONSTRAINT IF EXISTS pk_foundationtype;
 DROP TABLE IF EXISTS public.foundationtype;
 
 
@@ -30,12 +32,12 @@ SET default_with_oids = false;
 -- Name: foundationtype; Type: TABLE; Schema: public; Owner: wazimap_np
 --
 
-CREATE TABLE public.foundationtype
-(
-    geo_level     character varying(15)  NOT NULL,
-    geo_code      character varying(10)  NOT NULL,
+CREATE TABLE public.foundationtype (
+    geo_level character varying(15) NOT NULL,
+    geo_code character varying(10) NOT NULL,
     "foundation type" character varying(128) NOT NULL,
-    total         integer                NOT NULL
+    total integer NOT NULL,
+    geo_version character varying(100) DEFAULT ''::character varying NOT NULL
 );
 
 
@@ -46,14 +48,14 @@ ALTER TABLE public.foundationtype
 -- Data for Name: foundationtype; Type: TABLE DATA; Schema: public; Owner: wazimap_np
 --
 
-\copy public.foundationtype ("foundation type",total,geo_code,geo_level) FROM 'sql/csv/number-of-households-by-type-of-house-foundation.csv' DELIMITER ',' CSV HEADER;
+\copy public.foundationtype ("foundation type",total,geo_code,geo_level,geo_version) FROM 'sql/csv/number-of-households-by-type-of-house-foundation.csv' DELIMITER ',' CSV HEADER;
 
 --
--- Name: foundationtype_pkey; Type: CONSTRAINT; Schema: public; Owner: wazimap_np
+-- Name: foundationtype pk_foundationtype; Type: CONSTRAINT; Schema: public; Owner: wazimap_np
 --
 
 ALTER TABLE ONLY public.foundationtype
-    ADD CONSTRAINT foundationtype_pkey PRIMARY KEY (geo_level, geo_code, "foundation type");
+    ADD CONSTRAINT pk_foundationtype PRIMARY KEY (geo_level, geo_code, geo_version, "foundation type");
 
 
 --

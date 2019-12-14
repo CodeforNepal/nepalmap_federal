@@ -18,8 +18,10 @@ SET row_security = off;
 
 ALTER TABLE
     IF EXISTS ONLY public.agriculture_holding_size
-    DROP CONSTRAINT
-        IF EXISTS agriculture_holding_size_pkey;
+    DROP CONSTRAINT IF EXISTS agriculture_holding_size_pkey;
+ALTER TABLE
+    IF EXISTS ONLY public.agriculture_holding_size
+    DROP CONSTRAINT IF EXISTS pk_agriculture_holding_size;
 DROP TABLE IF EXISTS public.agriculture_holding_size;
 
 
@@ -31,12 +33,12 @@ SET default_with_oids = false;
 -- Name: agriculture_holding_size; Type: TABLE; Schema: public; Owner: wazimap_np
 --
 
-CREATE TABLE public.agriculture_holding_size
-(
-    geo_level     character varying(15)  NOT NULL,
-    geo_code      character varying(10)  NOT NULL,
+CREATE TABLE public.agriculture_holding_size (
+    geo_level character varying(15) NOT NULL,
+    geo_code character varying(10) NOT NULL,
     "Agricultural holdings size by land tenure" character varying(128) NOT NULL,
-    total         integer                NOT NULL
+    total integer NOT NULL,
+    geo_version character varying(100) DEFAULT ''::character varying NOT NULL
 );
 
 
@@ -47,14 +49,14 @@ ALTER TABLE public.agriculture_holding_size
 -- Data for Name: agriculture_holding_size; Type: TABLE DATA; Schema: public; Owner: wazimap_np
 --
 
-\copy public.agriculture_holding_size ("Agricultural holdings size by land tenure",total,geo_code,geo_level) FROM 'sql/csv/agricultural-holdings-size-by-land-tenure.csv' DELIMITER ',' CSV HEADER;
+\copy public.agriculture_holding_size ("Agricultural holdings size by land tenure",total,geo_code,geo_level,geo_version) FROM 'sql/csv/agricultural-holdings-size-by-land-tenure.csv' DELIMITER ',' CSV HEADER;
 
 --
--- Name: agriculture_holding_size_pkey; Type: CONSTRAINT; Schema: public; Owner: wazimap_np
+-- Name: agriculture_holding_size pk_agriculture_holding_size; Type: CONSTRAINT; Schema: public; Owner: wazimap_np
 --
 
 ALTER TABLE ONLY public.agriculture_holding_size
-    ADD CONSTRAINT agriculture_holding_size_pkey PRIMARY KEY (geo_level, geo_code, "Agricultural holdings size by land tenure");
+    ADD CONSTRAINT pk_agriculture_holding_size PRIMARY KEY (geo_level, geo_code, geo_version, "Agricultural holdings size by land tenure");
 
 
 --

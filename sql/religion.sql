@@ -17,8 +17,10 @@ SET row_security = off;
 
 ALTER TABLE
     IF EXISTS ONLY public.religion
-    DROP CONSTRAINT
-        IF EXISTS religion_pkey;
+    DROP CONSTRAINT IF EXISTS religion_pkey;
+ALTER TABLE
+    IF EXISTS ONLY public.religion
+    DROP CONSTRAINT IF EXISTS pk_religion;
 DROP TABLE IF EXISTS public.religion;
 
 
@@ -30,12 +32,12 @@ SET default_with_oids = false;
 -- Name: religion; Type: TABLE; Schema: public; Owner: wazimap_np
 --
 
-CREATE TABLE public.religion
-(
-    geo_level     character varying(15)  NOT NULL,
-    geo_code      character varying(10)  NOT NULL,
+CREATE TABLE public.religion (
+    geo_level character varying(15) NOT NULL,
+    geo_code character varying(10) NOT NULL,
     "religion name" character varying(128) NOT NULL,
-    total         integer                NOT NULL
+    total integer NOT NULL,
+    geo_version character varying(100) DEFAULT ''::character varying NOT NULL
 );
 
 
@@ -46,14 +48,14 @@ ALTER TABLE public.religion
 -- Data for Name: religion; Type: TABLE DATA; Schema: public; Owner: wazimap_np
 --
 
-\copy public.religion ("religion name",total,geo_code,geo_level) FROM 'sql/csv/population-by-religion.csv' DELIMITER ',' CSV HEADER;
+\copy public.religion ("religion name",total,geo_code,geo_level,geo_version) FROM 'sql/csv/population-by-religion.csv' DELIMITER ',' CSV HEADER;
 
 --
--- Name: religion_pkey; Type: CONSTRAINT; Schema: public; Owner: wazimap_np
+-- Name: religion pk_religion; Type: CONSTRAINT; Schema: public; Owner: wazimap_np
 --
 
 ALTER TABLE ONLY public.religion
-    ADD CONSTRAINT religion_pkey PRIMARY KEY (geo_level, geo_code, "religion name");
+    ADD CONSTRAINT pk_religion PRIMARY KEY (geo_level, geo_code, geo_version, "religion name");
 
 
 --

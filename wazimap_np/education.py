@@ -25,9 +25,9 @@ LITERACY_RECODES = OrderedDict([
 ])
 
 
-def get_education_profile(geo_code, geo_level, session):
+def get_education_profile(geo, session):
     edu_level_reached, pop_five_and_older = get_stat_data(
-        'education level passed', geo_level, geo_code, session,
+        'education level passed', geo, session,
         recode=dict(EDUCATION_LEVEL_PASSED_RECODES),
         key_order=EDUCATION_LEVEL_PASSED_RECODES.values())
 
@@ -37,7 +37,7 @@ def get_education_profile(geo_code, geo_level, session):
             total_primary += data['numerators']['this']
 
     all_edu_level_by_sex, _ = get_stat_data(
-        ['education level passed', 'sex'], geo_level, geo_code, session,
+        ['education level passed', 'sex'], geo, session,
         recode={
             'education level passed': dict(EDUCATION_LEVEL_PASSED_RECODES)},
         key_order={
@@ -59,7 +59,7 @@ def get_education_profile(geo_code, geo_level, session):
             total_secondary_by_sex += data['numerators']['this']
 
     literacy_by_sex, t_lit = get_stat_data(
-        ['literacy', 'sex'], geo_level, geo_code, session,
+        ['literacy', 'sex'], geo, session,
         recode={'literacy': dict(LITERACY_RECODES)},
         key_order={
             'literacy': LITERACY_RECODES.values(),
@@ -67,7 +67,7 @@ def get_education_profile(geo_code, geo_level, session):
         percent_grouping=['sex'])
 
     literacy_dist, _ = get_stat_data(
-        'literacy', geo_level, geo_code, session,
+        'literacy', geo, session,
         recode=dict(LITERACY_RECODES),
         key_order=LITERACY_RECODES.values())
 

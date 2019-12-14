@@ -17,8 +17,10 @@ SET row_security = off;
 
 ALTER TABLE
     IF EXISTS ONLY public.maintypeofcookingfuel
-    DROP CONSTRAINT
-        IF EXISTS maintypeofcookingfuel_pkey;
+    DROP CONSTRAINT IF EXISTS maintypeofcookingfuel_pkey;
+ALTER TABLE
+    IF EXISTS ONLY public.maintypeofcookingfuel
+    DROP CONSTRAINT IF EXISTS pk_maintypeofcookingfuel;
 DROP TABLE IF EXISTS public.maintypeofcookingfuel;
 
 
@@ -30,12 +32,12 @@ SET default_with_oids = false;
 -- Name: maintypeofcookingfuel; Type: TABLE; Schema: public; Owner: wazimap_np
 --
 
-CREATE TABLE public.maintypeofcookingfuel
-(
-    geo_level     character varying(15)  NOT NULL,
-    geo_code      character varying(10)  NOT NULL,
+CREATE TABLE public.maintypeofcookingfuel (
+    geo_level character varying(15) NOT NULL,
+    geo_code character varying(10) NOT NULL,
     "main type of cooking fuel" character varying(128) NOT NULL,
-    total         integer                NOT NULL
+    total integer NOT NULL,
+    geo_version character varying(100) DEFAULT ''::character varying NOT NULL
 );
 
 
@@ -46,14 +48,14 @@ ALTER TABLE public.maintypeofcookingfuel
 -- Data for Name: maintypeofcookingfuel; Type: TABLE DATA; Schema: public; Owner: wazimap_np
 --
 
-\copy public.maintypeofcookingfuel ("main type of cooking fuel",total,geo_code,geo_level) FROM 'sql/csv/number-of-households-by-usage-of-cooking-fuel.csv' DELIMITER ',' CSV HEADER;
+\copy public.maintypeofcookingfuel ("main type of cooking fuel",total,geo_code,geo_level,geo_version) FROM 'sql/csv/number-of-households-by-usage-of-cooking-fuel.csv' DELIMITER ',' CSV HEADER;
 
 --
--- Name: maintypeofcookingfuel_pkey; Type: CONSTRAINT; Schema: public; Owner: wazimap_np
+-- Name: maintypeofcookingfuel pk_maintypeofcookingfuel; Type: CONSTRAINT; Schema: public; Owner: wazimap_np
 --
 
 ALTER TABLE ONLY public.maintypeofcookingfuel
-    ADD CONSTRAINT maintypeofcookingfuel_pkey PRIMARY KEY (geo_level, geo_code, "main type of cooking fuel");
+    ADD CONSTRAINT pk_maintypeofcookingfuel PRIMARY KEY (geo_level, geo_code, geo_version, "main type of cooking fuel");
 
 
 --
