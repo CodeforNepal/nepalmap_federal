@@ -52,3 +52,7 @@ body {
 #page-header-title a, .box-header a {
     margin-right: 5px;
 }
+
+.bold{
+    font-weight: bold;
+}
