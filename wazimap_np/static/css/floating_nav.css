@@ -1,26 +1,29 @@
 /** Source: wazimap-za*/
 
 #profile .floating-nav-wrapper {
-    height: 55px;
-    background-color: #dadada;
-
+    position: absolute;
+    width: 116px;
+    height: 100vh;
   }
   #profile .floating-nav a {
         color: #000000;
   }
   #profile .floating-nav {
     z-index: 1500;
-    width: 100%;
-    padding: 0.5em;
-    background-color: #dadada;
+    height: 100vh;
+    position: absolute;
+    width: 116px;
+    background-color:white;
   }
-  
+  .nav-title{
+    padding: 0.9em;
+
+  }
   #profile .floating-nav.affix {
     position: fixed;
     top: 0px;
     left: 0px;
-    right: 0px;
-    box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.25);
+    /* box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.25); */
   }
   
   #profile .floating-nav h3 {
@@ -46,14 +49,19 @@
 
   
   #profile .floating-nav ul {
-    margin: 0px;
+    margin: 0 auto;
     padding: 0px;
+    position: absolute;
+    height: 100vh;
   }
   
   #profile .floating-nav li {
     display: inline-block;
     float: left;
-    margin-right: 20px;
+    margin-top: 20px;
+    width: 100%;
+    height: 60px;
+    /* margin-right: 20px; */
     text-align: center;
   }
   

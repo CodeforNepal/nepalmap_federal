@@ -56,3 +56,7 @@ body {
 .bold{
     font-weight: bold;
 }
+
+#profile .content-container { 
+    padding-left: 116px ; /** navbar width*/
+}
