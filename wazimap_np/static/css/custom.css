@@ -60,3 +60,7 @@ body {
 #profile .content-container { 
     padding-left: 116px ; /** navbar width*/
 }
+
+.container-title{
+    margin-bottom: 16px;
+}

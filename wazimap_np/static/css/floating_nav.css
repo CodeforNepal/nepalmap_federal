@@ -1,12 +1,14 @@
 /** Source: wazimap-za*/
-
+body{
+  background-color: #eff1ea;
+}
 #profile .floating-nav-wrapper {
     position: absolute;
     width: 116px;
     height: 100vh;
   }
   #profile .floating-nav a {
-        color: #000000;
+    color: #2f2f2f;
   }
   #profile .floating-nav {
     z-index: 1500;
@@ -14,6 +16,7 @@
     position: absolute;
     width: 116px;
     background-color:white;
+    box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0,0,0,.12);
   }
   .nav-title{
     padding: 0.9em;
@@ -71,7 +74,8 @@
   }
   
   #profile .floating-nav li a:hover {
-    color: #00adef;
+    color: #000000;
+    font-weight: bold;
   }
 
   #profile .floating-nav li a span {
@@ -88,3 +92,30 @@
     }
   }
   
+  #cover-profile article{
+    border: 0;
+    box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0,0,0,.12);
+  }
+  article .section-container {
+    background-color: #eff1ea;
+    margin: 0 auto;
+  }
+.section-container section{
+  padding: 16px;
+  background-color: white;
+  box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0,0,0,.12);
+}
+
+.typeahead-container input{
+  height: 60px;
+  border-left: 6px solid #2f2f2f;
+}
+
+#profile #compare-place-picker h2{
+  position: relative;
+  padding: 0 16.8px 0 16.8px;
+}
+
+#profile #compare-place-picker .typeahead-container{
+  padding: 0 16.8px 0 16.8px;
+}
