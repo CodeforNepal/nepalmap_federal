@@ -25,3 +25,15 @@
 #profile #compare-place-picker .typeahead-container{
   padding: 0 16.8px 0 16.8px;
 }
+
+header{
+    &.section-contents{
+        float: inherit;
+        padding-left: 19px;
+        h1{
+            margin-bottom: 0;
+            padding: .6em 0 .55em 0;
+            font-size: 29px;
+        }
+    }
+}

@@ -1,11 +1,11 @@
 <article id="demographics" class="clearfix">
     {% if demographics.has_data %}
-        <!-- <header class="section-contents">
-        </header> -->
+        <header class="section-contents">
+            <h1 class="">Demographics</h1>
+        </header>
         <div class="section-container">
-            <h1 class="container-title">Demographics</h1>
             <section class="clearfix stat-row">
-                <h1><a class="permalink" href="#demographics">Population <i
+                <h2 class="header-for-columns"><a class="permalink" href="#demographics">Population <i
                         class="fa fa-link"></i></a></h2>
                 <div class="column-quarter">
                     {% include 'profile/_blocks/_stat_list.html' with stat=demographics.total_population stat_type='number' %}
