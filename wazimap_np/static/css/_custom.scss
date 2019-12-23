@@ -6,6 +6,8 @@
 @import "css/components/floatingnav";
 @import "css/components/pageheader";
 @import "css/pages/homepage";
+@import "css/pages/profiledetails";
+
 
 .callout i.fa {
     background-color: $brand-color-primary;
@@ -34,10 +36,6 @@
 
 .bold{
     font-weight: bold;
-}
-
-#profile .content-container { 
-    padding-left: 116px ; /** navbar width*/
 }
 
 .container-title{

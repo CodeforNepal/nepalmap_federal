@@ -1,0 +1,27 @@
+#cover-profile article{
+    border: 0;
+    box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0,0,0,.12);
+  }
+  article .section-container {
+    background-color: #eff1ea;
+    margin: 0 auto;
+  }
+.section-container section{
+  padding: 16px;
+  background-color: white;
+  box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0,0,0,.12);
+}
+
+.typeahead-container input{
+  height: 60px;
+  border-left: 6px solid #2f2f2f;
+}
+
+#profile #compare-place-picker h2{
+  position: relative;
+  padding: 0 16.8px 0 16.8px;
+}
+
+#profile #compare-place-picker .typeahead-container{
+  padding: 0 16.8px 0 16.8px;
+}
