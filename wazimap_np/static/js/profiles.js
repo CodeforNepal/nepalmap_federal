@@ -12,7 +12,7 @@ $('.floating-nav').affix({
     var $target = $(target);
   
     if ($target.length) {
-      window.scroll(0, $target.offset().top - 108);
+      window.scroll(0, $target.offset().top - 120);
       if ('pushState' in window.history) window.history.pushState({}, null, target);
     }
   });
