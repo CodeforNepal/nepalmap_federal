@@ -5,6 +5,7 @@ uncomment for separate inclusion into embed iframes */
 @import url(//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.css);
 @import url(//fonts.googleapis.com/css?family=Lato:400,700);
 @import url(//fonts.googleapis.com/css?family=Merriweather);
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap");
 *, *:before, *:after {
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -4223,23 +4224,32 @@ header.section-contents h1 a {
 .profile-head2head-frame #uvTab {
   display: none; }
 
+body {
+  background-color: #eff1ea;
+  font-size: 16px;
+  line-height: 21px;
+  font-family: 'Source Sans Pro', sans-serif; }
+
+input {
+  border-left: 6px solid #2f2f2f !important; }
+
+a {
+  color: #e00015; }
+  a:hover {
+    color: #f85767; }
+
 /** Source: wazimap-za*/
 body {
   background-color: #eff1ea; }
 
 #profile .floating-nav-wrapper {
   position: absolute;
-  width: 116px;
-  height: 100vh; }
+  width: 100%; }
 
 #profile .floating-nav a {
   color: #2f2f2f; }
 
 #profile .floating-nav {
-  z-index: 1500;
-  height: 100vh;
-  position: absolute;
-  width: 116px;
   background-color: white;
   box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12); }
 
@@ -4326,16 +4336,33 @@ article .section-container {
 #profile #compare-place-picker .typeahead-container {
   padding: 0 16.8px 0 16.8px; }
 
-a {
-  color: #e00015; }
-  a:hover {
-    color: #f85767; }
+#page-header {
+  height: 80px;
+  position: relative; }
+  #page-header #page-header-title {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); }
+
+#geography-select-wrapper > div {
+  height: 34px;
+  position: relative; }
+
+#geography-select-wrapper .or {
+  position: absolute;
+  right: 264px; }
+
+#geography-select-wrapper a {
+  width: 264px;
+  position: absolute;
+  right: 0; }
+
+h1.article-header {
+  font-size: 2.6em; }
 
 .callout i.fa {
   background-color: #e00015; }
-
-#cover-profile article {
-  border: 1px solid #00adef; }
 
 .tt-suggestion.tt-cursor {
   background-color: #FF3348; }
@@ -4349,9 +4376,6 @@ a {
 
 .tan-stripe {
   background-color: #f7f7f7; }
-
-body {
-  background-color: #FFF; }
 
 #page-header-title a, .box-header a {
   margin-right: 5px; }

@@ -1,0 +1,7 @@
+#page-header{
+    height: $top-nav-height;
+    position: relative;
+    #page-header-title{
+        @include centerer;
+    }
+}

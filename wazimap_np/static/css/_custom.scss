@@ -1,20 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
 @import "css/abstract/colors";
 @import "css/abstract/variables";
+@import "css/mixins/mixin";
+@import "css/abstract/base";
 @import "css/components/floatingnav";
-
-a {
-    color: $brand-color-primary;
-    &:hover{
-        color: $brand-color-primary-light;
-    }
-}
+@import "css/components/pageheader";
+@import "css/pages/homepage";
 
 .callout i.fa {
     background-color: $brand-color-primary;
-}
-
-#cover-profile article {
-    border: 1px solid #00adef;
 }
 
 .tt-suggestion.tt-cursor { 
@@ -33,9 +27,6 @@ a {
     background-color: #f7f7f7;
 }
 
-body {
-    background-color: #FFF;
-}
 
 #page-header-title a, .box-header a {
     margin-right: 5px;

@@ -1,0 +1,18 @@
+body {
+    background-color: $color-grey;
+    font-size: 16px;
+    line-height: 21px;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+input{
+    border-left: 6px solid $color-black !important;
+}
+
+
+a {
+    color: $brand-color-primary;
+    &:hover{
+        color: $brand-color-primary-light;
+    }
+}
