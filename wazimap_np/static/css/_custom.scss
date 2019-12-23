@@ -1,28 +1,16 @@
+@import "css/abstract/colors";
+@import "css/abstract/variables";
+@import "css/components/floatingnav";
+
 a {
-	color: #e00015;
-}
-
-a:hover {
-    color: #f85767;
-}
-
-#page-header,
-.box-header {
-  background-color: #e00015;
-}
-
-#menu a.button,
-a.action-button,
-.big-action .with-submit input[type="submit"] {
-    background-color: #00adef;
-}
-
-.action-button:hover {
-    background-color: #fa1a2f;
+    color: $brand-color-primary;
+    &:hover{
+        color: $brand-color-primary-light;
+    }
 }
 
 .callout i.fa {
-    background-color: #e00015;
+    background-color: $brand-color-primary;
 }
 
 #cover-profile article {
@@ -35,7 +23,7 @@ a.action-button,
 
 .action-links a {
     cursor: pointer;
-    color: #E00015;
+    color: $brand-color-primary;
 }
 .action-links a:hover {
     color: #FA1A2F;
