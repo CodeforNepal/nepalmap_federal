@@ -4,10 +4,12 @@
 @import url(//fonts.googleapis.com/css?family=Lato:400,700);
 @import url(//fonts.googleapis.com/css?family=Merriweather);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap");
-#profile .content-container > article {
-  background-color: #ffffff;
+#page-header, #profile .content-container > article {
   box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
   border-radius: 6px; }
+
+#profile .content-container > article {
+  background-color: #ffffff; }
 
 /*
 uncomment for separate inclusion into embed iframes */
@@ -4229,10 +4231,12 @@ header.section-contents h1 a {
 .profile-head2head-frame #uvTab {
   display: none; }
 
-#profile .content-container > article {
-  background-color: #ffffff;
+#page-header, #profile .content-container > article {
   box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
   border-radius: 6px; }
+
+#profile .content-container > article {
+  background-color: #ffffff; }
 
 body {
   background-color: #eff1ea;
@@ -4250,6 +4254,15 @@ a {
 
 p {
   color: #3a3a3a; }
+
+#body-spinner {
+  position: fixed;
+  top: 0;
+  left: 50%;
+  margin: 65px 20px;
+  height: 20px;
+  width: 20px;
+  z-index: 100; }
 
 /** Source: wazimap-za*/
 #profile .floating-nav a {
@@ -4314,13 +4327,7 @@ p {
     display: none; } }
 
 #page-header {
-  height: 80px;
-  position: relative; }
-  #page-header #page-header-title {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%); }
+  border-radius: 0; }
 
 #profile #lightbox {
   z-index: 15000; }
@@ -4336,15 +4343,16 @@ p {
     background-color: #eff1ea;
     border: 0; }
 
-#profile .column-header {
+#explore-topic-picker .article-header.column-header, #profile .column-header, .new-header {
   text-align: left;
   font-size: 40px;
   padding: 16px 16px 16px 0;
   font-weight: bold;
   margin-bottom: 37px;
+  line-height: 1em;
   color: #3a3a3a; }
 
-#geography-select-wrapper.full {
+#topic-select-wrapper.input-wrapper, #geography-select-wrapper.full {
   padding-left: 0; }
 
 #geography-select-wrapper .or-text {

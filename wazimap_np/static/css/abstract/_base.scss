@@ -19,3 +19,13 @@ a {
 p{
     color: $color-secondary-text;
 }
+
+#body-spinner {
+    position: fixed;
+    top: 0;
+    left: 50%;
+    margin: 65px 20px;
+    height: 20px;
+    width: 20px;
+    z-index: 100;
+}
