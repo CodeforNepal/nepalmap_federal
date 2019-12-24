@@ -4336,18 +4336,46 @@ p {
     background-color: #eff1ea;
     border: 0; }
 
-#geography-select-wrapper > div {
-  height: 34px;
-  position: relative; }
+#profile .column-header {
+  text-align: left;
+  font-size: 40px;
+  padding: 16px 16px 16px 0;
+  font-weight: bold;
+  margin-bottom: 37px;
+  color: #3a3a3a; }
 
-#geography-select-wrapper .or {
-  position: absolute;
-  right: 264px; }
+#geography-select-wrapper.full {
+  padding-left: 0; }
 
-#geography-select-wrapper a {
-  width: 264px;
-  position: absolute;
-  right: 0; }
+#geography-select-wrapper .or-text {
+  width: 100%;
+  text-align: center;
+  margin-top: 16px;
+  font-size: 20px;
+  font-weight: bold; }
+
+#geography-select-wrapper .actions {
+  width: 100%;
+  position: relative;
+  height: 39px;
+  margin-top: 16px; }
+  #geography-select-wrapper .actions .action-button {
+    width: calc(50% - 9px);
+    margin: 0;
+    display: inline-block; }
+    #geography-select-wrapper .actions .action-button:first-child {
+      margin-right: 7px; }
+    #geography-select-wrapper .actions .action-button:last-child {
+      margin-left: 7px; }
+
+@media only screen and (max-width: 768px) {
+  #geography-select-wrapper .actions .action-button {
+    width: 100%; }
+    #geography-select-wrapper .actions .action-button:first-child {
+      margin-right: 0;
+      margin-bottom: 7px; }
+    #geography-select-wrapper .actions .action-button:last-child {
+      margin-left: 0; } }
 
 h1.article-header {
   font-size: 2.6em; }
@@ -4394,6 +4422,9 @@ h1.article-header {
   color: white; }
   #profile ul.toggle-set li a:hover {
     color: white; }
+
+.profile-head2head-frame .floating-nav-wrapper {
+  display: none; }
 
 .callout i.fa {
   background-color: #e00015; }

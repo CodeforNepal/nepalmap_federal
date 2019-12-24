@@ -4,6 +4,27 @@
 {% block head_meta_description %}{{ WAZIMAP.name }} provides useful facts about places in {{ root_geo.name }}. Compare places using tables and maps, download data, and embed charts on your site!{% endblock %}
 {% block body_id %}homepage{% endblock %}
 
+{% block place_finder %}
+<div class="content-container clearfix tan-stripe">
+    <article id="profile" class="clearfix wrapper">
+        <section class="column-full clearfix big-action">
+            <div class="column-header">Explore Nepal Using Data</div>
+
+            <div id="geography-select-wrapper" class="input-wrapper full">
+                <input name="geography_select" id="geography-select" type="text" placeholder="Find a place in {{ root_geo.name }}..." autocomplete="off" autofocus="on">
+                <div class="or-text">or</div>
+                <span class="actions-wrapper">
+                    <div class="actions">
+                        <a href="{% url 'locate' %}" class="action-button"><i class="fa fa-location-arrow"></i> Use your current location</a>
+                        <a class="action-button" href="/profiles/{{ root_geo.geo_level }}-{{root_geo.geo_code }}/">Browse {{ root_geo.name }}</a>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </article>
+</div>
+{% endblock %}
+
 {% block homepage_detail %}
 <div class="content-container clearfix">
     <article id="explore" class="clearfix wrapper">
