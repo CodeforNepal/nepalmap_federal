@@ -1,11 +1,5 @@
 {% extends '_base.html' %}{% load staticfiles %}
 
-{% block head_css %}
-{{ block.super }}
-<link rel="stylesheet" href="{% static 'css/custom.css' %}">
-<link rel="stylesheet" href="{% static 'css/floating_nav.css' %}">
-{% endblock head_css %}
-
 {% block favicon %}
 <link rel="shortcut icon" href="{{ STATIC_URL }}img/icons/favicon.ico" />
 {% endblock favicon %}

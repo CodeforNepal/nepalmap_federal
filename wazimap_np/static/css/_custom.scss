@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap');
+@import "css/abstract/colors";
+@import "css/abstract/variables";
+@import "css/mixins/mixin";
+@import "css/abstract/base";
+@import "css/components/floatingnav";
+@import "css/components/pageheader";
+@import "css/components/embedmodal";
+
+@import "css/pages/homepage";
+@import "css/pages/profiledetails";
+
+.callout i.fa {
+    background-color: $brand-color-primary;
+}
+
+.tt-suggestion.tt-cursor { 
+ background-color: #FF3348;
+}
+
+.action-links a {
+    cursor: pointer;
+    color: $brand-color-primary;
+}
+.action-links a:hover {
+    color: #FA1A2F;
+}
+
+.tan-stripe {
+    background-color: #f7f7f7;
+}
+
+
+#page-header-title a, .box-header a {
+    margin-right: 5px;
+}
+
+.bold{
+    font-weight: bold;
+}
