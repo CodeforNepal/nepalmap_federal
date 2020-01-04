@@ -1,0 +1,93 @@
+$link-margin: 7px;
+%headers{
+    text-align: left;
+    font-size: 40px;
+    padding: 16px 16px 16px 0;
+    font-weight: bold;
+    margin-bottom: 37px;
+    line-height: 1em;
+    color: $color-secondary-text;
+}
+// where to?
+.new-header{
+    @extend %headers;
+}
+#profile{
+    .column-header{
+        @extend %headers
+    }
+    
+}
+
+%full{
+    padding-left: 0;
+}
+#geography-select-wrapper{
+    &.full{
+        @extend %full;
+    }
+    
+    .or-text{
+            width: 100%;
+            text-align: center;
+            margin-top:16px;
+            font-size: 20px;
+            font-weight: bold;
+    }
+    .actions{
+        width: 100%;
+        position: relative;
+        height: 39px;
+        margin-top: 16px;
+        .action-button{
+            &:first-child{
+                margin-right: $link-margin;
+            }
+            &:last-child{
+                margin-left: $link-margin;
+            }
+            width: calc(50% - 9px);
+            margin:0;
+            display: inline-block;
+        }
+    }
+}
+// end
+@media only screen and (max-width: 768px) {
+    #geography-select-wrapper{
+
+        .actions{
+            .action-button{
+
+                &:first-child{
+                    margin-right: 0;
+                    margin-bottom: $link-margin;
+                }
+                &:last-child{
+                    margin-left: 0;
+                }
+                width: 100%;
+            }
+        }
+    }
+  }
+h1{
+    &.article-header{
+        font-size: 2.6em;
+    }
+}
+
+#explore-topic-picker{
+    .article-header{
+        &.column-header{
+
+            @extend %headers
+        }
+    }
+}
+
+#topic-select-wrapper{
+    &.input-wrapper{
+        @extend %full;
+    }
+}

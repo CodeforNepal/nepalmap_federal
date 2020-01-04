@@ -1,0 +1,9 @@
+#page-header{
+    @extend %card-shadow;
+    border-radius: 0;
+    // position: relative;
+    // height: $top-nav-height;
+    // #page-header-title{
+        // @include centerer;
+    // }
+}
