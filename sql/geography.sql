@@ -78,15 +78,15 @@ Gandaki Province,4,2016,country,Gandaki Province,province,NP
 Province No. 5,5,2016,country,Province No. 5,province,NP
 Karnali Province,6,2016,country,Karnali Province,province,NP
 Sudurpashchim Province,7,2016,country,Sudurpashchim Province,province,NP
-Achham,1,2016,province,Achham,district,7
-Arghakhanchi,2,2016,province,Arghakhanchi,district,5
-Baglung,3,2016,province,Baglung,district,4
-Baitadi,4,2016,province,Baitadi,district,7
-Bajhang,5,2016,province,Bajhang,district,7
-Bajura,6,2016,province,Bajura,district,7
-Banke,7,2016,province,Banke,district,5
-Bara,8,2016,province,Bara,district,2
-Bardiya,9,2016,province,Bardiya,district,5
+Achham,01,2016,province,Achham,district,7
+Arghakhanchi,02,2016,province,Arghakhanchi,district,5
+Baglung,03,2016,province,Baglung,district,4
+Baitadi,04,2016,province,Baitadi,district,7
+Bajhang,05,2016,province,Bajhang,district,7
+Bajura,06,2016,province,Bajura,district,7
+Banke,07,2016,province,Banke,district,5
+Bara,08,2016,province,Bara,district,2
+Bardiya,09,2016,province,Bardiya,district,5
 Bhaktapur,10,2016,province,Bhaktapur,district,3
 Bhojpur,11,2016,province,Bhojpur,district,1
 Chitwan,12,2016,province,Chitwan,district,3
