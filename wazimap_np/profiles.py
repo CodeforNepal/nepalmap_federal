@@ -1,60 +1,72 @@
 from wazimap.data.utils import get_session, merge_dicts, group_remainder
 from wazimap.geo import geo_data
 
-
 from wazimap_np import (
-    demographics,
+    demographics, agriculture, households, education
 )
 
 # ensure tables are loaded
 
-# TODO: keeping this tuple because it is referenced in function code, may be needed to bring back
-# PROFILE_SECTIONS = (
-#     'agriculture',
-#     'business',
-#     'demographics',
-#     'development',
-#     'disasters',
-#     'education',
-#     'elections',
-#     'forests',
-#     'health',
-#     'households'
-# )
-
 PROFILE_SECTIONS = (
     'demographics',
+    'agriculture',
+    'households',
+    'education'
 )
 
-def get_census_profile(geo_code, geo_level, profile_name=None):
+park_geo_codes = {'6099', '14099', '15099', '28088', '28099', '31088', '31099', '33099', '34099', '35099', '43099',
+                  '45099', '49099', '58099', '67099', '68099', '69099', '70099', '72099', '76099', '77099'}
+
+
+def should_have_data(geo):
+    return not (geo.geo_level == 'local' and geo.geo_code in park_geo_codes)
+
+
+def get_census_profile(geo, _profile_name, _request):
     session = get_session()
 
     try:
-        geo_summary_levels = geo_data.get_summary_geo_info(geo_code, geo_level)
+        comparative_geos = geo_data.get_comparative_geos(geo)
         data = {}
 
-        # TODO: commented out because all the other dependent functions are removed, take action if needed
         for section in PROFILE_SECTIONS:
             function_name = 'get_%s_profile' % section
             if function_name in globals():
                 func = globals()[function_name]
-                data[section] = func(geo_code, geo_level, session)
-        #
-        #         # get profiles for province and/or country
-                for level, code in geo_summary_levels:
-        #             # merge summary profile into current geo profile
-                    merge_dicts(data[section], func(code, level, session),
-                                level)
-
+                if should_have_data(geo):
+                    data[section] = func(geo, session)
+                    # Get profiles for province and/or country
+                    for comp_geo in comparative_geos:
+                        try:
+                            merge_dicts(data[section], func(comp_geo, session), comp_geo.geo_level)
+                        except KeyError as e:
+                            msg = "Error merging data into %s for section '%s' from %s: KeyError: %s" % (
+                            geo.geoid, section, comp_geo.geoid, e)
+                            # log.fatal(msg, exc_info=e)
+                            raise ValueError(msg)
+                else:
+                    return {'area_has_no_data': True}
     finally:
         session.close()
 
-    # if geo_level != 'vdc':
-        # group_remainder(data['demographics']['language_distribution'], 10)
-        # group_remainder(data['demographics']['ethnic_distribution'], 10)
+    if geo.geo_level != 'vdc':
+        group_remainder(data['demographics']['language_distribution'], 10)
+        group_remainder(data['demographics']['ethnic_distribution'], 10)
 
     return data
 
 
-def get_demographics_profile(geo_code, geo_level, session):
-    return demographics.get_demographics_profile(geo_code, geo_level, session)
+def get_demographics_profile(geo, session):
+    return demographics.get_demographics_profile(geo, session)
+
+
+def get_agriculture_profile(geo, session):
+    return agriculture.get_agriculture_profile(geo, session)
+
+
+def get_households_profile(geo, session):
+    return households.get_households_profile(geo, session)
+
+
+def get_education_profile(geo, session):
+    return education.get_education_profile(geo, session)

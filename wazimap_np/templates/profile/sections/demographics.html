@@ -1,18 +1,97 @@
 <article id="demographics" class="clearfix">
-    {% if demographics.has_data == False %}
-        <h2>No demographic data available for this area</h2>
-    {% else %}
+    {% if demographics.has_data %}
         <header class="section-contents">
-            <h1>Demographics</h1>
+            <h1 class=""> Demographics</h1>
         </header>
         <div class="section-container">
             <section class="clearfix stat-row">
-                <h2><a class="permalink" href="#demographics">Population <i
+                <h2 class="header-for-columns"><a class="permalink" href="#demographics">Population <i
                         class="fa fa-link"></i></a></h2>
-                    <div class="column-quarter">
-                        {% include 'profile/_blocks/_stat_list.html' with stat=demographics.total_population stat_type='number' %}
-                    </div>
-                    <div class="column-three-quarters" id="chart-pie-demographics-pop_dist" data-stat-type="percentage" data-chart-title="Sex"></div>
+                <div class="column-quarter">
+                    {% include 'profile/_blocks/_stat_list.html' with stat=demographics.total_population stat_type='number' %}
+                </div>
+                <div class="column-three-quarters" id="chart-pie-demographics-pop_dist" data-stat-type="percentage"
+                     data-chart-title="Sex"></div>
+                <small>Source: <br>
+                    <a href="http://nationaldata.gov.np/" target="_blank">National Data Profile</a>
+                    <br>
+                </small>
+            </section>
+
+            <section class="clearfix stat-row">
+                <h2 class="header-for-columns"><a class="permalink"
+                                                  href="#ethnicity"
+                                                  id="ethnicity">Religion <i
+                        class="fa fa-link"></i></a></h2>
+                <div class="column-quarter">
+                    {% include 'profile/_blocks/_stat_list.html' with stat=demographics.most_populous_religion stat_type='name' stat_name='Most populous religion' %}
+                </div>
+                <div class="column-three-quarters">
+                    <div id="chart-histogram-demographics-religion_distribution"
+                         data-stat-type="scaled-percentage"
+                         data-chart-title="Population by religion"></div>
+                </div>
+                <small>Source: <br>
+                    <a href="http://nationaldata.gov.np/" target="_blank">National Data Profile</a>
+                    <br>
+                </small>
+            </section>
+
+            <section class="clearfix stat-row">
+                <h2 class="header-for-columns"><a class="permalink"
+                                                  href="#language"
+                                                  id="language">Language <i
+                        class="fa fa-link"></i></a></h2>
+                <div class="column-quarter">
+                    {% include 'profile/_blocks/_stat_list.html' with stat=demographics.language_most_spoken stat_type='name' stat_name='Language most spoken at home' %}
+                </div>
+                <div class="column-three-quarters">
+                    <div id="chart-histogram-demographics-language_distribution"
+                         data-stat-type="scaled-percentage"
+                         data-chart-title="Population by language most spoken at home"></div>
+                </div>
+                 <small>Source: <br>
+                    <a href="http://nationaldata.gov.np/" target="_blank">National Data Profile</a>
+                    <br>
+                </small>
+            </section>
+
+            <section class="clearfix stat-row">
+                <h2 class="header-for-columns"><a class="permalink"
+                                                  href="#ethnicity"
+                                                  id="ethnicity">Caste and
+                    Ethnic Groups <i
+                            class="fa fa-link"></i></a></h2>
+                <div class="column-quarter">
+                    {% include 'profile/_blocks/_stat_list.html' with stat=demographics.most_populous_caste stat_type='name' stat_name='Most populous caste or ethnic group' %}
+                </div>
+                <div class="column-three-quarters">
+                    <div id="chart-histogram-demographics-ethnic_distribution"
+                         data-stat-type="scaled-percentage"
+                         data-chart-title="Population by caste or ethnic group"></div>
+                </div>
+                 <small>Source: <br>
+                    <a href="http://nationaldata.gov.np/" target="_blank">National Data Profile</a>
+                    <br>
+                </small>
+            </section>
+
+            <section class="clearfix stat-row">
+                <h2><a class="permalink" href="#demographics-disability"
+                       id="demographics-disability">Disabled <i
+                        class="fa fa-link"></i></a></h2>
+                <div class="column-quarter">
+                    {% include 'profile/_blocks/_stat_list.html' with stat=demographics.percent_disabled stat_type='percentage' %}
+                </div>
+                <div class="column-three-quarters"
+                     id="chart-pie-demographics-disability_ratio"
+                     data-stat-type="percentage"
+                     data-chart-title="Disability">
+                </div>
+                <small>Source: <br>
+                    <a href="http://nationaldata.gov.np/">National Data Profile</a>
+                    <br>
+                </small>
             </section>
 
         </div>

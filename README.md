@@ -68,6 +68,9 @@ An application environment context (dev, stage, prod) has to be set along with a
 ```
 # Get all the Makefile documentation
 APP_ENV=dev make help
+
+# Start the web application
+APP_ENV=dev make start
 ```
 
 ## Staging and Production environment (`stage` and `prod`)

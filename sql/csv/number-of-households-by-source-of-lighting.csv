@@ -1,0 +1,5029 @@
+lighting fuel,total,geo_code,geo_level,geo_version
+Bio-Gas,15264,NP,country,2016
+Electricity,3647746,NP,country,2016
+Kerosene,991510,NP,country,2016
+Not Stated about Light,35103,NP,country,2016
+Others Type of Light,330170,NP,country,2016
+Solar,403504,NP,country,2016
+Bio-Gas,3448,3,province,2016
+Electricity,1087058,3,province,2016
+Kerosene,95056,3,province,2016
+Not Stated about Light,8415,3,province,2016
+Others Type of Light,22063,3,province,2016
+Solar,53104,3,province,2016
+Bio-Gas,0,56,district,2016
+Electricity,6961,56,district,2016
+Kerosene,1148,56,district,2016
+Not Stated about Light,36,56,district,2016
+Others Type of Light,976,56,district,2016
+Solar,620,56,district,2016
+Bio-Gas,0,29005,local,2016
+Electricity,1386,29005,local,2016
+Kerosene,221,29005,local,2016
+Not Stated about Light,5,29005,local,2016
+Others Type of Light,135,29005,local,2016
+Solar,99,29005,local,2016
+Bio-Gas,0,29001,local,2016
+Electricity,1583,29001,local,2016
+Kerosene,166,29001,local,2016
+Not Stated about Light,6,29001,local,2016
+Others Type of Light,109,29001,local,2016
+Solar,153,29001,local,2016
+Bio-Gas,0,29003,local,2016
+Electricity,1542,29003,local,2016
+Kerosene,505,29003,local,2016
+Not Stated about Light,9,29003,local,2016
+Others Type of Light,391,29003,local,2016
+Solar,36,29003,local,2016
+Bio-Gas,0,29002,local,2016
+Electricity,1912,29002,local,2016
+Kerosene,143,29002,local,2016
+Not Stated about Light,14,29002,local,2016
+Others Type of Light,20,29002,local,2016
+Solar,0,29002,local,2016
+Bio-Gas,0,29004,local,2016
+Electricity,538,29004,local,2016
+Kerosene,113,29004,local,2016
+Not Stated about Light,2,29004,local,2016
+Others Type of Light,321,29004,local,2016
+Solar,332,29004,local,2016
+Bio-Gas,92,65,district,2016
+Electricity,21791,65,district,2016
+Kerosene,12810,65,district,2016
+Not Stated about Light,234,65,district,2016
+Others Type of Light,7168,65,district,2016
+Solar,15449,65,district,2016
+Bio-Gas,4,20008,local,2016
+Electricity,669,20008,local,2016
+Kerosene,1782,20008,local,2016
+Not Stated about Light,12,20008,local,2016
+Others Type of Light,192,20008,local,2016
+Solar,1898,20008,local,2016
+Bio-Gas,4,20007,local,2016
+Electricity,318,20007,local,2016
+Kerosene,803,20007,local,2016
+Not Stated about Light,20,20007,local,2016
+Others Type of Light,849,20007,local,2016
+Solar,1041,20007,local,2016
+Bio-Gas,6,20004,local,2016
+Electricity,29,20004,local,2016
+Kerosene,470,20004,local,2016
+Not Stated about Light,23,20004,local,2016
+Others Type of Light,1280,20004,local,2016
+Solar,2778,20004,local,2016
+Bio-Gas,9,20006,local,2016
+Electricity,26,20006,local,2016
+Kerosene,1037,20006,local,2016
+Not Stated about Light,16,20006,local,2016
+Others Type of Light,1459,20006,local,2016
+Solar,2323,20006,local,2016
+Bio-Gas,16,20001,local,2016
+Electricity,8326,20001,local,2016
+Kerosene,2873,20001,local,2016
+Not Stated about Light,77,20001,local,2016
+Others Type of Light,558,20001,local,2016
+Solar,1314,20001,local,2016
+Bio-Gas,3,20002,local,2016
+Electricity,367,20002,local,2016
+Kerosene,997,20002,local,2016
+Not Stated about Light,11,20002,local,2016
+Others Type of Light,397,20002,local,2016
+Solar,682,20002,local,2016
+Bio-Gas,8,20009,local,2016
+Electricity,507,20009,local,2016
+Kerosene,1759,20009,local,2016
+Not Stated about Light,23,20009,local,2016
+Others Type of Light,1179,20009,local,2016
+Solar,3403,20009,local,2016
+Bio-Gas,6,20003,local,2016
+Electricity,1185,20003,local,2016
+Kerosene,1160,20003,local,2016
+Not Stated about Light,15,20003,local,2016
+Others Type of Light,567,20003,local,2016
+Solar,748,20003,local,2016
+Bio-Gas,36,20005,local,2016
+Electricity,10364,20005,local,2016
+Kerosene,1929,20005,local,2016
+Not Stated about Light,37,20005,local,2016
+Others Type of Light,687,20005,local,2016
+Solar,1262,20005,local,2016
+Bio-Gas,3,66,district,2016
+Electricity,58827,66,district,2016
+Kerosene,6124,66,district,2016
+Not Stated about Light,384,66,district,2016
+Others Type of Light,460,66,district,2016
+Solar,837,66,district,2016
+Bio-Gas,0,23011,local,2016
+Electricity,4137,23011,local,2016
+Kerosene,189,23011,local,2016
+Not Stated about Light,23,23011,local,2016
+Others Type of Light,9,23011,local,2016
+Solar,1,23011,local,2016
+Bio-Gas,0,23008,local,2016
+Electricity,3424,23008,local,2016
+Kerosene,238,23008,local,2016
+Not Stated about Light,10,23008,local,2016
+Others Type of Light,5,23008,local,2016
+Solar,3,23008,local,2016
+Bio-Gas,0,23007,local,2016
+Electricity,2314,23007,local,2016
+Kerosene,1281,23007,local,2016
+Not Stated about Light,25,23007,local,2016
+Others Type of Light,2,23007,local,2016
+Solar,319,23007,local,2016
+Bio-Gas,1,23006,local,2016
+Electricity,5703,23006,local,2016
+Kerosene,469,23006,local,2016
+Not Stated about Light,34,23006,local,2016
+Others Type of Light,0,23006,local,2016
+Solar,4,23006,local,2016
+Bio-Gas,0,23004,local,2016
+Electricity,10481,23004,local,2016
+Kerosene,303,23004,local,2016
+Not Stated about Light,106,23004,local,2016
+Others Type of Light,12,23004,local,2016
+Solar,4,23004,local,2016
+Bio-Gas,0,23003,local,2016
+Electricity,3815,23003,local,2016
+Kerosene,339,23003,local,2016
+Not Stated about Light,19,23003,local,2016
+Others Type of Light,2,23003,local,2016
+Solar,8,23003,local,2016
+Bio-Gas,0,23005,local,2016
+Electricity,2952,23005,local,2016
+Kerosene,549,23005,local,2016
+Not Stated about Light,21,23005,local,2016
+Others Type of Light,353,23005,local,2016
+Solar,328,23005,local,2016
+Bio-Gas,1,23001,local,2016
+Electricity,4242,23001,local,2016
+Kerosene,158,23001,local,2016
+Not Stated about Light,24,23001,local,2016
+Others Type of Light,2,23001,local,2016
+Solar,2,23001,local,2016
+Bio-Gas,0,23009,local,2016
+Electricity,8930,23009,local,2016
+Kerosene,983,23009,local,2016
+Not Stated about Light,58,23009,local,2016
+Others Type of Light,8,23009,local,2016
+Solar,118,23009,local,2016
+Bio-Gas,0,23012,local,2016
+Electricity,3088,23012,local,2016
+Kerosene,298,23012,local,2016
+Not Stated about Light,3,23012,local,2016
+Others Type of Light,4,23012,local,2016
+Solar,1,23012,local,2016
+Bio-Gas,1,23002,local,2016
+Electricity,5443,23002,local,2016
+Kerosene,693,23002,local,2016
+Not Stated about Light,29,23002,local,2016
+Others Type of Light,55,23002,local,2016
+Solar,4,23002,local,2016
+Bio-Gas,0,23010,local,2016
+Electricity,4298,23010,local,2016
+Kerosene,624,23010,local,2016
+Not Stated about Light,32,23010,local,2016
+Others Type of Light,8,23010,local,2016
+Solar,45,23010,local,2016
+Bio-Gas,333,12,district,2016
+Electricity,113728,12,district,2016
+Kerosene,7211,12,district,2016
+Not Stated about Light,539,12,district,2016
+Others Type of Light,3066,12,district,2016
+Solar,7468,12,district,2016
+Bio-Gas,3,35002,local,2016
+Electricity,2179,35002,local,2016
+Kerosene,1005,35002,local,2016
+Not Stated about Light,13,35002,local,2016
+Others Type of Light,636,35002,local,2016
+Solar,942,35002,local,2016
+Bio-Gas,54,35006,local,2016
+Electricity,9749,35006,local,2016
+Kerosene,1207,35006,local,2016
+Not Stated about Light,23,35006,local,2016
+Others Type of Light,683,35006,local,2016
+Solar,339,35006,local,2016
+Bio-Gas,32,35004,local,2016
+Electricity,11914,35004,local,2016
+Kerosene,314,35004,local,2016
+Not Stated about Light,48,35004,local,2016
+Others Type of Light,16,35004,local,2016
+Solar,7,35004,local,2016
+Bio-Gas,51,35007,local,2016
+Electricity,15313,35007,local,2016
+Kerosene,519,35007,local,2016
+Not Stated about Light,111,35007,local,2016
+Others Type of Light,51,35007,local,2016
+Solar,25,35007,local,2016
+Bio-Gas,19,35003,local,2016
+Electricity,7447,35003,local,2016
+Kerosene,1082,35003,local,2016
+Not Stated about Light,27,35003,local,2016
+Others Type of Light,323,35003,local,2016
+Solar,218,35003,local,2016
+Bio-Gas,157,35001,local,2016
+Electricity,67109,35001,local,2016
+Kerosene,1323,35001,local,2016
+Not Stated about Light,299,35001,local,2016
+Others Type of Light,84,35001,local,2016
+Solar,63,35001,local,2016
+Bio-Gas,17,35005,local,2016
+Electricity,17,35005,local,2016
+Kerosene,1761,35005,local,2016
+Not Stated about Light,18,35005,local,2016
+Others Type of Light,1273,35005,local,2016
+Solar,5874,35005,local,2016
+Bio-Gas,338,38,district,2016
+Electricity,105766,38,district,2016
+Kerosene,1906,38,district,2016
+Not Stated about Light,1092,38,district,2016
+Others Type of Light,172,38,district,2016
+Solar,231,38,district,2016
+Bio-Gas,41,25005,local,2016
+Electricity,14433,25005,local,2016
+Kerosene,119,25005,local,2016
+Not Stated about Light,316,25005,local,2016
+Others Type of Light,4,25005,local,2016
+Solar,17,25005,local,2016
+Bio-Gas,56,25002,local,2016
+Electricity,17116,25002,local,2016
+Kerosene,363,25002,local,2016
+Not Stated about Light,187,25002,local,2016
+Others Type of Light,24,25002,local,2016
+Solar,16,25002,local,2016
+Bio-Gas,4,25001,local,2016
+Electricity,1896,25001,local,2016
+Kerosene,572,25001,local,2016
+Not Stated about Light,12,25001,local,2016
+Others Type of Light,16,25001,local,2016
+Solar,114,25001,local,2016
+Bio-Gas,3,25003,local,2016
+Electricity,1692,25003,local,2016
+Kerosene,275,25003,local,2016
+Not Stated about Light,13,25003,local,2016
+Others Type of Light,12,25003,local,2016
+Solar,6,25003,local,2016
+Bio-Gas,0,25006,local,2016
+Electricity,1587,25006,local,2016
+Kerosene,223,25006,local,2016
+Not Stated about Light,14,25006,local,2016
+Others Type of Light,68,25006,local,2016
+Solar,50,25006,local,2016
+Bio-Gas,234,25004,local,2016
+Electricity,69042,25004,local,2016
+Kerosene,354,25004,local,2016
+Not Stated about Light,550,25004,local,2016
+Others Type of Light,48,25004,local,2016
+Solar,28,25004,local,2016
+Bio-Gas,251,10,district,2016
+Electricity,67037,10,district,2016
+Kerosene,670,10,district,2016
+Not Stated about Light,437,10,district,2016
+Others Type of Light,113,10,district,2016
+Solar,49,10,district,2016
+Bio-Gas,84,26004,local,2016
+Electricity,18040,26004,local,2016
+Kerosene,174,26004,local,2016
+Not Stated about Light,116,26004,local,2016
+Others Type of Light,14,26004,local,2016
+Solar,18,26004,local,2016
+Bio-Gas,39,26002,local,2016
+Electricity,11735,26002,local,2016
+Kerosene,246,26002,local,2016
+Not Stated about Light,92,26002,local,2016
+Others Type of Light,39,26002,local,2016
+Solar,19,26002,local,2016
+Bio-Gas,67,26003,local,2016
+Electricity,19867,26003,local,2016
+Kerosene,185,26003,local,2016
+Not Stated about Light,130,26003,local,2016
+Others Type of Light,43,26003,local,2016
+Solar,10,26003,local,2016
+Bio-Gas,61,26001,local,2016
+Electricity,17395,26001,local,2016
+Kerosene,65,26001,local,2016
+Not Stated about Light,99,26001,local,2016
+Others Type of Light,17,26001,local,2016
+Solar,2,26001,local,2016
+Bio-Gas,5,20,district,2016
+Electricity,37349,20,district,2016
+Kerosene,5775,20,district,2016
+Not Stated about Light,141,20,district,2016
+Others Type of Light,1026,20,district,2016
+Solar,1362,20,district,2016
+Bio-Gas,0,22003,local,2016
+Electricity,2421,22003,local,2016
+Kerosene,1071,22003,local,2016
+Not Stated about Light,19,22003,local,2016
+Others Type of Light,348,22003,local,2016
+Solar,559,22003,local,2016
+Bio-Gas,1,22008,local,2016
+Electricity,3873,22008,local,2016
+Kerosene,952,22008,local,2016
+Not Stated about Light,16,22008,local,2016
+Others Type of Light,45,22008,local,2016
+Solar,71,22008,local,2016
+Bio-Gas,1,22009,local,2016
+Electricity,4155,22009,local,2016
+Kerosene,161,22009,local,2016
+Not Stated about Light,10,22009,local,2016
+Others Type of Light,16,22009,local,2016
+Solar,2,22009,local,2016
+Bio-Gas,2,22002,local,2016
+Electricity,8292,22002,local,2016
+Kerosene,290,22002,local,2016
+Not Stated about Light,22,22002,local,2016
+Others Type of Light,21,22002,local,2016
+Solar,12,22002,local,2016
+Bio-Gas,0,22004,local,2016
+Electricity,3073,22004,local,2016
+Kerosene,614,22004,local,2016
+Not Stated about Light,25,22004,local,2016
+Others Type of Light,177,22004,local,2016
+Solar,178,22004,local,2016
+Bio-Gas,0,22006,local,2016
+Electricity,3315,22006,local,2016
+Kerosene,1395,22006,local,2016
+Not Stated about Light,14,22006,local,2016
+Others Type of Light,396,22006,local,2016
+Solar,337,22006,local,2016
+Bio-Gas,0,22005,local,2016
+Electricity,3629,22005,local,2016
+Kerosene,192,22005,local,2016
+Not Stated about Light,7,22005,local,2016
+Others Type of Light,7,22005,local,2016
+Solar,19,22005,local,2016
+Bio-Gas,0,22007,local,2016
+Electricity,3852,22007,local,2016
+Kerosene,801,22007,local,2016
+Not Stated about Light,21,22007,local,2016
+Others Type of Light,11,22007,local,2016
+Solar,156,22007,local,2016
+Bio-Gas,1,22001,local,2016
+Electricity,4739,22001,local,2016
+Kerosene,299,22001,local,2016
+Not Stated about Light,7,22001,local,2016
+Others Type of Light,5,22001,local,2016
+Solar,28,22001,local,2016
+Bio-Gas,212,41,district,2016
+Electricity,62464,41,district,2016
+Kerosene,15077,41,district,2016
+Not Stated about Light,223,41,district,2016
+Others Type of Light,1467,41,district,2016
+Solar,6602,41,district,2016
+Bio-Gas,13,31010,local,2016
+Electricity,7425,31010,local,2016
+Kerosene,1065,31010,local,2016
+Not Stated about Light,16,31010,local,2016
+Others Type of Light,10,31010,local,2016
+Solar,399,31010,local,2016
+Bio-Gas,5,31006,local,2016
+Electricity,802,31006,local,2016
+Kerosene,1858,31006,local,2016
+Not Stated about Light,14,31006,local,2016
+Others Type of Light,371,31006,local,2016
+Solar,1213,31006,local,2016
+Bio-Gas,6,31003,local,2016
+Electricity,3851,31003,local,2016
+Kerosene,705,31003,local,2016
+Not Stated about Light,12,31003,local,2016
+Others Type of Light,21,31003,local,2016
+Solar,215,31003,local,2016
+Bio-Gas,4,31001,local,2016
+Electricity,1658,31001,local,2016
+Kerosene,1688,31001,local,2016
+Not Stated about Light,10,31001,local,2016
+Others Type of Light,353,31001,local,2016
+Solar,2018,31001,local,2016
+Bio-Gas,5,31005,local,2016
+Electricity,2673,31005,local,2016
+Kerosene,366,31005,local,2016
+Not Stated about Light,8,31005,local,2016
+Others Type of Light,1,31005,local,2016
+Solar,1,31005,local,2016
+Bio-Gas,7,31002,local,2016
+Electricity,4295,31002,local,2016
+Kerosene,1974,31002,local,2016
+Not Stated about Light,7,31002,local,2016
+Others Type of Light,188,31002,local,2016
+Solar,1067,31002,local,2016
+Bio-Gas,14,31008,local,2016
+Electricity,6026,31008,local,2016
+Kerosene,1498,31008,local,2016
+Not Stated about Light,9,31008,local,2016
+Others Type of Light,38,31008,local,2016
+Solar,306,31008,local,2016
+Bio-Gas,13,31009,local,2016
+Electricity,565,31009,local,2016
+Kerosene,2436,31009,local,2016
+Not Stated about Light,4,31009,local,2016
+Others Type of Light,375,31009,local,2016
+Solar,1164,31009,local,2016
+Bio-Gas,6,31007,local,2016
+Electricity,3956,31007,local,2016
+Kerosene,943,31007,local,2016
+Not Stated about Light,23,31007,local,2016
+Others Type of Light,5,31007,local,2016
+Solar,70,31007,local,2016
+Bio-Gas,139,31004,local,2016
+Electricity,31213,31004,local,2016
+Kerosene,2544,31004,local,2016
+Not Stated about Light,120,31004,local,2016
+Others Type of Light,105,31004,local,2016
+Solar,149,31004,local,2016
+Bio-Gas,147,36,district,2016
+Electricity,70415,36,district,2016
+Kerosene,6692,36,district,2016
+Not Stated about Light,702,36,district,2016
+Others Type of Light,939,36,district,2016
+Solar,1756,36,district,2016
+Bio-Gas,43,24001,local,2016
+Electricity,11782,24001,local,2016
+Kerosene,117,24001,local,2016
+Not Stated about Light,143,24001,local,2016
+Others Type of Light,13,24001,local,2016
+Solar,8,24001,local,2016
+Bio-Gas,23,24011,local,2016
+Electricity,8036,24011,local,2016
+Kerosene,359,24011,local,2016
+Not Stated about Light,41,24011,local,2016
+Others Type of Light,44,24011,local,2016
+Solar,41,24011,local,2016
+Bio-Gas,1,24007,local,2016
+Electricity,1887,24007,local,2016
+Kerosene,587,24007,local,2016
+Not Stated about Light,21,24007,local,2016
+Others Type of Light,238,24007,local,2016
+Solar,176,24007,local,2016
+Bio-Gas,13,24010,local,2016
+Electricity,9874,24010,local,2016
+Kerosene,220,24010,local,2016
+Not Stated about Light,72,24010,local,2016
+Others Type of Light,7,24010,local,2016
+Solar,10,24010,local,2016
+Bio-Gas,16,24008,local,2016
+Electricity,6950,24008,local,2016
+Kerosene,309,24008,local,2016
+Not Stated about Light,29,24008,local,2016
+Others Type of Light,15,24008,local,2016
+Solar,9,24008,local,2016
+Bio-Gas,1,24002,local,2016
+Electricity,3481,24002,local,2016
+Kerosene,103,24002,local,2016
+Not Stated about Light,9,24002,local,2016
+Others Type of Light,5,24002,local,2016
+Solar,2,24002,local,2016
+Bio-Gas,10,24012,local,2016
+Electricity,3027,24012,local,2016
+Kerosene,1713,24012,local,2016
+Not Stated about Light,24,24012,local,2016
+Others Type of Light,203,24012,local,2016
+Solar,919,24012,local,2016
+Bio-Gas,18,24005,local,2016
+Electricity,6607,24005,local,2016
+Kerosene,162,24005,local,2016
+Not Stated about Light,239,24005,local,2016
+Others Type of Light,22,24005,local,2016
+Solar,13,24005,local,2016
+Bio-Gas,5,24006,local,2016
+Electricity,1810,24006,local,2016
+Kerosene,512,24006,local,2016
+Not Stated about Light,8,24006,local,2016
+Others Type of Light,1,24006,local,2016
+Solar,36,24006,local,2016
+Bio-Gas,5,24009,local,2016
+Electricity,6139,24009,local,2016
+Kerosene,354,24009,local,2016
+Not Stated about Light,37,24009,local,2016
+Others Type of Light,4,24009,local,2016
+Solar,45,24009,local,2016
+Bio-Gas,4,24004,local,2016
+Electricity,3389,24004,local,2016
+Kerosene,1038,24004,local,2016
+Not Stated about Light,22,24004,local,2016
+Others Type of Light,49,24004,local,2016
+Solar,162,24004,local,2016
+Bio-Gas,4,24013,local,2016
+Electricity,3551,24013,local,2016
+Kerosene,744,24013,local,2016
+Not Stated about Light,21,24013,local,2016
+Others Type of Light,315,24013,local,2016
+Solar,241,24013,local,2016
+Bio-Gas,4,24003,local,2016
+Electricity,3882,24003,local,2016
+Kerosene,474,24003,local,2016
+Not Stated about Light,36,24003,local,2016
+Others Type of Light,23,24003,local,2016
+Solar,94,24003,local,2016
+Bio-Gas,1815,35,district,2016
+Electricity,427363,35,district,2016
+Kerosene,2330,35,district,2016
+Not Stated about Light,3429,35,district,2016
+Others Type of Light,407,35,district,2016
+Solar,200,35,district,2016
+Bio-Gas,1066,27006,local,2016
+Electricity,249949,27006,local,2016
+Kerosene,747,27006,local,2016
+Not Stated about Light,2143,27006,local,2016
+Others Type of Light,282,27006,local,2016
+Solar,105,27006,local,2016
+Bio-Gas,81,27002,local,2016
+Electricity,19975,27002,local,2016
+Kerosene,297,27002,local,2016
+Not Stated about Light,163,27002,local,2016
+Others Type of Light,10,27002,local,2016
+Solar,6,27002,local,2016
+Bio-Gas,78,27005,local,2016
+Electricity,14025,27005,local,2016
+Kerosene,109,27005,local,2016
+Not Stated about Light,99,27005,local,2016
+Others Type of Light,12,27005,local,2016
+Solar,6,27005,local,2016
+Bio-Gas,129,27001,local,2016
+Electricity,26039,27001,local,2016
+Kerosene,123,27001,local,2016
+Not Stated about Light,160,27001,local,2016
+Others Type of Light,23,27001,local,2016
+Solar,11,27001,local,2016
+Bio-Gas,173,27004,local,2016
+Electricity,26489,27004,local,2016
+Kerosene,129,27004,local,2016
+Not Stated about Light,295,27004,local,2016
+Others Type of Light,8,27004,local,2016
+Solar,12,27004,local,2016
+Bio-Gas,11,27003,local,2016
+Electricity,5231,27003,local,2016
+Kerosene,186,27003,local,2016
+Not Stated about Light,39,27003,local,2016
+Others Type of Light,15,27003,local,2016
+Solar,6,27003,local,2016
+Bio-Gas,42,27008,local,2016
+Electricity,16471,27008,local,2016
+Kerosene,95,27008,local,2016
+Not Stated about Light,110,27008,local,2016
+Others Type of Light,17,27008,local,2016
+Solar,11,27008,local,2016
+Bio-Gas,11,27009,local,2016
+Electricity,5107,27009,local,2016
+Kerosene,242,27009,local,2016
+Not Stated about Light,32,27009,local,2016
+Others Type of Light,3,27009,local,2016
+Solar,11,27009,local,2016
+Bio-Gas,84,27007,local,2016
+Electricity,19108,27007,local,2016
+Kerosene,117,27007,local,2016
+Not Stated about Light,118,27007,local,2016
+Others Type of Light,6,27007,local,2016
+Solar,8,27007,local,2016
+Bio-Gas,66,27010,local,2016
+Electricity,19779,27010,local,2016
+Kerosene,160,27010,local,2016
+Not Stated about Light,127,27010,local,2016
+Others Type of Light,18,27010,local,2016
+Solar,8,27010,local,2016
+Bio-Gas,74,27011,local,2016
+Electricity,25190,27011,local,2016
+Kerosene,125,27011,local,2016
+Not Stated about Light,143,27011,local,2016
+Others Type of Light,13,27011,local,2016
+Solar,16,27011,local,2016
+Bio-Gas,114,55,district,2016
+Electricity,19970,55,district,2016
+Kerosene,13189,55,district,2016
+Not Stated about Light,428,55,district,2016
+Others Type of Light,796,55,district,2016
+Solar,9386,55,district,2016
+Bio-Gas,19,21008,local,2016
+Electricity,2339,21008,local,2016
+Kerosene,807,21008,local,2016
+Not Stated about Light,25,21008,local,2016
+Others Type of Light,66,21008,local,2016
+Solar,613,21008,local,2016
+Bio-Gas,27,21005,local,2016
+Electricity,5417,21005,local,2016
+Kerosene,3332,21005,local,2016
+Not Stated about Light,100,21005,local,2016
+Others Type of Light,92,21005,local,2016
+Solar,1131,21005,local,2016
+Bio-Gas,12,21001,local,2016
+Electricity,2075,21001,local,2016
+Kerosene,1553,21001,local,2016
+Not Stated about Light,58,21001,local,2016
+Others Type of Light,87,21001,local,2016
+Solar,1208,21001,local,2016
+Bio-Gas,9,21002,local,2016
+Electricity,3386,21002,local,2016
+Kerosene,985,21002,local,2016
+Not Stated about Light,38,21002,local,2016
+Others Type of Light,8,21002,local,2016
+Solar,20,21002,local,2016
+Bio-Gas,5,21007,local,2016
+Electricity,1896,21007,local,2016
+Kerosene,918,21007,local,2016
+Not Stated about Light,25,21007,local,2016
+Others Type of Light,30,21007,local,2016
+Solar,1176,21007,local,2016
+Bio-Gas,15,21004,local,2016
+Electricity,763,21004,local,2016
+Kerosene,2343,21004,local,2016
+Not Stated about Light,53,21004,local,2016
+Others Type of Light,65,21004,local,2016
+Solar,1689,21004,local,2016
+Bio-Gas,5,21003,local,2016
+Electricity,1079,21003,local,2016
+Kerosene,1586,21003,local,2016
+Not Stated about Light,107,21003,local,2016
+Others Type of Light,203,21003,local,2016
+Solar,2392,21003,local,2016
+Bio-Gas,22,21006,local,2016
+Electricity,3015,21006,local,2016
+Kerosene,1665,21006,local,2016
+Not Stated about Light,22,21006,local,2016
+Others Type of Light,245,21006,local,2016
+Solar,1157,21006,local,2016
+Bio-Gas,100,48,district,2016
+Electricity,49130,48,district,2016
+Kerosene,7842,48,district,2016
+Not Stated about Light,505,48,district,2016
+Others Type of Light,669,48,district,2016
+Solar,948,48,district,2016
+Bio-Gas,10,28009,local,2016
+Electricity,2756,28009,local,2016
+Kerosene,1597,28009,local,2016
+Not Stated about Light,31,28009,local,2016
+Others Type of Light,22,28009,local,2016
+Solar,260,28009,local,2016
+Bio-Gas,32,28002,local,2016
+Electricity,11919,28002,local,2016
+Kerosene,391,28002,local,2016
+Not Stated about Light,94,28002,local,2016
+Others Type of Light,63,28002,local,2016
+Solar,6,28002,local,2016
+Bio-Gas,2,28008,local,2016
+Electricity,2828,28008,local,2016
+Kerosene,457,28008,local,2016
+Not Stated about Light,26,28008,local,2016
+Others Type of Light,1,28008,local,2016
+Solar,7,28008,local,2016
+Bio-Gas,3,28006,local,2016
+Electricity,3322,28006,local,2016
+Kerosene,277,28006,local,2016
+Not Stated about Light,21,28006,local,2016
+Others Type of Light,3,28006,local,2016
+Solar,3,28006,local,2016
+Bio-Gas,3,28011,local,2016
+Electricity,2799,28011,local,2016
+Kerosene,535,28011,local,2016
+Not Stated about Light,17,28011,local,2016
+Others Type of Light,225,28011,local,2016
+Solar,3,28011,local,2016
+Bio-Gas,8,28012,local,2016
+Electricity,2721,28012,local,2016
+Kerosene,706,28012,local,2016
+Not Stated about Light,35,28012,local,2016
+Others Type of Light,1,28012,local,2016
+Solar,40,28012,local,2016
+Bio-Gas,8,28003,local,2016
+Electricity,3352,28003,local,2016
+Kerosene,876,28003,local,2016
+Not Stated about Light,43,28003,local,2016
+Others Type of Light,118,28003,local,2016
+Solar,54,28003,local,2016
+Bio-Gas,8,28005,local,2016
+Electricity,2650,28005,local,2016
+Kerosene,488,28005,local,2016
+Not Stated about Light,34,28005,local,2016
+Others Type of Light,139,28005,local,2016
+Solar,21,28005,local,2016
+Bio-Gas,4,28010,local,2016
+Electricity,3110,28010,local,2016
+Kerosene,313,28010,local,2016
+Not Stated about Light,30,28010,local,2016
+Others Type of Light,49,28010,local,2016
+Solar,3,28010,local,2016
+Bio-Gas,1,28007,local,2016
+Electricity,3033,28007,local,2016
+Kerosene,294,28007,local,2016
+Not Stated about Light,26,28007,local,2016
+Others Type of Light,27,28007,local,2016
+Solar,7,28007,local,2016
+Bio-Gas,15,28001,local,2016
+Electricity,5968,28001,local,2016
+Kerosene,1503,28001,local,2016
+Not Stated about Light,73,28001,local,2016
+Others Type of Light,19,28001,local,2016
+Solar,521,28001,local,2016
+Bio-Gas,6,28004,local,2016
+Electricity,4672,28004,local,2016
+Kerosene,405,28004,local,2016
+Not Stated about Light,75,28004,local,2016
+Others Type of Light,2,28004,local,2016
+Solar,23,28004,local,2016
+Bio-Gas,38,17,district,2016
+Electricity,46257,17,district,2016
+Kerosene,14282,17,district,2016
+Not Stated about Light,265,17,district,2016
+Others Type of Light,4804,17,district,2016
+Solar,8196,17,district,2016
+Bio-Gas,2,30010,local,2016
+Electricity,897,30010,local,2016
+Kerosene,7,30010,local,2016
+Not Stated about Light,13,30010,local,2016
+Others Type of Light,522,30010,local,2016
+Solar,693,30010,local,2016
+Bio-Gas,0,30007,local,2016
+Electricity,1193,30007,local,2016
+Kerosene,712,30007,local,2016
+Not Stated about Light,27,30007,local,2016
+Others Type of Light,385,30007,local,2016
+Solar,334,30007,local,2016
+Bio-Gas,1,30004,local,2016
+Electricity,4190,30004,local,2016
+Kerosene,1081,30004,local,2016
+Not Stated about Light,25,30004,local,2016
+Others Type of Light,35,30004,local,2016
+Solar,78,30004,local,2016
+Bio-Gas,9,30009,local,2016
+Electricity,10922,30009,local,2016
+Kerosene,2014,30009,local,2016
+Not Stated about Light,37,30009,local,2016
+Others Type of Light,195,30009,local,2016
+Solar,807,30009,local,2016
+Bio-Gas,8,30011,local,2016
+Electricity,3965,30011,local,2016
+Kerosene,807,30011,local,2016
+Not Stated about Light,31,30011,local,2016
+Others Type of Light,169,30011,local,2016
+Solar,158,30011,local,2016
+Bio-Gas,2,30005,local,2016
+Electricity,1960,30005,local,2016
+Kerosene,1212,30005,local,2016
+Not Stated about Light,9,30005,local,2016
+Others Type of Light,432,30005,local,2016
+Solar,1249,30005,local,2016
+Bio-Gas,1,30008,local,2016
+Electricity,1020,30008,local,2016
+Kerosene,1088,30008,local,2016
+Not Stated about Light,9,30008,local,2016
+Others Type of Light,63,30008,local,2016
+Solar,940,30008,local,2016
+Bio-Gas,3,30003,local,2016
+Electricity,2600,30003,local,2016
+Kerosene,1299,30003,local,2016
+Not Stated about Light,31,30003,local,2016
+Others Type of Light,950,30003,local,2016
+Solar,717,30003,local,2016
+Bio-Gas,3,30006,local,2016
+Electricity,2758,30006,local,2016
+Kerosene,1383,30006,local,2016
+Not Stated about Light,14,30006,local,2016
+Others Type of Light,463,30006,local,2016
+Solar,1109,30006,local,2016
+Bio-Gas,7,30013,local,2016
+Electricity,1406,30013,local,2016
+Kerosene,2123,30013,local,2016
+Not Stated about Light,19,30013,local,2016
+Others Type of Light,199,30013,local,2016
+Solar,1601,30013,local,2016
+Bio-Gas,0,30002,local,2016
+Electricity,6030,30002,local,2016
+Kerosene,615,30002,local,2016
+Not Stated about Light,15,30002,local,2016
+Others Type of Light,8,30002,local,2016
+Solar,91,30002,local,2016
+Bio-Gas,1,30012,local,2016
+Electricity,6155,30012,local,2016
+Kerosene,711,30012,local,2016
+Not Stated about Light,14,30012,local,2016
+Others Type of Light,26,30012,local,2016
+Solar,20,30012,local,2016
+Bio-Gas,1,30001,local,2016
+Electricity,3161,30001,local,2016
+Kerosene,1230,30001,local,2016
+Not Stated about Light,21,30001,local,2016
+Others Type of Light,1357,30001,local,2016
+Solar,399,30001,local,2016
+Bio-Gas,2133,5,province,2016
+Electricity,583931,5,province,2016
+Kerosene,181881,5,province,2016
+Not Stated about Light,4584,5,province,2016
+Others Type of Light,53863,5,province,2016
+Solar,58365,5,province,2016
+Bio-Gas,125,24,district,2016
+Electricity,41654,24,district,2016
+Kerosene,13562,24,district,2016
+Not Stated about Light,159,24,district,2016
+Others Type of Light,1850,24,district,2016
+Solar,7537,24,district,2016
+Bio-Gas,4,46006,local,2016
+Electricity,3721,46006,local,2016
+Kerosene,330,46006,local,2016
+Not Stated about Light,7,46006,local,2016
+Others Type of Light,27,46006,local,2016
+Solar,9,46006,local,2016
+Bio-Gas,7,46001,local,2016
+Electricity,4534,46001,local,2016
+Kerosene,505,46001,local,2016
+Not Stated about Light,8,46001,local,2016
+Others Type of Light,47,46001,local,2016
+Solar,20,46001,local,2016
+Bio-Gas,25,46010,local,2016
+Electricity,7456,46010,local,2016
+Kerosene,716,46010,local,2016
+Not Stated about Light,29,46010,local,2016
+Others Type of Light,50,46010,local,2016
+Solar,77,46010,local,2016
+Bio-Gas,12,46008,local,2016
+Electricity,562,46008,local,2016
+Kerosene,1979,46008,local,2016
+Not Stated about Light,23,46008,local,2016
+Others Type of Light,505,46008,local,2016
+Solar,1469,46008,local,2016
+Bio-Gas,4,46011,local,2016
+Electricity,3884,46011,local,2016
+Kerosene,696,46011,local,2016
+Not Stated about Light,12,46011,local,2016
+Others Type of Light,4,46011,local,2016
+Solar,103,46011,local,2016
+Bio-Gas,10,46012,local,2016
+Electricity,4042,46012,local,2016
+Kerosene,805,46012,local,2016
+Not Stated about Light,15,46012,local,2016
+Others Type of Light,6,46012,local,2016
+Solar,648,46012,local,2016
+Bio-Gas,21,46003,local,2016
+Electricity,924,46003,local,2016
+Kerosene,2080,46003,local,2016
+Not Stated about Light,6,46003,local,2016
+Others Type of Light,330,46003,local,2016
+Solar,1946,46003,local,2016
+Bio-Gas,7,46002,local,2016
+Electricity,4865,46002,local,2016
+Kerosene,426,46002,local,2016
+Not Stated about Light,10,46002,local,2016
+Others Type of Light,4,46002,local,2016
+Solar,3,46002,local,2016
+Bio-Gas,6,46004,local,2016
+Electricity,4782,46004,local,2016
+Kerosene,460,46004,local,2016
+Not Stated about Light,6,46004,local,2016
+Others Type of Light,10,46004,local,2016
+Solar,2,46004,local,2016
+Bio-Gas,9,46007,local,2016
+Electricity,447,46007,local,2016
+Kerosene,1998,46007,local,2016
+Not Stated about Light,19,46007,local,2016
+Others Type of Light,648,46007,local,2016
+Solar,1736,46007,local,2016
+Bio-Gas,17,46009,local,2016
+Electricity,4884,46009,local,2016
+Kerosene,1786,46009,local,2016
+Not Stated about Light,20,46009,local,2016
+Others Type of Light,48,46009,local,2016
+Solar,320,46009,local,2016
+Bio-Gas,3,46005,local,2016
+Electricity,1553,46005,local,2016
+Kerosene,1781,46005,local,2016
+Not Stated about Light,4,46005,local,2016
+Others Type of Light,171,46005,local,2016
+Solar,1204,46005,local,2016
+Bio-Gas,67,59,district,2016
+Electricity,2011,59,district,2016
+Kerosene,752,59,district,2016
+Not Stated about Light,24,59,district,2016
+Others Type of Light,3287,59,district,2016
+Solar,5061,59,district,2016
+Bio-Gas,23,77001,local,2016
+Electricity,694,77001,local,2016
+Kerosene,234,77001,local,2016
+Not Stated about Light,13,77001,local,2016
+Others Type of Light,1379,77001,local,2016
+Solar,1492,77001,local,2016
+Bio-Gas,40,77002,local,2016
+Electricity,439,77002,local,2016
+Kerosene,119,77002,local,2016
+Not Stated about Light,8,77002,local,2016
+Others Type of Light,1201,77002,local,2016
+Solar,2054,77002,local,2016
+Bio-Gas,4,77003,local,2016
+Electricity,878,77003,local,2016
+Kerosene,399,77003,local,2016
+Not Stated about Light,3,77003,local,2016
+Others Type of Light,707,77003,local,2016
+Solar,1515,77003,local,2016
+Bio-Gas,86,54,district,2016
+Electricity,25591,54,district,2016
+Kerosene,10346,54,district,2016
+Not Stated about Light,141,54,district,2016
+Others Type of Light,8277,54,district,2016
+Solar,3275,54,district,2016
+Bio-Gas,5,52001,local,2016
+Electricity,3284,52001,local,2016
+Kerosene,727,52001,local,2016
+Not Stated about Light,5,52001,local,2016
+Others Type of Light,599,52001,local,2016
+Solar,30,52001,local,2016
+Bio-Gas,7,52004,local,2016
+Electricity,2882,52004,local,2016
+Kerosene,865,52004,local,2016
+Not Stated about Light,9,52004,local,2016
+Others Type of Light,236,52004,local,2016
+Solar,121,52004,local,2016
+Bio-Gas,11,52003,local,2016
+Electricity,3444,52003,local,2016
+Kerosene,1781,52003,local,2016
+Not Stated about Light,7,52003,local,2016
+Others Type of Light,194,52003,local,2016
+Solar,431,52003,local,2016
+Bio-Gas,4,52005,local,2016
+Electricity,2200,52005,local,2016
+Kerosene,291,52005,local,2016
+Not Stated about Light,19,52005,local,2016
+Others Type of Light,514,52005,local,2016
+Solar,40,52005,local,2016
+Bio-Gas,9,52008,local,2016
+Electricity,1500,52008,local,2016
+Kerosene,388,52008,local,2016
+Not Stated about Light,9,52008,local,2016
+Others Type of Light,1354,52008,local,2016
+Solar,224,52008,local,2016
+Bio-Gas,14,52002,local,2016
+Electricity,749,52002,local,2016
+Kerosene,1489,52002,local,2016
+Not Stated about Light,18,52002,local,2016
+Others Type of Light,1572,52002,local,2016
+Solar,943,52002,local,2016
+Bio-Gas,10,52009,local,2016
+Electricity,3756,52009,local,2016
+Kerosene,659,52009,local,2016
+Not Stated about Light,21,52009,local,2016
+Others Type of Light,1568,52009,local,2016
+Solar,954,52009,local,2016
+Bio-Gas,11,52007,local,2016
+Electricity,6159,52007,local,2016
+Kerosene,2480,52007,local,2016
+Not Stated about Light,40,52007,local,2016
+Others Type of Light,238,52007,local,2016
+Solar,36,52007,local,2016
+Bio-Gas,15,52006,local,2016
+Electricity,1617,52006,local,2016
+Kerosene,1666,52006,local,2016
+Not Stated about Light,13,52006,local,2016
+Others Type of Light,2002,52006,local,2016
+Solar,496,52006,local,2016
+Bio-Gas,349,60,district,2016
+Electricity,132073,60,district,2016
+Kerosene,29451,60,district,2016
+Not Stated about Light,1252,60,district,2016
+Others Type of Light,322,60,district,2016
+Solar,388,60,district,2016
+Bio-Gas,9,49010,local,2016
+Electricity,3572,49010,local,2016
+Kerosene,2015,49010,local,2016
+Not Stated about Light,40,49010,local,2016
+Others Type of Light,8,49010,local,2016
+Solar,13,49010,local,2016
+Bio-Gas,4,49004,local,2016
+Electricity,6592,49004,local,2016
+Kerosene,456,49004,local,2016
+Not Stated about Light,15,49004,local,2016
+Others Type of Light,12,49004,local,2016
+Solar,5,49004,local,2016
+Bio-Gas,4,49012,local,2016
+Electricity,1910,49012,local,2016
+Kerosene,3111,49012,local,2016
+Not Stated about Light,72,49012,local,2016
+Others Type of Light,0,49012,local,2016
+Solar,23,49012,local,2016
+Bio-Gas,95,49001,local,2016
+Electricity,32321,49001,local,2016
+Kerosene,1194,49001,local,2016
+Not Stated about Light,385,49001,local,2016
+Others Type of Light,79,49001,local,2016
+Solar,23,49001,local,2016
+Bio-Gas,12,49015,local,2016
+Electricity,5130,49015,local,2016
+Kerosene,963,49015,local,2016
+Not Stated about Light,22,49015,local,2016
+Others Type of Light,4,49015,local,2016
+Solar,14,49015,local,2016
+Bio-Gas,6,49009,local,2016
+Electricity,4559,49009,local,2016
+Kerosene,1157,49009,local,2016
+Not Stated about Light,23,49009,local,2016
+Others Type of Light,5,49009,local,2016
+Solar,37,49009,local,2016
+Bio-Gas,12,49011,local,2016
+Electricity,11701,49011,local,2016
+Kerosene,629,49011,local,2016
+Not Stated about Light,22,49011,local,2016
+Others Type of Light,19,49011,local,2016
+Solar,9,49011,local,2016
+Bio-Gas,50,49016,local,2016
+Electricity,20626,49016,local,2016
+Kerosene,1094,49016,local,2016
+Not Stated about Light,95,49016,local,2016
+Others Type of Light,72,49016,local,2016
+Solar,20,49016,local,2016
+Bio-Gas,14,49014,local,2016
+Electricity,5665,49014,local,2016
+Kerosene,1057,49014,local,2016
+Not Stated about Light,28,49014,local,2016
+Others Type of Light,7,49014,local,2016
+Solar,21,49014,local,2016
+Bio-Gas,11,49008,local,2016
+Electricity,3912,49008,local,2016
+Kerosene,2809,49008,local,2016
+Not Stated about Light,48,49008,local,2016
+Others Type of Light,5,49008,local,2016
+Solar,25,49008,local,2016
+Bio-Gas,10,49003,local,2016
+Electricity,4074,49003,local,2016
+Kerosene,3085,49003,local,2016
+Not Stated about Light,66,49003,local,2016
+Others Type of Light,5,49003,local,2016
+Solar,45,49003,local,2016
+Bio-Gas,18,49006,local,2016
+Electricity,5830,49006,local,2016
+Kerosene,3884,49006,local,2016
+Not Stated about Light,108,49006,local,2016
+Others Type of Light,72,49006,local,2016
+Solar,34,49006,local,2016
+Bio-Gas,6,49005,local,2016
+Electricity,2898,49005,local,2016
+Kerosene,2621,49005,local,2016
+Not Stated about Light,45,49005,local,2016
+Others Type of Light,3,49005,local,2016
+Solar,20,49005,local,2016
+Bio-Gas,11,49007,local,2016
+Electricity,1462,49007,local,2016
+Kerosene,3676,49007,local,2016
+Not Stated about Light,78,49007,local,2016
+Others Type of Light,0,49007,local,2016
+Solar,36,49007,local,2016
+Bio-Gas,36,49002,local,2016
+Electricity,10281,49002,local,2016
+Kerosene,938,49002,local,2016
+Not Stated about Light,85,49002,local,2016
+Others Type of Light,19,49002,local,2016
+Solar,51,49002,local,2016
+Bio-Gas,51,49013,local,2016
+Electricity,11540,49013,local,2016
+Kerosene,762,49013,local,2016
+Not Stated about Light,120,49013,local,2016
+Others Type of Light,12,49013,local,2016
+Solar,12,49013,local,2016
+Bio-Gas,104,76,district,2016
+Electricity,51658,76,district,2016
+Kerosene,9214,76,district,2016
+Not Stated about Light,414,76,district,2016
+Others Type of Light,146,76,district,2016
+Solar,309,76,district,2016
+Bio-Gas,13,48004,local,2016
+Electricity,8563,48004,local,2016
+Kerosene,1593,48004,local,2016
+Not Stated about Light,69,48004,local,2016
+Others Type of Light,17,48004,local,2016
+Solar,27,48004,local,2016
+Bio-Gas,7,48002,local,2016
+Electricity,4819,48002,local,2016
+Kerosene,1003,48002,local,2016
+Not Stated about Light,26,48002,local,2016
+Others Type of Light,1,48002,local,2016
+Solar,25,48002,local,2016
+Bio-Gas,22,48005,local,2016
+Electricity,5188,48005,local,2016
+Kerosene,1322,48005,local,2016
+Not Stated about Light,62,48005,local,2016
+Others Type of Light,16,48005,local,2016
+Solar,23,48005,local,2016
+Bio-Gas,39,48001,local,2016
+Electricity,11938,48001,local,2016
+Kerosene,1268,48001,local,2016
+Not Stated about Light,63,48001,local,2016
+Others Type of Light,54,48001,local,2016
+Solar,53,48001,local,2016
+Bio-Gas,11,48006,local,2016
+Electricity,10976,48006,local,2016
+Kerosene,853,48006,local,2016
+Not Stated about Light,91,48006,local,2016
+Others Type of Light,43,48006,local,2016
+Solar,44,48006,local,2016
+Bio-Gas,10,48007,local,2016
+Electricity,4553,48007,local,2016
+Kerosene,1516,48007,local,2016
+Not Stated about Light,39,48007,local,2016
+Others Type of Light,1,48007,local,2016
+Solar,111,48007,local,2016
+Bio-Gas,2,48003,local,2016
+Electricity,5621,48003,local,2016
+Kerosene,1659,48003,local,2016
+Not Stated about Light,64,48003,local,2016
+Others Type of Light,14,48003,local,2016
+Solar,26,48003,local,2016
+Bio-Gas,257,07,district,2016
+Electricity,65099,07,district,2016
+Kerosene,21030,07,district,2016
+Not Stated about Light,546,07,district,2016
+Others Type of Light,4594,07,district,2016
+Solar,3167,07,district,2016
+Bio-Gas,23,57002,local,2016
+Electricity,2914,57002,local,2016
+Kerosene,3508,57002,local,2016
+Not Stated about Light,21,57002,local,2016
+Others Type of Light,101,57002,local,2016
+Solar,23,57002,local,2016
+Bio-Gas,15,57006,local,2016
+Electricity,35,57006,local,2016
+Kerosene,4263,57006,local,2016
+Not Stated about Light,40,57006,local,2016
+Others Type of Light,923,57006,local,2016
+Solar,632,57006,local,2016
+Bio-Gas,12,57008,local,2016
+Electricity,4242,57008,local,2016
+Kerosene,2399,57008,local,2016
+Not Stated about Light,35,57008,local,2016
+Others Type of Light,1756,57008,local,2016
+Solar,2298,57008,local,2016
+Bio-Gas,19,57001,local,2016
+Electricity,8722,57001,local,2016
+Kerosene,1167,57001,local,2016
+Not Stated about Light,25,57001,local,2016
+Others Type of Light,1093,57001,local,2016
+Solar,40,57001,local,2016
+Bio-Gas,44,57004,local,2016
+Electricity,7926,57004,local,2016
+Kerosene,1951,57004,local,2016
+Not Stated about Light,52,57004,local,2016
+Others Type of Light,281,57004,local,2016
+Solar,34,57004,local,2016
+Bio-Gas,42,57005,local,2016
+Electricity,13617,57005,local,2016
+Kerosene,1502,57005,local,2016
+Not Stated about Light,56,57005,local,2016
+Others Type of Light,221,57005,local,2016
+Solar,45,57005,local,2016
+Bio-Gas,88,57007,local,2016
+Electricity,23522,57007,local,2016
+Kerosene,3787,57007,local,2016
+Not Stated about Light,251,57007,local,2016
+Others Type of Light,198,57007,local,2016
+Solar,46,57007,local,2016
+Bio-Gas,14,57003,local,2016
+Electricity,4121,57003,local,2016
+Kerosene,2453,57003,local,2016
+Not Stated about Light,66,57003,local,2016
+Others Type of Light,21,57003,local,2016
+Solar,49,57003,local,2016
+Bio-Gas,120,50,district,2016
+Electricity,43249,50,district,2016
+Kerosene,9065,50,district,2016
+Not Stated about Light,177,50,district,2016
+Others Type of Light,2112,50,district,2016
+Solar,4537,50,district,2016
+Bio-Gas,15,47007,local,2016
+Electricity,6254,47007,local,2016
+Kerosene,1078,47007,local,2016
+Not Stated about Light,34,47007,local,2016
+Others Type of Light,150,47007,local,2016
+Solar,601,47007,local,2016
+Bio-Gas,4,47005,local,2016
+Electricity,3202,47005,local,2016
+Kerosene,1626,47005,local,2016
+Not Stated about Light,25,47005,local,2016
+Others Type of Light,575,47005,local,2016
+Solar,577,47005,local,2016
+Bio-Gas,9,47010,local,2016
+Electricity,2606,47010,local,2016
+Kerosene,884,47010,local,2016
+Not Stated about Light,15,47010,local,2016
+Others Type of Light,22,47010,local,2016
+Solar,352,47010,local,2016
+Bio-Gas,13,47003,local,2016
+Electricity,866,47003,local,2016
+Kerosene,792,47003,local,2016
+Not Stated about Light,19,47003,local,2016
+Others Type of Light,763,47003,local,2016
+Solar,1438,47003,local,2016
+Bio-Gas,7,47008,local,2016
+Electricity,3133,47008,local,2016
+Kerosene,1144,47008,local,2016
+Not Stated about Light,13,47008,local,2016
+Others Type of Light,126,47008,local,2016
+Solar,224,47008,local,2016
+Bio-Gas,6,47006,local,2016
+Electricity,4034,47006,local,2016
+Kerosene,517,47006,local,2016
+Not Stated about Light,4,47006,local,2016
+Others Type of Light,10,47006,local,2016
+Solar,55,47006,local,2016
+Bio-Gas,12,47001,local,2016
+Electricity,4889,47001,local,2016
+Kerosene,349,47001,local,2016
+Not Stated about Light,8,47001,local,2016
+Others Type of Light,10,47001,local,2016
+Solar,2,47001,local,2016
+Bio-Gas,30,47009,local,2016
+Electricity,12801,47009,local,2016
+Kerosene,729,47009,local,2016
+Not Stated about Light,45,47009,local,2016
+Others Type of Light,8,47009,local,2016
+Solar,33,47009,local,2016
+Bio-Gas,16,47002,local,2016
+Electricity,2485,47002,local,2016
+Kerosene,1262,47002,local,2016
+Not Stated about Light,6,47002,local,2016
+Others Type of Light,117,47002,local,2016
+Solar,1180,47002,local,2016
+Bio-Gas,8,47004,local,2016
+Electricity,2979,47004,local,2016
+Kerosene,684,47004,local,2016
+Not Stated about Light,8,47004,local,2016
+Others Type of Light,331,47004,local,2016
+Solar,75,47004,local,2016
+Bio-Gas,107,58,district,2016
+Electricity,9395,58,district,2016
+Kerosene,2180,58,district,2016
+Not Stated about Light,179,58,district,2016
+Others Type of Light,11127,58,district,2016
+Solar,20747,58,district,2016
+Bio-Gas,10,53008,local,2016
+Electricity,2739,53008,local,2016
+Kerosene,563,53008,local,2016
+Not Stated about Light,20,53008,local,2016
+Others Type of Light,1346,53008,local,2016
+Solar,979,53008,local,2016
+Bio-Gas,9,53001,local,2016
+Electricity,580,53001,local,2016
+Kerosene,28,53001,local,2016
+Not Stated about Light,12,53001,local,2016
+Others Type of Light,817,53001,local,2016
+Solar,2572,53001,local,2016
+Bio-Gas,3,53003,local,2016
+Electricity,233,53003,local,2016
+Kerosene,100,53003,local,2016
+Not Stated about Light,17,53003,local,2016
+Others Type of Light,505,53003,local,2016
+Solar,2800,53003,local,2016
+Bio-Gas,9,53004,local,2016
+Electricity,2857,53004,local,2016
+Kerosene,248,53004,local,2016
+Not Stated about Light,49,53004,local,2016
+Others Type of Light,1319,53004,local,2016
+Solar,2651,53004,local,2016
+Bio-Gas,2,53010,local,2016
+Electricity,272,53010,local,2016
+Kerosene,129,53010,local,2016
+Not Stated about Light,19,53010,local,2016
+Others Type of Light,1117,53010,local,2016
+Solar,3001,53010,local,2016
+Bio-Gas,9,53006,local,2016
+Electricity,14,53006,local,2016
+Kerosene,47,53006,local,2016
+Not Stated about Light,12,53006,local,2016
+Others Type of Light,810,53006,local,2016
+Solar,2563,53006,local,2016
+Bio-Gas,0,53009,local,2016
+Electricity,712,53009,local,2016
+Kerosene,54,53009,local,2016
+Not Stated about Light,11,53009,local,2016
+Others Type of Light,607,53009,local,2016
+Solar,788,53009,local,2016
+Bio-Gas,8,53005,local,2016
+Electricity,419,53005,local,2016
+Kerosene,384,53005,local,2016
+Not Stated about Light,14,53005,local,2016
+Others Type of Light,1405,53005,local,2016
+Solar,3454,53005,local,2016
+Bio-Gas,52,53002,local,2016
+Electricity,1425,53002,local,2016
+Kerosene,357,53002,local,2016
+Not Stated about Light,16,53002,local,2016
+Others Type of Light,1636,53002,local,2016
+Solar,916,53002,local,2016
+Bio-Gas,5,53007,local,2016
+Electricity,144,53007,local,2016
+Kerosene,270,53007,local,2016
+Not Stated about Light,9,53007,local,2016
+Others Type of Light,1565,53007,local,2016
+Solar,1023,53007,local,2016
+Bio-Gas,313,15,district,2016
+Electricity,75181,15,district,2016
+Kerosene,26023,15,district,2016
+Not Stated about Light,569,15,district,2016
+Others Type of Light,9394,15,district,2016
+Solar,4867,15,district,2016
+Bio-Gas,86,56005,local,2016
+Electricity,24672,56005,local,2016
+Kerosene,8466,56005,local,2016
+Not Stated about Light,136,56005,local,2016
+Others Type of Light,1457,56005,local,2016
+Solar,602,56005,local,2016
+Bio-Gas,84,56010,local,2016
+Electricity,21961,56010,local,2016
+Kerosene,7707,56010,local,2016
+Not Stated about Light,170,56010,local,2016
+Others Type of Light,753,56010,local,2016
+Solar,568,56010,local,2016
+Bio-Gas,2,56003,local,2016
+Electricity,2422,56003,local,2016
+Kerosene,1679,56003,local,2016
+Not Stated about Light,16,56003,local,2016
+Others Type of Light,211,56003,local,2016
+Solar,125,56003,local,2016
+Bio-Gas,4,56007,local,2016
+Electricity,1847,56007,local,2016
+Kerosene,628,56007,local,2016
+Not Stated about Light,19,56007,local,2016
+Others Type of Light,1445,56007,local,2016
+Solar,530,56007,local,2016
+Bio-Gas,18,56006,local,2016
+Electricity,7337,56006,local,2016
+Kerosene,1272,56006,local,2016
+Not Stated about Light,49,56006,local,2016
+Others Type of Light,503,56006,local,2016
+Solar,253,56006,local,2016
+Bio-Gas,8,56009,local,2016
+Electricity,2722,56009,local,2016
+Kerosene,1994,56009,local,2016
+Not Stated about Light,13,56009,local,2016
+Others Type of Light,303,56009,local,2016
+Solar,288,56009,local,2016
+Bio-Gas,14,56001,local,2016
+Electricity,1640,56001,local,2016
+Kerosene,1843,56001,local,2016
+Not Stated about Light,25,56001,local,2016
+Others Type of Light,1019,56001,local,2016
+Solar,1404,56001,local,2016
+Bio-Gas,73,56008,local,2016
+Electricity,6220,56008,local,2016
+Kerosene,689,56008,local,2016
+Not Stated about Light,81,56008,local,2016
+Others Type of Light,726,56008,local,2016
+Solar,266,56008,local,2016
+Bio-Gas,14,56002,local,2016
+Electricity,844,56002,local,2016
+Kerosene,835,56002,local,2016
+Not Stated about Light,21,56002,local,2016
+Others Type of Light,2247,56002,local,2016
+Solar,769,56002,local,2016
+Bio-Gas,10,56004,local,2016
+Electricity,5516,56004,local,2016
+Kerosene,910,56004,local,2016
+Not Stated about Light,39,56004,local,2016
+Others Type of Light,730,56004,local,2016
+Solar,62,56004,local,2016
+Bio-Gas,123,02,district,2016
+Electricity,27823,02,district,2016
+Kerosene,10488,02,district,2016
+Not Stated about Light,158,02,district,2016
+Others Type of Light,2595,02,district,2016
+Solar,5639,02,district,2016
+Bio-Gas,17,51002,local,2016
+Electricity,5388,51002,local,2016
+Kerosene,866,51002,local,2016
+Not Stated about Light,16,51002,local,2016
+Others Type of Light,4,51002,local,2016
+Solar,50,51002,local,2016
+Bio-Gas,20,51003,local,2016
+Electricity,3216,51003,local,2016
+Kerosene,1527,51003,local,2016
+Not Stated about Light,5,51003,local,2016
+Others Type of Light,763,51003,local,2016
+Solar,1293,51003,local,2016
+Bio-Gas,35,51005,local,2016
+Electricity,9659,51005,local,2016
+Kerosene,782,51005,local,2016
+Not Stated about Light,57,51005,local,2016
+Others Type of Light,21,51005,local,2016
+Solar,27,51005,local,2016
+Bio-Gas,14,51001,local,2016
+Electricity,3686,51001,local,2016
+Kerosene,2807,51001,local,2016
+Not Stated about Light,18,51001,local,2016
+Others Type of Light,221,51001,local,2016
+Solar,981,51001,local,2016
+Bio-Gas,10,51006,local,2016
+Electricity,2580,51006,local,2016
+Kerosene,2656,51006,local,2016
+Not Stated about Light,40,51006,local,2016
+Others Type of Light,1399,51006,local,2016
+Solar,2516,51006,local,2016
+Bio-Gas,27,51004,local,2016
+Electricity,3294,51004,local,2016
+Kerosene,1850,51004,local,2016
+Not Stated about Light,22,51004,local,2016
+Others Type of Light,187,51004,local,2016
+Solar,772,51004,local,2016
+Bio-Gas,213,09,district,2016
+Electricity,52035,09,district,2016
+Kerosene,18869,09,district,2016
+Not Stated about Light,179,09,district,2016
+Others Type of Light,9427,09,district,2016
+Solar,2424,09,district,2016
+Bio-Gas,40,58007,local,2016
+Electricity,6816,58007,local,2016
+Kerosene,3617,58007,local,2016
+Not Stated about Light,16,58007,local,2016
+Others Type of Light,93,58007,local,2016
+Solar,334,58007,local,2016
+Bio-Gas,31,58001,local,2016
+Electricity,7449,58001,local,2016
+Kerosene,2700,58001,local,2016
+Not Stated about Light,17,58001,local,2016
+Others Type of Light,104,58001,local,2016
+Solar,32,58001,local,2016
+Bio-Gas,21,58008,local,2016
+Electricity,5095,58008,local,2016
+Kerosene,1618,58008,local,2016
+Not Stated about Light,26,58008,local,2016
+Others Type of Light,1636,58008,local,2016
+Solar,256,58008,local,2016
+Bio-Gas,26,58004,local,2016
+Electricity,3434,58004,local,2016
+Kerosene,1486,58004,local,2016
+Not Stated about Light,6,58004,local,2016
+Others Type of Light,672,58004,local,2016
+Solar,511,58004,local,2016
+Bio-Gas,24,58002,local,2016
+Electricity,7720,58002,local,2016
+Kerosene,2269,58002,local,2016
+Not Stated about Light,35,58002,local,2016
+Others Type of Light,895,58002,local,2016
+Solar,267,58002,local,2016
+Bio-Gas,31,58005,local,2016
+Electricity,7574,58005,local,2016
+Kerosene,5140,58005,local,2016
+Not Stated about Light,17,58005,local,2016
+Others Type of Light,263,58005,local,2016
+Solar,39,58005,local,2016
+Bio-Gas,16,58006,local,2016
+Electricity,5890,58006,local,2016
+Kerosene,631,58006,local,2016
+Not Stated about Light,26,58006,local,2016
+Others Type of Light,2179,58006,local,2016
+Solar,827,58006,local,2016
+Bio-Gas,24,58003,local,2016
+Electricity,8057,58003,local,2016
+Kerosene,1408,58003,local,2016
+Not Stated about Light,36,58003,local,2016
+Others Type of Light,3585,58003,local,2016
+Solar,158,58003,local,2016
+Bio-Gas,269,33,district,2016
+Electricity,58162,33,district,2016
+Kerosene,30901,33,district,2016
+Not Stated about Light,786,33,district,2016
+Others Type of Light,732,33,district,2016
+Solar,414,33,district,2016
+Bio-Gas,141,50009,local,2016
+Electricity,2748,50009,local,2016
+Kerosene,3250,50009,local,2016
+Not Stated about Light,134,50009,local,2016
+Others Type of Light,47,50009,local,2016
+Solar,26,50009,local,2016
+Bio-Gas,25,50001,local,2016
+Electricity,13730,50001,local,2016
+Kerosene,2032,50001,local,2016
+Not Stated about Light,90,50001,local,2016
+Others Type of Light,65,50001,local,2016
+Solar,23,50001,local,2016
+Bio-Gas,5,50002,local,2016
+Electricity,2652,50002,local,2016
+Kerosene,2833,50002,local,2016
+Not Stated about Light,45,50002,local,2016
+Others Type of Light,105,50002,local,2016
+Solar,30,50002,local,2016
+Bio-Gas,5,50007,local,2016
+Electricity,3917,50007,local,2016
+Kerosene,2462,50007,local,2016
+Not Stated about Light,75,50007,local,2016
+Others Type of Light,12,50007,local,2016
+Solar,36,50007,local,2016
+Bio-Gas,5,50010,local,2016
+Electricity,2900,50010,local,2016
+Kerosene,2369,50010,local,2016
+Not Stated about Light,69,50010,local,2016
+Others Type of Light,56,50010,local,2016
+Solar,14,50010,local,2016
+Bio-Gas,19,50005,local,2016
+Electricity,4732,50005,local,2016
+Kerosene,3561,50005,local,2016
+Not Stated about Light,146,50005,local,2016
+Others Type of Light,8,50005,local,2016
+Solar,55,50005,local,2016
+Bio-Gas,12,50003,local,2016
+Electricity,8371,50003,local,2016
+Kerosene,2963,50003,local,2016
+Not Stated about Light,51,50003,local,2016
+Others Type of Light,90,50003,local,2016
+Solar,34,50003,local,2016
+Bio-Gas,28,50004,local,2016
+Electricity,8123,50004,local,2016
+Kerosene,3693,50004,local,2016
+Not Stated about Light,106,50004,local,2016
+Others Type of Light,106,50004,local,2016
+Solar,38,50004,local,2016
+Bio-Gas,13,50008,local,2016
+Electricity,7398,50008,local,2016
+Kerosene,3574,50008,local,2016
+Not Stated about Light,43,50008,local,2016
+Others Type of Light,110,50008,local,2016
+Solar,112,50008,local,2016
+Bio-Gas,16,50006,local,2016
+Electricity,3591,50006,local,2016
+Kerosene,4164,50006,local,2016
+Not Stated about Light,27,50006,local,2016
+Others Type of Light,133,50006,local,2016
+Solar,46,50006,local,2016
+Bio-Gas,1233,4,province,2016
+Electricity,476841,4,province,2016
+Kerosene,57404,4,province,2016
+Not Stated about Light,2313,4,province,2016
+Others Type of Light,10767,4,province,2016
+Solar,29124,4,province,2016
+Bio-Gas,113,23,district,2016
+Electricity,50788,23,district,2016
+Kerosene,11131,23,district,2016
+Not Stated about Light,261,23,district,2016
+Others Type of Light,1275,23,district,2016
+Solar,2890,23,district,2016
+Bio-Gas,2,36011,local,2016
+Electricity,2506,36011,local,2016
+Kerosene,2684,36011,local,2016
+Not Stated about Light,22,36011,local,2016
+Others Type of Light,4,36011,local,2016
+Solar,611,36011,local,2016
+Bio-Gas,11,36008,local,2016
+Electricity,8708,36008,local,2016
+Kerosene,1182,36008,local,2016
+Not Stated about Light,12,36008,local,2016
+Others Type of Light,2,36008,local,2016
+Solar,9,36008,local,2016
+Bio-Gas,2,36001,local,2016
+Electricity,2848,36001,local,2016
+Kerosene,2004,36001,local,2016
+Not Stated about Light,15,36001,local,2016
+Others Type of Light,164,36001,local,2016
+Solar,581,36001,local,2016
+Bio-Gas,4,36003,local,2016
+Electricity,4450,36003,local,2016
+Kerosene,775,36003,local,2016
+Not Stated about Light,14,36003,local,2016
+Others Type of Light,6,36003,local,2016
+Solar,189,36003,local,2016
+Bio-Gas,5,36006,local,2016
+Electricity,4375,36006,local,2016
+Kerosene,654,36006,local,2016
+Not Stated about Light,20,36006,local,2016
+Others Type of Light,95,36006,local,2016
+Solar,104,36006,local,2016
+Bio-Gas,0,36010,local,2016
+Electricity,4628,36010,local,2016
+Kerosene,1095,36010,local,2016
+Not Stated about Light,22,36010,local,2016
+Others Type of Light,12,36010,local,2016
+Solar,139,36010,local,2016
+Bio-Gas,0,36002,local,2016
+Electricity,2215,36002,local,2016
+Kerosene,1294,36002,local,2016
+Not Stated about Light,15,36002,local,2016
+Others Type of Light,7,36002,local,2016
+Solar,87,36002,local,2016
+Bio-Gas,11,36007,local,2016
+Electricity,12461,36007,local,2016
+Kerosene,550,36007,local,2016
+Not Stated about Light,58,36007,local,2016
+Others Type of Light,43,36007,local,2016
+Solar,4,36007,local,2016
+Bio-Gas,3,36004,local,2016
+Electricity,914,36004,local,2016
+Kerosene,103,36004,local,2016
+Not Stated about Light,18,36004,local,2016
+Others Type of Light,201,36004,local,2016
+Solar,710,36004,local,2016
+Bio-Gas,73,36005,local,2016
+Electricity,1452,36005,local,2016
+Kerosene,401,36005,local,2016
+Not Stated about Light,16,36005,local,2016
+Others Type of Light,736,36005,local,2016
+Solar,450,36005,local,2016
+Bio-Gas,2,36009,local,2016
+Electricity,6231,36009,local,2016
+Kerosene,389,36009,local,2016
+Not Stated about Light,49,36009,local,2016
+Others Type of Light,5,36009,local,2016
+Solar,6,36009,local,2016
+Bio-Gas,121,03,district,2016
+Electricity,50242,03,district,2016
+Kerosene,7194,03,district,2016
+Not Stated about Light,297,03,district,2016
+Others Type of Light,1375,03,district,2016
+Solar,2253,03,district,2016
+Bio-Gas,9,45008,local,2016
+Electricity,2246,45008,local,2016
+Kerosene,2175,45008,local,2016
+Not Stated about Light,36,45008,local,2016
+Others Type of Light,282,45008,local,2016
+Solar,145,45008,local,2016
+Bio-Gas,3,45007,local,2016
+Electricity,5432,45007,local,2016
+Kerosene,426,45007,local,2016
+Not Stated about Light,26,45007,local,2016
+Others Type of Light,41,45007,local,2016
+Solar,200,45007,local,2016
+Bio-Gas,10,45005,local,2016
+Electricity,6645,45005,local,2016
+Kerosene,776,45005,local,2016
+Not Stated about Light,32,45005,local,2016
+Others Type of Light,27,45005,local,2016
+Solar,221,45005,local,2016
+Bio-Gas,21,45001,local,2016
+Electricity,4296,45001,local,2016
+Kerosene,711,45001,local,2016
+Not Stated about Light,63,45001,local,2016
+Others Type of Light,330,45001,local,2016
+Solar,807,45001,local,2016
+Bio-Gas,28,45002,local,2016
+Electricity,14687,45002,local,2016
+Kerosene,405,45002,local,2016
+Not Stated about Light,36,45002,local,2016
+Others Type of Light,16,45002,local,2016
+Solar,10,45002,local,2016
+Bio-Gas,18,45003,local,2016
+Electricity,1653,45003,local,2016
+Kerosene,774,45003,local,2016
+Not Stated about Light,11,45003,local,2016
+Others Type of Light,170,45003,local,2016
+Solar,614,45003,local,2016
+Bio-Gas,2,45009,local,2016
+Electricity,1905,45009,local,2016
+Kerosene,316,45009,local,2016
+Not Stated about Light,16,45009,local,2016
+Others Type of Light,170,45009,local,2016
+Solar,13,45009,local,2016
+Bio-Gas,12,45004,local,2016
+Electricity,4366,45004,local,2016
+Kerosene,952,45004,local,2016
+Not Stated about Light,37,45004,local,2016
+Others Type of Light,291,45004,local,2016
+Solar,48,45004,local,2016
+Bio-Gas,6,45010,local,2016
+Electricity,2133,45010,local,2016
+Kerosene,143,45010,local,2016
+Not Stated about Light,6,45010,local,2016
+Others Type of Light,31,45010,local,2016
+Solar,176,45010,local,2016
+Bio-Gas,12,45006,local,2016
+Electricity,6879,45006,local,2016
+Kerosene,516,45006,local,2016
+Not Stated about Light,34,45006,local,2016
+Others Type of Light,17,45006,local,2016
+Solar,19,45006,local,2016
+Bio-Gas,172,71,district,2016
+Electricity,59576,71,district,2016
+Kerosene,6343,71,district,2016
+Not Stated about Light,176,71,district,2016
+Others Type of Light,535,71,district,2016
+Solar,2054,71,district,2016
+Bio-Gas,8,39008,local,2016
+Electricity,4428,39008,local,2016
+Kerosene,330,39008,local,2016
+Not Stated about Light,7,39008,local,2016
+Others Type of Light,8,39008,local,2016
+Solar,191,39008,local,2016
+Bio-Gas,20,39005,local,2016
+Electricity,4500,39005,local,2016
+Kerosene,820,39005,local,2016
+Not Stated about Light,15,39005,local,2016
+Others Type of Light,171,39005,local,2016
+Solar,408,39005,local,2016
+Bio-Gas,1,39009,local,2016
+Electricity,3083,39009,local,2016
+Kerosene,148,39009,local,2016
+Not Stated about Light,4,39009,local,2016
+Others Type of Light,16,39009,local,2016
+Solar,2,39009,local,2016
+Bio-Gas,1,39001,local,2016
+Electricity,3864,39001,local,2016
+Kerosene,251,39001,local,2016
+Not Stated about Light,5,39001,local,2016
+Others Type of Light,4,39001,local,2016
+Solar,0,39001,local,2016
+Bio-Gas,13,39004,local,2016
+Electricity,2878,39004,local,2016
+Kerosene,1127,39004,local,2016
+Not Stated about Light,16,39004,local,2016
+Others Type of Light,30,39004,local,2016
+Solar,241,39004,local,2016
+Bio-Gas,15,39003,local,2016
+Electricity,4969,39003,local,2016
+Kerosene,832,39003,local,2016
+Not Stated about Light,14,39003,local,2016
+Others Type of Light,9,39003,local,2016
+Solar,244,39003,local,2016
+Bio-Gas,38,39011,local,2016
+Electricity,10851,39011,local,2016
+Kerosene,926,39011,local,2016
+Not Stated about Light,51,39011,local,2016
+Others Type of Light,35,39011,local,2016
+Solar,281,39011,local,2016
+Bio-Gas,30,39006,local,2016
+Electricity,7997,39006,local,2016
+Kerosene,221,39006,local,2016
+Not Stated about Light,13,39006,local,2016
+Others Type of Light,10,39006,local,2016
+Solar,4,39006,local,2016
+Bio-Gas,4,39002,local,2016
+Electricity,3640,39002,local,2016
+Kerosene,268,39002,local,2016
+Not Stated about Light,11,39002,local,2016
+Others Type of Light,2,39002,local,2016
+Solar,13,39002,local,2016
+Bio-Gas,22,39010,local,2016
+Electricity,11170,39010,local,2016
+Kerosene,608,39010,local,2016
+Not Stated about Light,19,39010,local,2016
+Others Type of Light,23,39010,local,2016
+Solar,40,39010,local,2016
+Bio-Gas,20,39007,local,2016
+Electricity,2196,39007,local,2016
+Kerosene,812,39007,local,2016
+Not Stated about Light,21,39007,local,2016
+Others Type of Light,227,39007,local,2016
+Solar,630,39007,local,2016
+Bio-Gas,143,47,district,2016
+Electricity,52544,47,district,2016
+Kerosene,6083,47,district,2016
+Not Stated about Light,345,47,district,2016
+Others Type of Light,2698,47,district,2016
+Solar,5102,47,district,2016
+Bio-Gas,17,76004,local,2016
+Electricity,8116,76004,local,2016
+Kerosene,684,76004,local,2016
+Not Stated about Light,56,76004,local,2016
+Others Type of Light,218,76004,local,2016
+Solar,165,76004,local,2016
+Bio-Gas,0,76002,local,2016
+Electricity,1233,76002,local,2016
+Kerosene,40,76002,local,2016
+Not Stated about Light,9,76002,local,2016
+Others Type of Light,1094,76002,local,2016
+Solar,1111,76002,local,2016
+Bio-Gas,31,76007,local,2016
+Electricity,13107,76007,local,2016
+Kerosene,846,76007,local,2016
+Not Stated about Light,76,76007,local,2016
+Others Type of Light,33,76007,local,2016
+Solar,11,76007,local,2016
+Bio-Gas,20,76008,local,2016
+Electricity,10480,76008,local,2016
+Kerosene,1069,76008,local,2016
+Not Stated about Light,51,76008,local,2016
+Others Type of Light,55,76008,local,2016
+Solar,268,76008,local,2016
+Bio-Gas,22,76001,local,2016
+Electricity,3737,76001,local,2016
+Kerosene,1322,76001,local,2016
+Not Stated about Light,37,76001,local,2016
+Others Type of Light,212,76001,local,2016
+Solar,1586,76001,local,2016
+Bio-Gas,36,76005,local,2016
+Electricity,12549,76005,local,2016
+Kerosene,760,76005,local,2016
+Not Stated about Light,68,76005,local,2016
+Others Type of Light,38,76005,local,2016
+Solar,172,76005,local,2016
+Bio-Gas,11,76006,local,2016
+Electricity,3076,76006,local,2016
+Kerosene,905,76006,local,2016
+Not Stated about Light,42,76006,local,2016
+Others Type of Light,208,76006,local,2016
+Solar,346,76006,local,2016
+Bio-Gas,6,76003,local,2016
+Electricity,246,76003,local,2016
+Kerosene,457,76003,local,2016
+Not Stated about Light,6,76003,local,2016
+Others Type of Light,840,76003,local,2016
+Solar,1443,76003,local,2016
+Bio-Gas,46,46,district,2016
+Electricity,19028,46,district,2016
+Kerosene,3701,46,district,2016
+Not Stated about Light,73,46,district,2016
+Others Type of Light,1744,46,district,2016
+Solar,3135,46,district,2016
+Bio-Gas,4,43003,local,2016
+Electricity,1494,43003,local,2016
+Kerosene,620,43003,local,2016
+Not Stated about Light,11,43003,local,2016
+Others Type of Light,308,43003,local,2016
+Solar,792,43003,local,2016
+Bio-Gas,15,43002,local,2016
+Electricity,8036,43002,local,2016
+Kerosene,480,43002,local,2016
+Not Stated about Light,11,43002,local,2016
+Others Type of Light,36,43002,local,2016
+Solar,74,43002,local,2016
+Bio-Gas,5,43004,local,2016
+Electricity,1942,43004,local,2016
+Kerosene,640,43004,local,2016
+Not Stated about Light,16,43004,local,2016
+Others Type of Light,985,43004,local,2016
+Solar,635,43004,local,2016
+Bio-Gas,11,43001,local,2016
+Electricity,3021,43001,local,2016
+Kerosene,499,43001,local,2016
+Not Stated about Light,23,43001,local,2016
+Others Type of Light,40,43001,local,2016
+Solar,106,43001,local,2016
+Bio-Gas,6,43005,local,2016
+Electricity,1560,43005,local,2016
+Kerosene,665,43005,local,2016
+Not Stated about Light,2,43005,local,2016
+Others Type of Light,349,43005,local,2016
+Solar,1243,43005,local,2016
+Bio-Gas,5,43006,local,2016
+Electricity,2975,43006,local,2016
+Kerosene,797,43006,local,2016
+Not Stated about Light,10,43006,local,2016
+Others Type of Light,26,43006,local,2016
+Solar,285,43006,local,2016
+Bio-Gas,110,39,district,2016
+Electricity,32302,39,district,2016
+Kerosene,6155,39,district,2016
+Not Stated about Light,150,39,district,2016
+Others Type of Light,539,39,district,2016
+Solar,2792,39,district,2016
+Bio-Gas,24,37005,local,2016
+Electricity,3836,37005,local,2016
+Kerosene,930,37005,local,2016
+Not Stated about Light,17,37005,local,2016
+Others Type of Light,282,37005,local,2016
+Solar,799,37005,local,2016
+Bio-Gas,14,37007,local,2016
+Electricity,3231,37007,local,2016
+Kerosene,1140,37007,local,2016
+Not Stated about Light,22,37007,local,2016
+Others Type of Light,29,37007,local,2016
+Solar,315,37007,local,2016
+Bio-Gas,22,37001,local,2016
+Electricity,9862,37001,local,2016
+Kerosene,428,37001,local,2016
+Not Stated about Light,41,37001,local,2016
+Others Type of Light,53,37001,local,2016
+Solar,16,37001,local,2016
+Bio-Gas,11,37006,local,2016
+Electricity,3621,37006,local,2016
+Kerosene,629,37006,local,2016
+Not Stated about Light,10,37006,local,2016
+Others Type of Light,11,37006,local,2016
+Solar,127,37006,local,2016
+Bio-Gas,27,37008,local,2016
+Electricity,6737,37008,local,2016
+Kerosene,370,37008,local,2016
+Not Stated about Light,39,37008,local,2016
+Others Type of Light,7,37008,local,2016
+Solar,19,37008,local,2016
+Bio-Gas,2,37004,local,2016
+Electricity,1191,37004,local,2016
+Kerosene,483,37004,local,2016
+Not Stated about Light,13,37004,local,2016
+Others Type of Light,12,37004,local,2016
+Solar,751,37004,local,2016
+Bio-Gas,4,37003,local,2016
+Electricity,1500,37003,local,2016
+Kerosene,655,37003,local,2016
+Not Stated about Light,2,37003,local,2016
+Others Type of Light,2,37003,local,2016
+Solar,427,37003,local,2016
+Bio-Gas,6,37002,local,2016
+Electricity,2324,37002,local,2016
+Kerosene,1520,37002,local,2016
+Not Stated about Light,6,37002,local,2016
+Others Type of Light,143,37002,local,2016
+Solar,338,37002,local,2016
+Bio-Gas,249,34,district,2016
+Electricity,119757,34,district,2016
+Kerosene,3694,34,district,2016
+Not Stated about Light,460,34,district,2016
+Others Type of Light,370,34,district,2016
+Solar,929,34,district,2016
+Bio-Gas,3,40005,local,2016
+Electricity,2872,40005,local,2016
+Kerosene,475,40005,local,2016
+Not Stated about Light,5,40005,local,2016
+Others Type of Light,9,40005,local,2016
+Solar,416,40005,local,2016
+Bio-Gas,4,40001,local,2016
+Electricity,5681,40001,local,2016
+Kerosene,282,40001,local,2016
+Not Stated about Light,21,40001,local,2016
+Others Type of Light,6,40001,local,2016
+Solar,35,40001,local,2016
+Bio-Gas,4,40003,local,2016
+Electricity,3449,40003,local,2016
+Kerosene,594,40003,local,2016
+Not Stated about Light,12,40003,local,2016
+Others Type of Light,69,40003,local,2016
+Solar,380,40003,local,2016
+Bio-Gas,6,40002,local,2016
+Electricity,5224,40002,local,2016
+Kerosene,239,40002,local,2016
+Not Stated about Light,28,40002,local,2016
+Others Type of Light,13,40002,local,2016
+Solar,2,40002,local,2016
+Bio-Gas,232,40004,local,2016
+Electricity,102531,40004,local,2016
+Kerosene,2104,40004,local,2016
+Not Stated about Light,394,40004,local,2016
+Others Type of Light,273,40004,local,2016
+Solar,96,40004,local,2016
+Bio-Gas,0,42,district,2016
+Electricity,1287,42,district,2016
+Kerosene,24,42,district,2016
+Not Stated about Light,5,42,district,2016
+Others Type of Light,8,42,district,2016
+Solar,124,42,district,2016
+Bio-Gas,0,41003,local,2016
+Electricity,436,41003,local,2016
+Kerosene,4,41003,local,2016
+Not Stated about Light,4,41003,local,2016
+Others Type of Light,6,41003,local,2016
+Solar,4,41003,local,2016
+Bio-Gas,0,41001,local,2016
+Electricity,271,41001,local,2016
+Kerosene,6,41001,local,2016
+Not Stated about Light,0,41001,local,2016
+Others Type of Light,1,41001,local,2016
+Solar,1,41001,local,2016
+Bio-Gas,0,41004,local,2016
+Electricity,579,41004,local,2016
+Kerosene,12,41004,local,2016
+Not Stated about Light,1,41004,local,2016
+Others Type of Light,1,41004,local,2016
+Solar,0,41004,local,2016
+Bio-Gas,0,41002,local,2016
+Electricity,1,41002,local,2016
+Kerosene,2,41002,local,2016
+Not Stated about Light,0,41002,local,2016
+Others Type of Light,0,41002,local,2016
+Solar,119,41002,local,2016
+Bio-Gas,213,72,district,2016
+Electricity,60350,72,district,2016
+Kerosene,7879,72,district,2016
+Not Stated about Light,439,72,district,2016
+Others Type of Light,1991,72,district,2016
+Solar,7414,72,district,2016
+Bio-Gas,7,38006,local,2016
+Electricity,1923,38006,local,2016
+Kerosene,308,38006,local,2016
+Not Stated about Light,19,38006,local,2016
+Others Type of Light,119,38006,local,2016
+Solar,1059,38006,local,2016
+Bio-Gas,7,38009,local,2016
+Electricity,1396,38009,local,2016
+Kerosene,758,38009,local,2016
+Not Stated about Light,20,38009,local,2016
+Others Type of Light,917,38009,local,2016
+Solar,2117,38009,local,2016
+Bio-Gas,14,38001,local,2016
+Electricity,4023,38001,local,2016
+Kerosene,541,38001,local,2016
+Not Stated about Light,14,38001,local,2016
+Others Type of Light,122,38001,local,2016
+Solar,197,38001,local,2016
+Bio-Gas,25,38004,local,2016
+Electricity,4697,38004,local,2016
+Kerosene,1291,38004,local,2016
+Not Stated about Light,91,38004,local,2016
+Others Type of Light,219,38004,local,2016
+Solar,1165,38004,local,2016
+Bio-Gas,34,38003,local,2016
+Electricity,10933,38003,local,2016
+Kerosene,1006,38003,local,2016
+Not Stated about Light,89,38003,local,2016
+Others Type of Light,15,38003,local,2016
+Solar,18,38003,local,2016
+Bio-Gas,13,38002,local,2016
+Electricity,3606,38002,local,2016
+Kerosene,646,38002,local,2016
+Not Stated about Light,30,38002,local,2016
+Others Type of Light,34,38002,local,2016
+Solar,524,38002,local,2016
+Bio-Gas,8,38007,local,2016
+Electricity,448,38007,local,2016
+Kerosene,1179,38007,local,2016
+Not Stated about Light,14,38007,local,2016
+Others Type of Light,421,38007,local,2016
+Solar,2067,38007,local,2016
+Bio-Gas,34,38010,local,2016
+Electricity,11196,38010,local,2016
+Kerosene,782,38010,local,2016
+Not Stated about Light,33,38010,local,2016
+Others Type of Light,70,38010,local,2016
+Solar,70,38010,local,2016
+Bio-Gas,50,38005,local,2016
+Electricity,16922,38005,local,2016
+Kerosene,1003,38005,local,2016
+Not Stated about Light,108,38005,local,2016
+Others Type of Light,70,38005,local,2016
+Solar,186,38005,local,2016
+Bio-Gas,21,38008,local,2016
+Electricity,5206,38008,local,2016
+Kerosene,365,38008,local,2016
+Not Stated about Light,21,38008,local,2016
+Others Type of Light,4,38008,local,2016
+Solar,11,38008,local,2016
+Bio-Gas,0,45,district,2016
+Electricity,2353,45,district,2016
+Kerosene,71,45,district,2016
+Not Stated about Light,16,45,district,2016
+Others Type of Light,23,45,district,2016
+Solar,842,45,district,2016
+Bio-Gas,0,42001,local,2016
+Electricity,693,42001,local,2016
+Kerosene,12,42001,local,2016
+Not Stated about Light,1,42001,local,2016
+Others Type of Light,3,42001,local,2016
+Solar,16,42001,local,2016
+Bio-Gas,0,42004,local,2016
+Electricity,1,42004,local,2016
+Kerosene,3,42004,local,2016
+Not Stated about Light,2,42004,local,2016
+Others Type of Light,5,42004,local,2016
+Solar,521,42004,local,2016
+Bio-Gas,0,42005,local,2016
+Electricity,720,42005,local,2016
+Kerosene,35,42005,local,2016
+Not Stated about Light,5,42005,local,2016
+Others Type of Light,10,42005,local,2016
+Solar,0,42005,local,2016
+Bio-Gas,0,42002,local,2016
+Electricity,77,42002,local,2016
+Kerosene,15,42002,local,2016
+Not Stated about Light,3,42002,local,2016
+Others Type of Light,5,42002,local,2016
+Solar,304,42002,local,2016
+Bio-Gas,0,42003,local,2016
+Electricity,862,42003,local,2016
+Kerosene,6,42003,local,2016
+Not Stated about Light,5,42003,local,2016
+Others Type of Light,0,42003,local,2016
+Solar,1,42003,local,2016
+Bio-Gas,66,52,district,2016
+Electricity,28614,52,district,2016
+Kerosene,5129,52,district,2016
+Not Stated about Light,91,52,district,2016
+Others Type of Light,209,52,district,2016
+Solar,1589,52,district,2016
+Bio-Gas,0,44004,local,2016
+Electricity,795,44004,local,2016
+Kerosene,1014,44004,local,2016
+Not Stated about Light,1,44004,local,2016
+Others Type of Light,10,44004,local,2016
+Solar,409,44004,local,2016
+Bio-Gas,5,44006,local,2016
+Electricity,2654,44006,local,2016
+Kerosene,492,44006,local,2016
+Not Stated about Light,3,44006,local,2016
+Others Type of Light,7,44006,local,2016
+Solar,133,44006,local,2016
+Bio-Gas,21,44002,local,2016
+Electricity,4411,44002,local,2016
+Kerosene,755,44002,local,2016
+Not Stated about Light,16,44002,local,2016
+Others Type of Light,70,44002,local,2016
+Solar,288,44002,local,2016
+Bio-Gas,13,44007,local,2016
+Electricity,4323,44007,local,2016
+Kerosene,1000,44007,local,2016
+Not Stated about Light,11,44007,local,2016
+Others Type of Light,42,44007,local,2016
+Solar,494,44007,local,2016
+Bio-Gas,16,44003,local,2016
+Electricity,8909,44003,local,2016
+Kerosene,1122,44003,local,2016
+Not Stated about Light,22,44003,local,2016
+Others Type of Light,57,44003,local,2016
+Solar,185,44003,local,2016
+Bio-Gas,5,44001,local,2016
+Electricity,2414,44001,local,2016
+Kerosene,429,44001,local,2016
+Not Stated about Light,14,44001,local,2016
+Others Type of Light,15,44001,local,2016
+Solar,64,44001,local,2016
+Bio-Gas,6,44005,local,2016
+Electricity,5108,44005,local,2016
+Kerosene,317,44005,local,2016
+Not Stated about Light,24,44005,local,2016
+Others Type of Light,8,44005,local,2016
+Solar,16,44005,local,2016
+Bio-Gas,1985,2,province,2016
+Electricity,556342,2,province,2016
+Kerosene,348232,2,province,2016
+Not Stated about Light,11088,2,province,2016
+Others Type of Light,2206,2,province,2016
+Solar,12234,2,province,2016
+Bio-Gas,280,64,district,2016
+Electricity,61859,64,district,2016
+Kerosene,65667,64,district,2016
+Not Stated about Light,1463,64,district,2016
+Others Type of Light,489,64,district,2016
+Solar,3045,64,district,2016
+Bio-Gas,7,19020,local,2016
+Electricity,427,19020,local,2016
+Kerosene,3990,19020,local,2016
+Not Stated about Light,40,19020,local,2016
+Others Type of Light,1,19020,local,2016
+Solar,20,19020,local,2016
+Bio-Gas,10,19005,local,2016
+Electricity,17,19005,local,2016
+Kerosene,3857,19005,local,2016
+Not Stated about Light,95,19005,local,2016
+Others Type of Light,1,19005,local,2016
+Solar,28,19005,local,2016
+Bio-Gas,9,19008,local,2016
+Electricity,2478,19008,local,2016
+Kerosene,2980,19008,local,2016
+Not Stated about Light,49,19008,local,2016
+Others Type of Light,1,19008,local,2016
+Solar,23,19008,local,2016
+Bio-Gas,5,19016,local,2016
+Electricity,1653,19016,local,2016
+Kerosene,2355,19016,local,2016
+Not Stated about Light,35,19016,local,2016
+Others Type of Light,6,19016,local,2016
+Solar,19,19016,local,2016
+Bio-Gas,10,19012,local,2016
+Electricity,3048,19012,local,2016
+Kerosene,2752,19012,local,2016
+Not Stated about Light,45,19012,local,2016
+Others Type of Light,5,19012,local,2016
+Solar,44,19012,local,2016
+Bio-Gas,4,19009,local,2016
+Electricity,21,19009,local,2016
+Kerosene,3830,19009,local,2016
+Not Stated about Light,63,19009,local,2016
+Others Type of Light,12,19009,local,2016
+Solar,34,19009,local,2016
+Bio-Gas,20,19010,local,2016
+Electricity,2032,19010,local,2016
+Kerosene,5628,19010,local,2016
+Not Stated about Light,146,19010,local,2016
+Others Type of Light,6,19010,local,2016
+Solar,70,19010,local,2016
+Bio-Gas,30,19013,local,2016
+Electricity,7254,19013,local,2016
+Kerosene,1167,19013,local,2016
+Not Stated about Light,93,19013,local,2016
+Others Type of Light,19,19013,local,2016
+Solar,38,19013,local,2016
+Bio-Gas,5,19007,local,2016
+Electricity,1374,19007,local,2016
+Kerosene,2952,19007,local,2016
+Not Stated about Light,42,19007,local,2016
+Others Type of Light,4,19007,local,2016
+Solar,32,19007,local,2016
+Bio-Gas,38,19017,local,2016
+Electricity,9126,19017,local,2016
+Kerosene,1518,19017,local,2016
+Not Stated about Light,82,19017,local,2016
+Others Type of Light,149,19017,local,2016
+Solar,1325,19017,local,2016
+Bio-Gas,13,19018,local,2016
+Electricity,6036,19018,local,2016
+Kerosene,1755,19018,local,2016
+Not Stated about Light,73,19018,local,2016
+Others Type of Light,5,19018,local,2016
+Solar,30,19018,local,2016
+Bio-Gas,9,19011,local,2016
+Electricity,3617,19011,local,2016
+Kerosene,2771,19011,local,2016
+Not Stated about Light,63,19011,local,2016
+Others Type of Light,10,19011,local,2016
+Solar,47,19011,local,2016
+Bio-Gas,34,19001,local,2016
+Electricity,3936,19001,local,2016
+Kerosene,3145,19001,local,2016
+Not Stated about Light,68,19001,local,2016
+Others Type of Light,198,19001,local,2016
+Solar,603,19001,local,2016
+Bio-Gas,21,19014,local,2016
+Electricity,8385,19014,local,2016
+Kerosene,2249,19014,local,2016
+Not Stated about Light,139,19014,local,2016
+Others Type of Light,3,19014,local,2016
+Solar,276,19014,local,2016
+Bio-Gas,4,19015,local,2016
+Electricity,2536,19015,local,2016
+Kerosene,4234,19015,local,2016
+Not Stated about Light,70,19015,local,2016
+Others Type of Light,6,19015,local,2016
+Solar,21,19015,local,2016
+Bio-Gas,16,19003,local,2016
+Electricity,3994,19003,local,2016
+Kerosene,7331,19003,local,2016
+Not Stated about Light,150,19003,local,2016
+Others Type of Light,49,19003,local,2016
+Solar,313,19003,local,2016
+Bio-Gas,9,19004,local,2016
+Electricity,304,19004,local,2016
+Kerosene,3314,19004,local,2016
+Not Stated about Light,28,19004,local,2016
+Others Type of Light,11,19004,local,2016
+Solar,33,19004,local,2016
+Bio-Gas,7,19019,local,2016
+Electricity,2039,19019,local,2016
+Kerosene,1239,19019,local,2016
+Not Stated about Light,33,19019,local,2016
+Others Type of Light,0,19019,local,2016
+Solar,24,19019,local,2016
+Bio-Gas,10,19006,local,2016
+Electricity,1742,19006,local,2016
+Kerosene,2890,19006,local,2016
+Not Stated about Light,66,19006,local,2016
+Others Type of Light,3,19006,local,2016
+Solar,24,19006,local,2016
+Bio-Gas,19,19002,local,2016
+Electricity,1840,19002,local,2016
+Kerosene,5710,19002,local,2016
+Not Stated about Light,83,19002,local,2016
+Others Type of Light,0,19002,local,2016
+Solar,41,19002,local,2016
+Bio-Gas,263,67,district,2016
+Electricity,79335,67,district,2016
+Kerosene,35604,67,district,2016
+Not Stated about Light,986,67,district,2016
+Others Type of Light,376,67,district,2016
+Solar,1365,67,district,2016
+Bio-Gas,7,16011,local,2016
+Electricity,3502,16011,local,2016
+Kerosene,1251,16011,local,2016
+Not Stated about Light,26,16011,local,2016
+Others Type of Light,8,16011,local,2016
+Solar,36,16011,local,2016
+Bio-Gas,81,16007,local,2016
+Electricity,6629,16007,local,2016
+Kerosene,3189,16007,local,2016
+Not Stated about Light,65,16007,local,2016
+Others Type of Light,68,16007,local,2016
+Solar,78,16007,local,2016
+Bio-Gas,3,16015,local,2016
+Electricity,2285,16015,local,2016
+Kerosene,1076,16015,local,2016
+Not Stated about Light,15,16015,local,2016
+Others Type of Light,0,16015,local,2016
+Solar,9,16015,local,2016
+Bio-Gas,49,16010,local,2016
+Electricity,13164,16010,local,2016
+Kerosene,3323,16010,local,2016
+Not Stated about Light,136,16010,local,2016
+Others Type of Light,222,16010,local,2016
+Solar,288,16010,local,2016
+Bio-Gas,12,16008,local,2016
+Electricity,5978,16008,local,2016
+Kerosene,3234,16008,local,2016
+Not Stated about Light,114,16008,local,2016
+Others Type of Light,25,16008,local,2016
+Solar,28,16008,local,2016
+Bio-Gas,5,16009,local,2016
+Electricity,3930,16009,local,2016
+Kerosene,2072,16009,local,2016
+Not Stated about Light,44,16009,local,2016
+Others Type of Light,1,16009,local,2016
+Solar,36,16009,local,2016
+Bio-Gas,3,16014,local,2016
+Electricity,2743,16014,local,2016
+Kerosene,486,16014,local,2016
+Not Stated about Light,15,16014,local,2016
+Others Type of Light,1,16014,local,2016
+Solar,32,16014,local,2016
+Bio-Gas,2,16003,local,2016
+Electricity,2701,16003,local,2016
+Kerosene,1489,16003,local,2016
+Not Stated about Light,28,16003,local,2016
+Others Type of Light,2,16003,local,2016
+Solar,42,16003,local,2016
+Bio-Gas,4,16004,local,2016
+Electricity,2741,16004,local,2016
+Kerosene,856,16004,local,2016
+Not Stated about Light,41,16004,local,2016
+Others Type of Light,1,16004,local,2016
+Solar,18,16004,local,2016
+Bio-Gas,10,16005,local,2016
+Electricity,2122,16005,local,2016
+Kerosene,1275,16005,local,2016
+Not Stated about Light,9,16005,local,2016
+Others Type of Light,1,16005,local,2016
+Solar,52,16005,local,2016
+Bio-Gas,1,16001,local,2016
+Electricity,1956,16001,local,2016
+Kerosene,2005,16001,local,2016
+Not Stated about Light,42,16001,local,2016
+Others Type of Light,6,16001,local,2016
+Solar,37,16001,local,2016
+Bio-Gas,23,16006,local,2016
+Electricity,6382,16006,local,2016
+Kerosene,1880,16006,local,2016
+Not Stated about Light,114,16006,local,2016
+Others Type of Light,5,16006,local,2016
+Solar,353,16006,local,2016
+Bio-Gas,22,16012,local,2016
+Electricity,6741,16012,local,2016
+Kerosene,2437,16012,local,2016
+Not Stated about Light,70,16012,local,2016
+Others Type of Light,1,16012,local,2016
+Solar,62,16012,local,2016
+Bio-Gas,4,16013,local,2016
+Electricity,2231,16013,local,2016
+Kerosene,1367,16013,local,2016
+Not Stated about Light,45,16013,local,2016
+Others Type of Light,14,16013,local,2016
+Solar,12,16013,local,2016
+Bio-Gas,23,16016,local,2016
+Electricity,12533,16016,local,2016
+Kerosene,2728,16016,local,2016
+Not Stated about Light,127,16016,local,2016
+Others Type of Light,19,16016,local,2016
+Solar,47,16016,local,2016
+Bio-Gas,7,16002,local,2016
+Electricity,376,16002,local,2016
+Kerosene,3629,16002,local,2016
+Not Stated about Light,67,16002,local,2016
+Others Type of Light,0,16002,local,2016
+Solar,166,16002,local,2016
+Bio-Gas,7,16017,local,2016
+Electricity,3321,16017,local,2016
+Kerosene,3307,16017,local,2016
+Not Stated about Light,28,16017,local,2016
+Others Type of Light,2,16017,local,2016
+Solar,69,16017,local,2016
+Bio-Gas,209,40,district,2016
+Electricity,70339,40,district,2016
+Kerosene,38737,40,district,2016
+Not Stated about Light,637,40,district,2016
+Others Type of Light,161,40,district,2016
+Solar,1215,40,district,2016
+Bio-Gas,13,18012,local,2016
+Electricity,4581,18012,local,2016
+Kerosene,1839,18012,local,2016
+Not Stated about Light,34,18012,local,2016
+Others Type of Light,3,18012,local,2016
+Solar,20,18012,local,2016
+Bio-Gas,8,18002,local,2016
+Electricity,4746,18002,local,2016
+Kerosene,2812,18002,local,2016
+Not Stated about Light,26,18002,local,2016
+Others Type of Light,1,18002,local,2016
+Solar,68,18002,local,2016
+Bio-Gas,6,18014,local,2016
+Electricity,2351,18014,local,2016
+Kerosene,2954,18014,local,2016
+Not Stated about Light,31,18014,local,2016
+Others Type of Light,5,18014,local,2016
+Solar,35,18014,local,2016
+Bio-Gas,8,18013,local,2016
+Electricity,2640,18013,local,2016
+Kerosene,2552,18013,local,2016
+Not Stated about Light,33,18013,local,2016
+Others Type of Light,6,18013,local,2016
+Solar,18,18013,local,2016
+Bio-Gas,63,18003,local,2016
+Electricity,9502,18003,local,2016
+Kerosene,2932,18003,local,2016
+Not Stated about Light,47,18003,local,2016
+Others Type of Light,14,18003,local,2016
+Solar,555,18003,local,2016
+Bio-Gas,21,18007,local,2016
+Electricity,7622,18007,local,2016
+Kerosene,2235,18007,local,2016
+Not Stated about Light,121,18007,local,2016
+Others Type of Light,1,18007,local,2016
+Solar,34,18007,local,2016
+Bio-Gas,9,18005,local,2016
+Electricity,3036,18005,local,2016
+Kerosene,1714,18005,local,2016
+Not Stated about Light,13,18005,local,2016
+Others Type of Light,2,18005,local,2016
+Solar,35,18005,local,2016
+Bio-Gas,9,18008,local,2016
+Electricity,5504,18008,local,2016
+Kerosene,1659,18008,local,2016
+Not Stated about Light,31,18008,local,2016
+Others Type of Light,1,18008,local,2016
+Solar,113,18008,local,2016
+Bio-Gas,4,18009,local,2016
+Electricity,3302,18009,local,2016
+Kerosene,1516,18009,local,2016
+Not Stated about Light,4,18009,local,2016
+Others Type of Light,9,18009,local,2016
+Solar,26,18009,local,2016
+Bio-Gas,18,18004,local,2016
+Electricity,5064,18004,local,2016
+Kerosene,3349,18004,local,2016
+Not Stated about Light,46,18004,local,2016
+Others Type of Light,13,18004,local,2016
+Solar,70,18004,local,2016
+Bio-Gas,7,18006,local,2016
+Electricity,6678,18006,local,2016
+Kerosene,5088,18006,local,2016
+Not Stated about Light,63,18006,local,2016
+Others Type of Light,6,18006,local,2016
+Solar,51,18006,local,2016
+Bio-Gas,10,18011,local,2016
+Electricity,3763,18011,local,2016
+Kerosene,1399,18011,local,2016
+Not Stated about Light,26,18011,local,2016
+Others Type of Light,4,18011,local,2016
+Solar,24,18011,local,2016
+Bio-Gas,7,18015,local,2016
+Electricity,3297,18015,local,2016
+Kerosene,2935,18015,local,2016
+Not Stated about Light,61,18015,local,2016
+Others Type of Light,5,18015,local,2016
+Solar,36,18015,local,2016
+Bio-Gas,17,18010,local,2016
+Electricity,5142,18010,local,2016
+Kerosene,3157,18010,local,2016
+Not Stated about Light,76,18010,local,2016
+Others Type of Light,88,18010,local,2016
+Solar,52,18010,local,2016
+Bio-Gas,9,18001,local,2016
+Electricity,3111,18001,local,2016
+Kerosene,2596,18001,local,2016
+Not Stated about Light,25,18001,local,2016
+Others Type of Light,3,18001,local,2016
+Solar,78,18001,local,2016
+Bio-Gas,169,53,district,2016
+Electricity,69000,53,district,2016
+Kerosene,22959,53,district,2016
+Not Stated about Light,1118,53,district,2016
+Others Type of Light,308,53,district,2016
+Solar,1962,53,district,2016
+Bio-Gas,3,34008,local,2016
+Electricity,2442,34008,local,2016
+Kerosene,539,34008,local,2016
+Not Stated about Light,55,34008,local,2016
+Others Type of Light,1,34008,local,2016
+Solar,2,34008,local,2016
+Bio-Gas,4,34006,local,2016
+Electricity,1890,34006,local,2016
+Kerosene,2956,34006,local,2016
+Not Stated about Light,78,34006,local,2016
+Others Type of Light,1,34006,local,2016
+Solar,24,34006,local,2016
+Bio-Gas,0,34005,local,2016
+Electricity,1656,34005,local,2016
+Kerosene,1288,34005,local,2016
+Not Stated about Light,26,34005,local,2016
+Others Type of Light,1,34005,local,2016
+Solar,4,34005,local,2016
+Bio-Gas,4,34007,local,2016
+Electricity,1934,34007,local,2016
+Kerosene,2118,34007,local,2016
+Not Stated about Light,32,34007,local,2016
+Others Type of Light,2,34007,local,2016
+Solar,27,34007,local,2016
+Bio-Gas,109,34003,local,2016
+Electricity,35728,34003,local,2016
+Kerosene,2780,34003,local,2016
+Not Stated about Light,515,34003,local,2016
+Others Type of Light,83,34003,local,2016
+Solar,71,34003,local,2016
+Bio-Gas,9,34011,local,2016
+Electricity,2236,34011,local,2016
+Kerosene,1705,34011,local,2016
+Not Stated about Light,30,34011,local,2016
+Others Type of Light,2,34011,local,2016
+Solar,20,34011,local,2016
+Bio-Gas,1,34012,local,2016
+Electricity,2881,34012,local,2016
+Kerosene,1953,34012,local,2016
+Not Stated about Light,27,34012,local,2016
+Others Type of Light,2,34012,local,2016
+Solar,11,34012,local,2016
+Bio-Gas,3,34002,local,2016
+Electricity,2481,34002,local,2016
+Kerosene,1030,34002,local,2016
+Not Stated about Light,34,34002,local,2016
+Others Type of Light,0,34002,local,2016
+Solar,28,34002,local,2016
+Bio-Gas,12,34014,local,2016
+Electricity,728,34014,local,2016
+Kerosene,1602,34014,local,2016
+Not Stated about Light,19,34014,local,2016
+Others Type of Light,205,34014,local,2016
+Solar,1681,34014,local,2016
+Bio-Gas,6,34004,local,2016
+Electricity,1146,34004,local,2016
+Kerosene,2748,34004,local,2016
+Not Stated about Light,57,34004,local,2016
+Others Type of Light,2,34004,local,2016
+Solar,24,34004,local,2016
+Bio-Gas,2,34001,local,2016
+Electricity,4988,34001,local,2016
+Kerosene,596,34001,local,2016
+Not Stated about Light,74,34001,local,2016
+Others Type of Light,0,34001,local,2016
+Solar,21,34001,local,2016
+Bio-Gas,7,34010,local,2016
+Electricity,5106,34010,local,2016
+Kerosene,1230,34010,local,2016
+Not Stated about Light,45,34010,local,2016
+Others Type of Light,4,34010,local,2016
+Solar,20,34010,local,2016
+Bio-Gas,5,34013,local,2016
+Electricity,4024,34013,local,2016
+Kerosene,1234,34013,local,2016
+Not Stated about Light,48,34013,local,2016
+Others Type of Light,3,34013,local,2016
+Solar,15,34013,local,2016
+Bio-Gas,4,34009,local,2016
+Electricity,1760,34009,local,2016
+Kerosene,1180,34009,local,2016
+Not Stated about Light,78,34009,local,2016
+Others Type of Light,2,34009,local,2016
+Solar,14,34009,local,2016
+Bio-Gas,277,63,district,2016
+Electricity,50747,63,district,2016
+Kerosene,66975,63,district,2016
+Not Stated about Light,1696,63,district,2016
+Others Type of Light,156,63,district,2016
+Solar,1213,63,district,2016
+Bio-Gas,9,15002,local,2016
+Electricity,10,15002,local,2016
+Kerosene,3854,15002,local,2016
+Not Stated about Light,50,15002,local,2016
+Others Type of Light,5,15002,local,2016
+Solar,48,15002,local,2016
+Bio-Gas,13,15005,local,2016
+Electricity,1301,15005,local,2016
+Kerosene,6549,15005,local,2016
+Not Stated about Light,110,15005,local,2016
+Others Type of Light,3,15005,local,2016
+Solar,46,15005,local,2016
+Bio-Gas,32,15007,local,2016
+Electricity,825,15007,local,2016
+Kerosene,7048,15007,local,2016
+Not Stated about Light,130,15007,local,2016
+Others Type of Light,2,15007,local,2016
+Solar,112,15007,local,2016
+Bio-Gas,23,15010,local,2016
+Electricity,3720,15010,local,2016
+Kerosene,4669,15010,local,2016
+Not Stated about Light,93,15010,local,2016
+Others Type of Light,15,15010,local,2016
+Solar,95,15010,local,2016
+Bio-Gas,6,15004,local,2016
+Electricity,2185,15004,local,2016
+Kerosene,2114,15004,local,2016
+Not Stated about Light,35,15004,local,2016
+Others Type of Light,2,15004,local,2016
+Solar,28,15004,local,2016
+Bio-Gas,17,15008,local,2016
+Electricity,3643,15008,local,2016
+Kerosene,4312,15008,local,2016
+Not Stated about Light,105,15008,local,2016
+Others Type of Light,3,15008,local,2016
+Solar,72,15008,local,2016
+Bio-Gas,13,15003,local,2016
+Electricity,1080,15003,local,2016
+Kerosene,4035,15003,local,2016
+Not Stated about Light,80,15003,local,2016
+Others Type of Light,0,15003,local,2016
+Solar,34,15003,local,2016
+Bio-Gas,7,15018,local,2016
+Electricity,1431,15018,local,2016
+Kerosene,2541,15018,local,2016
+Not Stated about Light,72,15018,local,2016
+Others Type of Light,6,15018,local,2016
+Solar,21,15018,local,2016
+Bio-Gas,49,15012,local,2016
+Electricity,10032,15012,local,2016
+Kerosene,2983,15012,local,2016
+Not Stated about Light,212,15012,local,2016
+Others Type of Light,8,15012,local,2016
+Solar,66,15012,local,2016
+Bio-Gas,6,15001,local,2016
+Electricity,3257,15001,local,2016
+Kerosene,1930,15001,local,2016
+Not Stated about Light,127,15001,local,2016
+Others Type of Light,1,15001,local,2016
+Solar,101,15001,local,2016
+Bio-Gas,13,15016,local,2016
+Electricity,2586,15016,local,2016
+Kerosene,5654,15016,local,2016
+Not Stated about Light,90,15016,local,2016
+Others Type of Light,1,15016,local,2016
+Solar,306,15016,local,2016
+Bio-Gas,9,15013,local,2016
+Electricity,2526,15013,local,2016
+Kerosene,2420,15013,local,2016
+Not Stated about Light,29,15013,local,2016
+Others Type of Light,2,15013,local,2016
+Solar,26,15013,local,2016
+Bio-Gas,6,15017,local,2016
+Electricity,2068,15017,local,2016
+Kerosene,3566,15017,local,2016
+Not Stated about Light,22,15017,local,2016
+Others Type of Light,2,15017,local,2016
+Solar,33,15017,local,2016
+Bio-Gas,9,15015,local,2016
+Electricity,2706,15015,local,2016
+Kerosene,3905,15015,local,2016
+Not Stated about Light,57,15015,local,2016
+Others Type of Light,47,15015,local,2016
+Solar,40,15015,local,2016
+Bio-Gas,19,15014,local,2016
+Electricity,2874,15014,local,2016
+Kerosene,1561,15014,local,2016
+Not Stated about Light,52,15014,local,2016
+Others Type of Light,1,15014,local,2016
+Solar,32,15014,local,2016
+Bio-Gas,12,15011,local,2016
+Electricity,1551,15011,local,2016
+Kerosene,3665,15011,local,2016
+Not Stated about Light,94,15011,local,2016
+Others Type of Light,0,15011,local,2016
+Solar,73,15011,local,2016
+Bio-Gas,27,15009,local,2016
+Electricity,6923,15009,local,2016
+Kerosene,3009,15009,local,2016
+Not Stated about Light,130,15009,local,2016
+Others Type of Light,56,15009,local,2016
+Solar,47,15009,local,2016
+Bio-Gas,7,15006,local,2016
+Electricity,2029,15006,local,2016
+Kerosene,3160,15006,local,2016
+Not Stated about Light,208,15006,local,2016
+Others Type of Light,2,15006,local,2016
+Solar,33,15006,local,2016
+Bio-Gas,201,57,district,2016
+Electricity,49667,57,district,2016
+Kerosene,53839,57,district,2016
+Not Stated about Light,1668,57,district,2016
+Others Type of Light,298,57,district,2016
+Solar,979,57,district,2016
+Bio-Gas,4,32002,local,2016
+Electricity,3664,32002,local,2016
+Kerosene,2568,32002,local,2016
+Not Stated about Light,115,32002,local,2016
+Others Type of Light,8,32002,local,2016
+Solar,15,32002,local,2016
+Bio-Gas,5,32001,local,2016
+Electricity,1508,32001,local,2016
+Kerosene,3214,32001,local,2016
+Not Stated about Light,53,32001,local,2016
+Others Type of Light,0,32001,local,2016
+Solar,27,32001,local,2016
+Bio-Gas,8,32005,local,2016
+Electricity,1735,32005,local,2016
+Kerosene,2026,32005,local,2016
+Not Stated about Light,32,32005,local,2016
+Others Type of Light,0,32005,local,2016
+Solar,11,32005,local,2016
+Bio-Gas,25,32003,local,2016
+Electricity,11144,32003,local,2016
+Kerosene,1807,32003,local,2016
+Not Stated about Light,145,32003,local,2016
+Others Type of Light,166,32003,local,2016
+Solar,158,32003,local,2016
+Bio-Gas,5,32010,local,2016
+Electricity,1827,32010,local,2016
+Kerosene,3833,32010,local,2016
+Not Stated about Light,124,32010,local,2016
+Others Type of Light,7,32010,local,2016
+Solar,38,32010,local,2016
+Bio-Gas,13,32015,local,2016
+Electricity,1145,32015,local,2016
+Kerosene,4194,32015,local,2016
+Not Stated about Light,64,32015,local,2016
+Others Type of Light,13,32015,local,2016
+Solar,204,32015,local,2016
+Bio-Gas,2,32011,local,2016
+Electricity,1550,32011,local,2016
+Kerosene,4274,32011,local,2016
+Not Stated about Light,81,32011,local,2016
+Others Type of Light,1,32011,local,2016
+Solar,11,32011,local,2016
+Bio-Gas,20,32006,local,2016
+Electricity,3143,32006,local,2016
+Kerosene,2761,32006,local,2016
+Not Stated about Light,120,32006,local,2016
+Others Type of Light,3,32006,local,2016
+Solar,22,32006,local,2016
+Bio-Gas,15,32016,local,2016
+Electricity,2147,32016,local,2016
+Kerosene,3115,32016,local,2016
+Not Stated about Light,82,32016,local,2016
+Others Type of Light,1,32016,local,2016
+Solar,5,32016,local,2016
+Bio-Gas,14,32017,local,2016
+Electricity,1534,32017,local,2016
+Kerosene,4100,32017,local,2016
+Not Stated about Light,75,32017,local,2016
+Others Type of Light,7,32017,local,2016
+Solar,38,32017,local,2016
+Bio-Gas,5,32018,local,2016
+Electricity,2103,32018,local,2016
+Kerosene,1614,32018,local,2016
+Not Stated about Light,32,32018,local,2016
+Others Type of Light,7,32018,local,2016
+Solar,15,32018,local,2016
+Bio-Gas,17,32007,local,2016
+Electricity,4291,32007,local,2016
+Kerosene,3018,32007,local,2016
+Not Stated about Light,96,32007,local,2016
+Others Type of Light,3,32007,local,2016
+Solar,19,32007,local,2016
+Bio-Gas,9,32014,local,2016
+Electricity,1867,32014,local,2016
+Kerosene,3273,32014,local,2016
+Not Stated about Light,143,32014,local,2016
+Others Type of Light,8,32014,local,2016
+Solar,80,32014,local,2016
+Bio-Gas,9,32004,local,2016
+Electricity,1450,32004,local,2016
+Kerosene,3155,32004,local,2016
+Not Stated about Light,64,32004,local,2016
+Others Type of Light,0,32004,local,2016
+Solar,13,32004,local,2016
+Bio-Gas,11,32009,local,2016
+Electricity,2778,32009,local,2016
+Kerosene,4109,32009,local,2016
+Not Stated about Light,188,32009,local,2016
+Others Type of Light,14,32009,local,2016
+Solar,291,32009,local,2016
+Bio-Gas,7,32012,local,2016
+Electricity,2413,32012,local,2016
+Kerosene,2944,32012,local,2016
+Not Stated about Light,58,32012,local,2016
+Others Type of Light,50,32012,local,2016
+Solar,7,32012,local,2016
+Bio-Gas,4,32013,local,2016
+Electricity,1140,32013,local,2016
+Kerosene,2585,32013,local,2016
+Not Stated about Light,90,32013,local,2016
+Others Type of Light,0,32013,local,2016
+Solar,11,32013,local,2016
+Bio-Gas,28,32008,local,2016
+Electricity,4228,32008,local,2016
+Kerosene,1249,32008,local,2016
+Not Stated about Light,106,32008,local,2016
+Others Type of Light,10,32008,local,2016
+Solar,14,32008,local,2016
+Bio-Gas,179,08,district,2016
+Electricity,74169,08,district,2016
+Kerosene,31934,08,district,2016
+Not Stated about Light,1166,08,district,2016
+Others Type of Light,226,08,district,2016
+Solar,926,08,district,2016
+Bio-Gas,6,33014,local,2016
+Electricity,2563,33014,local,2016
+Kerosene,925,33014,local,2016
+Not Stated about Light,58,33014,local,2016
+Others Type of Light,57,33014,local,2016
+Solar,17,33014,local,2016
+Bio-Gas,4,33016,local,2016
+Electricity,1612,33016,local,2016
+Kerosene,2338,33016,local,2016
+Not Stated about Light,68,33016,local,2016
+Others Type of Light,0,33016,local,2016
+Solar,13,33016,local,2016
+Bio-Gas,2,33012,local,2016
+Electricity,2576,33012,local,2016
+Kerosene,523,33012,local,2016
+Not Stated about Light,36,33012,local,2016
+Others Type of Light,3,33012,local,2016
+Solar,26,33012,local,2016
+Bio-Gas,7,33007,local,2016
+Electricity,2455,33007,local,2016
+Kerosene,1643,33007,local,2016
+Not Stated about Light,36,33007,local,2016
+Others Type of Light,6,33007,local,2016
+Solar,26,33007,local,2016
+Bio-Gas,6,33004,local,2016
+Electricity,1463,33004,local,2016
+Kerosene,1581,33004,local,2016
+Not Stated about Light,113,33004,local,2016
+Others Type of Light,3,33004,local,2016
+Solar,19,33004,local,2016
+Bio-Gas,23,33010,local,2016
+Electricity,4982,33010,local,2016
+Kerosene,1669,33010,local,2016
+Not Stated about Light,43,33010,local,2016
+Others Type of Light,41,33010,local,2016
+Solar,404,33010,local,2016
+Bio-Gas,2,33002,local,2016
+Electricity,1885,33002,local,2016
+Kerosene,2335,33002,local,2016
+Not Stated about Light,21,33002,local,2016
+Others Type of Light,9,33002,local,2016
+Solar,18,33002,local,2016
+Bio-Gas,41,33005,local,2016
+Electricity,17974,33005,local,2016
+Kerosene,3292,33005,local,2016
+Not Stated about Light,178,33005,local,2016
+Others Type of Light,12,33005,local,2016
+Solar,173,33005,local,2016
+Bio-Gas,6,33001,local,2016
+Electricity,2772,33001,local,2016
+Kerosene,1149,33001,local,2016
+Not Stated about Light,21,33001,local,2016
+Others Type of Light,0,33001,local,2016
+Solar,12,33001,local,2016
+Bio-Gas,5,33013,local,2016
+Electricity,2452,33013,local,2016
+Kerosene,1097,33013,local,2016
+Not Stated about Light,19,33013,local,2016
+Others Type of Light,1,33013,local,2016
+Solar,11,33013,local,2016
+Bio-Gas,5,33011,local,2016
+Electricity,2311,33011,local,2016
+Kerosene,2319,33011,local,2016
+Not Stated about Light,50,33011,local,2016
+Others Type of Light,6,33011,local,2016
+Solar,16,33011,local,2016
+Bio-Gas,9,33009,local,2016
+Electricity,5083,33009,local,2016
+Kerosene,2495,33009,local,2016
+Not Stated about Light,95,33009,local,2016
+Others Type of Light,61,33009,local,2016
+Solar,30,33009,local,2016
+Bio-Gas,37,33006,local,2016
+Electricity,13481,33006,local,2016
+Kerosene,4786,33006,local,2016
+Not Stated about Light,279,33006,local,2016
+Others Type of Light,19,33006,local,2016
+Solar,87,33006,local,2016
+Bio-Gas,4,33003,local,2016
+Electricity,2262,33003,local,2016
+Kerosene,1072,33003,local,2016
+Not Stated about Light,36,33003,local,2016
+Others Type of Light,2,33003,local,2016
+Solar,19,33003,local,2016
+Bio-Gas,3,33008,local,2016
+Electricity,6599,33008,local,2016
+Kerosene,1422,33008,local,2016
+Not Stated about Light,61,33008,local,2016
+Others Type of Light,2,33008,local,2016
+Solar,24,33008,local,2016
+Bio-Gas,19,33015,local,2016
+Electricity,3699,33015,local,2016
+Kerosene,3288,33015,local,2016
+Not Stated about Light,52,33015,local,2016
+Others Type of Light,4,33015,local,2016
+Solar,31,33015,local,2016
+Bio-Gas,407,19,district,2016
+Electricity,101226,19,district,2016
+Kerosene,32517,19,district,2016
+Not Stated about Light,2354,19,district,2016
+Others Type of Light,192,19,district,2016
+Solar,1529,19,district,2016
+Bio-Gas,28,17013,local,2016
+Electricity,6787,17013,local,2016
+Kerosene,1286,17013,local,2016
+Not Stated about Light,86,17013,local,2016
+Others Type of Light,12,17013,local,2016
+Solar,30,17013,local,2016
+Bio-Gas,26,17017,local,2016
+Electricity,5779,17017,local,2016
+Kerosene,3949,17017,local,2016
+Not Stated about Light,257,17017,local,2016
+Others Type of Light,1,17017,local,2016
+Solar,61,17017,local,2016
+Bio-Gas,8,17004,local,2016
+Electricity,6256,17004,local,2016
+Kerosene,1365,17004,local,2016
+Not Stated about Light,102,17004,local,2016
+Others Type of Light,2,17004,local,2016
+Solar,42,17004,local,2016
+Bio-Gas,11,17015,local,2016
+Electricity,3047,17015,local,2016
+Kerosene,1014,17015,local,2016
+Not Stated about Light,39,17015,local,2016
+Others Type of Light,0,17015,local,2016
+Solar,19,17015,local,2016
+Bio-Gas,21,17011,local,2016
+Electricity,2386,17011,local,2016
+Kerosene,3840,17011,local,2016
+Not Stated about Light,118,17011,local,2016
+Others Type of Light,3,17011,local,2016
+Solar,631,17011,local,2016
+Bio-Gas,13,17016,local,2016
+Electricity,4573,17016,local,2016
+Kerosene,1698,17016,local,2016
+Not Stated about Light,53,17016,local,2016
+Others Type of Light,3,17016,local,2016
+Solar,25,17016,local,2016
+Bio-Gas,13,17006,local,2016
+Electricity,6786,17006,local,2016
+Kerosene,1752,17006,local,2016
+Not Stated about Light,106,17006,local,2016
+Others Type of Light,7,17006,local,2016
+Solar,51,17006,local,2016
+Bio-Gas,12,17018,local,2016
+Electricity,6344,17018,local,2016
+Kerosene,2108,17018,local,2016
+Not Stated about Light,183,17018,local,2016
+Others Type of Light,3,17018,local,2016
+Solar,21,17018,local,2016
+Bio-Gas,11,17007,local,2016
+Electricity,4603,17007,local,2016
+Kerosene,2198,17007,local,2016
+Not Stated about Light,98,17007,local,2016
+Others Type of Light,2,17007,local,2016
+Solar,125,17007,local,2016
+Bio-Gas,11,17014,local,2016
+Electricity,4496,17014,local,2016
+Kerosene,1402,17014,local,2016
+Not Stated about Light,138,17014,local,2016
+Others Type of Light,4,17014,local,2016
+Solar,15,17014,local,2016
+Bio-Gas,13,17012,local,2016
+Electricity,4159,17012,local,2016
+Kerosene,707,17012,local,2016
+Not Stated about Light,32,17012,local,2016
+Others Type of Light,20,17012,local,2016
+Solar,64,17012,local,2016
+Bio-Gas,11,17005,local,2016
+Electricity,3142,17005,local,2016
+Kerosene,417,17005,local,2016
+Not Stated about Light,111,17005,local,2016
+Others Type of Light,23,17005,local,2016
+Solar,13,17005,local,2016
+Bio-Gas,11,17001,local,2016
+Electricity,2501,17001,local,2016
+Kerosene,1405,17001,local,2016
+Not Stated about Light,48,17001,local,2016
+Others Type of Light,10,17001,local,2016
+Solar,28,17001,local,2016
+Bio-Gas,7,17009,local,2016
+Electricity,2214,17009,local,2016
+Kerosene,1989,17009,local,2016
+Not Stated about Light,74,17009,local,2016
+Others Type of Light,2,17009,local,2016
+Solar,175,17009,local,2016
+Bio-Gas,136,17010,local,2016
+Electricity,27035,17010,local,2016
+Kerosene,2685,17010,local,2016
+Not Stated about Light,546,17010,local,2016
+Others Type of Light,92,17010,local,2016
+Solar,95,17010,local,2016
+Bio-Gas,10,17008,local,2016
+Electricity,4707,17008,local,2016
+Kerosene,2053,17008,local,2016
+Not Stated about Light,100,17008,local,2016
+Others Type of Light,1,17008,local,2016
+Solar,41,17008,local,2016
+Bio-Gas,16,17003,local,2016
+Electricity,3428,17003,local,2016
+Kerosene,2134,17003,local,2016
+Not Stated about Light,206,17003,local,2016
+Others Type of Light,0,17003,local,2016
+Solar,33,17003,local,2016
+Bio-Gas,49,17002,local,2016
+Electricity,2983,17002,local,2016
+Kerosene,515,17002,local,2016
+Not Stated about Light,57,17002,local,2016
+Others Type of Light,7,17002,local,2016
+Solar,60,17002,local,2016
+Bio-Gas,2017,7,province,2016
+Electricity,225954,7,province,2016
+Kerosene,77155,7,province,2016
+Not Stated about Light,2749,7,province,2016
+Others Type of Light,97398,7,province,2016
+Solar,64430,7,province,2016
+Bio-Gas,64,04,district,2016
+Electricity,11232,04,district,2016
+Kerosene,17981,04,district,2016
+Not Stated about Light,195,04,district,2016
+Others Type of Light,7615,04,district,2016
+Solar,8080,04,district,2016
+Bio-Gas,12,74005,local,2016
+Electricity,79,74005,local,2016
+Kerosene,2056,74005,local,2016
+Not Stated about Light,10,74005,local,2016
+Others Type of Light,204,74005,local,2016
+Solar,951,74005,local,2016
+Bio-Gas,2,74008,local,2016
+Electricity,8,74008,local,2016
+Kerosene,1779,74008,local,2016
+Not Stated about Light,9,74008,local,2016
+Others Type of Light,263,74008,local,2016
+Solar,710,74008,local,2016
+Bio-Gas,3,74010,local,2016
+Electricity,1047,74010,local,2016
+Kerosene,1147,74010,local,2016
+Not Stated about Light,24,74010,local,2016
+Others Type of Light,558,74010,local,2016
+Solar,542,74010,local,2016
+Bio-Gas,12,74009,local,2016
+Electricity,780,74009,local,2016
+Kerosene,269,74009,local,2016
+Not Stated about Light,26,74009,local,2016
+Others Type of Light,2027,74009,local,2016
+Solar,619,74009,local,2016
+Bio-Gas,11,74007,local,2016
+Electricity,420,74007,local,2016
+Kerosene,3583,74007,local,2016
+Not Stated about Light,25,74007,local,2016
+Others Type of Light,796,74007,local,2016
+Solar,1555,74007,local,2016
+Bio-Gas,4,74003,local,2016
+Electricity,744,74003,local,2016
+Kerosene,2353,74003,local,2016
+Not Stated about Light,17,74003,local,2016
+Others Type of Light,747,74003,local,2016
+Solar,694,74003,local,2016
+Bio-Gas,7,74004,local,2016
+Electricity,79,74004,local,2016
+Kerosene,1913,74004,local,2016
+Not Stated about Light,24,74004,local,2016
+Others Type of Light,799,74004,local,2016
+Solar,1125,74004,local,2016
+Bio-Gas,9,74001,local,2016
+Electricity,5499,74001,local,2016
+Kerosene,1685,74001,local,2016
+Not Stated about Light,29,74001,local,2016
+Others Type of Light,2,74001,local,2016
+Solar,33,74001,local,2016
+Bio-Gas,2,74002,local,2016
+Electricity,142,74002,local,2016
+Kerosene,1658,74002,local,2016
+Not Stated about Light,9,74002,local,2016
+Others Type of Light,885,74002,local,2016
+Solar,1414,74002,local,2016
+Bio-Gas,2,74006,local,2016
+Electricity,2434,74006,local,2016
+Kerosene,1538,74006,local,2016
+Not Stated about Light,22,74006,local,2016
+Others Type of Light,1334,74006,local,2016
+Solar,437,74006,local,2016
+Bio-Gas,10,16,district,2016
+Electricity,6631,16,district,2016
+Kerosene,8197,16,district,2016
+Not Stated about Light,82,16,district,2016
+Others Type of Light,1547,16,district,2016
+Solar,8137,16,district,2016
+Bio-Gas,1,75005,local,2016
+Electricity,2665,75005,local,2016
+Kerosene,1415,75005,local,2016
+Not Stated about Light,11,75005,local,2016
+Others Type of Light,19,75005,local,2016
+Solar,415,75005,local,2016
+Bio-Gas,1,75009,local,2016
+Electricity,672,75009,local,2016
+Kerosene,1539,75009,local,2016
+Not Stated about Light,28,75009,local,2016
+Others Type of Light,165,75009,local,2016
+Solar,1616,75009,local,2016
+Bio-Gas,0,75001,local,2016
+Electricity,4,75001,local,2016
+Kerosene,20,75001,local,2016
+Not Stated about Light,2,75001,local,2016
+Others Type of Light,128,75001,local,2016
+Solar,931,75001,local,2016
+Bio-Gas,0,75008,local,2016
+Electricity,1165,75008,local,2016
+Kerosene,688,75008,local,2016
+Not Stated about Light,12,75008,local,2016
+Others Type of Light,311,75008,local,2016
+Solar,440,75008,local,2016
+Bio-Gas,1,75002,local,2016
+Electricity,460,75002,local,2016
+Kerosene,825,75002,local,2016
+Not Stated about Light,10,75002,local,2016
+Others Type of Light,10,75002,local,2016
+Solar,613,75002,local,2016
+Bio-Gas,0,75004,local,2016
+Electricity,173,75004,local,2016
+Kerosene,1159,75004,local,2016
+Not Stated about Light,4,75004,local,2016
+Others Type of Light,219,75004,local,2016
+Solar,1296,75004,local,2016
+Bio-Gas,1,75006,local,2016
+Electricity,669,75006,local,2016
+Kerosene,1064,75006,local,2016
+Not Stated about Light,5,75006,local,2016
+Others Type of Light,371,75006,local,2016
+Solar,986,75006,local,2016
+Bio-Gas,6,75003,local,2016
+Electricity,404,75003,local,2016
+Kerosene,1033,75003,local,2016
+Not Stated about Light,6,75003,local,2016
+Others Type of Light,2,75003,local,2016
+Solar,531,75003,local,2016
+Bio-Gas,0,75007,local,2016
+Electricity,419,75007,local,2016
+Kerosene,454,75007,local,2016
+Not Stated about Light,4,75007,local,2016
+Others Type of Light,322,75007,local,2016
+Solar,1309,75007,local,2016
+Bio-Gas,287,13,district,2016
+Electricity,12966,13,district,2016
+Kerosene,2020,13,district,2016
+Not Stated about Light,135,13,district,2016
+Others Type of Light,8780,13,district,2016
+Solar,2835,13,district,2016
+Bio-Gas,178,73006,local,2016
+Electricity,1582,73006,local,2016
+Kerosene,120,73006,local,2016
+Not Stated about Light,15,73006,local,2016
+Others Type of Light,1952,73006,local,2016
+Solar,285,73006,local,2016
+Bio-Gas,50,73005,local,2016
+Electricity,1929,73005,local,2016
+Kerosene,30,73005,local,2016
+Not Stated about Light,4,73005,local,2016
+Others Type of Light,1022,73005,local,2016
+Solar,35,73005,local,2016
+Bio-Gas,12,73007,local,2016
+Electricity,1840,73007,local,2016
+Kerosene,632,73007,local,2016
+Not Stated about Light,32,73007,local,2016
+Others Type of Light,1981,73007,local,2016
+Solar,1493,73007,local,2016
+Bio-Gas,7,73002,local,2016
+Electricity,1126,73002,local,2016
+Kerosene,419,73002,local,2016
+Not Stated about Light,8,73002,local,2016
+Others Type of Light,1311,73002,local,2016
+Solar,409,73002,local,2016
+Bio-Gas,9,73001,local,2016
+Electricity,1932,73001,local,2016
+Kerosene,274,73001,local,2016
+Not Stated about Light,28,73001,local,2016
+Others Type of Light,955,73001,local,2016
+Solar,113,73001,local,2016
+Bio-Gas,14,73004,local,2016
+Electricity,610,73004,local,2016
+Kerosene,299,73004,local,2016
+Not Stated about Light,25,73004,local,2016
+Others Type of Light,1032,73004,local,2016
+Solar,482,73004,local,2016
+Bio-Gas,17,73003,local,2016
+Electricity,3947,73003,local,2016
+Kerosene,246,73003,local,2016
+Not Stated about Light,23,73003,local,2016
+Others Type of Light,527,73003,local,2016
+Solar,18,73003,local,2016
+Bio-Gas,0,06,district,2016
+Electricity,5667,06,district,2016
+Kerosene,273,06,district,2016
+Not Stated about Light,196,06,district,2016
+Others Type of Light,13170,06,district,2016
+Solar,5582,06,district,2016
+Bio-Gas,0,67002,local,2016
+Electricity,367,67002,local,2016
+Kerosene,7,67002,local,2016
+Not Stated about Light,46,67002,local,2016
+Others Type of Light,2639,67002,local,2016
+Solar,1218,67002,local,2016
+Bio-Gas,0,67006,local,2016
+Electricity,147,67006,local,2016
+Kerosene,29,67006,local,2016
+Not Stated about Light,28,67006,local,2016
+Others Type of Light,910,67006,local,2016
+Solar,608,67006,local,2016
+Bio-Gas,0,67009,local,2016
+Electricity,866,67009,local,2016
+Kerosene,12,67009,local,2016
+Not Stated about Light,12,67009,local,2016
+Others Type of Light,1917,67009,local,2016
+Solar,543,67009,local,2016
+Bio-Gas,0,67007,local,2016
+Electricity,7,67007,local,2016
+Kerosene,1,67007,local,2016
+Not Stated about Light,3,67007,local,2016
+Others Type of Light,1059,67007,local,2016
+Solar,614,67007,local,2016
+Bio-Gas,0,67008,local,2016
+Electricity,6,67008,local,2016
+Kerosene,4,67008,local,2016
+Not Stated about Light,22,67008,local,2016
+Others Type of Light,1449,67008,local,2016
+Solar,742,67008,local,2016
+Bio-Gas,0,67003,local,2016
+Electricity,1208,67003,local,2016
+Kerosene,158,67003,local,2016
+Not Stated about Light,17,67003,local,2016
+Others Type of Light,1689,67003,local,2016
+Solar,380,67003,local,2016
+Bio-Gas,0,67005,local,2016
+Electricity,520,67005,local,2016
+Kerosene,0,67005,local,2016
+Not Stated about Light,6,67005,local,2016
+Others Type of Light,413,67005,local,2016
+Solar,621,67005,local,2016
+Bio-Gas,0,67004,local,2016
+Electricity,608,67004,local,2016
+Kerosene,9,67004,local,2016
+Not Stated about Light,43,67004,local,2016
+Others Type of Light,1935,67004,local,2016
+Solar,579,67004,local,2016
+Bio-Gas,0,67001,local,2016
+Electricity,1938,67001,local,2016
+Kerosene,53,67001,local,2016
+Not Stated about Light,19,67001,local,2016
+Others Type of Light,1159,67001,local,2016
+Solar,277,67001,local,2016
+Bio-Gas,266,30,district,2016
+Electricity,100382,30,district,2016
+Kerosene,20077,30,district,2016
+Not Stated about Light,789,30,district,2016
+Others Type of Light,11971,30,district,2016
+Solar,8928,30,district,2016
+Bio-Gas,66,71004,local,2016
+Electricity,25491,71004,local,2016
+Kerosene,3144,71004,local,2016
+Not Stated about Light,149,71004,local,2016
+Others Type of Light,162,71004,local,2016
+Solar,131,71004,local,2016
+Bio-Gas,1,71012,local,2016
+Electricity,29,71012,local,2016
+Kerosene,23,71012,local,2016
+Not Stated about Light,24,71012,local,2016
+Others Type of Light,3120,71012,local,2016
+Solar,772,71012,local,2016
+Bio-Gas,4,71009,local,2016
+Electricity,5485,71009,local,2016
+Kerosene,789,71009,local,2016
+Not Stated about Light,33,71009,local,2016
+Others Type of Light,23,71009,local,2016
+Solar,58,71009,local,2016
+Bio-Gas,36,71013,local,2016
+Electricity,12462,71013,local,2016
+Kerosene,1795,71013,local,2016
+Not Stated about Light,88,71013,local,2016
+Others Type of Light,934,71013,local,2016
+Solar,41,71013,local,2016
+Bio-Gas,5,71001,local,2016
+Electricity,5270,71001,local,2016
+Kerosene,141,71001,local,2016
+Not Stated about Light,23,71001,local,2016
+Others Type of Light,250,71001,local,2016
+Solar,14,71001,local,2016
+Bio-Gas,37,71007,local,2016
+Electricity,12003,71007,local,2016
+Kerosene,2154,71007,local,2016
+Not Stated about Light,102,71007,local,2016
+Others Type of Light,491,71007,local,2016
+Solar,128,71007,local,2016
+Bio-Gas,9,71011,local,2016
+Electricity,13283,71011,local,2016
+Kerosene,573,71011,local,2016
+Not Stated about Light,82,71011,local,2016
+Others Type of Light,769,71011,local,2016
+Solar,41,71011,local,2016
+Bio-Gas,15,71002,local,2016
+Electricity,6285,71002,local,2016
+Kerosene,1908,71002,local,2016
+Not Stated about Light,50,71002,local,2016
+Others Type of Light,211,71002,local,2016
+Solar,248,71002,local,2016
+Bio-Gas,4,71003,local,2016
+Electricity,325,71003,local,2016
+Kerosene,340,71003,local,2016
+Not Stated about Light,20,71003,local,2016
+Others Type of Light,1900,71003,local,2016
+Solar,773,71003,local,2016
+Bio-Gas,38,71006,local,2016
+Electricity,3387,71006,local,2016
+Kerosene,4152,71006,local,2016
+Not Stated about Light,76,71006,local,2016
+Others Type of Light,2548,71006,local,2016
+Solar,2973,71006,local,2016
+Bio-Gas,12,71005,local,2016
+Electricity,6402,71005,local,2016
+Kerosene,1609,71005,local,2016
+Not Stated about Light,51,71005,local,2016
+Others Type of Light,1277,71005,local,2016
+Solar,721,71005,local,2016
+Bio-Gas,18,71010,local,2016
+Electricity,1448,71010,local,2016
+Kerosene,3209,71010,local,2016
+Not Stated about Light,52,71010,local,2016
+Others Type of Light,109,71010,local,2016
+Solar,2966,71010,local,2016
+Bio-Gas,21,71008,local,2016
+Electricity,8512,71008,local,2016
+Kerosene,240,71008,local,2016
+Not Stated about Light,39,71008,local,2016
+Others Type of Light,177,71008,local,2016
+Solar,62,71008,local,2016
+Bio-Gas,148,22,district,2016
+Electricity,12498,22,district,2016
+Kerosene,4185,22,district,2016
+Not Stated about Light,172,22,district,2016
+Others Type of Light,19396,22,district,2016
+Solar,4984,22,district,2016
+Bio-Gas,6,70007,local,2016
+Electricity,416,70007,local,2016
+Kerosene,1019,70007,local,2016
+Not Stated about Light,36,70007,local,2016
+Others Type of Light,3050,70007,local,2016
+Solar,309,70007,local,2016
+Bio-Gas,38,70004,local,2016
+Electricity,5249,70004,local,2016
+Kerosene,522,70004,local,2016
+Not Stated about Light,28,70004,local,2016
+Others Type of Light,1541,70004,local,2016
+Solar,69,70004,local,2016
+Bio-Gas,14,70001,local,2016
+Electricity,560,70001,local,2016
+Kerosene,825,70001,local,2016
+Not Stated about Light,30,70001,local,2016
+Others Type of Light,2772,70001,local,2016
+Solar,546,70001,local,2016
+Bio-Gas,0,70002,local,2016
+Electricity,135,70002,local,2016
+Kerosene,208,70002,local,2016
+Not Stated about Light,5,70002,local,2016
+Others Type of Light,1284,70002,local,2016
+Solar,1087,70002,local,2016
+Bio-Gas,13,70006,local,2016
+Electricity,796,70006,local,2016
+Kerosene,541,70006,local,2016
+Not Stated about Light,17,70006,local,2016
+Others Type of Light,2324,70006,local,2016
+Solar,568,70006,local,2016
+Bio-Gas,6,70008,local,2016
+Electricity,1438,70008,local,2016
+Kerosene,85,70008,local,2016
+Not Stated about Light,23,70008,local,2016
+Others Type of Light,1938,70008,local,2016
+Solar,282,70008,local,2016
+Bio-Gas,3,70003,local,2016
+Electricity,230,70003,local,2016
+Kerosene,284,70003,local,2016
+Not Stated about Light,13,70003,local,2016
+Others Type of Light,1685,70003,local,2016
+Solar,915,70003,local,2016
+Bio-Gas,63,70009,local,2016
+Electricity,2930,70009,local,2016
+Kerosene,422,70009,local,2016
+Not Stated about Light,12,70009,local,2016
+Others Type of Light,3135,70009,local,2016
+Solar,103,70009,local,2016
+Bio-Gas,5,70005,local,2016
+Electricity,744,70005,local,2016
+Kerosene,279,70005,local,2016
+Not Stated about Light,8,70005,local,2016
+Others Type of Light,1667,70005,local,2016
+Solar,1105,70005,local,2016
+Bio-Gas,764,01,district,2016
+Electricity,8916,01,district,2016
+Kerosene,2059,01,district,2016
+Not Stated about Light,267,01,district,2016
+Others Type of Light,24583,01,district,2016
+Solar,11729,01,district,2016
+Bio-Gas,37,69006,local,2016
+Electricity,1712,69006,local,2016
+Kerosene,406,69006,local,2016
+Not Stated about Light,40,69006,local,2016
+Others Type of Light,1510,69006,local,2016
+Solar,655,69006,local,2016
+Bio-Gas,7,69004,local,2016
+Electricity,37,69004,local,2016
+Kerosene,58,69004,local,2016
+Not Stated about Light,38,69004,local,2016
+Others Type of Light,2806,69004,local,2016
+Solar,1536,69004,local,2016
+Bio-Gas,4,69010,local,2016
+Electricity,11,69010,local,2016
+Kerosene,125,69010,local,2016
+Not Stated about Light,21,69010,local,2016
+Others Type of Light,2590,69010,local,2016
+Solar,1824,69010,local,2016
+Bio-Gas,55,69005,local,2016
+Electricity,1929,69005,local,2016
+Kerosene,498,69005,local,2016
+Not Stated about Light,18,69005,local,2016
+Others Type of Light,3331,69005,local,2016
+Solar,773,69005,local,2016
+Bio-Gas,1,69008,local,2016
+Electricity,1496,69008,local,2016
+Kerosene,23,69008,local,2016
+Not Stated about Light,19,69008,local,2016
+Others Type of Light,1980,69008,local,2016
+Solar,838,69008,local,2016
+Bio-Gas,117,69001,local,2016
+Electricity,948,69001,local,2016
+Kerosene,241,69001,local,2016
+Not Stated about Light,5,69001,local,2016
+Others Type of Light,1817,69001,local,2016
+Solar,245,69001,local,2016
+Bio-Gas,5,69003,local,2016
+Electricity,58,69003,local,2016
+Kerosene,36,69003,local,2016
+Not Stated about Light,32,69003,local,2016
+Others Type of Light,2630,69003,local,2016
+Solar,1034,69003,local,2016
+Bio-Gas,347,69009,local,2016
+Electricity,1913,69009,local,2016
+Kerosene,508,69009,local,2016
+Not Stated about Light,46,69009,local,2016
+Others Type of Light,2742,69009,local,2016
+Solar,1137,69009,local,2016
+Bio-Gas,4,69007,local,2016
+Electricity,798,69007,local,2016
+Kerosene,144,69007,local,2016
+Not Stated about Light,29,69007,local,2016
+Others Type of Light,2221,69007,local,2016
+Solar,1770,69007,local,2016
+Bio-Gas,187,69002,local,2016
+Electricity,14,69002,local,2016
+Kerosene,20,69002,local,2016
+Not Stated about Light,19,69002,local,2016
+Others Type of Light,2956,69002,local,2016
+Solar,1917,69002,local,2016
+Bio-Gas,284,05,district,2016
+Electricity,5902,05,district,2016
+Kerosene,4281,05,district,2016
+Not Stated about Light,314,05,district,2016
+Others Type of Light,9647,05,district,2016
+Solar,13345,05,district,2016
+Bio-Gas,11,68011,local,2016
+Electricity,241,68011,local,2016
+Kerosene,23,68011,local,2016
+Not Stated about Light,27,68011,local,2016
+Others Type of Light,1060,68011,local,2016
+Solar,638,68011,local,2016
+Bio-Gas,5,68007,local,2016
+Electricity,11,68007,local,2016
+Kerosene,375,68007,local,2016
+Not Stated about Light,13,68007,local,2016
+Others Type of Light,1243,68007,local,2016
+Solar,1939,68007,local,2016
+Bio-Gas,81,68010,local,2016
+Electricity,127,68010,local,2016
+Kerosene,29,68010,local,2016
+Not Stated about Light,4,68010,local,2016
+Others Type of Light,405,68010,local,2016
+Solar,772,68010,local,2016
+Bio-Gas,0,68012,local,2016
+Electricity,545,68012,local,2016
+Kerosene,265,68012,local,2016
+Not Stated about Light,60,68012,local,2016
+Others Type of Light,1292,68012,local,2016
+Solar,1049,68012,local,2016
+Bio-Gas,0,68002,local,2016
+Electricity,134,68002,local,2016
+Kerosene,1040,68002,local,2016
+Not Stated about Light,82,68002,local,2016
+Others Type of Light,1266,68002,local,2016
+Solar,2958,68002,local,2016
+Bio-Gas,76,68001,local,2016
+Electricity,28,68001,local,2016
+Kerosene,327,68001,local,2016
+Not Stated about Light,14,68001,local,2016
+Others Type of Light,923,68001,local,2016
+Solar,1371,68001,local,2016
+Bio-Gas,21,68004,local,2016
+Electricity,285,68004,local,2016
+Kerosene,667,68004,local,2016
+Not Stated about Light,32,68004,local,2016
+Others Type of Light,389,68004,local,2016
+Solar,1053,68004,local,2016
+Bio-Gas,9,68005,local,2016
+Electricity,1853,68005,local,2016
+Kerosene,626,68005,local,2016
+Not Stated about Light,34,68005,local,2016
+Others Type of Light,996,68005,local,2016
+Solar,497,68005,local,2016
+Bio-Gas,46,68009,local,2016
+Electricity,218,68009,local,2016
+Kerosene,323,68009,local,2016
+Not Stated about Light,13,68009,local,2016
+Others Type of Light,664,68009,local,2016
+Solar,1192,68009,local,2016
+Bio-Gas,30,68003,local,2016
+Electricity,238,68003,local,2016
+Kerosene,447,68003,local,2016
+Not Stated about Light,20,68003,local,2016
+Others Type of Light,939,68003,local,2016
+Solar,1279,68003,local,2016
+Bio-Gas,0,68006,local,2016
+Electricity,11,68006,local,2016
+Kerosene,0,68006,local,2016
+Not Stated about Light,3,68006,local,2016
+Others Type of Light,49,68006,local,2016
+Solar,300,68006,local,2016
+Bio-Gas,5,68008,local,2016
+Electricity,2211,68008,local,2016
+Kerosene,159,68008,local,2016
+Not Stated about Light,12,68008,local,2016
+Others Type of Light,421,68008,local,2016
+Solar,297,68008,local,2016
+Bio-Gas,194,32,district,2016
+Electricity,61760,32,district,2016
+Kerosene,18082,32,district,2016
+Not Stated about Light,599,32,district,2016
+Others Type of Light,689,32,district,2016
+Solar,810,32,district,2016
+Bio-Gas,39,72007,local,2016
+Electricity,3768,72007,local,2016
+Kerosene,3364,72007,local,2016
+Not Stated about Light,48,72007,local,2016
+Others Type of Light,89,72007,local,2016
+Solar,84,72007,local,2016
+Bio-Gas,24,72005,local,2016
+Electricity,8354,72005,local,2016
+Kerosene,1482,72005,local,2016
+Not Stated about Light,47,72005,local,2016
+Others Type of Light,74,72005,local,2016
+Solar,35,72005,local,2016
+Bio-Gas,14,72001,local,2016
+Electricity,7524,72001,local,2016
+Kerosene,1453,72001,local,2016
+Not Stated about Light,30,72001,local,2016
+Others Type of Light,145,72001,local,2016
+Solar,53,72001,local,2016
+Bio-Gas,17,72009,local,2016
+Electricity,7573,72009,local,2016
+Kerosene,1078,72009,local,2016
+Not Stated about Light,32,72009,local,2016
+Others Type of Light,110,72009,local,2016
+Solar,47,72009,local,2016
+Bio-Gas,20,72002,local,2016
+Electricity,6718,72002,local,2016
+Kerosene,1700,72002,local,2016
+Not Stated about Light,84,72002,local,2016
+Others Type of Light,12,72002,local,2016
+Solar,123,72002,local,2016
+Bio-Gas,4,72006,local,2016
+Electricity,2320,72006,local,2016
+Kerosene,1214,72006,local,2016
+Not Stated about Light,27,72006,local,2016
+Others Type of Light,4,72006,local,2016
+Solar,71,72006,local,2016
+Bio-Gas,7,72008,local,2016
+Electricity,6438,72008,local,2016
+Kerosene,3347,72008,local,2016
+Not Stated about Light,85,72008,local,2016
+Others Type of Light,13,72008,local,2016
+Solar,19,72008,local,2016
+Bio-Gas,10,72003,local,2016
+Electricity,1328,72003,local,2016
+Kerosene,2118,72003,local,2016
+Not Stated about Light,25,72003,local,2016
+Others Type of Light,16,72003,local,2016
+Solar,263,72003,local,2016
+Bio-Gas,59,72004,local,2016
+Electricity,17737,72004,local,2016
+Kerosene,2326,72004,local,2016
+Not Stated about Light,221,72004,local,2016
+Others Type of Light,226,72004,local,2016
+Solar,115,72004,local,2016
+Bio-Gas,4034,1,province,2016
+Electricity,652770,1,province,2016
+Kerosene,215230,1,province,2016
+Not Stated about Light,4190,1,province,2016
+Others Type of Light,28774,1,province,2016
+Solar,86752,1,province,2016
+Bio-Gas,556,69,district,2016
+Electricity,132618,69,district,2016
+Kerosene,26986,69,district,2016
+Not Stated about Light,871,69,district,2016
+Others Type of Light,384,69,district,2016
+Solar,864,69,district,2016
+Bio-Gas,52,6001,local,2016
+Electricity,14022,6001,local,2016
+Kerosene,3054,6001,local,2016
+Not Stated about Light,80,6001,local,2016
+Others Type of Light,116,6001,local,2016
+Solar,228,6001,local,2016
+Bio-Gas,11,6007,local,2016
+Electricity,4846,6007,local,2016
+Kerosene,2072,6007,local,2016
+Not Stated about Light,44,6007,local,2016
+Others Type of Light,9,6007,local,2016
+Solar,57,6007,local,2016
+Bio-Gas,21,6012,local,2016
+Electricity,9547,6012,local,2016
+Kerosene,1818,6012,local,2016
+Not Stated about Light,47,6012,local,2016
+Others Type of Light,9,6012,local,2016
+Solar,49,6012,local,2016
+Bio-Gas,5,6002,local,2016
+Electricity,4680,6002,local,2016
+Kerosene,1487,6002,local,2016
+Not Stated about Light,20,6002,local,2016
+Others Type of Light,3,6002,local,2016
+Solar,58,6002,local,2016
+Bio-Gas,13,6004,local,2016
+Electricity,3983,6004,local,2016
+Kerosene,2292,6004,local,2016
+Not Stated about Light,13,6004,local,2016
+Others Type of Light,0,6004,local,2016
+Solar,60,6004,local,2016
+Bio-Gas,12,6008,local,2016
+Electricity,4802,6008,local,2016
+Kerosene,1944,6008,local,2016
+Not Stated about Light,26,6008,local,2016
+Others Type of Light,2,6008,local,2016
+Solar,56,6008,local,2016
+Bio-Gas,19,6003,local,2016
+Electricity,4148,6003,local,2016
+Kerosene,2547,6003,local,2016
+Not Stated about Light,19,6003,local,2016
+Others Type of Light,1,6003,local,2016
+Solar,64,6003,local,2016
+Bio-Gas,18,6011,local,2016
+Electricity,4494,6011,local,2016
+Kerosene,3929,6011,local,2016
+Not Stated about Light,31,6011,local,2016
+Others Type of Light,12,6011,local,2016
+Solar,59,6011,local,2016
+Bio-Gas,45,6009,local,2016
+Electricity,10316,6009,local,2016
+Kerosene,2509,6009,local,2016
+Not Stated about Light,40,6009,local,2016
+Others Type of Light,23,6009,local,2016
+Solar,87,6009,local,2016
+Bio-Gas,194,6010,local,2016
+Electricity,31426,6010,local,2016
+Kerosene,1784,6010,local,2016
+Not Stated about Light,241,6010,local,2016
+Others Type of Light,78,6010,local,2016
+Solar,71,6010,local,2016
+Bio-Gas,133,6005,local,2016
+Electricity,31136,6005,local,2016
+Kerosene,1065,6005,local,2016
+Not Stated about Light,237,6005,local,2016
+Others Type of Light,100,6005,local,2016
+Solar,22,6005,local,2016
+Bio-Gas,33,6006,local,2016
+Electricity,9218,6006,local,2016
+Kerosene,2485,6006,local,2016
+Not Stated about Light,73,6006,local,2016
+Others Type of Light,31,6006,local,2016
+Solar,53,6006,local,2016
+Bio-Gas,914,28,district,2016
+Electricity,151374,28,district,2016
+Kerosene,29894,28,district,2016
+Not Stated about Light,780,28,district,2016
+Others Type of Light,418,28,district,2016
+Solar,1004,28,district,2016
+Bio-Gas,33,4011,local,2016
+Electricity,4882,4011,local,2016
+Kerosene,3703,4011,local,2016
+Not Stated about Light,16,4011,local,2016
+Others Type of Light,6,4011,local,2016
+Solar,102,4011,local,2016
+Bio-Gas,76,4015,local,2016
+Electricity,12591,4015,local,2016
+Kerosene,1889,4015,local,2016
+Not Stated about Light,64,4015,local,2016
+Others Type of Light,37,4015,local,2016
+Solar,38,4015,local,2016
+Bio-Gas,49,4009,local,2016
+Electricity,5237,4009,local,2016
+Kerosene,972,4009,local,2016
+Not Stated about Light,15,4009,local,2016
+Others Type of Light,10,4009,local,2016
+Solar,132,4009,local,2016
+Bio-Gas,37,4013,local,2016
+Electricity,8295,4013,local,2016
+Kerosene,970,4013,local,2016
+Not Stated about Light,19,4013,local,2016
+Others Type of Light,67,4013,local,2016
+Solar,38,4013,local,2016
+Bio-Gas,37,4008,local,2016
+Electricity,3393,4008,local,2016
+Kerosene,3616,4008,local,2016
+Not Stated about Light,20,4008,local,2016
+Others Type of Light,3,4008,local,2016
+Solar,71,4008,local,2016
+Bio-Gas,83,4003,local,2016
+Electricity,13123,4003,local,2016
+Kerosene,1926,4003,local,2016
+Not Stated about Light,78,4003,local,2016
+Others Type of Light,15,4003,local,2016
+Solar,45,4003,local,2016
+Bio-Gas,122,4006,local,2016
+Electricity,16765,4006,local,2016
+Kerosene,1062,4006,local,2016
+Not Stated about Light,116,4006,local,2016
+Others Type of Light,17,4006,local,2016
+Solar,22,4006,local,2016
+Bio-Gas,24,4010,local,2016
+Electricity,4589,4010,local,2016
+Kerosene,2326,4010,local,2016
+Not Stated about Light,25,4010,local,2016
+Others Type of Light,66,4010,local,2016
+Solar,68,4010,local,2016
+Bio-Gas,97,4014,local,2016
+Electricity,21348,4014,local,2016
+Kerosene,3906,4014,local,2016
+Not Stated about Light,83,4014,local,2016
+Others Type of Light,16,4014,local,2016
+Solar,81,4014,local,2016
+Bio-Gas,32,4012,local,2016
+Electricity,8964,4012,local,2016
+Kerosene,1139,4012,local,2016
+Not Stated about Light,28,4012,local,2016
+Others Type of Light,20,4012,local,2016
+Solar,73,4012,local,2016
+Bio-Gas,74,4001,local,2016
+Electricity,12259,4001,local,2016
+Kerosene,1192,4001,local,2016
+Not Stated about Light,30,4001,local,2016
+Others Type of Light,48,4001,local,2016
+Solar,20,4001,local,2016
+Bio-Gas,103,4004,local,2016
+Electricity,17422,4004,local,2016
+Kerosene,1461,4004,local,2016
+Not Stated about Light,78,4004,local,2016
+Others Type of Light,19,4004,local,2016
+Solar,35,4004,local,2016
+Bio-Gas,35,4002,local,2016
+Electricity,4230,4002,local,2016
+Kerosene,2874,4002,local,2016
+Not Stated about Light,25,4002,local,2016
+Others Type of Light,27,4002,local,2016
+Solar,207,4002,local,2016
+Bio-Gas,38,4005,local,2016
+Electricity,8444,4005,local,2016
+Kerosene,832,4005,local,2016
+Not Stated about Light,150,4005,local,2016
+Others Type of Light,18,4005,local,2016
+Solar,16,4005,local,2016
+Bio-Gas,74,4007,local,2016
+Electricity,9832,4007,local,2016
+Kerosene,2026,4007,local,2016
+Not Stated about Light,33,4007,local,2016
+Others Type of Light,49,4007,local,2016
+Solar,56,4007,local,2016
+Bio-Gas,222,11,district,2016
+Electricity,5844,11,district,2016
+Kerosene,10639,11,district,2016
+Not Stated about Light,49,11,district,2016
+Others Type of Light,6043,11,district,2016
+Solar,16596,11,district,2016
+Bio-Gas,40,10003,local,2016
+Electricity,2449,10003,local,2016
+Kerosene,1320,10003,local,2016
+Not Stated about Light,7,10003,local,2016
+Others Type of Light,526,10003,local,2016
+Solar,2096,10003,local,2016
+Bio-Gas,65,10008,local,2016
+Electricity,2062,10008,local,2016
+Kerosene,2815,10008,local,2016
+Not Stated about Light,9,10008,local,2016
+Others Type of Light,446,10008,local,2016
+Solar,1435,10008,local,2016
+Bio-Gas,21,10007,local,2016
+Electricity,176,10007,local,2016
+Kerosene,1325,10007,local,2016
+Not Stated about Light,6,10007,local,2016
+Others Type of Light,406,10007,local,2016
+Solar,794,10007,local,2016
+Bio-Gas,19,10005,local,2016
+Electricity,21,10005,local,2016
+Kerosene,514,10005,local,2016
+Not Stated about Light,4,10005,local,2016
+Others Type of Light,935,10005,local,2016
+Solar,1787,10005,local,2016
+Bio-Gas,7,10001,local,2016
+Electricity,184,10001,local,2016
+Kerosene,799,10001,local,2016
+Not Stated about Light,2,10001,local,2016
+Others Type of Light,772,10001,local,2016
+Solar,1913,10001,local,2016
+Bio-Gas,18,10002,local,2016
+Electricity,509,10002,local,2016
+Kerosene,767,10002,local,2016
+Not Stated about Light,2,10002,local,2016
+Others Type of Light,548,10002,local,2016
+Solar,1938,10002,local,2016
+Bio-Gas,9,10004,local,2016
+Electricity,98,10004,local,2016
+Kerosene,1223,10004,local,2016
+Not Stated about Light,5,10004,local,2016
+Others Type of Light,1184,10004,local,2016
+Solar,2060,10004,local,2016
+Bio-Gas,23,10009,local,2016
+Electricity,107,10009,local,2016
+Kerosene,1019,10009,local,2016
+Not Stated about Light,8,10009,local,2016
+Others Type of Light,564,10009,local,2016
+Solar,2340,10009,local,2016
+Bio-Gas,20,10006,local,2016
+Electricity,238,10006,local,2016
+Kerosene,857,10006,local,2016
+Not Stated about Light,6,10006,local,2016
+Others Type of Light,662,10006,local,2016
+Solar,2233,10006,local,2016
+Bio-Gas,114,18,district,2016
+Electricity,31590,18,district,2016
+Kerosene,4335,18,district,2016
+Not Stated about Light,93,18,district,2016
+Others Type of Light,336,18,district,2016
+Solar,1148,18,district,2016
+Bio-Gas,6,7006,local,2016
+Electricity,4142,7006,local,2016
+Kerosene,747,7006,local,2016
+Not Stated about Light,9,7006,local,2016
+Others Type of Light,21,7006,local,2016
+Solar,52,7006,local,2016
+Bio-Gas,4,7004,local,2016
+Electricity,3240,7004,local,2016
+Kerosene,603,7004,local,2016
+Not Stated about Light,3,7004,local,2016
+Others Type of Light,9,7004,local,2016
+Solar,17,7004,local,2016
+Bio-Gas,13,7002,local,2016
+Electricity,3698,7002,local,2016
+Kerosene,478,7002,local,2016
+Not Stated about Light,11,7002,local,2016
+Others Type of Light,20,7002,local,2016
+Solar,12,7002,local,2016
+Bio-Gas,17,7005,local,2016
+Electricity,4461,7005,local,2016
+Kerosene,744,7005,local,2016
+Not Stated about Light,12,7005,local,2016
+Others Type of Light,58,7005,local,2016
+Solar,190,7005,local,2016
+Bio-Gas,38,7003,local,2016
+Electricity,8725,7003,local,2016
+Kerosene,626,7003,local,2016
+Not Stated about Light,35,7003,local,2016
+Others Type of Light,25,7003,local,2016
+Solar,11,7003,local,2016
+Bio-Gas,32,7001,local,2016
+Electricity,3055,7001,local,2016
+Kerosene,568,7001,local,2016
+Not Stated about Light,11,7001,local,2016
+Others Type of Light,142,7001,local,2016
+Solar,734,7001,local,2016
+Bio-Gas,4,7007,local,2016
+Electricity,4269,7007,local,2016
+Kerosene,569,7007,local,2016
+Not Stated about Light,12,7007,local,2016
+Others Type of Light,61,7007,local,2016
+Solar,132,7007,local,2016
+Bio-Gas,46,62,district,2016
+Electricity,18201,62,district,2016
+Kerosene,7905,62,district,2016
+Not Stated about Light,135,62,district,2016
+Others Type of Light,1650,62,district,2016
+Solar,6678,62,district,2016
+Bio-Gas,0,9004,local,2016
+Electricity,3288,9004,local,2016
+Kerosene,656,9004,local,2016
+Not Stated about Light,2,9004,local,2016
+Others Type of Light,5,9004,local,2016
+Solar,7,9004,local,2016
+Bio-Gas,40,9001,local,2016
+Electricity,13,9001,local,2016
+Kerosene,128,9001,local,2016
+Not Stated about Light,2,9001,local,2016
+Others Type of Light,139,9001,local,2016
+Solar,1057,9001,local,2016
+Bio-Gas,0,9010,local,2016
+Electricity,132,9010,local,2016
+Kerosene,870,9010,local,2016
+Not Stated about Light,11,9010,local,2016
+Others Type of Light,414,9010,local,2016
+Solar,985,9010,local,2016
+Bio-Gas,3,9007,local,2016
+Electricity,150,9007,local,2016
+Kerosene,454,9007,local,2016
+Not Stated about Light,10,9007,local,2016
+Others Type of Light,518,9007,local,2016
+Solar,1787,9007,local,2016
+Bio-Gas,0,9006,local,2016
+Electricity,2134,9006,local,2016
+Kerosene,986,9006,local,2016
+Not Stated about Light,5,9006,local,2016
+Others Type of Light,2,9006,local,2016
+Solar,89,9006,local,2016
+Bio-Gas,1,9002,local,2016
+Electricity,4748,9002,local,2016
+Kerosene,960,9002,local,2016
+Not Stated about Light,22,9002,local,2016
+Others Type of Light,57,9002,local,2016
+Solar,150,9002,local,2016
+Bio-Gas,2,9005,local,2016
+Electricity,5740,9005,local,2016
+Kerosene,1284,9005,local,2016
+Not Stated about Light,59,9005,local,2016
+Others Type of Light,48,9005,local,2016
+Solar,313,9005,local,2016
+Bio-Gas,0,9003,local,2016
+Electricity,14,9003,local,2016
+Kerosene,398,9003,local,2016
+Not Stated about Light,2,9003,local,2016
+Others Type of Light,227,9003,local,2016
+Solar,877,9003,local,2016
+Bio-Gas,0,9008,local,2016
+Electricity,1698,9008,local,2016
+Kerosene,1284,9008,local,2016
+Not Stated about Light,8,9008,local,2016
+Others Type of Light,53,9008,local,2016
+Solar,591,9008,local,2016
+Bio-Gas,0,9009,local,2016
+Electricity,284,9009,local,2016
+Kerosene,885,9009,local,2016
+Not Stated about Light,14,9009,local,2016
+Others Type of Light,187,9009,local,2016
+Solar,822,9009,local,2016
+Bio-Gas,163,75,district,2016
+Electricity,34113,75,district,2016
+Kerosene,14950,75,district,2016
+Not Stated about Light,206,75,district,2016
+Others Type of Light,3963,75,district,2016
+Solar,13119,75,district,2016
+Bio-Gas,3,14006,local,2016
+Electricity,3,14006,local,2016
+Kerosene,975,14006,local,2016
+Not Stated about Light,16,14006,local,2016
+Others Type of Light,578,14006,local,2016
+Solar,1128,14006,local,2016
+Bio-Gas,7,14004,local,2016
+Electricity,1431,14004,local,2016
+Kerosene,1417,14004,local,2016
+Not Stated about Light,26,14004,local,2016
+Others Type of Light,736,14004,local,2016
+Solar,1049,14004,local,2016
+Bio-Gas,37,14007,local,2016
+Electricity,16633,14007,local,2016
+Kerosene,1938,14007,local,2016
+Not Stated about Light,60,14007,local,2016
+Others Type of Light,356,14007,local,2016
+Solar,460,14007,local,2016
+Bio-Gas,33,14001,local,2016
+Electricity,1663,14001,local,2016
+Kerosene,3317,14001,local,2016
+Not Stated about Light,19,14001,local,2016
+Others Type of Light,601,14001,local,2016
+Solar,3297,14001,local,2016
+Bio-Gas,10,14005,local,2016
+Electricity,35,14005,local,2016
+Kerosene,763,14005,local,2016
+Not Stated about Light,5,14005,local,2016
+Others Type of Light,647,14005,local,2016
+Solar,856,14005,local,2016
+Bio-Gas,25,14003,local,2016
+Electricity,6460,14003,local,2016
+Kerosene,2141,14003,local,2016
+Not Stated about Light,62,14003,local,2016
+Others Type of Light,638,14003,local,2016
+Solar,2391,14003,local,2016
+Bio-Gas,18,14008,local,2016
+Electricity,256,14008,local,2016
+Kerosene,1989,14008,local,2016
+Not Stated about Light,8,14008,local,2016
+Others Type of Light,332,14008,local,2016
+Solar,3576,14008,local,2016
+Bio-Gas,30,14002,local,2016
+Electricity,7632,14002,local,2016
+Kerosene,2410,14002,local,2016
+Not Stated about Light,10,14002,local,2016
+Others Type of Light,75,14002,local,2016
+Solar,362,14002,local,2016
+Bio-Gas,298,51,district,2016
+Electricity,11474,51,district,2016
+Kerosene,16278,51,district,2016
+Not Stated about Light,136,51,district,2016
+Others Type of Light,1962,51,district,2016
+Solar,11028,51,district,2016
+Bio-Gas,43,2004,local,2016
+Electricity,1059,2004,local,2016
+Kerosene,1367,2004,local,2016
+Not Stated about Light,18,2004,local,2016
+Others Type of Light,349,2004,local,2016
+Solar,664,2004,local,2016
+Bio-Gas,25,2001,local,2016
+Electricity,513,2001,local,2016
+Kerosene,2476,2001,local,2016
+Not Stated about Light,29,2001,local,2016
+Others Type of Light,116,2001,local,2016
+Solar,1393,2001,local,2016
+Bio-Gas,37,2003,local,2016
+Electricity,183,2003,local,2016
+Kerosene,2055,2003,local,2016
+Not Stated about Light,21,2003,local,2016
+Others Type of Light,177,2003,local,2016
+Solar,2319,2003,local,2016
+Bio-Gas,37,2005,local,2016
+Electricity,607,2005,local,2016
+Kerosene,2303,2005,local,2016
+Not Stated about Light,10,2005,local,2016
+Others Type of Light,337,2005,local,2016
+Solar,2256,2005,local,2016
+Bio-Gas,58,2006,local,2016
+Electricity,4991,2006,local,2016
+Kerosene,3851,2006,local,2016
+Not Stated about Light,31,2006,local,2016
+Others Type of Light,200,2006,local,2016
+Solar,1863,2006,local,2016
+Bio-Gas,9,2008,local,2016
+Electricity,1548,2008,local,2016
+Kerosene,1519,2008,local,2016
+Not Stated about Light,10,2008,local,2016
+Others Type of Light,50,2008,local,2016
+Solar,675,2008,local,2016
+Bio-Gas,39,2007,local,2016
+Electricity,28,2007,local,2016
+Kerosene,931,2007,local,2016
+Not Stated about Light,3,2007,local,2016
+Others Type of Light,419,2007,local,2016
+Solar,1395,2007,local,2016
+Bio-Gas,50,2002,local,2016
+Electricity,2545,2002,local,2016
+Kerosene,1776,2002,local,2016
+Not Stated about Light,14,2002,local,2016
+Others Type of Light,314,2002,local,2016
+Solar,463,2002,local,2016
+Bio-Gas,64,74,district,2016
+Electricity,14833,74,district,2016
+Kerosene,4390,74,district,2016
+Not Stated about Light,72,74,district,2016
+Others Type of Light,680,74,district,2016
+Solar,2045,74,district,2016
+Bio-Gas,14,8001,local,2016
+Electricity,1692,8001,local,2016
+Kerosene,1405,8001,local,2016
+Not Stated about Light,21,8001,local,2016
+Others Type of Light,438,8001,local,2016
+Solar,1008,8001,local,2016
+Bio-Gas,9,8005,local,2016
+Electricity,4343,8005,local,2016
+Kerosene,221,8005,local,2016
+Not Stated about Light,8,8005,local,2016
+Others Type of Light,5,8005,local,2016
+Solar,9,8005,local,2016
+Bio-Gas,9,8003,local,2016
+Electricity,3324,8003,local,2016
+Kerosene,323,8003,local,2016
+Not Stated about Light,10,8003,local,2016
+Others Type of Light,7,8003,local,2016
+Solar,4,8003,local,2016
+Bio-Gas,4,8004,local,2016
+Electricity,1092,8004,local,2016
+Kerosene,569,8004,local,2016
+Not Stated about Light,6,8004,local,2016
+Others Type of Light,52,8004,local,2016
+Solar,71,8004,local,2016
+Bio-Gas,14,8006,local,2016
+Electricity,1712,8006,local,2016
+Kerosene,1103,8006,local,2016
+Not Stated about Light,13,8006,local,2016
+Others Type of Light,171,8006,local,2016
+Solar,791,8006,local,2016
+Bio-Gas,14,8002,local,2016
+Electricity,2670,8002,local,2016
+Kerosene,769,8002,local,2016
+Not Stated about Light,14,8002,local,2016
+Others Type of Light,7,8002,local,2016
+Solar,162,8002,local,2016
+Bio-Gas,440,26,district,2016
+Electricity,42261,26,district,2016
+Kerosene,14875,26,district,2016
+Not Stated about Light,349,26,district,2016
+Others Type of Light,2155,26,district,2016
+Solar,4397,26,district,2016
+Bio-Gas,34,3009,local,2016
+Electricity,2783,3009,local,2016
+Kerosene,707,3009,local,2016
+Not Stated about Light,10,3009,local,2016
+Others Type of Light,79,3009,local,2016
+Solar,30,3009,local,2016
+Bio-Gas,16,3001,local,2016
+Electricity,2030,3001,local,2016
+Kerosene,1391,3001,local,2016
+Not Stated about Light,18,3001,local,2016
+Others Type of Light,117,3001,local,2016
+Solar,1077,3001,local,2016
+Bio-Gas,35,3007,local,2016
+Electricity,887,3007,local,2016
+Kerosene,1618,3007,local,2016
+Not Stated about Light,42,3007,local,2016
+Others Type of Light,499,3007,local,2016
+Solar,648,3007,local,2016
+Bio-Gas,19,3003,local,2016
+Electricity,2018,3003,local,2016
+Kerosene,1710,3003,local,2016
+Not Stated about Light,22,3003,local,2016
+Others Type of Light,323,3003,local,2016
+Solar,542,3003,local,2016
+Bio-Gas,28,3006,local,2016
+Electricity,3161,3006,local,2016
+Kerosene,1243,3006,local,2016
+Not Stated about Light,17,3006,local,2016
+Others Type of Light,122,3006,local,2016
+Solar,106,3006,local,2016
+Bio-Gas,55,3005,local,2016
+Electricity,2934,3005,local,2016
+Kerosene,2337,3005,local,2016
+Not Stated about Light,32,3005,local,2016
+Others Type of Light,878,3005,local,2016
+Solar,841,3005,local,2016
+Bio-Gas,38,3008,local,2016
+Electricity,1588,3008,local,2016
+Kerosene,1756,3008,local,2016
+Not Stated about Light,25,3008,local,2016
+Others Type of Light,6,3008,local,2016
+Solar,938,3008,local,2016
+Bio-Gas,73,3004,local,2016
+Electricity,10057,3004,local,2016
+Kerosene,1042,3004,local,2016
+Not Stated about Light,95,3004,local,2016
+Others Type of Light,71,3004,local,2016
+Solar,45,3004,local,2016
+Bio-Gas,45,3002,local,2016
+Electricity,5758,3002,local,2016
+Kerosene,1172,3002,local,2016
+Not Stated about Light,35,3002,local,2016
+Others Type of Light,39,3002,local,2016
+Solar,74,3002,local,2016
+Bio-Gas,97,3010,local,2016
+Electricity,11045,3010,local,2016
+Kerosene,1899,3010,local,2016
+Not Stated about Light,53,3010,local,2016
+Others Type of Light,21,3010,local,2016
+Solar,96,3010,local,2016
+Bio-Gas,128,49,district,2016
+Electricity,13542,49,district,2016
+Kerosene,9082,49,district,2016
+Not Stated about Light,225,49,district,2016
+Others Type of Light,2427,49,district,2016
+Solar,7062,49,district,2016
+Bio-Gas,6,12008,local,2016
+Electricity,2050,12008,local,2016
+Kerosene,1006,12008,local,2016
+Not Stated about Light,24,12008,local,2016
+Others Type of Light,301,12008,local,2016
+Solar,600,12008,local,2016
+Bio-Gas,10,12001,local,2016
+Electricity,768,12001,local,2016
+Kerosene,1330,12001,local,2016
+Not Stated about Light,25,12001,local,2016
+Others Type of Light,452,12001,local,2016
+Solar,1211,12001,local,2016
+Bio-Gas,10,12002,local,2016
+Electricity,580,12002,local,2016
+Kerosene,648,12002,local,2016
+Not Stated about Light,29,12002,local,2016
+Others Type of Light,589,12002,local,2016
+Solar,1478,12002,local,2016
+Bio-Gas,11,12004,local,2016
+Electricity,1283,12004,local,2016
+Kerosene,812,12004,local,2016
+Not Stated about Light,10,12004,local,2016
+Others Type of Light,98,12004,local,2016
+Solar,743,12004,local,2016
+Bio-Gas,31,12007,local,2016
+Electricity,3714,12007,local,2016
+Kerosene,2082,12007,local,2016
+Not Stated about Light,93,12007,local,2016
+Others Type of Light,319,12007,local,2016
+Solar,755,12007,local,2016
+Bio-Gas,14,12005,local,2016
+Electricity,1044,12005,local,2016
+Kerosene,2066,12005,local,2016
+Not Stated about Light,22,12005,local,2016
+Others Type of Light,135,12005,local,2016
+Solar,1337,12005,local,2016
+Bio-Gas,27,12003,local,2016
+Electricity,1914,12003,local,2016
+Kerosene,144,12003,local,2016
+Not Stated about Light,10,12003,local,2016
+Others Type of Light,320,12003,local,2016
+Solar,696,12003,local,2016
+Bio-Gas,19,12006,local,2016
+Electricity,2189,12006,local,2016
+Kerosene,994,12006,local,2016
+Not Stated about Light,12,12006,local,2016
+Others Type of Light,213,12006,local,2016
+Solar,242,12006,local,2016
+Bio-Gas,144,37,district,2016
+Electricity,13260,37,district,2016
+Kerosene,11944,37,district,2016
+Not Stated about Light,213,37,district,2016
+Others Type of Light,6358,37,district,2016
+Solar,10728,37,district,2016
+Bio-Gas,10,13006,local,2016
+Electricity,259,13006,local,2016
+Kerosene,1698,13006,local,2016
+Not Stated about Light,15,13006,local,2016
+Others Type of Light,474,13006,local,2016
+Solar,891,13006,local,2016
+Bio-Gas,7,13010,local,2016
+Electricity,470,13010,local,2016
+Kerosene,825,13010,local,2016
+Not Stated about Light,13,13010,local,2016
+Others Type of Light,358,13010,local,2016
+Solar,735,13010,local,2016
+Bio-Gas,18,13004,local,2016
+Electricity,1683,13004,local,2016
+Kerosene,1057,13004,local,2016
+Not Stated about Light,25,13004,local,2016
+Others Type of Light,1290,13004,local,2016
+Solar,1765,13004,local,2016
+Bio-Gas,24,13001,local,2016
+Electricity,343,13001,local,2016
+Kerosene,1760,13001,local,2016
+Not Stated about Light,8,13001,local,2016
+Others Type of Light,507,13001,local,2016
+Solar,849,13001,local,2016
+Bio-Gas,9,13002,local,2016
+Electricity,124,13002,local,2016
+Kerosene,594,13002,local,2016
+Not Stated about Light,26,13002,local,2016
+Others Type of Light,859,13002,local,2016
+Solar,1090,13002,local,2016
+Bio-Gas,6,13008,local,2016
+Electricity,703,13008,local,2016
+Kerosene,619,13008,local,2016
+Not Stated about Light,8,13008,local,2016
+Others Type of Light,616,13008,local,2016
+Solar,841,13008,local,2016
+Bio-Gas,16,13003,local,2016
+Electricity,370,13003,local,2016
+Kerosene,1140,13003,local,2016
+Not Stated about Light,21,13003,local,2016
+Others Type of Light,1079,13003,local,2016
+Solar,1514,13003,local,2016
+Bio-Gas,12,13007,local,2016
+Electricity,1809,13007,local,2016
+Kerosene,1271,13007,local,2016
+Not Stated about Light,14,13007,local,2016
+Others Type of Light,535,13007,local,2016
+Solar,1062,13007,local,2016
+Bio-Gas,3,13005,local,2016
+Electricity,236,13005,local,2016
+Kerosene,1210,13005,local,2016
+Not Stated about Light,21,13005,local,2016
+Others Type of Light,339,13005,local,2016
+Solar,1366,13005,local,2016
+Bio-Gas,39,13009,local,2016
+Electricity,7263,13009,local,2016
+Kerosene,1770,13009,local,2016
+Not Stated about Light,62,13009,local,2016
+Others Type of Light,301,13009,local,2016
+Solar,615,13009,local,2016
+Bio-Gas,28,73,district,2016
+Electricity,6635,73,district,2016
+Kerosene,11898,73,district,2016
+Not Stated about Light,131,73,district,2016
+Others Type of Light,355,73,district,2016
+Solar,7424,73,district,2016
+Bio-Gas,2,1005,local,2016
+Electricity,565,1005,local,2016
+Kerosene,936,1005,local,2016
+Not Stated about Light,24,1005,local,2016
+Others Type of Light,32,1005,local,2016
+Solar,966,1005,local,2016
+Bio-Gas,0,1002,local,2016
+Electricity,1208,1002,local,2016
+Kerosene,591,1002,local,2016
+Not Stated about Light,15,1002,local,2016
+Others Type of Light,17,1002,local,2016
+Solar,363,1002,local,2016
+Bio-Gas,8,1006,local,2016
+Electricity,2068,1006,local,2016
+Kerosene,2507,1006,local,2016
+Not Stated about Light,19,1006,local,2016
+Others Type of Light,112,1006,local,2016
+Solar,1272,1006,local,2016
+Bio-Gas,2,1007,local,2016
+Electricity,127,1007,local,2016
+Kerosene,1282,1007,local,2016
+Not Stated about Light,15,1007,local,2016
+Others Type of Light,32,1007,local,2016
+Solar,912,1007,local,2016
+Bio-Gas,2,1004,local,2016
+Electricity,520,1004,local,2016
+Kerosene,835,1004,local,2016
+Not Stated about Light,8,1004,local,2016
+Others Type of Light,18,1004,local,2016
+Solar,486,1004,local,2016
+Bio-Gas,8,1008,local,2016
+Electricity,381,1008,local,2016
+Kerosene,1549,1008,local,2016
+Not Stated about Light,19,1008,local,2016
+Others Type of Light,22,1008,local,2016
+Solar,1248,1008,local,2016
+Bio-Gas,1,1009,local,2016
+Electricity,317,1009,local,2016
+Kerosene,1286,1009,local,2016
+Not Stated about Light,7,1009,local,2016
+Others Type of Light,77,1009,local,2016
+Solar,1146,1009,local,2016
+Bio-Gas,4,1003,local,2016
+Electricity,385,1003,local,2016
+Kerosene,1678,1003,local,2016
+Not Stated about Light,18,1003,local,2016
+Others Type of Light,9,1003,local,2016
+Solar,484,1003,local,2016
+Bio-Gas,1,1001,local,2016
+Electricity,1064,1001,local,2016
+Kerosene,1234,1001,local,2016
+Not Stated about Light,6,1001,local,2016
+Others Type of Light,36,1001,local,2016
+Solar,547,1001,local,2016
+Bio-Gas,705,43,district,2016
+Electricity,162107,43,district,2016
+Kerosene,47348,43,district,2016
+Not Stated about Light,881,43,district,2016
+Others Type of Light,639,43,district,2016
+Solar,2190,43,district,2016
+Bio-Gas,101,5015,local,2016
+Electricity,15916,5015,local,2016
+Kerosene,2377,5015,local,2016
+Not Stated about Light,106,5015,local,2016
+Others Type of Light,41,5015,local,2016
+Solar,69,5015,local,2016
+Bio-Gas,31,5010,local,2016
+Electricity,5586,5010,local,2016
+Kerosene,1433,5010,local,2016
+Not Stated about Light,21,5010,local,2016
+Others Type of Light,24,5010,local,2016
+Solar,244,5010,local,2016
+Bio-Gas,29,5014,local,2016
+Electricity,8485,5014,local,2016
+Kerosene,3876,5014,local,2016
+Not Stated about Light,20,5014,local,2016
+Others Type of Light,4,5014,local,2016
+Solar,68,5014,local,2016
+Bio-Gas,31,5003,local,2016
+Electricity,7495,5003,local,2016
+Kerosene,1996,5003,local,2016
+Not Stated about Light,35,5003,local,2016
+Others Type of Light,15,5003,local,2016
+Solar,49,5003,local,2016
+Bio-Gas,58,5017,local,2016
+Electricity,11152,5017,local,2016
+Kerosene,1273,5017,local,2016
+Not Stated about Light,9,5017,local,2016
+Others Type of Light,18,5017,local,2016
+Solar,20,5017,local,2016
+Bio-Gas,20,5016,local,2016
+Electricity,6239,5016,local,2016
+Kerosene,4406,5016,local,2016
+Not Stated about Light,36,5016,local,2016
+Others Type of Light,7,5016,local,2016
+Solar,87,5016,local,2016
+Bio-Gas,27,5007,local,2016
+Electricity,6553,5007,local,2016
+Kerosene,2021,5007,local,2016
+Not Stated about Light,27,5007,local,2016
+Others Type of Light,8,5007,local,2016
+Solar,47,5007,local,2016
+Bio-Gas,47,5001,local,2016
+Electricity,13428,5001,local,2016
+Kerosene,1721,5001,local,2016
+Not Stated about Light,70,5001,local,2016
+Others Type of Light,17,5001,local,2016
+Solar,55,5001,local,2016
+Bio-Gas,50,5012,local,2016
+Electricity,12085,5012,local,2016
+Kerosene,1710,5012,local,2016
+Not Stated about Light,61,5012,local,2016
+Others Type of Light,26,5012,local,2016
+Solar,24,5012,local,2016
+Bio-Gas,17,5011,local,2016
+Electricity,3750,5011,local,2016
+Kerosene,1831,5011,local,2016
+Not Stated about Light,12,5011,local,2016
+Others Type of Light,106,5011,local,2016
+Solar,701,5011,local,2016
+Bio-Gas,23,5005,local,2016
+Electricity,4894,5005,local,2016
+Kerosene,2892,5005,local,2016
+Not Stated about Light,28,5005,local,2016
+Others Type of Light,6,5005,local,2016
+Solar,77,5005,local,2016
+Bio-Gas,20,5013,local,2016
+Electricity,7200,5013,local,2016
+Kerosene,3902,5013,local,2016
+Not Stated about Light,23,5013,local,2016
+Others Type of Light,7,5013,local,2016
+Solar,97,5013,local,2016
+Bio-Gas,8,5008,local,2016
+Electricity,5037,5008,local,2016
+Kerosene,2782,5008,local,2016
+Not Stated about Light,21,5008,local,2016
+Others Type of Light,120,5008,local,2016
+Solar,41,5008,local,2016
+Bio-Gas,13,5004,local,2016
+Electricity,4052,5004,local,2016
+Kerosene,3787,5004,local,2016
+Not Stated about Light,24,5004,local,2016
+Others Type of Light,3,5004,local,2016
+Solar,78,5004,local,2016
+Bio-Gas,23,5006,local,2016
+Electricity,2222,5006,local,2016
+Kerosene,5820,5006,local,2016
+Not Stated about Light,14,5006,local,2016
+Others Type of Light,6,5006,local,2016
+Solar,90,5006,local,2016
+Bio-Gas,19,5009,local,2016
+Electricity,5031,5009,local,2016
+Kerosene,1426,5009,local,2016
+Not Stated about Light,18,5009,local,2016
+Others Type of Light,117,5009,local,2016
+Solar,380,5009,local,2016
+Bio-Gas,188,5002,local,2016
+Electricity,42982,5002,local,2016
+Kerosene,4095,5002,local,2016
+Not Stated about Light,356,5002,local,2016
+Others Type of Light,114,5002,local,2016
+Solar,63,5002,local,2016
+Bio-Gas,212,68,district,2016
+Electricity,14918,68,district,2016
+Kerosene,4706,68,district,2016
+Not Stated about Light,49,68,district,2016
+Others Type of Light,1404,68,district,2016
+Solar,2469,68,district,2016
+Bio-Gas,2,11001,local,2016
+Electricity,2571,11001,local,2016
+Kerosene,943,11001,local,2016
+Not Stated about Light,11,11001,local,2016
+Others Type of Light,287,11001,local,2016
+Solar,426,11001,local,2016
+Bio-Gas,1,11006,local,2016
+Electricity,1899,11006,local,2016
+Kerosene,1512,11006,local,2016
+Not Stated about Light,5,11006,local,2016
+Others Type of Light,33,11006,local,2016
+Solar,186,11006,local,2016
+Bio-Gas,16,11007,local,2016
+Electricity,4095,11007,local,2016
+Kerosene,570,11007,local,2016
+Not Stated about Light,17,11007,local,2016
+Others Type of Light,56,11007,local,2016
+Solar,226,11007,local,2016
+Bio-Gas,0,11004,local,2016
+Electricity,746,11004,local,2016
+Kerosene,237,11004,local,2016
+Not Stated about Light,2,11004,local,2016
+Others Type of Light,1,11004,local,2016
+Solar,182,11004,local,2016
+Bio-Gas,2,11003,local,2016
+Electricity,2183,11003,local,2016
+Kerosene,128,11003,local,2016
+Not Stated about Light,3,11003,local,2016
+Others Type of Light,2,11003,local,2016
+Solar,115,11003,local,2016
+Bio-Gas,36,11008,local,2016
+Electricity,872,11008,local,2016
+Kerosene,393,11008,local,2016
+Not Stated about Light,6,11008,local,2016
+Others Type of Light,355,11008,local,2016
+Solar,386,11008,local,2016
+Bio-Gas,90,11005,local,2016
+Electricity,748,11005,local,2016
+Kerosene,480,11005,local,2016
+Not Stated about Light,1,11005,local,2016
+Others Type of Light,557,11005,local,2016
+Solar,574,11005,local,2016
+Bio-Gas,65,11002,local,2016
+Electricity,1804,11002,local,2016
+Kerosene,443,11002,local,2016
+Not Stated about Light,4,11002,local,2016
+Others Type of Light,113,11002,local,2016
+Solar,374,11002,local,2016
+Bio-Gas,414,6,province,2016
+Electricity,64850,6,province,2016
+Kerosene,16552,6,province,2016
+Not Stated about Light,1764,6,province,2016
+Others Type of Light,115099,6,province,2016
+Solar,99495,6,province,2016
+Bio-Gas,51,14,district,2016
+Electricity,6638,14,district,2016
+Kerosene,2022,14,district,2016
+Not Stated about Light,333,14,district,2016
+Others Type of Light,21532,14,district,2016
+Solar,18339,14,district,2016
+Bio-Gas,2,60001,local,2016
+Electricity,304,60001,local,2016
+Kerosene,4,60001,local,2016
+Not Stated about Light,27,60001,local,2016
+Others Type of Light,2875,60001,local,2016
+Solar,2051,60001,local,2016
+Bio-Gas,5,60007,local,2016
+Electricity,243,60007,local,2016
+Kerosene,125,60007,local,2016
+Not Stated about Light,26,60007,local,2016
+Others Type of Light,1649,60007,local,2016
+Solar,2048,60007,local,2016
+Bio-Gas,8,60002,local,2016
+Electricity,509,60002,local,2016
+Kerosene,57,60002,local,2016
+Not Stated about Light,14,60002,local,2016
+Others Type of Light,814,60002,local,2016
+Solar,1957,60002,local,2016
+Bio-Gas,2,60009,local,2016
+Electricity,2769,60009,local,2016
+Kerosene,754,60009,local,2016
+Not Stated about Light,43,60009,local,2016
+Others Type of Light,1306,60009,local,2016
+Solar,917,60009,local,2016
+Bio-Gas,3,60006,local,2016
+Electricity,1154,60006,local,2016
+Kerosene,98,60006,local,2016
+Not Stated about Light,26,60006,local,2016
+Others Type of Light,931,60006,local,2016
+Solar,832,60006,local,2016
+Bio-Gas,12,60004,local,2016
+Electricity,16,60004,local,2016
+Kerosene,225,60004,local,2016
+Not Stated about Light,23,60004,local,2016
+Others Type of Light,2549,60004,local,2016
+Solar,1809,60004,local,2016
+Bio-Gas,7,60005,local,2016
+Electricity,1014,60005,local,2016
+Kerosene,404,60005,local,2016
+Not Stated about Light,61,60005,local,2016
+Others Type of Light,4008,60005,local,2016
+Solar,2670,60005,local,2016
+Bio-Gas,3,60010,local,2016
+Electricity,363,60010,local,2016
+Kerosene,115,60010,local,2016
+Not Stated about Light,34,60010,local,2016
+Others Type of Light,1603,60010,local,2016
+Solar,1590,60010,local,2016
+Bio-Gas,1,60003,local,2016
+Electricity,7,60003,local,2016
+Kerosene,102,60003,local,2016
+Not Stated about Light,15,60003,local,2016
+Others Type of Light,2034,60003,local,2016
+Solar,1817,60003,local,2016
+Bio-Gas,5,60008,local,2016
+Electricity,253,60008,local,2016
+Kerosene,136,60008,local,2016
+Not Stated about Light,23,60008,local,2016
+Others Type of Light,1452,60008,local,2016
+Solar,1684,60008,local,2016
+Bio-Gas,3,60011,local,2016
+Electricity,6,60011,local,2016
+Kerosene,2,60011,local,2016
+Not Stated about Light,41,60011,local,2016
+Others Type of Light,2311,60011,local,2016
+Solar,964,60011,local,2016
+Bio-Gas,0,25,district,2016
+Electricity,2959,25,district,2016
+Kerosene,10,25,district,2016
+Not Stated about Light,10,25,district,2016
+Others Type of Light,4320,25,district,2016
+Solar,2138,25,district,2016
+Bio-Gas,0,66001,local,2016
+Electricity,0,66001,local,2016
+Kerosene,0,66001,local,2016
+Not Stated about Light,0,66001,local,2016
+Others Type of Light,972,66001,local,2016
+Solar,149,66001,local,2016
+Bio-Gas,0,66005,local,2016
+Electricity,0,66005,local,2016
+Kerosene,0,66005,local,2016
+Not Stated about Light,1,66005,local,2016
+Others Type of Light,1382,66005,local,2016
+Solar,411,66005,local,2016
+Bio-Gas,0,66004,local,2016
+Electricity,405,66004,local,2016
+Kerosene,0,66004,local,2016
+Not Stated about Light,0,66004,local,2016
+Others Type of Light,25,66004,local,2016
+Solar,405,66004,local,2016
+Bio-Gas,0,66003,local,2016
+Electricity,432,66003,local,2016
+Kerosene,1,66003,local,2016
+Not Stated about Light,1,66003,local,2016
+Others Type of Light,394,66003,local,2016
+Solar,304,66003,local,2016
+Bio-Gas,0,66002,local,2016
+Electricity,1,66002,local,2016
+Kerosene,1,66002,local,2016
+Not Stated about Light,0,66002,local,2016
+Others Type of Light,670,66002,local,2016
+Solar,291,66002,local,2016
+Bio-Gas,0,66006,local,2016
+Electricity,2041,66006,local,2016
+Kerosene,7,66006,local,2016
+Not Stated about Light,8,66006,local,2016
+Others Type of Light,215,66006,local,2016
+Solar,295,66006,local,2016
+Bio-Gas,0,66007,local,2016
+Electricity,80,66007,local,2016
+Kerosene,1,66007,local,2016
+Not Stated about Light,0,66007,local,2016
+Others Type of Light,662,66007,local,2016
+Solar,283,66007,local,2016
+Bio-Gas,4,29,district,2016
+Electricity,5656,29,district,2016
+Kerosene,62,29,district,2016
+Not Stated about Light,122,29,district,2016
+Others Type of Light,4899,29,district,2016
+Solar,8548,29,district,2016
+Bio-Gas,1,63004,local,2016
+Electricity,542,63004,local,2016
+Kerosene,1,63004,local,2016
+Not Stated about Light,12,63004,local,2016
+Others Type of Light,679,63004,local,2016
+Solar,1012,63004,local,2016
+Bio-Gas,0,63006,local,2016
+Electricity,148,63006,local,2016
+Kerosene,2,63006,local,2016
+Not Stated about Light,9,63006,local,2016
+Others Type of Light,629,63006,local,2016
+Solar,1208,63006,local,2016
+Bio-Gas,0,63008,local,2016
+Electricity,716,63008,local,2016
+Kerosene,8,63008,local,2016
+Not Stated about Light,9,63008,local,2016
+Others Type of Light,584,63008,local,2016
+Solar,933,63008,local,2016
+Bio-Gas,0,63005,local,2016
+Electricity,1051,63005,local,2016
+Kerosene,0,63005,local,2016
+Not Stated about Light,21,63005,local,2016
+Others Type of Light,341,63005,local,2016
+Solar,1124,63005,local,2016
+Bio-Gas,3,63001,local,2016
+Electricity,2891,63001,local,2016
+Kerosene,33,63001,local,2016
+Not Stated about Light,40,63001,local,2016
+Others Type of Light,409,63001,local,2016
+Solar,620,63001,local,2016
+Bio-Gas,0,63002,local,2016
+Electricity,22,63002,local,2016
+Kerosene,4,63002,local,2016
+Not Stated about Light,9,63002,local,2016
+Others Type of Light,609,63002,local,2016
+Solar,1204,63002,local,2016
+Bio-Gas,0,63003,local,2016
+Electricity,106,63003,local,2016
+Kerosene,8,63003,local,2016
+Not Stated about Light,12,63003,local,2016
+Others Type of Light,727,63003,local,2016
+Solar,860,63003,local,2016
+Bio-Gas,0,63007,local,2016
+Electricity,180,63007,local,2016
+Kerosene,6,63007,local,2016
+Not Stated about Light,10,63007,local,2016
+Others Type of Light,921,63007,local,2016
+Solar,1587,63007,local,2016
+Bio-Gas,222,70,district,2016
+Electricity,31716,70,district,2016
+Kerosene,2955,70,district,2016
+Not Stated about Light,459,70,district,2016
+Others Type of Light,27526,70,district,2016
+Solar,9952,70,district,2016
+Bio-Gas,24,59008,local,2016
+Electricity,86,59008,local,2016
+Kerosene,30,59008,local,2016
+Not Stated about Light,52,59008,local,2016
+Others Type of Light,4118,59008,local,2016
+Solar,1994,59008,local,2016
+Bio-Gas,2,59005,local,2016
+Electricity,5,59005,local,2016
+Kerosene,15,59005,local,2016
+Not Stated about Light,19,59005,local,2016
+Others Type of Light,2080,59005,local,2016
+Solar,802,59005,local,2016
+Bio-Gas,40,59006,local,2016
+Electricity,3599,59006,local,2016
+Kerosene,824,59006,local,2016
+Not Stated about Light,51,59006,local,2016
+Others Type of Light,4269,59006,local,2016
+Solar,789,59006,local,2016
+Bio-Gas,18,59001,local,2016
+Electricity,63,59001,local,2016
+Kerosene,240,59001,local,2016
+Not Stated about Light,26,59001,local,2016
+Others Type of Light,3419,59001,local,2016
+Solar,1682,59001,local,2016
+Bio-Gas,12,59007,local,2016
+Electricity,3564,59007,local,2016
+Kerosene,378,59007,local,2016
+Not Stated about Light,49,59007,local,2016
+Others Type of Light,1930,59007,local,2016
+Solar,413,59007,local,2016
+Bio-Gas,5,59009,local,2016
+Electricity,23,59009,local,2016
+Kerosene,45,59009,local,2016
+Not Stated about Light,31,59009,local,2016
+Others Type of Light,3189,59009,local,2016
+Solar,1801,59009,local,2016
+Bio-Gas,81,59003,local,2016
+Electricity,20508,59003,local,2016
+Kerosene,1081,59003,local,2016
+Not Stated about Light,146,59003,local,2016
+Others Type of Light,1515,59003,local,2016
+Solar,379,59003,local,2016
+Bio-Gas,29,59002,local,2016
+Electricity,3703,59002,local,2016
+Kerosene,324,59002,local,2016
+Not Stated about Light,39,59002,local,2016
+Others Type of Light,3732,59002,local,2016
+Solar,998,59002,local,2016
+Bio-Gas,11,59004,local,2016
+Electricity,165,59004,local,2016
+Kerosene,18,59004,local,2016
+Not Stated about Light,46,59004,local,2016
+Others Type of Light,3274,59004,local,2016
+Solar,1094,59004,local,2016
+Bio-Gas,1,21,district,2016
+Electricity,1720,21,district,2016
+Kerosene,94,21,district,2016
+Not Stated about Light,20,21,district,2016
+Others Type of Light,1861,21,district,2016
+Solar,3770,21,district,2016
+Bio-Gas,0,62007,local,2016
+Electricity,1162,62007,local,2016
+Kerosene,37,62007,local,2016
+Not Stated about Light,2,62007,local,2016
+Others Type of Light,422,62007,local,2016
+Solar,280,62007,local,2016
+Bio-Gas,0,62004,local,2016
+Electricity,0,62004,local,2016
+Kerosene,3,62004,local,2016
+Not Stated about Light,0,62004,local,2016
+Others Type of Light,201,62004,local,2016
+Solar,576,62004,local,2016
+Bio-Gas,0,62001,local,2016
+Electricity,1,62001,local,2016
+Kerosene,4,62001,local,2016
+Not Stated about Light,1,62001,local,2016
+Others Type of Light,29,62001,local,2016
+Solar,247,62001,local,2016
+Bio-Gas,1,62006,local,2016
+Electricity,2,62006,local,2016
+Kerosene,0,62006,local,2016
+Not Stated about Light,5,62006,local,2016
+Others Type of Light,12,62006,local,2016
+Solar,710,62006,local,2016
+Bio-Gas,0,62003,local,2016
+Electricity,0,62003,local,2016
+Kerosene,0,62003,local,2016
+Not Stated about Light,0,62003,local,2016
+Others Type of Light,124,62003,local,2016
+Solar,309,62003,local,2016
+Bio-Gas,0,62002,local,2016
+Electricity,0,62002,local,2016
+Kerosene,1,62002,local,2016
+Not Stated about Light,4,62002,local,2016
+Others Type of Light,10,62002,local,2016
+Solar,453,62002,local,2016
+Bio-Gas,0,62008,local,2016
+Electricity,555,62008,local,2016
+Kerosene,45,62008,local,2016
+Not Stated about Light,7,62008,local,2016
+Others Type of Light,612,62008,local,2016
+Solar,725,62008,local,2016
+Bio-Gas,0,62005,local,2016
+Electricity,0,62005,local,2016
+Kerosene,4,62005,local,2016
+Not Stated about Light,1,62005,local,2016
+Others Type of Light,451,62005,local,2016
+Solar,470,62005,local,2016
+Bio-Gas,3,44,district,2016
+Electricity,1332,44,district,2016
+Kerosene,74,44,district,2016
+Not Stated about Light,108,44,district,2016
+Others Type of Light,2730,44,district,2016
+Solar,5353,44,district,2016
+Bio-Gas,0,65002,local,2016
+Electricity,492,65002,local,2016
+Kerosene,58,65002,local,2016
+Not Stated about Light,43,65002,local,2016
+Others Type of Light,820,65002,local,2016
+Solar,1408,65002,local,2016
+Bio-Gas,2,65001,local,2016
+Electricity,420,65001,local,2016
+Kerosene,9,65001,local,2016
+Not Stated about Light,32,65001,local,2016
+Others Type of Light,1289,65001,local,2016
+Solar,1889,65001,local,2016
+Bio-Gas,0,65003,local,2016
+Electricity,82,65003,local,2016
+Kerosene,5,65003,local,2016
+Not Stated about Light,4,65003,local,2016
+Others Type of Light,212,65003,local,2016
+Solar,726,65003,local,2016
+Bio-Gas,1,65004,local,2016
+Electricity,338,65004,local,2016
+Kerosene,2,65004,local,2016
+Not Stated about Light,29,65004,local,2016
+Others Type of Light,409,65004,local,2016
+Solar,1330,65004,local,2016
+Bio-Gas,32,61,district,2016
+Electricity,6760,61,district,2016
+Kerosene,8697,61,district,2016
+Not Stated about Light,365,61,district,2016
+Others Type of Light,14595,61,district,2016
+Solar,16075,61,district,2016
+Bio-Gas,4,55009,local,2016
+Electricity,3774,55009,local,2016
+Kerosene,1985,55009,local,2016
+Not Stated about Light,121,55009,local,2016
+Others Type of Light,954,55009,local,2016
+Solar,553,55009,local,2016
+Bio-Gas,5,55003,local,2016
+Electricity,759,55003,local,2016
+Kerosene,1227,55003,local,2016
+Not Stated about Light,15,55003,local,2016
+Others Type of Light,921,55003,local,2016
+Solar,1481,55003,local,2016
+Bio-Gas,2,55002,local,2016
+Electricity,98,55002,local,2016
+Kerosene,698,55002,local,2016
+Not Stated about Light,31,55002,local,2016
+Others Type of Light,3243,55002,local,2016
+Solar,2691,55002,local,2016
+Bio-Gas,4,55010,local,2016
+Electricity,669,55010,local,2016
+Kerosene,1761,55010,local,2016
+Not Stated about Light,12,55010,local,2016
+Others Type of Light,292,55010,local,2016
+Solar,709,55010,local,2016
+Bio-Gas,4,55006,local,2016
+Electricity,11,55006,local,2016
+Kerosene,693,55006,local,2016
+Not Stated about Light,57,55006,local,2016
+Others Type of Light,2163,55006,local,2016
+Solar,1415,55006,local,2016
+Bio-Gas,1,55001,local,2016
+Electricity,342,55001,local,2016
+Kerosene,555,55001,local,2016
+Not Stated about Light,26,55001,local,2016
+Others Type of Light,1755,55001,local,2016
+Solar,3227,55001,local,2016
+Bio-Gas,1,55007,local,2016
+Electricity,857,55007,local,2016
+Kerosene,1043,55007,local,2016
+Not Stated about Light,14,55007,local,2016
+Others Type of Light,487,55007,local,2016
+Solar,1255,55007,local,2016
+Bio-Gas,3,55004,local,2016
+Electricity,9,55004,local,2016
+Kerosene,128,55004,local,2016
+Not Stated about Light,21,55004,local,2016
+Others Type of Light,1922,55004,local,2016
+Solar,1377,55004,local,2016
+Bio-Gas,5,55008,local,2016
+Electricity,15,55008,local,2016
+Kerosene,180,55008,local,2016
+Not Stated about Light,30,55008,local,2016
+Others Type of Light,1915,55008,local,2016
+Solar,2600,55008,local,2016
+Bio-Gas,3,55005,local,2016
+Electricity,226,55005,local,2016
+Kerosene,427,55005,local,2016
+Not Stated about Light,38,55005,local,2016
+Others Type of Light,943,55005,local,2016
+Solar,767,55005,local,2016
+Bio-Gas,51,77,district,2016
+Electricity,4170,77,district,2016
+Kerosene,1597,77,district,2016
+Not Stated about Light,92,77,district,2016
+Others Type of Light,10495,77,district,2016
+Solar,14230,77,district,2016
+Bio-Gas,9,54003,local,2016
+Electricity,80,54003,local,2016
+Kerosene,330,54003,local,2016
+Not Stated about Light,21,54003,local,2016
+Others Type of Light,1558,54003,local,2016
+Solar,3424,54003,local,2016
+Bio-Gas,16,54001,local,2016
+Electricity,160,54001,local,2016
+Kerosene,426,54001,local,2016
+Not Stated about Light,31,54001,local,2016
+Others Type of Light,3871,54001,local,2016
+Solar,1917,54001,local,2016
+Bio-Gas,6,54005,local,2016
+Electricity,93,54005,local,2016
+Kerosene,161,54005,local,2016
+Not Stated about Light,15,54005,local,2016
+Others Type of Light,1727,54005,local,2016
+Solar,2127,54005,local,2016
+Bio-Gas,4,54006,local,2016
+Electricity,86,54006,local,2016
+Kerosene,156,54006,local,2016
+Not Stated about Light,6,54006,local,2016
+Others Type of Light,944,54006,local,2016
+Solar,2413,54006,local,2016
+Bio-Gas,6,54002,local,2016
+Electricity,1019,54002,local,2016
+Kerosene,143,54002,local,2016
+Not Stated about Light,14,54002,local,2016
+Others Type of Light,1076,54002,local,2016
+Solar,1489,54002,local,2016
+Bio-Gas,10,54004,local,2016
+Electricity,2732,54004,local,2016
+Kerosene,381,54004,local,2016
+Not Stated about Light,5,54004,local,2016
+Others Type of Light,1319,54004,local,2016
+Solar,2860,54004,local,2016
+Bio-Gas,41,27,district,2016
+Electricity,1225,27,district,2016
+Kerosene,713,27,district,2016
+Not Stated about Light,117,27,district,2016
+Others Type of Light,15827,27,district,2016
+Solar,12545,27,district,2016
+Bio-Gas,6,61005,local,2016
+Electricity,16,61005,local,2016
+Kerosene,172,61005,local,2016
+Not Stated about Light,21,61005,local,2016
+Others Type of Light,2253,61005,local,2016
+Solar,1122,61005,local,2016
+Bio-Gas,3,61004,local,2016
+Electricity,9,61004,local,2016
+Kerosene,164,61004,local,2016
+Not Stated about Light,25,61004,local,2016
+Others Type of Light,1953,61004,local,2016
+Solar,1620,61004,local,2016
+Bio-Gas,5,61002,local,2016
+Electricity,563,61002,local,2016
+Kerosene,106,61002,local,2016
+Not Stated about Light,19,61002,local,2016
+Others Type of Light,3327,61002,local,2016
+Solar,2570,61002,local,2016
+Bio-Gas,3,61001,local,2016
+Electricity,275,61001,local,2016
+Kerosene,155,61001,local,2016
+Not Stated about Light,11,61001,local,2016
+Others Type of Light,1468,61001,local,2016
+Solar,1181,61001,local,2016
+Bio-Gas,2,61006,local,2016
+Electricity,23,61006,local,2016
+Kerosene,50,61006,local,2016
+Not Stated about Light,6,61006,local,2016
+Others Type of Light,1409,61006,local,2016
+Solar,1066,61006,local,2016
+Bio-Gas,12,61007,local,2016
+Electricity,332,61007,local,2016
+Kerosene,11,61007,local,2016
+Not Stated about Light,12,61007,local,2016
+Others Type of Light,3021,61007,local,2016
+Solar,1333,61007,local,2016
+Bio-Gas,10,61003,local,2016
+Electricity,7,61003,local,2016
+Kerosene,55,61003,local,2016
+Not Stated about Light,23,61003,local,2016
+Others Type of Light,2396,61003,local,2016
+Solar,3653,61003,local,2016
+Bio-Gas,9,31,district,2016
+Electricity,2674,31,district,2016
+Kerosene,328,31,district,2016
+Not Stated about Light,138,31,district,2016
+Others Type of Light,11314,31,district,2016
+Solar,8545,31,district,2016
+Bio-Gas,5,64002,local,2016
+Electricity,796,64002,local,2016
+Kerosene,36,64002,local,2016
+Not Stated about Light,30,64002,local,2016
+Others Type of Light,1741,64002,local,2016
+Solar,1004,64002,local,2016
+Bio-Gas,0,64001,local,2016
+Electricity,8,64001,local,2016
+Kerosene,3,64001,local,2016
+Not Stated about Light,10,64001,local,2016
+Others Type of Light,1602,64001,local,2016
+Solar,835,64001,local,2016
+Bio-Gas,2,64006,local,2016
+Electricity,9,64006,local,2016
+Kerosene,4,64006,local,2016
+Not Stated about Light,11,64006,local,2016
+Others Type of Light,1374,64006,local,2016
+Solar,1021,64006,local,2016
+Bio-Gas,1,64004,local,2016
+Electricity,10,64004,local,2016
+Kerosene,61,64004,local,2016
+Not Stated about Light,19,64004,local,2016
+Others Type of Light,1011,64004,local,2016
+Solar,2483,64004,local,2016
+Bio-Gas,0,64009,local,2016
+Electricity,34,64009,local,2016
+Kerosene,2,64009,local,2016
+Not Stated about Light,18,64009,local,2016
+Others Type of Light,1378,64009,local,2016
+Solar,1261,64009,local,2016
+Bio-Gas,1,64008,local,2016
+Electricity,951,64008,local,2016
+Kerosene,87,64008,local,2016
+Not Stated about Light,4,64008,local,2016
+Others Type of Light,749,64008,local,2016
+Solar,313,64008,local,2016
+Bio-Gas,0,64007,local,2016
+Electricity,823,64007,local,2016
+Kerosene,12,64007,local,2016
+Not Stated about Light,14,64007,local,2016
+Others Type of Light,1413,64007,local,2016
+Solar,423,64007,local,2016
+Bio-Gas,0,64003,local,2016
+Electricity,36,64003,local,2016
+Kerosene,18,64003,local,2016
+Not Stated about Light,8,64003,local,2016
+Others Type of Light,1106,64003,local,2016
+Solar,279,64003,local,2016
+Bio-Gas,0,64005,local,2016
+Electricity,7,64005,local,2016
+Kerosene,105,64005,local,2016
+Not Stated about Light,24,64005,local,2016
+Others Type of Light,940,64005,local,2016
+Solar,926,64005,local,2016
