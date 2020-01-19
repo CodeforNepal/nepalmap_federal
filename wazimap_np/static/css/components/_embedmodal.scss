@@ -1,22 +1,29 @@
-#profile{
-    #lightbox{
-        z-index: 15000;
-        .hovercard-wrapper{
-            .hovercard{
-                // height: 600px;
-                font-size: 16px;
-                line-height: 21px;
-                font-family: 'Source Sans Pro', sans-serif;
-            }
-        }
-        p{
-            margin-top: 16px;
-        }
-        textarea{
-            height: 17em;
-            font-size: 14px;
-            background-color: $color-grey;
-            border: 0;
-        }
+#profile {
+  #lightbox {
+    z-index: 15000;
+    .hovercard-wrapper {
+      .hovercard {
+        // height: 600px;
+        font-size: 16px;
+        line-height: 21px;
+        font-family: "Source Sans Pro", sans-serif;
+      }
+      @media only screen and (max-width: 768px) {
+        width: 100%;
+      }
     }
+    @media only screen and (max-width: 768px) {
+      overflow-y: auto;
+      overflow-x: hidden;
+    }
+    p {
+      margin-top: 16px;
+    }
+    textarea {
+      height: 17em;
+      font-size: 14px;
+      background-color: $color-grey;
+      border: 0;
+    }
+  }
 }

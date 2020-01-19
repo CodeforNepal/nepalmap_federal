@@ -1,80 +1,84 @@
-#profile{
-    #cover-profile {
-        > article{
-            border: 0;
-            border-left: 10px solid $color-black;
-            box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0,0,0,.12);
-            .value{
-                color: $brand-color-primary;
-            }
-            .name{
-                color: $brand-color-secondary;
-            }
-          }
-    }
-      article .section-container {
-        background-color: #eff1ea;
-        margin: 0 auto;
+#profile {
+  #cover-profile {
+    > article {
+      border: 0;
+      border-left: 10px solid $color-black;
+      box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2),
+        0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+      .value {
+        color: $brand-color-primary;
       }
-      .content-container{
-          > article{
-            @extend %card;
-            .section-container{
-                background-color: $color-white;
-            }
-          }
+      .name {
+        color: $brand-color-secondary;
       }
-    // .section-container section{
-    //   padding: 16px;
-    //   background-color: white;
-    //   box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0,0,0,.12);
-    // }
-    
-    .typeahead-container input{
-      height: 60px;
-      border-left: 6px solid #2f2f2f;
+      background-color: white;
     }
-    
-   #compare-place-picker h2{
-      position: relative;
-      padding: 0 16.8px 0 16.8px;
+    @media only screen and (max-width: 768px) {
+      margin-top: 164px;
     }
-    
-   #compare-place-picker .typeahead-container{
-      padding: 0 16.8px 0 16.8px;
+  }
+  article .section-container {
+    background-color: #eff1ea;
+    margin: 0 auto;
+  }
+  .content-container {
+    > article {
+      @extend %card;
+      .section-container {
+        background-color: $color-white;
+      }
     }
-    
-    header{
-        &.section-contents{
-            float: inherit;
-            width: 100%;
-            h1{
-                margin-bottom: 0;
-                padding: .6em 0 .55em 19px;
-                font-size: 29px;
-                background-color: $brand-color-secondary;
-                color: $color-white;
-                border: 0;
-            }
+  }
+  // .section-container section{
+  //   padding: 16px;
+  //   background-color: white;
+  //   box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0,0,0,.12);
+  // }
+
+  .typeahead-container input {
+    height: 60px;
+    border-left: 6px solid #2f2f2f;
+  }
+
+  #compare-place-picker h2 {
+    position: relative;
+    padding: 0 16.8px 0 16.8px;
+  }
+
+  #compare-place-picker .typeahead-container {
+    padding: 0 16.8px 0 16.8px;
+  }
+
+  header {
+    &.section-contents {
+      float: inherit;
+      width: 100%;
+      h1 {
+        margin-bottom: 0;
+        padding: 0.6em 0 0.55em 19px;
+        font-size: 29px;
+        background-color: $brand-color-secondary;
+        color: $color-white;
+        border: 0;
+      }
+    }
+  }
+  ul {
+    &.toggle-set {
+      li {
+        a {
+          color: white;
+          &:hover {
+            color: white;
+          }
         }
+      }
     }
-    ul{
-        &.toggle-set{
-            li{
-                a{
-                    color: white;
-                    &:hover{
-                        color:white;
-                    }
-                }
-            }
-        }
-    }
-   
+  }
 }
 
-.profile-head2head-frame{
-    .floating-nav-wrapper{
-        display: none;
-    }
+.profile-head2head-frame {
+  .floating-nav-wrapper {
+    display: none;
+  }
 }

@@ -4334,7 +4334,14 @@ p {
   #profile #lightbox .hovercard-wrapper .hovercard {
     font-size: 16px;
     line-height: 21px;
-    font-family: 'Source Sans Pro', sans-serif; }
+    font-family: "Source Sans Pro", sans-serif; }
+  @media only screen and (max-width: 768px) {
+    #profile #lightbox .hovercard-wrapper {
+      width: 100%; } }
+  @media only screen and (max-width: 768px) {
+    #profile #lightbox {
+      overflow-y: auto;
+      overflow-x: hidden; } }
   #profile #lightbox p {
     margin-top: 16px; }
   #profile #lightbox textarea {
@@ -4391,11 +4398,16 @@ h1.article-header {
 #profile #cover-profile > article {
   border: 0;
   border-left: 10px solid #2f2f2f;
-  box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12); }
+  box-shadow: 0px 2px 1px -1px rgba(0, 0, 0, 0.2), 0px 1px 1px 0px rgba(0, 0, 0, 0.14), 0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+  background-color: white; }
   #profile #cover-profile > article .value {
     color: #e00015; }
   #profile #cover-profile > article .name {
     color: #00adef; }
+
+@media only screen and (max-width: 768px) {
+  #profile #cover-profile {
+    margin-top: 164px; } }
 
 #profile article .section-container {
   background-color: #eff1ea;
@@ -4420,7 +4432,7 @@ h1.article-header {
   width: 100%; }
   #profile header.section-contents h1 {
     margin-bottom: 0;
-    padding: .6em 0 .55em 19px;
+    padding: 0.6em 0 0.55em 19px;
     font-size: 29px;
     background-color: #00adef;
     color: #ffffff;
