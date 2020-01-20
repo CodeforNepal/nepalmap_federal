@@ -11,6 +11,10 @@ register = template.Library()
 
 @register.filter(name='nepal_format')
 def nepal_format(value):
+ 
+  if value == '':
+      return 0;
+
   d = decimal.Decimal(str(value))
   if d.as_tuple().exponent < -2:
     s = str(value)
