@@ -4450,19 +4450,22 @@ h1.article-header {
   background-color: #e00015; }
 
 .tt-suggestion.tt-cursor {
-  background-color: #FF3348; }
+  background-color: #00adef; }
+  .tt-suggestion.tt-cursor p {
+    color: white; }
 
 .action-links a {
   cursor: pointer;
   color: #e00015; }
 
 .action-links a:hover {
-  color: #FA1A2F; }
+  color: #fa1a2f; }
 
 .tan-stripe {
   background-color: #f7f7f7; }
 
-#page-header-title a, .box-header a {
+#page-header-title a,
+.box-header a {
   margin-right: 5px; }
 
 .bold {
