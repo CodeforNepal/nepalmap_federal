@@ -59,4 +59,4 @@ Starting as : uid($RUN_AS_UID)$RUN_AS_USER | gid($RUN_AS_GID)$RUN_AS_GROUP
 EOF
 
 # Switch to the user:group and exec
-exec /usr/local/bin/gosu "$RUN_AS_UID":"$RUN_AS_GID" "$@"
+exec gosu "$RUN_AS_UID":"$RUN_AS_GID" "$@"
