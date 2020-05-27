@@ -4,9 +4,25 @@ set -eou pipefail
 
 : ${APP_ENV?"APP_ENV not set. Aborting !"}
 
-if [ "$APP_ENV" = "prod" ]; then
-    exec /usr/bin/caddy --conf /etc/Caddyfile --log stdout
-else
-    # For stage etc. run the following, as it's not rate limited
-    exec /usr/bin/caddy -ca https://acme-staging.api.letsencrypt.org/directory --conf /etc/Caddyfile --log stdout
-fi
+ACME_PROD_URL="https://acme-v02.api.letsencrypt.org/directory"
+ACME_STAGE_URL="https://acme-staging-v02.api.letsencrypt.org/directory"
+
+case "$APP_ENV" in
+  "stage")
+    export ACME_CA_URL="$ACME_STAGE_URL"
+    ;;
+  "prod")
+    export ACME_CA_URL="$ACME_PROD_URL"
+    ;;
+  *)
+    echo "APP_ENV not supported. Aborting !"
+    exit 1
+    ;;
+esac
+
+echo "Starting Caddy server"
+echo "Environment : $APP_ENV | HOST : $HOST_NAME"
+echo "Proxying to : $PROXY_HOST:$PROXY_PORT"
+echo "Acme CA URL :  $ACME_CA_URL"
+
+exec /usr/bin/caddy run --config /etc/Caddyfile

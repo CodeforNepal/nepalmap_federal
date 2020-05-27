@@ -1,13 +1,18 @@
-{$HOST_NAME}
-
-tls {$TLS_EMAIL}
-
-root /static
-
-proxy / {$PROXY_HOST}:{$PROXY_PORT} {
-    transparent
+{
+  acme_ca {$ACME_CA_URL}
+  email {$TLS_EMAIL}
+  admin off
+  storage file_system {
+    root {$STORAGE_ROOT}
+  }
 }
 
-log stdout
-errors stdout
-gzip
+{$HOST_NAME}
+
+root * /static
+
+reverse_proxy {$PROXY_HOST}:{$PROXY_PORT}
+
+encode gzip
+
+log
