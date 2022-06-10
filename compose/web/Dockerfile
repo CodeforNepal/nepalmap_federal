@@ -6,7 +6,7 @@ ENV PYTHONUNBUFFERED="true" \
 
 RUN set -exu \
     && apt-get update \
-    && apt-get install -y libgdal-dev=2.1.2+dfsg-5 postgresql-client \
+    && apt-get install -y libgdal-dev=2.1.2+dfsg-5+deb9u1 postgresql-client \
     && rm -rf /var/lib/apt/lists/* \
     && wget -O /usr/local/bin/gosu "https://github.com/tianon/gosu/releases/download/$GOSU_VERSION/gosu-$(dpkg --print-architecture)" \
     && chmod +x /usr/local/bin/gosu \
@@ -15,9 +15,10 @@ RUN set -exu \
 WORKDIR /usr/src/app
 
 COPY requirements.txt /usr/src/app/requirements.txt
-RUN pip install --no-cache-dir --global-option=build_ext --global-option="-I/usr/include/gdal/" -r requirements.txt
+RUN pip install --ignore-installed --no-cache-dir --global-option=build_ext --global-option="-I/usr/include/gdal/" -r requirements.txt
 
 COPY . /usr/src/app/
 
 ENTRYPOINT ["/usr/src/app/compose/web/entrypoint.sh"]
 CMD ["/bin/bash"]
+
