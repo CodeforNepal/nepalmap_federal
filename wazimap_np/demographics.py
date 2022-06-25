@@ -31,15 +31,15 @@ def get_demographics_profile(geo, session):
     }
 
     religion_data, _ = get_stat_data(['religion name'], geo, session, order_by='-total')
-    most_populous_religion = religion_data[religion_data.keys()[0]]
+    most_populous_religion = religion_data[list(religion_data.keys())[0]]
 
     # language
     language_data, _ = get_stat_data(['language'], geo, session, order_by='-total')
-    language_most_spoken = language_data[language_data.keys()[0]]
+    language_most_spoken = language_data[list(language_data.keys())[0]]
 
     # caste or ethnic group
     caste_data, _ = get_stat_data(['caste or ethnic group'], geo, session, order_by='-total')
-    most_populous_caste = caste_data[caste_data.keys()[0]]
+    most_populous_caste = caste_data[list(caste_data.keys())[0]]
 
     # population by disability
     disability_dist_data, total_disabled = get_stat_data(

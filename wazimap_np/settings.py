@@ -2,7 +2,7 @@
 from wazimap.settings import *  # noqa
 
 # install this app before Wazimap
-INSTALLED_APPS = ['wazimap_np', 'django.contrib.auth'] + INSTALLED_APPS
+INSTALLED_APPS = ['wazimap_np'] + INSTALLED_APPS
 
 DEBUG = False if (os.environ.get('APP_ENV', 'dev') == 'prod') else True
 
@@ -20,6 +20,9 @@ WAZIMAP['url'] = URL
 WAZIMAP['country_code'] = 'NP'
 WAZIMAP['profile_builder'] = 'wazimap_np.profiles.get_census_profile'
 WAZIMAP['default_geo_version'] = '2016'
+WAZIMAP['latest_release_year'] = '2016'
+WAZIMAP['primary_dataset_name'] = 'National Portal'
+WAZIMAP['available_release_years'] = {}
 WAZIMAP['levels'] = {
     'country': {
         'plural': 'countries',

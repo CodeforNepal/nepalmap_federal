@@ -32,7 +32,7 @@ def get_education_profile(geo, session):
         key_order=EDUCATION_LEVEL_PASSED_RECODES.values())
 
     total_primary = 0.0
-    for key, data in edu_level_reached.iteritems():
+    for key, data in edu_level_reached.items():
         if 'Primary' == key:
             total_primary += data['numerators']['this']
 
@@ -54,7 +54,7 @@ def get_education_profile(geo, session):
     }
 
     total_secondary_by_sex = 0.0
-    for data in edu_level_by_sex['Secondary'].itervalues():
+    for data in edu_level_by_sex['Secondary'].values():
         if 'numerators' in data:
             total_secondary_by_sex += data['numerators']['this']
 
