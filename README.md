@@ -12,7 +12,7 @@ The Nepal instance of [Wazimap](https://github.com/Code4SA/wazimap), a Django ap
 
 You might need to install certain dependencies on Ubuntu before you can install dependencies via `pip` for the app.
 
-- `sudo apt install -y libgdal-dev postgresql-server-dev-9.5`
+- `sudo apt install -y libgdal-dev postgresql postgresql-contrib postgresql-client`
 - `export C_INCLUDE_PATH=/usr/include/gdal`
 - `export CPLUS_INCLUDE_PATH=/usr/include/gdal`
 
@@ -33,6 +33,11 @@ cat sql/simpletables/*.sql | psql -U wazimap_np -W wazimap_np
 Run migrations to keep Django happy:
 ```
 python manage.py migrate
+```
+
+Run upgrade tables
+```
+python manage.py upgradetables
 ```
 
 Import data for all the tables:
