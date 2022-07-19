@@ -29,6 +29,13 @@ head -2 ./wazimap_np/tables.py.bkp > ./wazimap_np/tables.py
 python ./manage.py migrate --no-input
 mv ./wazimap_np/tables.py.bkp ./wazimap_np/tables.py
 
+# Upgrade the old table declaration to the new format
+# Note: Wazimap suggests to remove the old declarations after upgrade
+# but since we're rebuilding the image in each deployment
+# they might be still needed during rebuild.
+# see: https://wazimap.readthedocs.io/en/latest/upgrading.html#upgrade-existing-tables
+python ./manage.py upgradetables
+
 # Import data for tables
 cat sql/*.sql | psql -w -U "$POSTGRES_USERNAME" -h "$POSTGRES_HOST"
 

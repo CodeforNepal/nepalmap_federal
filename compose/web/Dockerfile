@@ -1,4 +1,4 @@
-FROM library/python:2.7.14-stretch
+FROM library/python:3.7.13-bullseye
 
 ENV PYTHONUNBUFFERED="true" \
     PATH="/usr/src/app/compose/web/bin:/usr/src/app/compose/common/bin:${PATH}" \
@@ -6,7 +6,7 @@ ENV PYTHONUNBUFFERED="true" \
 
 RUN set -exu \
     && apt-get update \
-    && apt-get install -y libgdal-dev=2.1.2+dfsg-5+deb9u1 postgresql-client \
+    && apt-get install -y libgdal-dev=3.2.2+dfsg-2+deb11u1 postgresql-client \
     && rm -rf /var/lib/apt/lists/* \
     && wget -O /usr/local/bin/gosu "https://github.com/tianon/gosu/releases/download/$GOSU_VERSION/gosu-$(dpkg --print-architecture)" \
     && chmod +x /usr/local/bin/gosu \
